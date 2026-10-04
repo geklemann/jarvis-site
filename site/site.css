@@ -182,3 +182,15 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 /* aparecer ao rolar (só quando o JS está ligado; sem JS tudo aparece) */
 .js .rev{opacity:0;transform:translateY(22px);transition:opacity .8s cubic-bezier(.2,.8,.2,1),transform .8s cubic-bezier(.2,.8,.2,1)}.js .rev.on{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.js .rev{opacity:1;transform:none}.aviso{opacity:1}}
+
+/* Mais que um ERP */
+.difs{gap:14px}.dif{display:flex;gap:16px;align-items:flex-start;padding:20px 22px;border-radius:16px;border:1px solid var(--line);background:var(--surface)}
+.dif .ic{flex:none;width:44px;height:44px;border-radius:13px;display:grid;place-items:center}.dif .ic svg{width:21px;height:21px}.dif h3{font-size:17.5px;margin:2px 0 6px}.dif p{font-size:15px}
+/* Sob medida */
+.sobmedida{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:44px;align-items:center;padding:44px;border-radius:26px;border:1px solid rgba(138,166,255,.3);background:radial-gradient(500px 260px at 100% 0%,rgba(102,223,181,.12),transparent 70%),linear-gradient(180deg,#10131d,#0b0d14)}
+.sobmedida h2{font-size:clamp(28px,3.4vw,42px);font-weight:800;margin:14px 0 14px}.sobmedida>div>p{font-size:17px}.sobmedida .btn{margin-top:26px}
+.sobcod{display:grid;gap:12px}.sobcod .linha{padding:16px 18px;border-radius:14px;background:var(--surface2);border:1px solid var(--line)}.sobcod b{display:block;font:700 12.5px var(--fh);letter-spacing:.1em;text-transform:uppercase;color:var(--acc);margin-bottom:6px}
+.sobcod span{color:var(--soft);font-size:15px}.sobcod .ok{border-color:rgba(102,223,181,.45)}.sobcod .ok b{color:var(--mint)}
+@media(max-width:900px){.sobmedida{grid-template-columns:1fr;padding:28px 22px}}
+/* Comparativo */
+.tabela th.jv,.tabela td.jv{background:rgba(138,166,255,.08)}.tabela thead th.jv{color:var(--acc)}.tabela .p{color:var(--gold);font-size:13.5px}

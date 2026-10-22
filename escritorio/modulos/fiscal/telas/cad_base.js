@@ -39,7 +39,7 @@ import{esc as x,ic as k,toast as E}from"../../../comum/nucleo.js";import{limparC
 .mod-fiscal .fc-res td.n,.mod-fiscal .fc-res th.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 .mod-fiscal .fc-tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
 .mod-fiscal .fc-tabs button{border:1px solid var(--borda);background:var(--painel);color:var(--texto);border-radius:8px;padding:5px 11px;font:inherit;font-size:13px;cursor:pointer}
-.mod-fiscal .fc-tabs button.ativo{background:var(--azul);border-color:var(--azul);color:#fff}
+.mod-fiscal .fc-tabs button.ativo{background:var(--pri);border-color:var(--pri);color:var(--pri-txt)}
 .mod-fiscal .fc-tabs button small{opacity:.75;margin-left:4px}
 .mod-fiscal .fc-fonte{font-size:12px;color:var(--texto3);margin:6px 0 0;overflow-wrap:anywhere}
 .mod-fiscal .fc-lote-passo{max-width:100%}

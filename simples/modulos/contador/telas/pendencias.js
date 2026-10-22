@@ -1,0 +1,1 @@
+import{preparar as a,semEmpresa as p}from"./base_contador.js";export async function render(r,e,n=[]){return a(r,"contador"),e.empresa?(await import("../../../../escritorio/modulos/portal/cliente.js")).render(r,e,n,{parte:"pendencias"}):p(r)}

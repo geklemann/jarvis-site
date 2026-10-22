@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "Jarvis Simples — ERP da empresa",
+  "short_name": "Jarvis Simples",
+  "description": "Vendas, PDV, serviços, compras, estoque, financeiro, notas fiscais e o contador dentro, no celular e no computador.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#2f6fed",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "../brand/jarvis.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "../brand/jarvis-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Nova venda", "short_name": "Venda", "url": "./#/vendas/movimentos/pedidos/novo", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Frente de caixa (PDV)", "short_name": "PDV", "url": "./#/pdv/movimentos/caixa", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Contas a pagar e receber", "short_name": "Financeiro", "url": "./#/financeiro", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Relatórios", "short_name": "Relatórios", "url": "./#/relatorios", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
+  ]
+}

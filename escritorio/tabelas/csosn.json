@@ -1,0 +1,12 @@
+{
+"tabela":"csosn","fonte":"CSOSN — CONFAZ, Ajuste SINIEF 03/2010 (Simples Nacional), via pacote npm @br-validators/core 1.10.0-data.46 (captura de dados oficiais)","capturado_em":"2026-06-27","conferido_em":"2026-10-19","total":10,"itens":[
+{"codigo":"101","descricao":"Tributada pelo Simples Nacional com permissão de crédito"},
+{"codigo":"102","descricao":"Tributada pelo Simples Nacional sem permissão de crédito"},
+{"codigo":"103","descricao":"Isenção do ICMS no Simples Nacional para faixa de receita bruta"},
+{"codigo":"201","descricao":"Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária"},
+{"codigo":"202","descricao":"Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária"},
+{"codigo":"203","descricao":"Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária"},
+{"codigo":"300","descricao":"Imune"},
+{"codigo":"400","descricao":"Não tributada pelo Simples Nacional"},
+{"codigo":"500","descricao":"ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação"},
+{"codigo":"900","descricao":"Outros"}]}

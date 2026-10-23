@@ -5,11 +5,17 @@ const d=document,$=s=>d.querySelector(s),$$=s=>[...d.querySelectorAll(s)];
 d.documentElement.classList.add('js');
 // Links antigos do sistema (jaarvis.com.br/#resumo) e retorno do login por e-mail (#access_token=…) vão para o app.
 const h=location.hash.slice(1);
+// O tour e o vídeo saíram do início para a página do E-Commerce.
+if((h==='tour'||h==='video')&&!d.getElementById(h)){location.replace('ecommerce/#'+h);return}
 if(h&&(/^(access_token|error|type)=|&access_token=/.test(h)||(/^[a-z0-9_]{3,20}$/.test(h)&&!d.getElementById(h)))){location.replace('/app/'+location.search+location.hash);return}
 const cfg=window.CONCILIA_CONFIG||{};
 // Cabeçalho
 const topo=$('.topo');addEventListener('scroll',()=>topo?.classList.toggle('rolou',scrollY>8),{passive:true});
 $('.hamb')?.addEventListener('click',e=>{const ab=topo.classList.toggle('aberto');e.currentTarget.setAttribute('aria-expanded',ab)});
+// Menus suspensos (Produtos, Entrar): um aberto por vez; fecham ao clicar fora e no Esc.
+const susp=$$('details.susp');susp.forEach(x=>x.addEventListener('toggle',()=>{if(x.open)susp.forEach(o=>{if(o!==x)o.open=false})}));
+d.addEventListener('click',e=>susp.forEach(x=>{if(x.open&&!x.contains(e.target))x.open=false}));
+addEventListener('keydown',e=>{if(e.key==='Escape')susp.forEach(x=>{if(x.open){x.open=false;x.querySelector('summary').focus()}})});
 // Aparecer ao rolar
 const io='IntersectionObserver' in window?new IntersectionObserver(es=>es.forEach(x=>{if(x.isIntersecting){x.target.classList.add('on');io.unobserve(x.target)}}),{rootMargin:'0px 0px -8% 0px'}):null;
 $$('.rev').forEach(el=>io?io.observe(el):el.classList.add('on'));
@@ -26,8 +32,15 @@ $$('.tour').forEach(t=>{const abas=[...t.querySelectorAll('.aba')],img=t.querySe
  t.addEventListener('mouseenter',parar,{once:true})});
 if(d.querySelector('.vitrine img'))d.querySelector('.vitrine img').style.transition='opacity .25s';
 // Planos mensal / anual
-$$('.alterna button').forEach(b=>b.addEventListener('click',()=>{const anual=b.dataset.ciclo==='anual';$$('.alterna button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+$$('.alterna button').forEach(b=>b.addEventListener('click',()=>{const anual=b.dataset.ciclo==='anual';$$('.alterna button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.ciclo===b.dataset.ciclo));
  $$('[data-mensal]').forEach(el=>{el.textContent=anual?el.dataset.anual:el.dataset.mensal});$$('[data-obs-anual]').forEach(el=>{el.textContent=anual?el.dataset.obsAnual:el.dataset.obsMensal})}));
+// Planos: abas por produto (o id do painel é a âncora: planos/#erp, #ecommerce, #contabilidade)
+const abasP=$$('.prod-abas [role=tab]');
+if(abasP.length){const alvo=a=>a.getAttribute('aria-controls'),mostrar=id=>abasP.forEach(a=>{const on=alvo(a)===id;a.setAttribute('aria-selected',on);a.tabIndex=on?0:-1;const p=d.getElementById(alvo(a));if(p)p.hidden=!on});
+ const daHash=()=>abasP.find(a=>'#'+alvo(a)===location.hash);mostrar(alvo(daHash()||abasP[0]));
+ abasP.forEach((a,i)=>{a.addEventListener('click',()=>{mostrar(alvo(a));history.replaceState(null,'','#'+alvo(a))});
+  a.addEventListener('keydown',e=>{const k={ArrowRight:1,ArrowDown:1,ArrowLeft:-1,ArrowUp:-1}[e.key];if(k){e.preventDefault();const n=abasP[(i+k+abasP.length)%abasP.length];n.focus();n.click()}})});
+ addEventListener('hashchange',()=>{const a=daHash();if(a)mostrar(alvo(a))})}
 // Vídeo
 const mv=$('.modalv');$$('[data-video]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();if(!mv)return;mv.classList.add('on');const v=mv.querySelector('video');v.currentTime=0;v.play().catch(()=>{});mv.querySelector('button').focus()}));
 const fechar=()=>{if(!mv)return;mv.classList.remove('on');mv.querySelector('video').pause()};mv?.querySelector('button').addEventListener('click',fechar);mv?.addEventListener('click',e=>{if(e.target===mv)fechar()});addEventListener('keydown',e=>{if(e.key==='Escape')fechar()});
@@ -41,6 +54,8 @@ if(cfg.supabaseUrl&&cfg.supabaseAnonKey&&$('[data-cfg]')){fetch(`${cfg.supabaseU
 $$('form[data-contato]').forEach(f=>f.addEventListener('submit',async e=>{e.preventDefault();const ret=f.querySelector('.ret'),b=f.querySelector('button[type=submit]');
  if(f.querySelector('.mel input')?.value){ret.className='ret ok';ret.textContent='Mensagem enviada. Obrigado!';return}
  const dados=Object.fromEntries(new FormData(f));delete dados.site;dados.pagina=location.pathname;
+ // Produto de interesse vai no começo da mensagem (site_contatos não tem coluna própria).
+ if('produto' in dados){const op=f.querySelector('select[name=produto]')?.selectedOptions[0];if(dados.produto&&op)dados.mensagem=`[${op.textContent}] ${dados.mensagem||''}`.slice(0,4000);delete dados.produto}
  if(!cfg.supabaseUrl){ret.className='ret erro';ret.textContent='Formulário indisponível agora. Fale pelo WhatsApp ou e-mail.';return}
  b.disabled=true;ret.className='ret';ret.textContent='Enviando…';
  try{const r=await fetch(`${cfg.supabaseUrl}/rest/v1/site_contatos`,{method:'POST',headers:{apikey:cfg.supabaseAnonKey,Authorization:`Bearer ${cfg.supabaseAnonKey}`,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(dados)});
@@ -48,7 +63,8 @@ $$('form[data-contato]').forEach(f=>f.addEventListener('submit',async e=>{e.prev
   f.reset();ret.className='ret ok';ret.textContent=f.dataset.ok||'Mensagem enviada! Respondemos em até 1 dia útil.'}
  catch(x){ret.className='ret erro';ret.textContent=x.message}finally{b.disabled=false}}));
 // Assunto vindo do link (contato/?assunto=parceria)
-const as=new URLSearchParams(location.search).get('assunto');if(as&&$('form[data-contato] select[name=assunto]'))$('form[data-contato] select[name=assunto]').value=as;
+const qs=new URLSearchParams(location.search),as=qs.get('assunto'),pq=qs.get('produto');if(as&&$('form[data-contato] select[name=assunto]'))$('form[data-contato] select[name=assunto]').value=as;
+if(pq&&$('form[data-contato] select[name=produto]'))$('form[data-contato] select[name=produto]').value=pq;
 // Busca da ajuda pública
 const bq=$('#buscaAjuda');if(bq){const itens=$$('.faq details');bq.addEventListener('input',()=>{const t=bq.value.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').split(/\s+/).filter(w=>w.length>2);let n=0;
  itens.forEach(it=>{const txt=it.textContent.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');const ok=!t.length||t.every(w=>txt.includes(w));it.hidden=!ok;if(ok)n++;if(t.length&&ok)it.open=true});const z=$('#semResultado');if(z)z.hidden=n>0})}

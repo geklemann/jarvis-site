@@ -194,3 +194,54 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 @media(max-width:900px){.sobmedida{grid-template-columns:1fr;padding:28px 22px}}
 /* Comparativo */
 .tabela th.jv,.tabela td.jv{background:rgba(138,166,255,.08)}.tabela thead th.jv{color:var(--acc)}.tabela .p{color:var(--gold);font-size:13.5px}
+/* Menus suspensos do topo (Produtos e Entrar) */
+.susp{position:relative}.susp>summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;user-select:none}.susp>summary::-webkit-details-marker{display:none}
+.susp>summary svg{width:15px;height:15px;transition:transform .2s}.susp[open]>summary svg{transform:rotate(180deg)}
+.menu .susp>summary{padding:8px 12px;border-radius:10px;color:var(--soft);font-size:14.5px;font-weight:500}
+.menu .susp>summary:hover,.menu .susp>summary[aria-current],.menu .susp[open]>summary{color:var(--text);background:rgba(255,255,255,.05)}
+.susp-pain{position:absolute;top:calc(100% + 10px);left:0;z-index:60;width:360px;max-width:calc(100vw - 32px);padding:8px;border-radius:16px;border:1px solid var(--line2);background:#0d1018;box-shadow:0 30px 80px -20px rgba(0,0,0,.85);display:grid;gap:2px}
+.acoes .susp-pain{left:auto;right:0;width:320px}
+.susp-pain a{display:flex;gap:12px;align-items:center;padding:10px 12px;border-radius:12px;text-decoration:none;color:var(--text)}.susp-pain a:hover,.susp-pain a:focus-visible{background:rgba(255,255,255,.06)}
+.susp-pain .ic{width:38px;height:38px;border-radius:11px;display:grid;place-items:center;flex:none}.susp-pain .ic svg{width:19px;height:19px}
+.susp-pain b{display:block;font-size:14.5px;font-weight:600}.susp-pain small{display:block;color:var(--muted);font-size:13px;margin-top:2px}
+.so-mob{display:none}
+@media(max-width:980px){.topo.aberto .menu .susp>summary{padding:14px 12px;font-size:16px;width:100%}
+ .topo.aberto .menu .susp-pain{position:static;width:auto;max-width:none;box-shadow:none;border:0;background:none;padding:0 0 6px 6px}
+ .topo.aberto .menu .susp-pain a{padding:10px 12px}
+ .topo.aberto .so-mob{display:grid;gap:2px;margin-top:8px;padding-top:10px;border-top:1px solid var(--line)}
+ .so-mob span{font-size:12px;color:var(--muted);padding:6px 12px;text-transform:uppercase;letter-spacing:.12em}
+ .topo.aberto .menu{max-height:calc(100vh - 72px);overflow-y:auto}}
+/* Início: os três produtos */
+.hero-fam .wrap{grid-template-columns:1fr;text-align:center}.hero-fam h1{max-width:900px;margin-inline:auto}.hero-fam .sub{margin:0 auto;max-width:760px}
+.hero-fam .ctas,.hero-fam .selos{justify-content:center}.hero-fam{padding-bottom:56px}
+.produtos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;align-items:stretch}
+.produto{display:flex;flex-direction:column;padding:30px;border-radius:22px;background:linear-gradient(180deg,rgba(255,255,255,.04),var(--surface) 46%);border:1px solid var(--line);position:relative;overflow:hidden;transition:border-color .25s,transform .25s}
+.produto:hover{transform:translateY(-3px);border-color:var(--line2)}
+.produto:before{content:'';position:absolute;inset:0 0 auto;height:3px;background:var(--acc)}.produto.roxo:before{background:var(--acc2)}.produto.ouro:before{background:var(--gold)}
+.pr-cab{display:flex;align-items:center;gap:12px}.pr-cab .ic{width:48px;height:48px;border-radius:14px;display:grid;place-items:center;flex:none}.pr-cab .ic svg{width:23px;height:23px}
+.pr-para{font-size:13px;font-weight:600;color:var(--soft);line-height:1.35}
+.produto h2{font-size:clamp(24px,2.2vw,28px);font-weight:800;margin:20px 0 10px}.produto>p{font-size:15.5px}
+.produto ul{list-style:none;padding:0;margin:20px 0 24px;display:grid;gap:10px;font-size:14.5px;color:var(--soft);flex:1;align-content:start}
+.produto li{display:flex;gap:10px}.produto li svg{flex:none;width:18px;height:18px;color:var(--mint);margin-top:3px}
+.pr-preco{display:flex;align-items:baseline;gap:6px;margin-bottom:20px}.pr-preco b{font:800 34px/1 var(--fh)}.pr-preco small{color:var(--muted);font-size:14px}
+.pr-acoes{display:flex;gap:10px;flex-wrap:wrap}.pr-acoes .btn{flex:1 1 auto}
+@media(max-width:1100px){.produtos{grid-template-columns:1fr;max-width:640px;margin:0 auto}}
+.tabela.texto td{text-align:left;vertical-align:top;color:var(--soft);font-size:14.5px;line-height:1.5}.tabela.texto td:first-child{color:var(--text);font-weight:600;white-space:nowrap}
+.tabela.texto thead th{text-align:left}.tabela.texto thead a{color:var(--text);text-decoration:none}.tabela.texto thead a:hover{color:var(--acc)}
+/* Páginas de produto */
+.hero-prod .wrap{grid-template-columns:minmax(0,.92fr) minmax(0,1.08fr)}.hero-prod .tela img{width:100%;height:auto;display:block}
+.tela>img{display:block;width:100%;height:auto}
+.cartao .tag{display:inline-block;margin-top:16px;font-size:12px;font-weight:600;color:var(--gold);border:1px solid rgba(237,196,123,.35);border-radius:999px;padding:4px 10px}
+.portes{margin-top:18px}.porte{padding:22px 24px;border-radius:16px;border:1px dashed var(--line2)}.porte b{display:block;font:700 18px var(--fh)}.porte p{font-size:14.5px;margin:6px 0 10px}
+.porte span{font-size:12.5px;font-weight:600;color:var(--acc);letter-spacing:.04em}
+/* Planos: abas por produto */
+.prod-abas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 auto 26px;max-width:1000px}
+.prod-abas button{display:flex;gap:12px;align-items:center;text-align:left;padding:14px 16px;border-radius:16px;border:1px solid var(--line);background:var(--surface);color:var(--text);font:inherit;cursor:pointer;transition:border-color .2s,background .2s}
+.prod-abas button:hover{border-color:var(--line2)}.prod-abas button[aria-selected=true]{border-color:rgba(138,166,255,.6);background:rgba(138,166,255,.1)}
+.prod-abas .ic{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;flex:none}.prod-abas .ic svg{width:20px;height:20px}
+.prod-abas b{display:block;font:700 15.5px var(--fh)}.prod-abas small{display:block;font-size:12.5px;color:var(--muted);margin-top:2px}
+.prod-painel+.prod-painel{margin-top:80px}.js .prod-painel+.prod-painel{margin-top:0}
+@media(max-width:760px){.prod-abas{grid-template-columns:1fr}}
+@media(max-width:980px){.hero-prod .wrap{grid-template-columns:1fr}}
+.hero{overflow-x:clip}
+@media(max-width:980px){.topo.aberto{backdrop-filter:none;background:#06070b}.topo.aberto .menu{background:#06070b;box-shadow:0 30px 60px -20px rgba(0,0,0,.9)}}

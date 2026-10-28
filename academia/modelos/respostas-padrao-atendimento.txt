@@ -1,0 +1,124 @@
+RESPOSTAS-PADRÃO DE ATENDIMENTO - JARVIS E-COMMERCE
+(Modelo da Academia Jarvis. Troque os campos entre colchetes antes de enviar.
+No Jarvis, as "Respostas prontas" do caso já preenchem nome, pedido, produto e
+a assinatura da loja; use este arquivo para padronizar o tom da equipe e para
+as situações que não estão lá.)
+
+======================================================================
+REGRAS DE OURO (valem para todas as respostas)
+======================================================================
+1. Leia a conversa inteira antes de responder. A resposta pronta é ponto de
+   partida, não resposta automática.
+2. Responda dentro do prazo do marketplace. Comece pelos casos "Urgentes"
+   (prazo em menos de 24 h ou mediação).
+3. Não peça nota, estrelas ou avaliação positiva. Peça opinião e ofereça ajuda.
+4. Não passe telefone, WhatsApp, e-mail, site ou redes sociais e não convide o
+   cliente a comprar fora da plataforma.
+5. Reembolso, devolução e cancelamento são feitos no próprio marketplace. No
+   Jarvis, registre o combinado em "Notas internas" e ajuste a "Etapa".
+6. Mensagem pós-venda tem limite de caracteres: seja curto e direto.
+7. Quando outra pessoa está "escrevendo" no mesmo caso, combine antes de enviar.
+
+======================================================================
+1. ATRASO NA ENTREGA
+======================================================================
+Olá, [nome]! Sentimos muito pela demora. Já verificamos o pedido [número] com
+a transportadora e ele está a caminho. Vamos acompanhar até a entrega e te
+avisamos por aqui. Conte com a gente! [assinatura]
+
+-- Variação: consta como entregue, mas o cliente diz que não recebeu --
+Olá, [nome]! O rastreio do pedido [número] mostra entrega em [data]. Pode
+verificar com portaria, vizinhos ou outras pessoas da casa? Se não encontrar,
+nos avise por aqui que resolvemos com você. [assinatura]
+
+======================================================================
+2. PRODUTO COM DEFEITO OU AVARIADO
+======================================================================
+Olá, [nome]! Lamentamos pelo problema com o [produto]. Para resolver rápido,
+envie por aqui uma foto ou um vídeo curto do defeito. Assim que recebermos,
+vemos com você a melhor solução: troca ou reembolso. [assinatura]
+
+-- Depois de receber a foto ou o vídeo --
+Obrigado pelo envio, [nome]! Já confirmamos o problema. Você pode seguir com a
+devolução pelo próprio [marketplace]; assim que o produto chegar, [enviamos a
+troca / o reembolso é liberado]. [assinatura]
+
+======================================================================
+3. ITEM OU PEÇA FALTANDO
+======================================================================
+Olá, [nome]! Às vezes os itens vêm em volumes separados ou dentro de outra
+embalagem. Vale conferir tudo o que chegou. Se faltar mesmo, nos diga o que
+não veio (uma foto ajuda) que resolvemos o envio. [assinatura]
+
+======================================================================
+4. PRODUTO DIFERENTE DO PEDIDO (cor, modelo, tamanho)
+======================================================================
+Olá, [nome]! Pedimos desculpas pelo engano. Pode nos enviar uma foto do
+produto que recebeu? Assim confirmamos e já providenciamos a troca pelo item
+correto ou o reembolso, como preferir. [assinatura]
+
+======================================================================
+5. DESISTÊNCIA / ARREPENDIMENTO
+======================================================================
+Olá, [nome]! Tudo bem, respeitamos a sua decisão. Você pode fazer a devolução
+pelo próprio [marketplace] e, assim que o produto chegar aqui, o reembolso é
+liberado. Qualquer dúvida, estamos à disposição. [assinatura]
+
+======================================================================
+6. PEDIDO DE CANCELAMENTO
+======================================================================
+-- Ainda não despachado --
+Olá, [nome]! Recebemos o seu pedido de cancelamento. Como o pedido ainda não
+foi despachado, já estamos cancelando por aqui. O estorno segue o prazo do
+[marketplace]. [assinatura]
+
+-- Já despachado --
+Olá, [nome]! O seu pedido já está a caminho. Você pode recusar a entrega ou
+fazer a devolução pelo [marketplace] depois de receber; o reembolso é
+garantido pela plataforma. [assinatura]
+
+======================================================================
+7. NOTA FISCAL
+======================================================================
+Olá, [nome]! A nota fiscal do pedido [número] fica disponível na área de
+compras do [marketplace]. Se não encontrar, nos avise por aqui que enviamos o
+arquivo. [assinatura]
+
+======================================================================
+8. DÚVIDA DE USO / MONTAGEM
+======================================================================
+Olá, [nome]! As instruções do [produto] acompanham a embalagem. Nos diga qual
+é a dúvida (se puder, mande uma foto) que te explicamos o passo a passo.
+[assinatura]
+
+======================================================================
+9. PERGUNTA ANTES DA COMPRA
+======================================================================
+Olá! Obrigado pelo interesse no [produto]. [resposta objetiva: medida,
+compatibilidade, voltagem, prazo]. Qualquer outra dúvida, é só perguntar!
+[assinatura]
+(Dica: perguntas respondidas em até 1 hora vendem mais.)
+
+======================================================================
+10. PÓS-VENDA (CHEGOU TUDO CERTO?)
+======================================================================
+Olá, [nome]! O seu [produto] chegou direitinho? Se precisar de qualquer ajuda
+com o uso, é só responder aqui. [assinatura]
+
+======================================================================
+11. RESPOSTA PÚBLICA A UMA AVALIAÇÃO NEGATIVA (quando a plataforma permitir)
+======================================================================
+Olá! Sentimos muito pela sua experiência com o [produto]. Já verificamos o
+ocorrido e [ação tomada: reforçamos a conferência / ajustamos o anúncio].
+Estamos à disposição pelo chat do pedido para resolver. [assinatura]
+
+======================================================================
+DEPOIS DE RESPONDER (no Jarvis)
+======================================================================
+[ ] Responsável preenchido (ou "Assumir").
+[ ] Etapa ajustada: em andamento / aguardando cliente / aguardando devolução /
+    resolvido.
+[ ] Combinados e códigos de rastreio da troca em "Notas internas".
+[ ] Devolução com nota? Botão "Preparar nota de devolução" no caso.
+[ ] Mesmo produto com o mesmo problema de novo? "Registrar melhoria".
+[ ] Clicar em "Salvar".

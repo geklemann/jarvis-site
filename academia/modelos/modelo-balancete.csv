@@ -1,0 +1,9 @@
+﻿Conta;Descrição;Saldo anterior;Débito;Crédito;Saldo atual
+3.1.01.001;Venda de mercadorias;0,00;0,00;100.000,00;100.000,00
+3.1.02.01.001;Devoluções de vendas;0,00;1.500,00;0,00;-1.500,00
+3.1.02.02.001;Simples Nacional sobre vendas;0,00;8.000,00;0,00;-8.000,00
+4.1.01.001;Custo das mercadorias vendidas;0,00;40.000,00;0,00;-40.000,00
+4.2.01.001;Tarifas e comissões de marketplace;0,00;22.000,00;0,00;-22.000,00
+4.2.02.01.001;Salários e encargos;0,00;12.000,00;0,00;-12.000,00
+4.2.02.03.001;Aluguel;0,00;4.000,00;0,00;-4.000,00
+4.2.03.001;Tarifas bancárias;0,00;300,00;0,00;-300,00

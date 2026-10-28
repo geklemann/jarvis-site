@@ -68,5 +68,8 @@ if(pq&&$('form[data-contato] select[name=produto]'))$('form[data-contato] select
 // Busca da ajuda pública
 const bq=$('#buscaAjuda');if(bq){const itens=$$('.faq details');bq.addEventListener('input',()=>{const t=bq.value.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').split(/\s+/).filter(w=>w.length>2);let n=0;
  itens.forEach(it=>{const txt=it.textContent.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');const ok=!t.length||t.every(w=>txt.includes(w));it.hidden=!ok;if(ok)n++;if(t.length&&ok)it.open=true});const z=$('#semResultado');if(z)z.hidden=n>0})}
+// Academia: busca nos capítulos do manual (título, resumo e lições de cada um).
+const bm=$('#buscaManual');if(bm){const caps=$$('.ac-caps>li'),norm=x=>x.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');bm.addEventListener('input',()=>{const t=norm(bm.value).split(/\s+/).filter(w=>w.length>2);let n=0;
+ caps.forEach(li=>{const txt=norm(li.dataset.busca||'');const ok=!t.length||t.every(w=>txt.includes(w));li.hidden=!ok;if(ok)n++});const z=$('#semResultado');if(z)z.hidden=n>0})}
 d.querySelectorAll('[data-ano]').forEach(el=>el.textContent=new Date().getFullYear());
 })();

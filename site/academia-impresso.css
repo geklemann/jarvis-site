@@ -1,0 +1,38 @@
+/* Manual da Academia para imprimir e para o PDF (A4). Claro, de propósito: economiza tinta e lê bem no papel. */
+@page{size:A4;margin:16mm 15mm 18mm}
+*{box-sizing:border-box}
+body{margin:0;font:10.5pt/1.55 'Inter','Segoe UI',system-ui,sans-serif;color:#1b2030;background:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+h1,h2,h3{font-family:'Plus Jakarta Sans','Segoe UI',system-ui,sans-serif;letter-spacing:-.01em;line-height:1.2;color:#0d1020}
+a{color:inherit;text-decoration:none}
+p{margin:0 0 7px}ul,ol{margin:4px 0 8px;padding-left:20px}li{margin:3px 0}
+b{color:#0d1020}
+@media screen{body{max-width:900px;margin:0 auto;padding:30px 24px;background:#f4f5f8}section{background:#fff;padding:36px 40px;margin-bottom:24px;border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.06)}}
+.capa{min-height:250mm;display:flex;flex-direction:column;justify-content:center;padding:0 10mm;background:linear-gradient(160deg,#eef1ff 0%,#f6f1ff 55%,#eafaf3 100%);page-break-after:always}
+.capa img{width:64px;height:64px;border-radius:16px}
+.capa .sobre{margin-top:28px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;font-size:10pt;color:#5b62d6}
+.capa h1{font-size:44pt;margin:10px 0 18px;font-weight:800}
+.capa .sub{font-size:14pt;color:#3a4256;max-width:150mm}
+.capa .rod{margin-top:40mm;font-size:9.5pt;color:#5b6273}
+.sumario{page-break-after:always}
+.sumario h2,.cap>h2{font-size:24pt;margin:0 0 14px}
+.sumario ol{list-style:none;padding:0}.sumario li{padding:7px 0;border-bottom:1px solid #e5e7ef}
+.sumario li b{font-size:11.5pt}.sumario li span{display:block;font-size:9pt;color:#6a7084;margin-top:2px}
+.como{margin-top:16px;padding:12px 14px;border-radius:8px;background:#f3f5fb}
+.como h3{font-size:12pt;margin:0 0 6px}
+.cap{page-break-before:always}
+.cap-n{font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:9.5pt;color:#5b62d6;margin:0}
+.cap-r{font-size:12pt;color:#3a4256}.meta{font-size:9.5pt;color:#6a7084}
+.obj{margin:12px 0 4px;padding:12px 14px;border-radius:8px;background:#eef8f3;border:1px solid #cfeedd}
+.lic{margin-top:18px;padding-top:12px;border-top:2px solid #e5e7ef}
+.lic h3{font-size:15pt;margin:0 0 4px;page-break-after:avoid}.lic h3 span{color:#5b62d6}
+.cam{font-size:9.5pt;color:#5b62d6;font-weight:600}
+figure{margin:10px 0 12px;page-break-inside:avoid}figure img{width:100%;height:auto;border-radius:6px;border:1px solid #d9dce6;display:block}
+.pp{font-weight:700;margin-top:6px}
+.lic ol li{page-break-inside:avoid}
+.box{margin:8px 0;padding:10px 12px;border-radius:8px;page-break-inside:avoid}
+.box>b{display:block;margin-bottom:3px}.box ul{margin:2px 0}
+.ex{background:#eef1ff;border:1px solid #d3d9ff}.dica{background:#eef8f3;border:1px solid #cfeedd}.cuid{background:#fff6e8;border:1px solid #f3dfb8}
+.prat{font-size:9pt;color:#6a7084}
+.exerc{background:#fafbff}
+.faq{margin-top:16px}.faq h3{font-size:13pt}.faq p{page-break-inside:avoid}
+dl dt{font-weight:700;margin-top:8px}dl dd{margin:2px 0 0;color:#3a4256}

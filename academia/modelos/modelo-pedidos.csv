@@ -1,0 +1,6 @@
+﻿id;plataforma;data;bruto;taxa;nf;vencimento;cliente;documento;uf;produto;sku;quantidade
+MODELO-1001;Shopee;05/10/2026;200,00;40,00;1001;20/10/2026;Cliente Exemplo Um;;SP;Fone de ouvido Bluetooth;FONE-BT;1
+MODELO-1002;Mercado Livre;06/10/2026;150,00;30,00;1002;22/10/2026;Cliente Exemplo Dois;;PR;Carregador turbo 20W USB-C;CARR-20W;2
+MODELO-1003;Magalu;07/10/2026;300,00;54,00;1003;06/11/2026;Cliente Exemplo Três;;MG;Caixa de som portátil 10W;CXSOM-10;1
+MODELO-1004;Shopee;08/10/2026;80,00;18,00;1004;23/10/2026;Cliente Exemplo Quatro;;RS;Capa para celular silicone;CAPA-SIL;2
+MODELO-1005;Mercado Livre;09/10/2026;1.200,00;204,00;1005;25/10/2026;Cliente Exemplo Cinco;;SC;Relógio inteligente Pro;REL-PRO;3

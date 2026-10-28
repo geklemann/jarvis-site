@@ -1,0 +1,32 @@
+CHECKLIST DO INVENTÁRIO (contagem física) - Jarvis E-Commerce
+Tela: Estoque › Operação › Inventário
+Exemplo fictício: Loja Modelo, contagem da rua C (informática)
+
+ANTES DE COMEÇAR
+[ ] Combine o horário com a expedição: durante a contagem, nada sai nem entra na área contada.
+[ ] Clique em "Atualizar do Bling" (Estoque › Posição de estoque) para trazer o saldo mais recente.
+[ ] Confira se os produtos da área têm código de barras (EAN) no cadastro. Sem EAN, digite o SKU.
+[ ] Confira se a "Localização" está preenchida na ficha de cada produto (ajuda a achar os não contados).
+[ ] Teste o leitor de código de barras num campo de texto: ele deve "digitar" o código e dar Enter.
+[ ] Separe quem conta e quem confere (duas pessoas reduzem erro).
+
+NA CONTAGEM
+[ ] Em Inventário, preencha o nome (ex.: "Contagem cíclica · rua C") e o Local/rua. Clique em "Iniciar contagem".
+[ ] Deixe "somar" marcado e a quantidade em 1 para bipar unidade por unidade.
+[ ] Caixa fechada com várias unidades: digite a quantidade da caixa (ex.: 12) antes de bipar o código.
+[ ] Apareceu "Código não encontrado"? Separe o produto e confira o cadastro depois. Não force outro SKU.
+[ ] Errou? Corrija o número na coluna "Contado" ou tire a linha no X.
+[ ] Pausou? A contagem fica salva. Volte em "Continuar".
+
+AO TERMINAR
+[ ] Revise a coluna "Diferença" (vermelho = falta, verde = sobra) e reconte o que estiver muito diferente.
+[ ] Clique em "Concluir inventário". A contagem trava e o saldo do sistema daquele momento fica registrado.
+[ ] Veja os "Não contados" (produtos com saldo que ninguém bipou). Se a área era só uma rua, isso é normal.
+    Atenção: os não contados NÃO entram no ajuste. Para zerar um item que sumiu, digite 0 na quantidade e bipe-o (ou troque o "Contado" para 0) antes de concluir.
+[ ] Baixe a "Planilha de ajuste" e guarde junto com a assinatura de quem contou.
+[ ] Com as diferenças conferidas, clique em "Lançar diferenças no estoque (Bling)" e confirme.
+[ ] Confira em Movimentos de estoque se os ajustes ficaram "no Bling" (sem "erro no envio").
+
+DEPOIS
+[ ] Diferença grande em um mesmo produto? Investigue: venda sem baixa, devolução que não voltou, item trocado na expedição.
+[ ] Anote a próxima contagem cíclica (ex.: uma rua por semana; os itens da curva A todo mês).

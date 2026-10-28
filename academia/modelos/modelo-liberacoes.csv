@@ -1,0 +1,6 @@
+﻿id;pedido;plataforma;conta;data;valor
+LIB-MODELO-01;MODELO-1001;Shopee;Shopee;20/10/2026;160,00
+LIB-MODELO-02;MODELO-1002;Mercado Livre;Mercado Pago;22/10/2026;120,00
+LIB-MODELO-03;MODELO-1003;Magalu;Magalu;27/10/2026;246,00
+LIB-MODELO-04;MODELO-1004;Shopee;Shopee;23/10/2026;62,00
+LIB-MODELO-05;MODELO-1005;Mercado Livre;Mercado Pago;25/10/2026;996,00

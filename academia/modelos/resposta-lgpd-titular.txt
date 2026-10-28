@@ -1,0 +1,65 @@
+MODELOS DE RESPOSTA A PEDIDOS DE DADOS (LGPD)
+Academia Jarvis · capítulo 1 (Privacidade (LGPD))
+Troque os trechos entre [colchetes]. Responda em até 15 dias do pedido (LGPD, art. 19).
+Antes de enviar qualquer dado, confirme a identidade de quem pede.
+
+------------------------------------------------------------
+1) PEDIDO DE CONFIRMAÇÃO DA IDENTIDADE
+------------------------------------------------------------
+Assunto: Seu pedido sobre dados pessoais · [Nome da loja]
+
+Olá, [nome]!
+Recebemos o seu pedido sobre os seus dados pessoais em [data].
+Para sua segurança, precisamos confirmar que é você: responda a este e-mail
+a partir do mesmo e-mail usado na compra (ou pela mensagem do marketplace onde comprou)
+informando o número de um pedido feito conosco.
+Assim que confirmarmos, respondemos em até 15 dias.
+
+[Assinatura das mensagens ao cliente]
+
+------------------------------------------------------------
+2) ACESSO E PORTABILIDADE ("quais dados vocês têm?")
+------------------------------------------------------------
+Assunto: Seus dados pessoais · [Nome da loja]
+
+Olá, [nome]!
+Conforme o seu pedido de [data], segue em anexo o arquivo com os dados pessoais
+que guardamos sobre você: nome, CPF, cidade/UF, itens e valores dos pedidos
+e as notas fiscais emitidas.
+Usamos esses dados para faturar, entregar, conciliar os recebimentos e cumprir
+as obrigações fiscais e contábeis. Eles são compartilhados apenas com o nosso
+sistema de gestão, o marketplace onde a compra foi feita, o emissor das notas fiscais
+e o nosso escritório de contabilidade.
+
+[Assinatura das mensagens ao cliente]
+
+------------------------------------------------------------
+3) CORREÇÃO
+------------------------------------------------------------
+Olá, [nome]!
+Corrigimos [o que foi corrigido] no nosso cadastro em [data].
+A correção vale para os próximos pedidos e documentos. Notas fiscais já emitidas
+não podem ser alteradas, por exigência da legislação fiscal.
+
+[Assinatura das mensagens ao cliente]
+
+------------------------------------------------------------
+4) EXCLUSÃO
+------------------------------------------------------------
+Olá, [nome]!
+Apagamos em [data] as anotações de relacionamento (CRM) que tínhamos sobre você,
+e você não receberá mais mensagens de relacionamento da nossa loja.
+Os pedidos, as notas fiscais e os registros de pagamento precisam ser guardados por
+5 anos, por obrigação legal (legislação fiscal e contábil). Eles ficam com acesso
+restrito e não são usados para nenhuma outra finalidade.
+
+[Assinatura das mensagens ao cliente]
+
+------------------------------------------------------------
+ONDE FAZER NO JARVIS
+------------------------------------------------------------
+Cadastros › Empresa › Privacidade (LGPD)
+- Buscar pelo CPF/CNPJ (ou nome completo) › "Exportar tudo (arquivo para o titular)" › anexar ao e-mail 2.
+- Exclusão: "Apagar anotações de CRM" (quando houver) › e-mail 4.
+- Correção: ajustar no Bling ou no marketplace (origem do cadastro) › e-mail 3.
+Cada exportação e exclusão fica registrada na auditoria. Guarde o e-mail enviado como prova da resposta.

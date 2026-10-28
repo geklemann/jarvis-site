@@ -1,0 +1,37 @@
+CHECKLIST DO PRIMEIRO DIA NO JARVIS E-COMMERCE
+Academia Jarvis · capítulo 1 (Primeiros passos)
+Marque cada item quando terminar. Quem faz: o administrador (dono), salvo indicação.
+
+MANHÃ: A EMPRESA E AS CONEXÕES
+[ ] 1. Cadastros › Empresa › Dados da empresa: nome de exibição, assinatura das mensagens,
+       escritório contábil, segmento e logo. Clicar em Salvar.
+[ ] 2. Fiscal › Regras › Regras fiscais (botão "Abrir Regras fiscais" na mesma tela):
+       razão social, CNPJ, cidade/UF e regime. Se tiver dúvida, peça à contabilidade.
+[ ] 3. Menu do seu nome › Integrações › Conectar Bling (entrar com o usuário da empresa e autorizar).
+[ ] 4. Conectar Mercado Livre (traz também as liberações do Mercado Pago).
+[ ] 5. Conectar Shopee.
+[ ] 6. Conectar Magalu (os repasses do Magalu entram por Importar relatórios › Liberações).
+[ ] 7. Sincronização: escolher "Últimos 90 dias" e clicar em "Sincronizar tudo".
+[ ] 8. Se aparecer "Lojas do Bling sem canal definido": escolher o marketplace de cada loja
+       e sincronizar de novo.
+
+TARDE: CUSTOS, CONFERÊNCIA E EQUIPE
+[ ] 9.  Cadastros › Produtos › Custos e embalagens: custo e embalagem de cada SKU
+        (sem custo, a margem fica estimada).
+[ ] 10. Conferir 3 pedidos de cada canal com o painel do marketplace
+        (valor bruto, tarifa, líquido e data do repasse).
+[ ] 11. Relatórios › Relatórios › Diagnóstico de margem: ver os últimos 30 dias.
+[ ] 12. Menu do seu nome › Equipe e acessos: convidar cada pessoa com o perfil certo
+        (Financeiro, Atendimento e CRM, Estoque e expedição, Contabilidade (escritório)).
+        Administrador só para quem libera acessos.
+[ ] 13. Menu do seu nome › Segurança da conta: ativar a verificação em duas etapas.
+
+NA PRIMEIRA SEMANA
+[ ] 14. Cadastros › Financeiro › Contas bancárias e importar o extrato (Novo › Importar extrato bancário).
+[ ] 15. Vendas › Acompanhar › Metas do mês: definir vendas, margem e recebido.
+[ ] 16. Relatórios › Relatórios › Alertas e relatórios: escolher quem recebe cada aviso.
+[ ] 17. Menu do seu nome › Integrações: decidir se liga a Conciliação automática.
+[ ] 18. Escolher o plano antes do fim do teste grátis (menu do seu nome › Plano e assinatura).
+
+DICA: a tela "Primeiros passos" (busca Ctrl K › Primeiros passos) marca sozinha
+os passos 1, 3 a 7, 9, 11, 12 e 18 quando ficam prontos.

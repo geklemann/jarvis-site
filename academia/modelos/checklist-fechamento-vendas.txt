@@ -1,0 +1,53 @@
+CHECKLIST DO FECHAMENTO DE VENDAS (competência) - Jarvis E-Commerce
+Telas: Vendas › Faturamento e repasses › Conciliação de vendas / Faturamento / Fechamento de vendas
+       Início › Pendências
+Exemplo fictício: Loja Modelo, fechamento de setembro feito em 16/10
+
+QUANDO FECHAR
+[ ] Os repasses do mês já caíram? (Mercado Livre e Shopee: confira a "Previsão de liberação" dos últimos
+    pedidos do mês; Magalu: o extrato de liberações do período já foi importado?)
+[ ] A sincronização de hoje rodou sem erro (Integrações) e as liberações da Magalu foram importadas.
+[ ] Escolha o mês no seletor do canto superior direito e confira que é o mês certo em todas as telas.
+
+1. NOTAS FISCAIS (Faturamento)
+[ ] Pedidos sem nota do mês: zero, ou cada um tem explicação (cancelado, devolvido, venda de teste).
+[ ] No Fechamento, "Pedidos com nota fiscal" = total de pedidos (ex.: 4 / 4).
+
+2. VÍNCULOS (Conciliação de vendas)
+[ ] Rodei "Conciliar exatos em lote" e confirmei os selecionados.
+[ ] Revisei "Sugestões para aprovar": li o motivo de cada uma e aprovei só as conferidas.
+[ ] Os pedidos "A receber" que sobraram ainda estão dentro do prazo do canal.
+    Se passou do prazo: abrir reclamação no marketplace e anotar no pedido (data e número do chamado).
+
+3. DIVERGÊNCIAS
+[ ] Filtrei "Todos os status" > "Divergência" e abri cada pedido.
+[ ] Cada divergência tem "Anotação da investigação" salva com a causa e o que foi feito.
+    Ex.: "Pedido B: frete real R$ 29,50 (previsto R$ 24,00). Diferença de R$ 5,50 aceita."
+[ ] Nenhum vínculo errado (liberação de outro pedido). Se houver: Desvincular > Confirmar desvínculo > vincular no pedido certo.
+
+4. LIBERAÇÕES SEM PEDIDO
+[ ] Revisei "Liberações a conciliar" (Conciliação) e o cartão "Liberações sem pedido" (Pendências).
+[ ] Cada uma foi vinculada ou explicada (ajuste, bônus, estorno da plataforma).
+    Ex.: "L-105: ajuste Shopee de R$ 12,40, sem pedido."
+
+5. FECHAR (Fechamento de vendas)
+[ ] Conferi o Checklist do fechamento:
+    Pedidos com nota fiscal ......................  ___ / ___
+    Pedidos integralmente conciliados ............  ___ / ___
+    Pedidos em aberto / divergentes ..............  ___
+    Liberações sem vínculo no período ............  ___
+    Valor conciliado .............................  R$ ________
+[ ] Cliquei em "Preparar fechamento".
+[ ] Escrevi a justificativa das ressalvas (o que ficou aberto e por quê). Modelo:
+    "Pedido(s) ______: diferença de R$ ____ por ______ (anotado no pedido).
+     Liberação(ões) ______: ______ sem pedido, tratar em ______.
+     Responsável: ______."
+[ ] Marquei "Revisei os indicadores e reconheço as pendências acima." e cliquei em "Confirmar fechamento".
+[ ] Cliquei em "Exportar retrato do fechamento" e guardei o arquivo junto com os documentos do mês.
+
+DEPOIS
+[ ] Avisei a contabilidade de que a competência de vendas está fechada (e mandei as ressalvas).
+[ ] Chegou repasse atrasado de um mês fechado? "Reabrir competência" (motivo obrigatório),
+    vincular, e fechar de novo no mesmo dia.
+
+Feito por: ____________________   Data: ___/___/______   Competência: ___/______

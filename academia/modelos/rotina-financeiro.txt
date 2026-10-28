@@ -1,0 +1,38 @@
+ROTINA DO FINANCEIRO - Jarvis E-Commerce
+Telas: Financeiro (Contas a pagar, Notas de entrada, Contas a receber, Bancos e saldos,
+Conciliação bancária, Arquivos do banco, Fluxo de caixa)
+Exemplo fictício: Loja Modelo. Imprima, cole ao lado do computador e ajuste ao tamanho da sua operação.
+
+TODO DIA (15 a 20 minutos, de preferência antes das 11h)
+[ ] Clique no sino (Avisos) no alto da tela: títulos vencidos, que vencem hoje, extrato a conciliar e notas novas.
+[ ] Financeiro › A pagar › Contas a pagar: veja os cartões "Vencidos" e "Vence hoje".
+[ ] Lance o que chegou: boletos do DDA (Importar DDA), boletos por e-mail e contas sem nota (Novo lançamento).
+[ ] Dono: aprove ou recuse o que está em "A aprovar" (só aparece se as regras de aprovação estiverem ligadas).
+[ ] Pague as contas do dia (internet banking, Lote de pagamento ou remessa em Arquivos do banco).
+[ ] Dê baixa no que foi pago: botão "Pagar" no título, "Baixar N selecionado(s)" ou "Marcar lote como pago".
+    Se a empresa concilia o extrato todo dia, a baixa pode ficar para a conciliação (não baixe duas vezes).
+[ ] Financeiro › A pagar › Notas de entrada: confira categoria e vencimentos das notas novas.
+
+TODA SEMANA (segunda-feira, 40 a 60 minutos)
+[ ] Exporte o extrato OFX de cada conta (corrente, pagamentos e carteiras) e importe em Conciliação bancária.
+[ ] Conciliação bancária: clique em "Aceitar N sugestão(ões) exata(s)", confira as "≈" e classifique as "?".
+[ ] Bancos e saldos: cada conta deve mostrar "✓ confere". Se aparecer "≠ não confere", ache o movimento que falta.
+[ ] Arquivos do banco (se usar SISPAG): importe o retorno da semana e dê baixa no que o banco pagou.
+[ ] Contas a receber: cobre os títulos vencidos (aba "Vencidos").
+[ ] Fluxo de caixa › Diário (30 dias): olhe o "Menor saldo" e o dia em que ele acontece.
+[ ] Monte a programação da semana seguinte: Contas a pagar, filtro "Em aberto", próximos 7 dias.
+
+FIM DO MÊS (últimos 2 dias úteis e primeiros 3 do mês seguinte)
+[ ] Conciliação bancária: "A conciliar" zerado em todas as contas (ou cada pendência explicada).
+[ ] Bancos e saldos: saldo do último dia do mês igual ao do extrato do banco, inclusive aplicações.
+[ ] Contas a pagar › Vencidos: zerado, ou cada atraso com motivo na observação do título.
+[ ] Contas a pagar › Pagos (mês): clique em "Exportar" e guarde o CSV junto com os comprovantes.
+[ ] Fluxo de caixa › Realizado (extrato): nada em "A classificar"; revise as categorias com valor estranho.
+[ ] Lance as despesas recorrentes e os impostos do mês seguinte (aluguel, sistemas, DAS, DIFAL).
+[ ] Relatórios › Relatórios financeiros: gere "Pagamentos realizados" e "Despesas por categoria" para o contador.
+[ ] Fluxo de caixa › Projetado (12 semanas): veja se o caixa aguenta as compras planejadas.
+
+CUIDADOS
+- Nunca dê baixa duas vezes no mesmo pagamento (manual + conciliação). Na dúvida, abra o título e veja "Pago ... em ...".
+- Pagamento errado? Abra o título (seta à direita) e use "Estornar pagamento"; na conciliação, "Desfazer".
+- Conta que já tem extrato importado não se exclui: inative em Cadastros › Financeiro › Contas bancárias.

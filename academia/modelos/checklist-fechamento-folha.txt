@@ -1,0 +1,43 @@
+CHECKLIST DO FECHAMENTO DA FOLHA - Jarvis E-Commerce
+Telas: Folha › Ponto › Ponto e jornada e Folha › Folha de pagamento › Folha mensal
+Exemplo fictício: Loja Modelo, folha de setembro fechada no começo de outubro
+
+IMPORTANTE: os valores do Jarvis são cálculo de apoio. Confira com a sua contabilidade antes de pagar
+e antes de transmitir qualquer coisa ao governo. O Jarvis não transmite o eSocial nem a DCTFWeb.
+
+1) PONTO DO MÊS (Ponto e jornada)
+[ ] Aba "Pedidos": responda todos os pedidos de ajuste (aprovar, recusar ou "Abrir o dia e corrigir").
+[ ] Aba "Espelho de ponto", pessoa por pessoa: resolva os dias "Incompleto" e "Sem registro".
+[ ] Classifique feriados, folgas, atestados e férias (clique no dia > "Classificação do dia").
+[ ] Anexe atestados e folhas de ponto em papel na aba "Arquivos".
+[ ] Clique em "Conferir dias completos" e confira o "Saldo do mês".
+[ ] Lance compensações ou horas pagas na aba "Banco de horas" (com motivo).
+
+2) CADASTROS E CONTRATOS (Folha mensal > aba Contratos)
+[ ] Admissões e desligamentos do mês estão com as datas certas.
+[ ] Salário, dependentes para o IR, vale-transporte e e-mail do holerite conferidos.
+[ ] "Horas do ponto" certo para cada pessoa: banco de horas ou pagar extras e descontar faltas.
+[ ] Reajustes e mudanças de vínculo programados (ex.: estágio > CLT) com a data certa.
+
+3) LANÇAMENTOS DO MÊS (aba Lançamentos)
+[ ] Comissões, bônus, adiantamentos, pensão, faltas manuais e reembolsos lançados.
+[ ] Marque ou desmarque "Entra na base de INSS, FGTS e IRRF" conforme a orientação da contabilidade.
+
+4) CONFERÊNCIA (aba Folha do mês)
+[ ] Escolha a competência certa (o mês trabalhado, não o mês do pagamento).
+[ ] Abra o holerite de cada pessoa e leia os avisos (o "!" ao lado do nome).
+[ ] Confira as Tabelas (INSS, IRRF, encargos) com a legislação vigente e o regime da empresa.
+    No Simples Nacional, a contribuição patronal pode não se aplicar: ajuste com a contabilidade.
+[ ] Envie a prévia (botão CSV) para a contabilidade conferir, se for o combinado.
+
+5) FECHAMENTO
+[ ] Clique em "Fechar folha" (os holerites ficam congelados).
+[ ] Clique em "Lançar no contas a pagar" (salários no 5º dia útil; INSS, FGTS e IRRF no dia 20).
+[ ] "Enviar por e-mail": holerite + banco de horas para cada pessoa.
+[ ] Baixe "Holerites (ZIP)" para arquivar.
+[ ] Folha › eSocial: gere S-1200, S-1210 e S-1299 da competência e entregue os XMLs à contabilidade.
+
+6) DATAS DO MÊS SEGUINTE
+[ ] Salários e pró-labore: até o 5º dia útil.
+[ ] eSocial da folha (S-1200): até o dia 15.
+[ ] INSS (DCTFWeb) e FGTS Digital: dia 20 (antecipa se cair em fim de semana ou feriado).

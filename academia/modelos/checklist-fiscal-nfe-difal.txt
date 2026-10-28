@@ -1,0 +1,81 @@
+CHECKLIST FISCAL - JARVIS E-COMMERCE
+NF-e, DIFAL/GNRE e notas da SEFAZ
+(Modelo da Academia Jarvis. Adapte com a sua contabilidade: este checklist
+organiza o trabalho no sistema, mas não substitui a orientação tributária.)
+
+======================================================================
+A) ANTES DE LIGAR A NF-e EM PRODUÇÃO (uma vez, na implantação)
+======================================================================
+[ ] Pedir a liberação da emissão: Central de ajuda > Abrir chamado >
+    tipo "Nota fiscal e impostos". A equipe Jarvis confere o CNPJ e o
+    certificado digital A1 da empresa.
+[ ] Fiscal > Regras > Configuração da NF-e: "Token de homologação
+    gravado" pronto.
+[ ] "NCM em todos os produtos" pronto (corrigir no Bling e clicar em
+    "Ler NCM/origem do Bling agora").
+[ ] Fiscal > Regras > Regras fiscais: as 8 seções revisadas e aprovadas
+    pela contabilidade (Empresa e regime; ICMS, DIFAL e FCP por estado;
+    Inscrições estaduais; PIS, COFINS, IPI e IBS/CBS; Dados da nota
+    fiscal; Intermediadores; Produtos: NCM e origem; Contábil).
+[ ] Notas de teste emitidas em homologação, cobrindo:
+    [ ] venda dentro do estado
+    [ ] venda para consumidor (CPF) de outro estado (com DIFAL)
+    [ ] venda para empresa com inscrição estadual
+    [ ] um pedido de cada marketplace usado (Mercado Livre, Shopee, Magalu)
+    [ ] um produto importado (origem 1, 2, 3 ou 8), se houver
+[ ] DANFEs de teste enviados e aprovados pela contabilidade.
+[ ] Marcado "Regras revisadas e aprovadas pela contabilidade" e salvo.
+[ ] Token de produção gravado pela equipe Jarvis.
+[ ] Bling PARADO de emitir nota para os mesmos canais (evita nota em dobro).
+[ ] Clicado "Ligar PRODUÇÃO" (data: ___/___/______  quem: ______________).
+[ ] Faturamento automático (se for usar): rodado no modo Ensaio, bloqueios
+    conferidos, só depois trocado para Produção.
+
+======================================================================
+B) ROTINA DIÁRIA (dias úteis, de manhã)
+======================================================================
+[ ] Vendas > Faturamento e repasses > Faturamento > Monitor:
+    pedidos sem nota e "Atrasados (+36 h)" = 0.
+[ ] Aba Automático: nenhum aviso de pausa; ler "Por que pedidos ficaram
+    de fora" e corrigir os bloqueados (endereço, NCM, pagamento).
+[ ] Fiscal > Notas fiscais > Notas emitidas: filtro "Rejeitadas" e
+    "Processando" vazios (corrigir e emitir de novo / Consultar SEFAZ).
+[ ] Fiscal > Tributos > DIFAL e GNRE > Notas: período "Ontem" (na segunda,
+    sexta a domingo), situação "Sem guia" -> marcar -> Preparar GNRE.
+    (Notas pequenas do mesmo estado: "Guia única".)
+[ ] Aba Guias: "Selecionar as N prontas" -> conferir a data em
+    "Pagamento" -> "Enviar N ao Portal GNRE" -> confirmar.
+[ ] Guias "Rejeitada": falha temporária = reenviar; erro de dado = corrigir.
+[ ] Guias "Emitida": incluir no arquivo do banco ("Pagar pelo banco
+    (SISPAG)") antes de a mercadoria sair.
+[ ] Fiscal > Notas fiscais > Notas de devolução: rascunhos "Em aberto"
+    revisados e emitidos.
+
+======================================================================
+C) ROTINA SEMANAL
+======================================================================
+[ ] Fiscal > Notas fiscais > Notas da SEFAZ: "Buscar na SEFAZ".
+[ ] Filtro "Sem manifestação": Dar ciência -> Baixar itens -> conferir
+    com o pedido de compra -> Confirmar compra (ou Desconheço /
+    Não realizada, com justificativa).
+    Lembrete: a manifestação é manual e tem prazo legal de até 180 dias.
+[ ] Filtro "Sem contas a pagar": gerar as contas a pagar das compras que
+    não vieram pelo Bling.
+[ ] DIFAL e GNRE > Guias: nenhuma guia "Emitida" esquecida sem pagamento.
+
+======================================================================
+D) ROTINA MENSAL
+======================================================================
+[ ] DIFAL e GNRE > Apuração mensal: para cada estado com inscrição,
+    conferir notas, DIFAL, FCP e vencimento -> "Gerar guia do mês" ->
+    enviar pela aba Guias -> pagar até o vencimento.
+[ ] Conferir com a contabilidade se algum estado mudou alíquota interna,
+    FCP ou base de cálculo (atualizar em Regras fiscais e reabrir a
+    aprovação da seção).
+[ ] Notas emitidas: total de autorizadas no mês conferido com o
+    faturamento enviado à contabilidade.
+
+Observações / combinados com a contabilidade:
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________

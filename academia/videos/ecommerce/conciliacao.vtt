@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.737
+Nesta aula você vai aprender a conferir se cada venda foi paga pelo marketplace, a vincular as
+
+2
+00:00:05.737 --> 00:00:08.772
+liberações aos pedidos e a resolver as divergências.
+
+3
+00:00:09.650 --> 00:00:13.927
+A conciliação fica em Vendas, Faturamento e repasses, Conciliação de vendas.
+
+4
+00:00:13.927 --> 00:00:18.822
+Comece escolhendo o mês no seletor do canto superior direito: esse mês é a competência.
+
+5
+00:00:19.517 --> 00:00:21.181
+A faixa do topo resume o mês:
+
+6
+00:00:21.181 --> 00:00:26.634
+o líquido previsto, que os marketplaces deveriam pagar, o que já foi recebido, o que ainda está
+
+7
+00:00:26.634 --> 00:00:28.242
+a receber e as divergências.
+
+8
+00:00:28.917 --> 00:00:32.642
+Na tabela, cada linha é um pedido. Bruto é o que o cliente pagou.
+
+9
+00:00:32.642 --> 00:00:38.029
+Líquido é o bruto menos a tarifa prevista. Recebido é a soma das liberações ligadas ao pedido.
+
+10
+00:00:38.029 --> 00:00:41.984
+E o status diz se está conciliado, em divergência ou ainda a receber.
+
+11
+00:00:42.717 --> 00:00:47.535
+Correspondência exata, o mesmo pedido e o valor igual ao centavo, o Jarvis pode vincular
+
+12
+00:00:47.535 --> 00:00:50.382
+sozinho quando a conciliação automática está ligada.
+
+13
+00:00:50.382 --> 00:00:53.394
+Para o que ficou de fora, use Conciliar exatos em lote:
+
+14
+00:00:53.394 --> 00:00:58.158
+a janela lista só as correspondências perfeitas. Desmarque o que não quiser e confirme.
+
+15
+00:00:58.850 --> 00:01:01.167
+Todo o resto só entra com a sua confirmação.
+
+16
+00:01:01.167 --> 00:01:04.748
+Para ver o que o Jarvis encontrou, clique em Sugestões para aprovar.
+
+17
+00:01:05.450 --> 00:01:10.622
+Cada sugestão mostra o saldo do pedido, a liberação, a diferença, a confiança e o motivo.
+
+18
+00:01:10.622 --> 00:01:14.980
+Leia o motivo, marque o que estiver certo e clique em Aprovar selecionadas.
+
+19
+00:01:14.980 --> 00:01:16.549
+Nada muda sem o seu clique.
+
+20
+00:01:17.250 --> 00:01:20.802
+Para ver só os problemas, escolha Divergência no filtro de status.
+
+21
+00:01:20.802 --> 00:01:24.193
+São pedidos que foram pagos com um valor diferente do previsto.
+
+22
+00:01:24.917 --> 00:01:29.651
+Clique na seta no fim da linha para abrir o pedido. Compare o líquido esperado com o recebido.
+
+23
+00:01:29.651 --> 00:01:31.615
+A diferença aparece no saldo em aberto.
+
+24
+00:01:31.615 --> 00:01:36.400
+Anote o que descobriu em Anotação da investigação, para quem vier depois saber o que aconteceu.
+
+25
+00:01:37.117 --> 00:01:40.853
+Quer revisar um pedido por vez? Clique em Buscar correspondências.
+
+26
+00:01:40.853 --> 00:01:44.645
+O Jarvis mostra os pedidos com candidatos e a pontuação de cada um.
+
+27
+00:01:44.645 --> 00:01:49.400
+Clique em Revisar, confira pedido, liberação e valor, e só então confirme o vínculo.
+
+28
+00:01:50.117 --> 00:01:52.228
+Por fim, role até Liberações a conciliar.
+
+29
+00:01:52.228 --> 00:01:55.472
+É o dinheiro que entrou e ainda não foi ligado a nenhum pedido.
+
+30
+00:01:55.472 --> 00:02:00.004
+Quando a coluna Pedido informado traz o número, a sugestão costuma ser fácil de aprovar.
+
+31
+00:02:00.717 --> 00:02:05.657
+Agora é a sua vez. Abra a demonstração, aprove uma sugestão e investigue uma divergência.
+
+32
+00:02:05.657 --> 00:02:08.821
+O passo a passo completo está no capítulo três do manual.

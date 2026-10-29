@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.211
+Nesta aula você vai lançar e pagar contas, montar um lote de pagamento, gerar o arquivo do
+
+2
+00:00:05.211 --> 00:00:07.967
+banco, conciliar o extrato e ler o fluxo de caixa.
+
+3
+00:00:08.850 --> 00:00:12.125
+As contas ficam em Financeiro, A pagar, Contas a pagar.
+
+4
+00:00:12.125 --> 00:00:18.555
+Os cartões do topo mostram o que venceu, o que vence hoje, os próximos sete dias e o que já foi pago no mês.
+
+5
+00:00:18.555 --> 00:00:23.258
+Logo abaixo, o gráfico Próximos 14 dias mostra quanto sai do caixa em cada dia.
+
+6
+00:00:23.983 --> 00:00:28.242
+Conta sem nota de compra, como aluguel ou serviço, entra por Novo lançamento.
+
+7
+00:00:28.242 --> 00:00:31.781
+Escolha o fornecedor. Se tiver o boleto, cole a linha digitável:
+
+8
+00:00:31.781 --> 00:00:34.269
+o valor e o vencimento se preenchem sozinhos.
+
+9
+00:00:34.983 --> 00:00:39.367
+Escolha a categoria e informe o valor total, as parcelas e o primeiro vencimento.
+
+10
+00:00:39.367 --> 00:00:43.913
+Para despesa fixa, marque Despesa recorrente. Confira e clique em Salvar lançamento.
+
+11
+00:00:43.913 --> 00:00:47.918
+Compras com nota fiscal não se lançam aqui: elas chegam sozinhas do Bling.
+
+12
+00:00:48.650 --> 00:00:53.678
+Pagou uma conta? Clique em Pagar na linha. Confira a data, a conta de saída e o valor pago.
+
+13
+00:00:53.678 --> 00:00:58.264
+Pagamento menor que o saldo deixa o título parcial. Só confirme depois de conferir;
+
+14
+00:00:58.264 --> 00:00:59.424
+aqui, vamos cancelar.
+
+15
+00:01:00.117 --> 00:01:03.278
+Paga várias contas no mesmo dia? Abra o Lote de pagamento.
+
+16
+00:01:03.278 --> 00:01:08.346
+Ele reúne o que vence nos próximos sete dias, com o código de cada boleto para copiar e colar
+
+17
+00:01:08.346 --> 00:01:09.436
+no internet banking.
+
+18
+00:01:09.436 --> 00:01:13.851
+Depois de pagar tudo, informe a data e a conta e clique em Marcar lote como pago.
+
+19
+00:01:14.583 --> 00:01:17.960
+Com conta no Itaú, use Financeiro, Bancos, Arquivos do banco.
+
+20
+00:01:17.960 --> 00:01:21.392
+Desmarque o que não vai pagar agora e clique em Gerar remessa.
+
+21
+00:01:21.392 --> 00:01:26.651
+Envie o arquivo no internet banking. Quando o banco devolver o retorno, importe na aba Retorno:
+
+22
+00:01:26.651 --> 00:01:28.643
+só o que o banco pagou recebe baixa.
+
+23
+00:01:29.317 --> 00:01:30.331
+Agora, o extrato.
+
+24
+00:01:30.331 --> 00:01:35.401
+Em Conciliação bancária, clique em Importar extrato e escolha o arquivo OFX do banco.
+
+25
+00:01:35.401 --> 00:01:40.590
+Confira o banco, o período e o saldo, escolha a conta e clique em Importar e conciliar.
+
+26
+00:01:41.317 --> 00:01:44.922
+Cada linha põe o movimento do banco ao lado da sugestão do Jarvis.
+
+27
+00:01:44.922 --> 00:01:49.566
+Sugestão aproximada é palpite: confira valor, data e nome antes de clicar em Aceitar.
+
+28
+00:01:50.250 --> 00:01:55.342
+Sugestão errada? Clique em Outro e diga o que é o movimento: receita, transferência ou despesa.
+
+29
+00:01:55.342 --> 00:01:59.576
+Deixe marcado Lembrar para os próximos, e o Jarvis passa a classificar sozinho.
+
+30
+00:02:00.250 --> 00:02:01.854
+Por fim, o Fluxo de caixa.
+
+31
+00:02:01.854 --> 00:02:07.653
+Escolha o horizonte, de 15 a 90 dias, e veja o saldo de hoje, as entradas, as saídas e o menor
+
+32
+00:02:07.653 --> 00:02:11.909
+saldo do período, com o aviso de caixa saudável, atenção ou negativo.
+
+33
+00:02:12.583 --> 00:02:18.155
+No gráfico Saldo dia a dia, a linha contínua é o extrato real e a tracejada é a projeção.
+
+34
+00:02:18.155 --> 00:02:20.722
+Para pensar no e se, use Simular cenário:
+
+35
+00:02:20.722 --> 00:02:24.290
+atraso de repasse ou pagamentos adiados, sem gravar nada.
+
+36
+00:02:24.983 --> 00:02:25.982
+Agora é a sua vez.
+
+37
+00:02:25.982 --> 00:02:30.530
+Abra a demonstração, lance uma conta parcelada e concilie um movimento do extrato.
+
+38
+00:02:30.530 --> 00:02:33.692
+O passo a passo completo está no capítulo seis do manual.

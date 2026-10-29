@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.373
+Nesta aula você vai acompanhar o fiscal do dia a dia:
+
+2
+00:00:03.373 --> 00:00:09.561
+os pedidos ainda sem nota, as notas emitidas, as guias de DIFAL e as notas de compra que chegam da SEFAZ.
+
+3
+00:00:10.450 --> 00:00:13.715
+Comece em Vendas, Faturamento e repasses, Faturamento.
+
+4
+00:00:13.715 --> 00:00:19.339
+Os quadros mostram os pedidos sem nota, os atrasados há mais de 36 horas, quem emite as notas
+
+5
+00:00:19.339 --> 00:00:20.911
+hoje e as notas do Jarvis.
+
+6
+00:00:21.583 --> 00:00:25.894
+Na tabela Aguardando nota fiscal, os pedidos mais antigos vêm primeiro.
+
+7
+00:00:25.894 --> 00:00:30.023
+A coluna Há fica amarela depois de 24 horas e vermelha depois de 36.
+
+8
+00:00:30.717 --> 00:00:34.554
+Com a emissão liberada, o botão Emitir NF-e emite a nota daquele pedido.
+
+9
+00:00:34.554 --> 00:00:37.486
+O Jarvis sempre pede a sua confirmação antes de enviar.
+
+10
+00:00:38.183 --> 00:00:40.558
+A aba Automático liga a emissão automática.
+
+11
+00:00:40.558 --> 00:00:45.637
+Quem liga é o dono, e o certo é começar pelo modo Ensaio, que só mostra o que seria emitido.
+
+12
+00:00:46.317 --> 00:00:50.806
+Em Fiscal, Notas fiscais, Notas emitidas, ficam todas as NF-e do Jarvis.
+
+13
+00:00:50.806 --> 00:00:56.418
+Os quadros mostram as autorizadas no mês, as rejeitadas, as canceladas e o ambiente atual.
+
+14
+00:00:57.117 --> 00:01:01.203
+Use os filtros. Em Rejeitadas, a mensagem da SEFAZ aparece em vermelho.
+
+15
+00:01:01.203 --> 00:01:05.174
+Nota rejeitada não tem valor fiscal: corrija a causa e emita de novo.
+
+16
+00:01:05.850 --> 00:01:10.973
+Clique numa nota autorizada para ver o detalhe: chave, itens e totais, incluindo o DIFAL.
+
+17
+00:01:10.973 --> 00:01:16.729
+Cancelar nota e Carta de correção ficam aqui e só enviam depois da justificativa e do último clique.
+
+18
+00:01:17.450 --> 00:01:19.769
+DIFAL e GNRE fica em Fiscal, Tributos.
+
+19
+00:01:19.769 --> 00:01:25.139
+Na venda para consumidor final de outro estado, a diferença do ICMS vai para o estado do
+
+20
+00:01:25.139 --> 00:01:27.702
+comprador e é paga pela loja em guia GNRE.
+
+21
+00:01:27.702 --> 00:01:31.912
+Quando isso vale para a sua empresa, quem confirma é a contabilidade.
+
+22
+00:01:32.583 --> 00:01:37.520
+Na aba Notas, com a situação em Sem guia, marque as notas e clique em Preparar GNRE.
+
+23
+00:01:37.520 --> 00:01:41.105
+As guias vão para a aba Guias como rascunho, sem enviar nada.
+
+24
+00:01:41.783 --> 00:01:47.991
+Na aba Guias, clique em Selecionar as prontas e depois em Enviar ao Portal GNRE, que pede confirmação.
+
+25
+00:01:47.991 --> 00:01:52.372
+A guia emitida traz a linha digitável e o PDF e entra no contas a pagar.
+
+26
+00:01:52.372 --> 00:01:54.380
+Para pagar, use Pagar pelo banco.
+
+27
+00:01:55.050 --> 00:01:59.533
+Por fim, Notas da SEFAZ: as notas de compra emitidas contra o seu CNPJ.
+
+28
+00:01:59.533 --> 00:02:02.248
+Clique em Sem manifestação e abra uma nota.
+
+29
+00:02:02.917 --> 00:02:07.769
+Dar ciência libera a nota completa, e Baixar itens mostra os produtos e as duplicatas.
+
+30
+00:02:07.769 --> 00:02:11.718
+Só clique em Confirmar compra depois de conferir mercadoria e valores.
+
+31
+00:02:11.718 --> 00:02:14.539
+Se a empresa não reconhece a nota, use Desconheço.
+
+32
+00:02:15.250 --> 00:02:16.248
+Agora é a sua vez.
+
+33
+00:02:16.248 --> 00:02:21.185
+Abra a demonstração, encontre uma nota rejeitada e prepare uma guia de DIFAL em rascunho.
+
+34
+00:02:21.185 --> 00:02:24.790
+Na dúvida sobre regras fiscais, confirme com a sua contabilidade.
+
+35
+00:02:24.790 --> 00:02:27.951
+O passo a passo completo está no capítulo oito do manual.

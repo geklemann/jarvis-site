@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.159
+Nesta aula você vai ver quanto sobra de cada venda no Radar de margem, entender por que a
+
+2
+00:00:05.159 --> 00:00:10.068
+margem mudou com o Raio-X e testar novos preços na Formação de preço, sem aplicar nada às
+
+3
+00:00:10.068 --> 00:00:10.399
+cegas.
+
+4
+00:00:11.317 --> 00:00:14.931
+O Radar de margem fica em Vendas, Lucro e preço, Radar de margem.
+
+5
+00:00:14.931 --> 00:00:17.488
+O topo resume a margem de contribuição do mês:
+
+6
+00:00:17.488 --> 00:00:21.714
+o que sobra das vendas depois de tarifa, frete, custo do produto e tributos.
+
+7
+00:00:22.383 --> 00:00:23.103
+Leia o aviso:
+
+8
+00:00:23.103 --> 00:00:28.033
+ele mostra a conta usada e a alíquota de tributos, que vem do último balancete importado.
+
+9
+00:00:28.033 --> 00:00:30.747
+Pedidos cancelados ou reembolsados ficam de fora.
+
+10
+00:00:31.450 --> 00:00:33.735
+Os quatro quadros respondem o essencial:
+
+11
+00:00:33.735 --> 00:00:39.104
+a Margem de contribuição, os Pedidos com prejuízo, a Tarifa fora do padrão, que vale contestar
+
+12
+00:00:39.104 --> 00:00:42.759
+com o marketplace, e o Lucro líquido, depois das despesas fixas.
+
+13
+00:00:43.450 --> 00:00:47.360
+Logo abaixo, a aba Por anúncio mostra cada produto em cada canal:
+
+14
+00:00:47.360 --> 00:00:50.608
+preço praticado, custo, tarifa, margem e preço mínimo.
+
+15
+00:00:50.608 --> 00:00:54.638
+Clique no título de uma coluna, como Margem contrib., para ordenar.
+
+16
+00:00:55.317 --> 00:01:00.907
+A aba Tarifas fora do padrão lista os pedidos com tarifa acima do normal do canal para o mesmo produto.
+
+17
+00:01:00.907 --> 00:01:04.001
+A coluna Excesso é o valor a contestar com o marketplace.
+
+18
+00:01:04.717 --> 00:01:09.745
+Quando a margem muda, abra o Raio-X da margem. O mês analisado é o do seletor no topo da tela.
+
+19
+00:01:09.745 --> 00:01:13.703
+Em Comparando com, escolha o mês de comparação. O padrão é o mês anterior.
+
+20
+00:01:14.383 --> 00:01:19.848
+Os quadros mostram a margem de cada mês, a Variação em pontos percentuais e o que ficou Fora da
+
+21
+00:01:19.848 --> 00:01:21.918
+conta por falta de custo cadastrado.
+
+22
+00:01:22.650 --> 00:01:28.114
+Mais abaixo, De onde veio a variação separa o efeito da tarifa, do frete, do custo e dos tributos.
+
+23
+00:01:28.114 --> 00:01:33.076
+E a lista de produtos que mais puxaram a margem para baixo diz o que mudou e o que fazer.
+
+24
+00:01:33.783 --> 00:01:36.761
+Para ajustar preços, abra Preços, Formação de preço.
+
+25
+00:01:36.761 --> 00:01:43.001
+A faixa Tabela × real compara o que a sua tabela supõe com o que as vendas dos últimos trinta dias mostraram.
+
+26
+00:01:43.717 --> 00:01:48.613
+Ajuste a Margem alvo na régua. Em cada coluna de canal, digite o preço de tabela:
+
+27
+00:01:48.613 --> 00:01:51.454
+o Jarvis mostra a margem e o lucro por unidade.
+
+28
+00:01:51.454 --> 00:01:55.686
+E o link sug., abaixo do preço, traz o valor que atinge a margem alvo.
+
+29
+00:01:56.383 --> 00:01:59.383
+Para testar antes de mudar, clique em Simular em massa.
+
+30
+00:01:59.383 --> 00:02:03.256
+Informe a nova margem de lucro, os canais e a queda de vendas estimada.
+
+31
+00:02:03.983 --> 00:02:08.896
+Logo abaixo, a prévia mostra o faturamento e o lucro de hoje e depois, canal por canal.
+
+32
+00:02:08.896 --> 00:02:14.091
+Só clique em Aplicar se a conta fechar. Se não, use Fechar sem aplicar: nada muda na tabela.
+
+33
+00:02:14.783 --> 00:02:15.758
+Agora é a sua vez.
+
+34
+00:02:15.758 --> 00:02:21.280
+Abra a demonstração, encontre o anúncio de menor margem e simule uma nova margem na Formação de preço.
+
+35
+00:02:21.280 --> 00:02:24.419
+O passo a passo completo está no capítulo cinco do manual.

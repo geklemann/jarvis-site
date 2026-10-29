@@ -1,0 +1,86 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "Conhecer o Jarvis e dar acesso à equipe",
+  "resumo": "A tela inicial, os caminhos para achar qualquer tela e como liberar o acesso de cada pessoa.",
+  "segundos": 126
+ },
+ "integracoes": {
+  "capitulo": "integracoes",
+  "n": 2,
+  "titulo": "Conectar as plataformas e importar relatórios",
+  "resumo": "Ligue o Bling e os marketplaces, sincronize o histórico e importe planilhas quando não houver integração.",
+  "segundos": 137
+ },
+ "conciliacao": {
+  "capitulo": "conciliacao",
+  "n": 3,
+  "titulo": "Conciliar os repasses dos marketplaces",
+  "resumo": "Confira se cada venda foi paga, vincule as liberações e resolva as divergências.",
+  "segundos": 129
+ },
+ "vendas": {
+  "capitulo": "vendas",
+  "n": 4,
+  "titulo": "Acompanhar as vendas e vender direto",
+  "resumo": "Leia o mês na Visão geral, defina metas, conheça produtos e clientes e registre uma venda direta.",
+  "segundos": 160
+ },
+ "margem-e-precos": {
+  "capitulo": "margem-e-precos",
+  "n": 5,
+  "titulo": "Medir a margem e formar preços",
+  "resumo": "Veja o lucro real de cada venda, descubra por que a margem mudou e teste novos preços antes de aplicar.",
+  "segundos": 145
+ },
+ "financeiro": {
+  "capitulo": "financeiro",
+  "n": 6,
+  "titulo": "Pagar as contas, conciliar o banco e ler o caixa",
+  "resumo": "Lance e pague as contas, use o lote e o arquivo do banco, concilie o extrato e acompanhe o fluxo de caixa.",
+  "segundos": 154
+ },
+ "estoque-e-compras": {
+  "capitulo": "estoque-e-compras",
+  "n": 7,
+  "titulo": "Controlar o estoque e comprar na hora certa",
+  "resumo": "Leia a posição de estoque, gere o pedido de compra pela sugestão, dê entrada no que chegou, conte o inventário e acompanhe as importações.",
+  "segundos": 141
+ },
+ "fiscal": {
+  "capitulo": "fiscal",
+  "n": 8,
+  "titulo": "Acompanhar notas fiscais, DIFAL e GNRE",
+  "resumo": "Veja os pedidos sem nota, confira as notas emitidas, prepare as guias de DIFAL e manifeste as notas de compra.",
+  "segundos": 149
+ },
+ "atendimento-e-crm": {
+  "capitulo": "atendimento-e-crm",
+  "n": 9,
+  "titulo": "Atender clientes e usar o CRM",
+  "resumo": "Responda a fila de atendimento com a solução sugerida, acompanhe as devoluções e conheça cada cliente no CRM.",
+  "segundos": 150
+ },
+ "orcamento-e-resultado": {
+  "capitulo": "orcamento-e-resultado",
+  "n": 10,
+  "titulo": "Orçar o ano e acompanhar o resultado",
+  "resumo": "Monte o orçamento, ajuste as premissas, compare orçado com realizado e leia a DRE gerencial.",
+  "segundos": 166
+ },
+ "folha-e-ponto": {
+  "capitulo": "folha-e-ponto",
+  "n": 11,
+  "titulo": "Conferir a folha, as férias e o ponto",
+  "resumo": "Acompanhe o mês no Painel da folha, confira os holerites, programe férias e corrija o espelho de ponto.",
+  "segundos": 149
+ },
+ "relatorios-ia-auditoria": {
+  "capitulo": "relatorios-ia-auditoria",
+  "n": 12,
+  "titulo": "Acompanhar relatórios, alertas e auditoria",
+  "resumo": "Exporte a conciliação do mês, escolha quem recebe os avisos, descubra quem alterou o quê e peça ajuda.",
+  "segundos": 121
+ }
+}

@@ -1,0 +1,149 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.364
+Nesta aula você vai ler a posição de estoque, transformar a sugestão de compras em pedido, dar
+
+2
+00:00:05.364 --> 00:00:09.770
+entrada no que chegou ao galpão, contar o inventário e acompanhar as importações.
+
+3
+00:00:10.650 --> 00:00:12.688
+Comece em Estoque, Posição de estoque.
+
+4
+00:00:12.688 --> 00:00:17.623
+Os cartões do topo mostram o valor em estoque a custo, os produtos em ruptura, o que comprar
+
+5
+00:00:17.623 --> 00:00:19.018
+agora e o que está parado.
+
+6
+00:00:19.018 --> 00:00:20.681
+Clique num cartão para filtrar.
+
+7
+00:00:21.383 --> 00:00:26.278
+As abas separam cada situação: ruptura, comprar, saudável, excesso, parado e zerado.
+
+8
+00:00:26.278 --> 00:00:30.299
+Use a busca, a curva ABC e a ordem para achar primeiro o que importa.
+
+9
+00:00:30.983 --> 00:00:33.109
+Clique num produto para abrir a ficha:
+
+10
+00:00:33.109 --> 00:00:36.408
+saldo, ritmo de venda, cobertura em dias e ponto de pedido.
+
+11
+00:00:36.408 --> 00:00:42.169
+Em Reposição, preencha o estoque de segurança, o prazo de reposição e o fornecedor, e clique em Salvar.
+
+12
+00:00:42.169 --> 00:00:44.462
+São eles que guiam a sugestão de compras.
+
+13
+00:00:45.183 --> 00:00:46.857
+Agora, a Sugestão de compras.
+
+14
+00:00:46.857 --> 00:00:52.338
+O Jarvis calcula quanto comprar pelo ritmo de venda e pelo prazo de reposição, já descontando o
+
+15
+00:00:52.338 --> 00:00:53.434
+que está a caminho.
+
+16
+00:00:53.434 --> 00:00:57.588
+Os cartões mostram os itens, o investimento sugerido e a cobertura alvo.
+
+17
+00:00:58.317 --> 00:00:59.819
+Cada bloco é um fornecedor.
+
+18
+00:00:59.819 --> 00:01:03.660
+Use Planilha para pedir cotação, ou clique em Criar pedido de compra:
+
+19
+00:01:03.660 --> 00:01:06.165
+sai um rascunho com as quantidades sugeridas.
+
+20
+00:01:06.850 --> 00:01:11.695
+No rascunho, confira quantidades, custos, a previsão de entrega e o e-mail do fornecedor.
+
+21
+00:01:11.695 --> 00:01:15.069
+Depois, clique em Enviar por e-mail, ou em Já enviei por fora.
+
+22
+00:01:15.069 --> 00:01:19.424
+Quando a nota do fornecedor chega ao Bling, o pedido muda sozinho para Recebido.
+
+23
+00:01:20.117 --> 00:01:24.732
+Chegou mercadoria sem nota com estoque no Bling? Abra Operação, Chegada no galpão.
+
+24
+00:01:24.732 --> 00:01:29.742
+Bipe o código de barras ou digite o SKU e tecle Enter. Confira o produto e o saldo atual.
+
+25
+00:01:30.450 --> 00:01:35.294
+Digite a quantidade que chegou e clique em Dar entrada: o Bling é atualizado na hora. Errou?
+
+26
+00:01:35.294 --> 00:01:36.979
+Desfazer a última faz o estorno.
+
+27
+00:01:37.650 --> 00:01:39.785
+Para contar o estoque, use Inventário.
+
+28
+00:01:39.785 --> 00:01:43.773
+Inicie ou continue uma contagem e bipe cada unidade no campo do código:
+
+29
+00:01:43.773 --> 00:01:48.605
+cada leitura soma no produto. Os cartões mostram o que tem diferença contra o sistema.
+
+30
+00:01:48.605 --> 00:01:51.245
+No fim, conclua e lance as diferenças no Bling.
+
+31
+00:01:51.917 --> 00:01:55.297
+As importações ficam em Importações, Painel de importações.
+
+32
+00:01:55.297 --> 00:02:01.542
+O resumo mostra quantos processos e contêineres estão em cada etapa, da produção no fornecedor até a entrega.
+
+33
+00:02:02.250 --> 00:02:06.113
+Cada cartão é um processo, com fornecedor, prazos e o próximo marco.
+
+34
+00:02:06.113 --> 00:02:10.772
+Quando a carga avança, mude a etapa direto no cartão: a mudança fica no histórico.
+
+35
+00:02:11.450 --> 00:02:12.441
+Agora é a sua vez.
+
+36
+00:02:12.441 --> 00:02:17.564
+Abra a demonstração, crie um pedido de compra pela sugestão e conte um produto no inventário.
+
+37
+00:02:17.564 --> 00:02:20.703
+O passo a passo completo está no capítulo sete do manual.

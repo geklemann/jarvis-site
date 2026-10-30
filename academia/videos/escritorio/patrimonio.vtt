@@ -1,0 +1,149 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.019
+Nesta aula você vai configurar a depreciação, conferir os bens, trazer um bem pela nota,
+
+2
+00:00:05.019 --> 00:00:09.680
+calcular e integrar o mês, simular uma venda, imprimir etiquetas e fechar o patrimônio
+
+3
+00:00:09.680 --> 00:00:11.089
+conferido com o balancete.
+
+4
+00:00:11.983 --> 00:00:16.915
+O patrimônio trabalha com a empresa ativa. Digite parte do nome e escolha a empresa;
+
+5
+00:00:16.915 --> 00:00:21.317
+aqui, a Marcenaria Pinheiro. Depois, troque pelo seletor do topo ou com F8.
+
+6
+00:00:22.050 --> 00:00:27.746
+Em Controle › Parâmetros, cada vigência diz quando o controle começou no Jarvis e como é o primeiro mês.
+
+7
+00:00:27.746 --> 00:00:32.839
+Marque os cálculos em paralelo, fiscal e societário, e escolha qual vai para a contabilidade.
+
+8
+00:00:32.839 --> 00:00:34.208
+A diferença vai ao Lalur.
+
+9
+00:00:34.917 --> 00:00:41.437
+Em Arquivos › Bens, os cartões somam o custo, a depreciação fiscal acumulada, o valor líquido e a societária.
+
+10
+00:00:41.437 --> 00:00:46.402
+Para cadastrar, Novo bem, ou F7: o grupo preenche a natureza, as contas e as taxas.
+
+11
+00:00:46.402 --> 00:00:47.539
+Enter abre a ficha.
+
+12
+00:00:48.250 --> 00:00:53.819
+Bem comprado com nota? Em Movimentos › Aquisição pela nota de entrada, clique em Ler as notas.
+
+13
+00:00:53.819 --> 00:00:57.789
+O Jarvis acha os itens com CFOP de ativo e sugere o grupo pelo NCM.
+
+14
+00:00:57.789 --> 00:00:59.744
+Marque e clique em Criar os bens.
+
+15
+00:01:00.450 --> 00:01:02.395
+Todo mês, abra o Cálculo mensal.
+
+16
+00:01:02.395 --> 00:01:07.926
+Os cartões mostram a depreciação fiscal, a societária, a diferença para o Lalur e o que vai
+
+17
+00:01:07.926 --> 00:01:09.202
+para a contabilidade.
+
+18
+00:01:09.202 --> 00:01:11.329
+Clique em Calcular e gravar, ou F5.
+
+19
+00:01:12.050 --> 00:01:13.671
+Depois, Integração contábil.
+
+20
+00:01:13.671 --> 00:01:19.284
+A faixa mostra cada mês integrado ou a integrar, e a prévia traz as partidas por centro de custo.
+
+21
+00:01:19.284 --> 00:01:23.683
+Confira e clique em Integrar o mês. Para refazer, use Desfazer a integração.
+
+22
+00:01:24.383 --> 00:01:29.033
+Vendeu um bem? Em Baixa e venda, escolha o bem, o motivo e o valor da venda.
+
+23
+00:01:29.033 --> 00:01:34.661
+O quadro calcula a depreciação até a data, o valor contábil e o ganho ou a perda de capital.
+
+24
+00:01:34.661 --> 00:01:37.353
+Depois, Baixar o bem. Aqui, vamos descartar.
+
+25
+00:01:38.050 --> 00:01:44.202
+Em Relatórios › Etiquetas com QR Code, escolha a folha, os bens e as posições a pular, e clique em Imprimir.
+
+26
+00:01:44.202 --> 00:01:47.791
+O inventário físico lê essas etiquetas com a câmera do celular.
+
+27
+00:01:48.517 --> 00:01:53.675
+A Conciliação com o balancete compara o controle patrimonial com a contabilidade, conta a conta.
+
+28
+00:01:53.675 --> 00:01:55.287
+Toda linha deve dizer confere;
+
+29
+00:01:55.287 --> 00:01:58.995
+se houver diferença, falta calcular, integrar ou alguém lançou à mão.
+
+30
+00:01:59.717 --> 00:02:01.856
+Por fim, Controle › Fechamento mensal.
+
+31
+00:02:01.856 --> 00:02:06.303
+Resolva os itens do checklist pelos botões de cada um e clique em Fechar o mês.
+
+32
+00:02:06.303 --> 00:02:08.161
+Regras de depreciação e de baixa:
+
+33
+00:02:08.161 --> 00:02:11.652
+confirme sempre na legislação e nas normas contábeis vigentes.
+
+34
+00:02:12.383 --> 00:02:13.391
+Agora é a sua vez.
+
+35
+00:02:13.391 --> 00:02:18.711
+Abra a demonstração, escolha a Marcenaria Pinheiro, calcule a depreciação de setembro e integre
+
+36
+00:02:18.711 --> 00:02:19.663
+na contabilidade.
+
+37
+00:02:19.663 --> 00:02:22.855
+O passo a passo completo está no capítulo oito do manual.

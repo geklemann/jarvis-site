@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.965
+Nesta aula você vai ler o painel financeiro, lançar uma conta parcelada, dar baixa num
+
+2
+00:00:04.965 --> 00:00:09.241
+recebimento, aprovar um pagamento, conciliar o extrato e ver o fluxo de caixa.
+
+3
+00:00:10.117 --> 00:00:12.292
+O Financeiro abre no Painel financeiro.
+
+4
+00:00:12.292 --> 00:00:17.256
+Os cartões mostram o saldo em contas, o que entra e o que sai hoje, o saldo previsto para
+
+5
+00:00:17.256 --> 00:00:18.929
+trinta dias e a inadimplência.
+
+6
+00:00:19.650 --> 00:00:21.530
+Logo abaixo vêm os avisos do dia:
+
+7
+00:00:21.530 --> 00:00:26.032
+contas aguardando aprovação, vencidos, retornos do banco e extrato a conciliar.
+
+8
+00:00:26.032 --> 00:00:28.938
+Clique no link de cada aviso para ir direto à tela.
+
+9
+00:00:29.650 --> 00:00:33.467
+Para lançar, abra Contas a receber e clique em Nova conta a receber.
+
+10
+00:00:33.467 --> 00:00:38.799
+Preencha a descrição, o cliente, a categoria, o vencimento da primeira parcela e o valor total.
+
+11
+00:00:39.783 --> 00:00:44.768
+Na aba Parcelas, informe a quantidade e o intervalo. A prévia mostra cada parcela;
+
+12
+00:00:44.768 --> 00:00:49.936
+os centavos vão para a última. Na aba Centro e rateio, divida entre centros de custo.
+
+13
+00:00:49.936 --> 00:00:52.610
+Depois, Gravar conta. Aqui, vamos descartar.
+
+14
+00:00:53.317 --> 00:00:58.505
+Recebeu? Marque a conta e clique em Receber selecionadas. Confira a data, a conta e a forma.
+
+15
+00:00:58.505 --> 00:01:03.298
+Conta em atraso já vem com multa e juros calculados; ajuste se o combinado for outro.
+
+16
+00:01:03.298 --> 00:01:05.723
+Valor menor que o saldo vira baixa parcial.
+
+17
+00:01:06.450 --> 00:01:11.443
+Confira tudo e clique em Confirmar recebimento. Errou? Abra a conta e use Estornar baixa.
+
+18
+00:01:12.117 --> 00:01:16.988
+Contas a pagar acima da alçada esperam em Aprovação de pagamentos. Clique em Decidir:
+
+19
+00:01:16.988 --> 00:01:21.802
+o painel mostra o valor, a faixa, quem aprova, o fornecedor, a categoria e o centro.
+
+20
+00:01:21.802 --> 00:01:24.783
+Escreva a observação e clique em Aprovar ou Recusar.
+
+21
+00:01:25.450 --> 00:01:30.503
+Agora, o banco. Em Conciliação bancária, clique em Importar OFX e escolha o extrato.
+
+22
+00:01:30.503 --> 00:01:35.736
+Os cartões mostram o que falta conciliar e quantas sugestões fortes o Jarvis encontrou.
+
+23
+00:01:36.450 --> 00:01:41.972
+A coluna Sugestão diz se o movimento casou com um título, um lançamento ou uma regra, com a confiança.
+
+24
+00:01:41.972 --> 00:01:46.249
+Confira e clique em Confirmar as sugestões para conciliar as fortes de uma vez.
+
+25
+00:01:46.917 --> 00:01:49.274
+Movimento sem título? Clique em Resolver.
+
+26
+00:01:49.274 --> 00:01:54.908
+Escolha a categoria, a pessoa e o centro de custo, e marque Criar regra para os próximos extratos.
+
+27
+00:01:54.908 --> 00:01:58.875
+Use Classificar, ou Criar título e baixar para gerar a conta já paga.
+
+28
+00:01:59.583 --> 00:02:01.803
+Por fim, Relatórios, Fluxo de caixa.
+
+29
+00:02:01.803 --> 00:02:07.229
+Escolha o período, as colunas e o agrupamento por dia, semana ou mês, e clique em Gerar.
+
+30
+00:02:07.229 --> 00:02:12.963
+O relatório mostra o realizado, o previsto e o saldo acumulado, com o menor saldo do período.
+
+31
+00:02:12.963 --> 00:02:14.751
+Exporte em PDF, Excel ou CSV.
+
+32
+00:02:15.450 --> 00:02:16.455
+Agora é a sua vez.
+
+33
+00:02:16.455 --> 00:02:21.425
+Abra a demonstração, lance uma conta em três parcelas e concilie um movimento do extrato.
+
+34
+00:02:21.425 --> 00:02:24.608
+O passo a passo completo está no capítulo nove do manual.

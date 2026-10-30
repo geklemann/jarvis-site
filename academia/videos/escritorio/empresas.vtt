@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.284
+Nesta aula você vai trabalhar a carteira de empresas, cadastrar e implantar uma empresa nova e
+
+2
+00:00:05.284 --> 00:00:07.855
+manter a ficha em dia, com o regime e os sócios.
+
+3
+00:00:08.783 --> 00:00:11.396
+A carteira fica em Empresas › Controle › Empresas.
+
+4
+00:00:11.396 --> 00:00:15.993
+Os botões do alto importam a carteira do sistema anterior ou cadastram uma empresa nova.
+
+5
+00:00:16.717 --> 00:00:18.558
+Os cartões resumem a carteira:
+
+6
+00:00:18.558 --> 00:00:22.670
+as ativas, o honorário mensal, o regime e os cadastros incompletos.
+
+7
+00:00:22.670 --> 00:00:27.765
+Abaixo, filtre pela situação, pelo regime, pela UF, pelo responsável ou pelo grupo.
+
+8
+00:00:28.450 --> 00:00:30.545
+Marque as empresas para agir em lote:
+
+9
+00:00:30.545 --> 00:00:33.828
+Atribuir responsável, Incluir em grupo, Inativar e Ativar.
+
+10
+00:00:33.828 --> 00:00:36.036
+Enter, ou clique duplo, abre a empresa.
+
+11
+00:00:36.783 --> 00:00:39.764
+Com pressa? O Cadastro rápido pede o essencial:
+
+12
+00:00:39.764 --> 00:00:43.251
+a razão social, o CNPJ, o regime, a UF e o responsável.
+
+13
+00:00:43.251 --> 00:00:47.499
+A empresa fica como cadastro incompleto até a ficha ser completada.
+
+14
+00:00:48.183 --> 00:00:51.701
+Para implantar de verdade, abra Movimentos › Implantação de empresa.
+
+15
+00:00:51.701 --> 00:00:55.684
+Em Implantações recentes, Retomar continua uma implantação que parou no meio.
+
+16
+00:00:56.383 --> 00:00:58.080
+O assistente tem oito passos.
+
+17
+00:00:58.080 --> 00:01:03.228
+Vai do perfil e do CNPJ ao regime com a vigência, ao plano de contas e aos acumuladores.
+
+18
+00:01:03.228 --> 00:01:08.200
+Depois vêm os saldos de abertura, as receitas dos 12 meses (RBT12) e os responsáveis.
+
+19
+00:01:08.200 --> 00:01:10.013
+No resumo, clique em Implantar.
+
+20
+00:01:10.717 --> 00:01:15.160
+Agora, a Ficha da empresa, em Controle. Ela trabalha com a empresa ativa:
+
+21
+00:01:15.160 --> 00:01:16.500
+escolha a Loja Modelo.
+
+22
+00:01:16.500 --> 00:01:22.344
+As abas guardam a identificação, o endereço, os contatos, o regime, os sócios e os responsáveis.
+
+23
+00:01:23.050 --> 00:01:26.158
+Em Regime e tributação, cada regime tem a sua vigência.
+
+24
+00:01:26.158 --> 00:01:30.452
+Para trocar, preencha Nova vigência com o mês, o regime e o motivo da troca.
+
+25
+00:01:30.452 --> 00:01:32.994
+Antes de mudar, confira a legislação vigente.
+
+26
+00:01:33.717 --> 00:01:37.804
+Em Sócios, o aviso verde confirma que o quadro bate com o do Registro.
+
+27
+00:01:37.804 --> 00:01:43.702
+Abaixo vêm o capital social e uma linha por sócio, com a qualificação, a participação e o pró-labore.
+
+28
+00:01:44.383 --> 00:01:47.743
+Em Responsáveis, escolha quem cuida de cada departamento.
+
+29
+00:01:47.743 --> 00:01:52.870
+As abas seguintes trazem as filiais, os módulos, o honorário, os acessos e o histórico.
+
+30
+00:01:53.583 --> 00:01:55.572
+A Visão 360° resume a empresa.
+
+31
+00:01:55.572 --> 00:02:01.670
+Os cartões trazem a receita e os tributos dos 12 meses, a guia do mês e o limite do Simples.
+
+32
+00:02:01.670 --> 00:02:04.984
+Embaixo, a situação de cada módulo na competência.
+
+33
+00:02:05.717 --> 00:02:11.150
+Em Relatórios ficam a Relação de empresas, o quadro societário e as etiquetas.
+
+34
+00:02:11.150 --> 00:02:15.469
+Escolha a ordem, a quebra e as colunas e clique em Gerar (F5).
+
+35
+00:02:15.469 --> 00:02:17.907
+Saia em CSV, Excel, PDF ou imprima.
+
+36
+00:02:18.583 --> 00:02:19.599
+Agora é a sua vez.
+
+37
+00:02:19.599 --> 00:02:25.807
+Abra a demonstração, filtre a carteira por regime, abra a ficha da Loja Modelo e confira o regime e os sócios.
+
+38
+00:02:25.807 --> 00:02:29.588
+O passo a passo completo está no capítulo dois do manual, Empresas.

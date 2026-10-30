@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.986
+Nesta aula você vai cadastrar um cliente e um produto com os dados que a nota fiscal pede, e
+
+2
+00:00:04.986 --> 00:00:08.486
+ver como importar uma planilha e conferir o que falta nos cadastros.
+
+3
+00:00:09.383 --> 00:00:13.790
+Os clientes ficam em Cadastros › Cadastros › Clientes e fornecedores.
+
+4
+00:00:13.790 --> 00:00:19.729
+Os quadros do topo mostram quantos são clientes, quantos são fornecedores e quantos estão Sem
+
+5
+00:00:19.729 --> 00:00:21.389
+CPF/CNPJ, que a nota pede.
+
+6
+00:00:22.117 --> 00:00:26.138
+Para achar alguém, use Buscar e os filtros de Tipo, UF e Situação.
+
+7
+00:00:26.138 --> 00:00:28.514
+Dois cliques numa pessoa abrem a ficha.
+
+8
+00:00:29.183 --> 00:00:32.766
+Para cadastrar, clique em Nova pessoa, ou tecle F7.
+
+9
+00:00:32.766 --> 00:00:38.808
+Na aba Identificação, preencha o Nome / razão social, o tipo de Pessoa e o CPF / CNPJ.
+
+10
+00:00:39.517 --> 00:00:45.350
+Informe o Contribuinte do ICMS e marque os Tipos: cliente, fornecedor, transportadora.
+
+11
+00:00:45.350 --> 00:00:49.827
+Com CNPJ, o botão Consultar CNPJ traz a razão social e o endereço.
+
+12
+00:00:50.517 --> 00:00:56.289
+As outras abas guardam o endereço, os contatos e, em Comercial, o limite de crédito, a condição
+
+13
+00:00:56.289 --> 00:00:58.294
+de pagamento e a tabela de preço.
+
+14
+00:00:58.294 --> 00:01:03.276
+Para gravar, clique em Gravar. Aqui, só para conhecer, vamos cancelar e descartar.
+
+15
+00:01:03.983 --> 00:01:06.384
+Os produtos ficam em Produtos e serviços.
+
+16
+00:01:06.384 --> 00:01:12.122
+Confira os quadros Sem NCM, que a nota exige, e Custo maior que o preço, que é venda com prejuízo.
+
+17
+00:01:12.850 --> 00:01:18.205
+Clique em Novo item. Na aba Geral, informe o Tipo, o Código / SKU, a Unidade e o Nome.
+
+18
+00:01:18.205 --> 00:01:20.385
+O código de barras agiliza o caixa.
+
+19
+00:01:21.117 --> 00:01:25.913
+Na aba Preço e estoque, informe o Preço de venda e o Custo: a Margem calcula sozinha.
+
+20
+00:01:25.913 --> 00:01:29.186
+Deixe marcado Controla estoque e informe o Estoque mínimo.
+
+21
+00:01:29.917 --> 00:01:34.159
+Na aba Fiscal ficam os dados da nota: o NCM, o CFOP de venda e o CSOSN.
+
+22
+00:01:34.159 --> 00:01:36.728
+Tecle F2 num campo para consultar a tabela.
+
+23
+00:01:36.728 --> 00:01:40.134
+Confirme a tributação de cada produto com o seu contador.
+
+24
+00:01:40.850 --> 00:01:47.204
+Para serviço, a aba Fiscal pede o item da lista de serviços, o código no município e a alíquota do ISS.
+
+25
+00:01:47.204 --> 00:01:48.129
+Vamos cancelar.
+
+26
+00:01:48.850 --> 00:01:53.775
+Tem os cadastros numa planilha? Abra Cadastros › Operações › Importação por planilha.
+
+27
+00:01:53.775 --> 00:01:57.194
+São quatro passos: Planilha, Colunas, Conferência e Gravar.
+
+28
+00:01:57.194 --> 00:02:01.424
+Nada é gravado antes da conferência. Sem planilha pronta, baixe o modelo.
+
+29
+00:02:02.117 --> 00:02:07.809
+Por fim, a Conferência dos cadastros mostra os Erros, que você corrige antes de emitir notas, e os Avisos.
+
+30
+00:02:07.809 --> 00:02:11.300
+Selecione a linha e tecle Enter para abrir o cadastro e corrigir.
+
+31
+00:02:11.983 --> 00:02:13.010
+Agora é a sua vez.
+
+32
+00:02:13.010 --> 00:02:18.600
+Abra a demonstração, cadastre um cliente e um produto de teste e veja a conferência dos cadastros.
+
+33
+00:02:18.600 --> 00:02:21.851
+O passo a passo completo está no capítulo dois do manual.

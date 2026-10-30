@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.444
+Nesta aula você vai conferir o plano de contas, lançar um lote, trazer o que vem dos outros
+
+2
+00:00:05.444 --> 00:00:10.582
+módulos, conciliar uma conta, fechar o mês e tirar o balancete, o balanço e a escrituração
+
+3
+00:00:10.582 --> 00:00:11.552
+contábil digital.
+
+4
+00:00:12.450 --> 00:00:17.560
+A contabilidade trabalha com a empresa ativa. Digite parte do nome e escolha a empresa;
+
+5
+00:00:17.560 --> 00:00:22.671
+depois, troque pelo seletor do topo ou com F8. Aqui, a Zênite Alimentos, do Lucro Real.
+
+6
+00:00:23.383 --> 00:00:29.291
+Em Controle › Parâmetros ficam a máscara do plano, o centro de custo obrigatório e quem assina os livros.
+
+7
+00:00:29.291 --> 00:00:33.623
+Cada conjunto vale a partir de uma vigência: se a regra mudou, crie uma nova.
+
+8
+00:00:34.317 --> 00:00:40.205
+Em Arquivos › Plano de contas, os cartões mostram as contas e quantas têm o referencial da ECD.
+
+9
+00:00:40.205 --> 00:00:45.287
+Clique numa conta para abrir a ficha, com o código reduzido, a natureza e o grupo.
+
+10
+00:00:45.287 --> 00:00:46.217
+Para criar, F7.
+
+11
+00:00:46.917 --> 00:00:50.839
+Para lançar, abra Movimentos › Lançamentos e clique em Novo lote.
+
+12
+00:00:50.839 --> 00:00:56.391
+Digite o código reduzido no débito e no crédito, o valor e o histórico. F2 consulta o plano.
+
+13
+00:00:57.117 --> 00:01:02.722
+Débitos e créditos batem? O rodapé mostra Lote fecha. Gravar lote, ou Ctrl+S, numera o lote.
+
+14
+00:01:02.722 --> 00:01:04.428
+Aqui, vamos sair sem gravar.
+
+15
+00:01:05.117 --> 00:01:07.388
+Todo mês, abra a Integração dos módulos:
+
+16
+00:01:07.388 --> 00:01:13.009
+ela mostra o que a escrita fiscal, a folha, o patrimônio e o banco já levaram para a contabilidade.
+
+17
+00:01:13.009 --> 00:01:15.053
+Nota sem acumulador não contabiliza:
+
+18
+00:01:15.053 --> 00:01:18.631
+acerte o acumulador na Escrita Fiscal e clique em Contabilizar.
+
+19
+00:01:19.317 --> 00:01:23.560
+Fornecedores, clientes e adiantamentos se conferem em Conciliação de contas.
+
+20
+00:01:23.560 --> 00:01:28.586
+Escolha a conta e o período e clique em Carregar. Sugerir pares procura o que se compensa;
+
+21
+00:01:28.586 --> 00:01:31.322
+a seleção precisa zerar. Conferiu? Trave a conta.
+
+22
+00:01:32.050 --> 00:01:35.141
+No fim do mês, abra Controle › Fechamento e trava por data.
+
+23
+00:01:35.141 --> 00:01:37.342
+Cada item da conferência tem o link abrir.
+
+24
+00:01:37.342 --> 00:01:41.534
+Rode o auditor, resolva os erros e clique em Fechar o mês. Reabrir exige motivo.
+
+25
+00:01:42.250 --> 00:01:48.475
+Em Relatórios › Balancete, escolha o período, o tipo e as colunas e clique em Gerar, ou F5.
+
+26
+00:01:48.475 --> 00:01:52.989
+Com os termos, sai como livro numerado. Saia em PDF, Excel ou CSV.
+
+27
+00:01:53.717 --> 00:01:57.635
+O Balanço patrimonial compara com o fim do exercício anterior;
+
+28
+00:01:57.635 --> 00:02:02.502
+antes do encerramento, o resultado aparece no patrimônio líquido, a encerrar.
+
+29
+00:02:02.502 --> 00:02:04.841
+A DRE e a DFC ficam em Demonstrações.
+
+30
+00:02:05.517 --> 00:02:09.716
+Uma vez por ano, gere a ECD: confira os dados e clique em Gerar e validar.
+
+31
+00:02:09.716 --> 00:02:15.277
+Sem erros, baixe o arquivo e leve ao programa da Receita (PVA) para validar, assinar e transmitir.
+
+32
+00:02:15.277 --> 00:02:18.625
+Confirme a obrigatoriedade e o prazo na legislação vigente.
+
+33
+00:02:19.317 --> 00:02:20.324
+Agora é a sua vez.
+
+34
+00:02:20.324 --> 00:02:25.867
+Abra a demonstração, escolha a Zênite Alimentos, lance um lote que feche e gere o balancete do mês.
+
+35
+00:02:25.867 --> 00:02:29.058
+O passo a passo completo está no capítulo seis do manual.

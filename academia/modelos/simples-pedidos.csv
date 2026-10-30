@@ -1,0 +1,5 @@
+pedido;data;cliente;cpf/cnpj;sku;quantidade;preco;desconto;frete;canal;vendedor;observacao
+2001;05/11/2026;Papelaria Central ME;;CABO-C1M;10;29,90;0;20,00;Representante;Bianca Martins;Entregar pela manhã
+2001;05/11/2026;Papelaria Central ME;;PEL-VID;10;24,90;0;;;;
+2002;05/11/2026;Ana Paula Ribeiro;;FONE-BT01;1;89,90;0;15,00;E-commerce;;
+2003;06/11/2026;Oficina do Zé Ltda;;HUB-4P;4;49,90;10,00;0;Telefone;Rafael Antunes;Cliente retira na loja

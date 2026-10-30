@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.434
+Nesta aula você vai preparar a escrita fiscal de uma empresa, importar os documentos e conferir
+
+2
+00:00:05.434 --> 00:00:07.889
+a competência antes de apurar e contabilizar.
+
+3
+00:00:08.783 --> 00:00:13.558
+Comece pelos Parâmetros fiscais, em Escrita Fiscal › Controle, com a Loja Modelo ativa.
+
+4
+00:00:13.558 --> 00:00:14.876
+Eles valem por vigência:
+
+5
+00:00:14.876 --> 00:00:18.882
+para mudar a partir de um mês, use Nova vigência ou Criar a partir desta.
+
+6
+00:00:19.583 --> 00:00:22.007
+Percorra as abas conforme o regime:
+
+7
+00:00:22.007 --> 00:00:27.616
+Geral e EFD, PIS/COFINS, ISS, Retenções, ICMS, DIFAL, Simples Nacional e IBS/CBS.
+
+8
+00:00:27.616 --> 00:00:33.225
+Preencher com o padrão do regime ajuda, mas revise tudo com a legislação vigente.
+
+9
+00:00:33.917 --> 00:00:38.965
+Os Acumuladores dizem como cada operação entra nos livros, nos impostos e na contabilidade.
+
+10
+00:00:38.965 --> 00:00:42.239
+Os cartões apontam os sem vigência e os sem contabilização.
+
+11
+00:00:42.917 --> 00:00:46.458
+Abra um acumulador. Na aba CFOPs, ficam os CFOPs aceitos:
+
+12
+00:00:46.458 --> 00:00:49.751
+um documento fora da lista vira aviso na conferência.
+
+13
+00:00:49.751 --> 00:00:53.169
+Na aba Contabilização, as partidas de débito e crédito.
+
+14
+00:00:53.850 --> 00:00:58.454
+Em Arquivos › Configuração de importação, fica o de-para do XML de compra:
+
+15
+00:00:58.454 --> 00:01:03.928
+quando o CFOP, o NCM ou o fornecedor bate, a regra diz o CFOP de entrada e o acumulador.
+
+16
+00:01:04.650 --> 00:01:10.291
+Para trazer as notas, abra Utilitários › Importar XML, e arraste os arquivos, a pasta ou o ZIP.
+
+17
+00:01:10.291 --> 00:01:15.813
+A prévia mostra o que é novo, o que já existia, o que é cancelado e o que é de outra empresa;
+
+18
+00:01:15.813 --> 00:01:16.882
+só então confirme.
+
+19
+00:01:17.583 --> 00:01:22.866
+Vindo de outro sistema? Importar SPED e Importar planilha são assistentes de quatro passos:
+
+20
+00:01:22.866 --> 00:01:25.071
+arquivo, prévia, opções e confirmação.
+
+21
+00:01:25.783 --> 00:01:29.768
+A conferência da competência fica em Movimentos › Todos os documentos.
+
+22
+00:01:29.768 --> 00:01:34.664
+Os cartões mostram os sem contabilizar, os sem acumulador e as divergências com o XML.
+
+23
+00:01:34.664 --> 00:01:36.429
+Clique num cartão para filtrar.
+
+24
+00:01:37.117 --> 00:01:39.567
+Use a aba Sem acumulador e clique numa linha.
+
+25
+00:01:39.567 --> 00:01:44.304
+O painel ao lado diz o problema e traz o botão para resolver, como Escolher acumulador.
+
+26
+00:01:44.983 --> 00:01:49.925
+Abra um documento com Enter. O alto mostra os avisos, como a falta da chave de acesso.
+
+27
+00:01:49.925 --> 00:01:53.603
+As abas trazem o documento, os itens, os impostos e as parcelas.
+
+28
+00:01:53.603 --> 00:01:56.361
+Ao terminar, marque Documento conferido e grave.
+
+29
+00:01:57.050 --> 00:02:02.611
+Em Relatórios › Conferência de XML × escrita, escolha a divergência e as empresas e gere:
+
+30
+00:02:02.611 --> 00:02:06.548
+XML sem documento, valor diferente, nota cancelada escriturada.
+
+31
+00:02:06.548 --> 00:02:08.922
+Abrir para corrigir leva ao documento.
+
+32
+00:02:09.650 --> 00:02:13.646
+Com tudo conferido, volte a Todos os documentos e clique em Contabilizar:
+
+33
+00:02:13.646 --> 00:02:17.423
+os lançamentos saem pelos acumuladores, prontos para a contabilidade.
+
+34
+00:02:18.117 --> 00:02:19.121
+Agora é a sua vez.
+
+35
+00:02:19.121 --> 00:02:25.094
+Abra a demonstração, escolha a Loja Modelo, abra Todos os documentos e resolva um documento sem acumulador.
+
+36
+00:02:25.094 --> 00:02:28.276
+O passo a passo completo está no capítulo três do manual.

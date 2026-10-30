@@ -1,0 +1,6 @@
+﻿descricao;pessoa;cpf/cnpj;numero;emissao;vencimento;valor;categoria;centro;projeto;observacao
+Aluguel de novembro;Imobiliária Exemplo Ltda;;AL-1126;01/11/2026;10/11/2026;6.500,00;2.20;201;;
+Internet da loja;Fibra Rápida Telecom Fictícia Ltda;;FAT-2201;01/11/2026;15/11/2026;200,00;2.21;101;;Plano empresarial
+Honorários contábeis de novembro;Contabilidade Modelo;;HON-1126;01/11/2026;10/11/2026;1.200,00;2.22;201;;
+Sistema de gestão;Software Fictício Sistemas Ltda;;;01/11/2026;20/11/2026;300,00;2.23;201;;
+Embalagens para a Black Friday;Embalagens Rápidas ME;;NF 2210;03/11/2026;03/12/2026;1.500,00;2.24;3;Black Friday 2026;Caixas e fitas

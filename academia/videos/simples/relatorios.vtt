@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.898
+Nesta aula você vai ler o painel de indicadores, gerar um relatório pronto e montar um
+
+2
+00:00:04.898 --> 00:00:08.627
+relatório seu no construtor, com agrupamento e gráfico, sem planilha.
+
+3
+00:00:09.517 --> 00:00:13.623
+Abra Relatórios na barra lateral: a primeira tela é o Painel de indicadores.
+
+4
+00:00:13.623 --> 00:00:18.701
+Os cartões mostram o vendido no mês, as vendas, a margem bruta, o que há a receber e a pagar e
+
+5
+00:00:18.701 --> 00:00:20.160
+o estoque abaixo do mínimo.
+
+6
+00:00:20.160 --> 00:00:22.862
+Clique num cartão para abrir o relatório completo.
+
+7
+00:00:23.583 --> 00:00:25.168
+Mais abaixo ficam os atalhos:
+
+8
+00:00:25.168 --> 00:00:30.359
+Relatórios prontos, para as perguntas de todo dia, e Favoritos do construtor, com os relatórios
+
+9
+00:00:30.359 --> 00:00:32.380
+que você montou e marcou com estrela.
+
+10
+00:00:33.050 --> 00:00:34.475
+Abra Vendas por período.
+
+11
+00:00:34.475 --> 00:00:38.987
+Os cartões resumem o vendido, o número de vendas, o ticket médio e a margem.
+
+12
+00:00:38.987 --> 00:00:42.965
+À esquerda, escolha o período: intervalo, competência ou exercício.
+
+13
+00:00:43.650 --> 00:00:48.610
+Em Filtros, troque para Sintético e agrupe por vendedor. Clique em Gerar e confira a prévia:
+
+14
+00:00:48.610 --> 00:00:51.090
+cada vendedor com o total, o custo e a margem.
+
+15
+00:00:51.783 --> 00:00:55.424
+Para levar o relatório, use PDF, Excel, CSV ou Imprimir.
+
+16
+00:00:55.424 --> 00:00:58.935
+Os outros relatórios prontos funcionam do mesmo jeito.
+
+17
+00:00:59.650 --> 00:01:04.401
+Quando nenhum relatório pronto responde a sua pergunta, use o Construtor de relatórios.
+
+18
+00:01:04.401 --> 00:01:08.442
+Para começar rápido, escolha um modelo em Abrir modelo ou relatório salvo.
+
+19
+00:01:08.442 --> 00:01:09.862
+Aqui, Vendas por vendedor.
+
+20
+00:01:10.583 --> 00:01:15.425
+No cartão Fonte e período, você escolhe de onde vêm os dados, o título e o período.
+
+21
+00:01:15.425 --> 00:01:20.382
+Em Colunas, acrescente os campos e escolha o total de cada um: soma, média, contagem.
+
+22
+00:01:21.050 --> 00:01:26.008
+Em Agrupar, ordenar e apresentar, escolha Agrupar por, aqui o vendedor, e marque Só o resumo
+
+23
+00:01:26.008 --> 00:01:28.379
+para ter uma linha por grupo, com os totais.
+
+24
+00:01:29.050 --> 00:01:33.473
+Clique em Gerar. A vista Tabela mostra o resultado e quantos registros entraram.
+
+25
+00:01:34.183 --> 00:01:39.348
+Com um agrupamento, a vista Gráfico desenha o resultado em barras, colunas, linha ou pizza.
+
+26
+00:01:39.348 --> 00:01:41.788
+Baixe a imagem em PNG para mandar à equipe.
+
+27
+00:01:42.517 --> 00:01:45.583
+Gostou? Clique em Salvar, dê um nome e marque Favorito.
+
+28
+00:01:45.583 --> 00:01:51.213
+Ele passa a aparecer no painel e em Relatórios salvos, e pode até ser enviado por e-mail toda semana.
+
+29
+00:01:51.917 --> 00:01:52.931
+Agora é a sua vez.
+
+30
+00:01:52.931 --> 00:01:58.226
+Abra a demonstração, monte no construtor as vendas do mês por canal e veja o gráfico em pizza.
+
+31
+00:01:58.226 --> 00:02:01.437
+O passo a passo completo está no capítulo doze do manual.

@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.494
+Nesta aula você vai apurar o Simples e os demais impostos, gerar os livros e os arquivos das
+
+2
+00:00:05.494 --> 00:00:08.458
+obrigações, passar o auditor e fechar a competência.
+
+3
+00:00:09.383 --> 00:00:15.014
+Abra Escrita Fiscal › Movimentos › Apurações › Simples Nacional, com a Loja Modelo ativa.
+
+4
+00:00:15.014 --> 00:00:20.645
+Processar (F5) lê as receitas do mês e calcula. Gravar apuração grava o cálculo e a guia.
+
+5
+00:00:21.317 --> 00:00:23.947
+A linha de situação mostra os quatro passos:
+
+6
+00:00:23.947 --> 00:00:27.296
+Calculada, Conferida, Transmitida, com o recibo, e Paga.
+
+7
+00:00:27.296 --> 00:00:30.106
+Use o botão Situação para registrar cada passo.
+
+8
+00:00:30.783 --> 00:00:36.718
+Os cartões trazem o DAS do mês, a receita, a RBT12, a alíquota efetiva e o uso do limite do ano.
+
+9
+00:00:36.718 --> 00:00:40.860
+A Memória de cálculo mostra o anexo, a faixa e a conta da alíquota.
+
+10
+00:00:41.583 --> 00:00:46.507
+Na aba Conferência com o PGDAS-D, importe o extrato da declaração ou digite os valores.
+
+11
+00:00:46.507 --> 00:00:50.186
+A grade compara o calculado com o declarado, tributo por tributo.
+
+12
+00:00:50.917 --> 00:00:55.206
+Na aba Carteira do Simples, o cálculo de todas as empresas do Simples de uma vez.
+
+13
+00:00:55.206 --> 00:00:59.125
+Processar a carteira calcula de novo, e você grava em lote as que mudaram.
+
+14
+00:00:59.850 --> 00:01:04.868
+Para uma empresa do regime normal, troque para a Zênite Alimentos e abra Apurações › ICMS.
+
+15
+00:01:04.868 --> 00:01:09.384
+Os cartões trazem o imposto a recolher, os débitos, os créditos e o saldo credor.
+
+16
+00:01:09.384 --> 00:01:11.503
+A memória segue as linhas da apuração.
+
+17
+00:01:12.183 --> 00:01:15.832
+PIS e COFINS, IRPJ e CSLL, retenções e ISS funcionam igual:
+
+18
+00:01:15.832 --> 00:01:19.728
+Processar, conferir a memória e gravar. Leia os avisos do alto:
+
+19
+00:01:19.728 --> 00:01:24.365
+eles explicam escolhas do cálculo. Na dúvida, confira a legislação vigente.
+
+20
+00:01:25.050 --> 00:01:30.336
+Em Relatórios › Livros, cada livro sai com termo de abertura, termo de encerramento e folhas
+
+21
+00:01:30.336 --> 00:01:32.577
+numeradas, para uma ou várias empresas.
+
+22
+00:01:33.250 --> 00:01:36.698
+Em Informativos ficam os arquivos do SPED e as declarações.
+
+23
+00:01:36.698 --> 00:01:40.263
+Escolha a finalidade e as opções e clique em Gerar e validar.
+
+24
+00:01:40.263 --> 00:01:45.231
+Depois, importe o arquivo no programa oficial, assine, transmita e registre o recibo.
+
+25
+00:01:45.917 --> 00:01:48.471
+Antes de transmitir, passe o Auditor fiscal.
+
+26
+00:01:48.471 --> 00:01:53.696
+Ele cruza os documentos com as apurações e agrupa os achados por regra. Corrija cada erro;
+
+27
+00:01:53.696 --> 00:01:57.005
+o que estiver certo, justifique. Depois, Auditar de novo.
+
+28
+00:01:57.717 --> 00:02:02.851
+Por fim, o Fechamento fiscal, em Controle. Os erros impedem o fechamento; os avisos, não.
+
+29
+00:02:02.851 --> 00:02:06.601
+Corrija, clique em Conferir de novo (F5) e, sem erros, em Fechar.
+
+30
+00:02:06.601 --> 00:02:08.909
+Fechada, nenhum documento entra ou muda.
+
+31
+00:02:09.583 --> 00:02:12.661
+As guias ficam em Movimentos › Guias de recolhimento.
+
+32
+00:02:12.661 --> 00:02:15.217
+Escolha Carteira para ver todas as empresas:
+
+33
+00:02:15.217 --> 00:02:20.269
+em aberto, vencidas, vencendo em 7 dias, pagas e as já publicadas no portal do cliente.
+
+34
+00:02:20.983 --> 00:02:21.958
+Agora é a sua vez.
+
+35
+00:02:21.958 --> 00:02:27.371
+Abra a demonstração, processe o Simples da Loja Modelo, leia a memória de cálculo e passe o auditor.
+
+36
+00:02:27.371 --> 00:02:30.565
+O passo a passo completo está no capítulo quatro do manual.

@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.510
+Nesta aula você vai conferir os dados da empresa, achar as preferências de cada módulo, incluir
+
+2
+00:00:05.510 --> 00:00:09.386
+um usuário com o papel certo e acompanhar quem fez o quê na auditoria.
+
+3
+00:00:10.317 --> 00:00:14.855
+Abra Configurações na barra lateral: a primeira tela é Dados da empresa.
+
+4
+00:00:14.855 --> 00:00:20.464
+Razão social, CNPJ, regime, CNAE e endereço saem nas notas, nos pedidos e nos relatórios.
+
+5
+00:00:20.464 --> 00:00:24.435
+Com o escritório ligado, o CNPJ e o regime mudam pelo contador.
+
+6
+00:00:25.117 --> 00:00:30.262
+As abas separam o cadastro: Identificação, Endereço, Inscrições, Sócios, Contatos.
+
+7
+00:00:30.262 --> 00:00:35.030
+Na aba Endereço, confira o município do IBGE: a nota fiscal usa esse código.
+
+8
+00:00:35.030 --> 00:00:36.599
+Depois, clique em Gravar.
+
+9
+00:00:37.317 --> 00:00:40.359
+Em Configurar › Preferências ficam as regras gerais:
+
+10
+00:00:40.359 --> 00:00:44.572
+validade do orçamento, desconto máximo no caixa e a revisão dos acessos.
+
+11
+00:00:44.572 --> 00:00:49.897
+A última aba, Preferências dos módulos, lista as configurações de cada módulo num lugar só.
+
+12
+00:00:50.583 --> 00:00:52.308
+É ali que estão as integrações:
+
+13
+00:00:52.308 --> 00:00:56.869
+o banco, o certificado digital das notas, a maquininha de cartão e o seu contador.
+
+14
+00:00:56.869 --> 00:00:58.315
+Clique no nome para abrir.
+
+15
+00:00:58.983 --> 00:01:04.061
+Em Mensagens do WhatsApp, edite o texto do orçamento, do pedido, da nota e da cobrança.
+
+16
+00:01:04.061 --> 00:01:10.072
+As variáveis entre chaves, como cliente e valor, são preenchidas sozinhas, e a prévia mostra como fica.
+
+17
+00:01:10.783 --> 00:01:15.619
+Agora a equipe. Em Cadastros, Usuários e papéis, cada pessoa tem um papel:
+
+18
+00:01:15.619 --> 00:01:20.324
+administrador, financeiro, vendas, estoque e compras, RH ou só consulta.
+
+19
+00:01:20.324 --> 00:01:22.350
+Cada papel vê só o que precisa.
+
+20
+00:01:23.050 --> 00:01:27.897
+Clique em Incluir usuário. Informe o e-mail da conta Jarvis da pessoa e escolha o papel.
+
+21
+00:01:27.897 --> 00:01:31.862
+A janela mostra o que esse papel vê e o que altera. Confirme em Incluir.
+
+22
+00:01:32.583 --> 00:01:35.177
+Para ajustar um papel, use Permissões por ação.
+
+23
+00:01:35.177 --> 00:01:39.261
+Escolha o papel no topo e marque, módulo por módulo, o que ele pode fazer.
+
+24
+00:01:39.261 --> 00:01:44.173
+Aqui, o papel Vendas ganhou ver o Financeiro: a célula em destaque é diferente do padrão.
+
+25
+00:01:44.850 --> 00:01:50.149
+Em Regras de acesso e senha, você limita o horário e os dias de cada papel, pede a verificação
+
+26
+00:01:50.149 --> 00:01:55.110
+em duas etapas, define a política de senha e escolhe as ações que precisam de aprovação.
+
+27
+00:01:55.783 --> 00:01:57.513
+Por fim, Relatórios, Auditoria.
+
+28
+00:01:57.513 --> 00:02:01.585
+Ela registra quem fez o quê e quando, com o valor de antes e o de depois.
+
+29
+00:02:01.585 --> 00:02:06.661
+Filtre por ação, por onde e por quem, selecione uma linha e tecle Enter para ver o detalhe.
+
+30
+00:02:07.383 --> 00:02:08.363
+Agora é a sua vez.
+
+31
+00:02:08.363 --> 00:02:14.350
+Abra a demonstração, mude a validade do orçamento nas Preferências e depois ache a sua alteração na Auditoria.
+
+32
+00:02:14.350 --> 00:02:17.615
+O passo a passo completo está no capítulo catorze do manual.

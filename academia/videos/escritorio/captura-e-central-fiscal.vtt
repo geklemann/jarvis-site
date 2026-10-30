@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.391
+Nesta aula você vai manifestar as notas emitidas contra os clientes e acompanhar a situação
+
+2
+00:00:05.391 --> 00:00:08.667
+fiscal de cada empresa, com as certidões e a caixa postal.
+
+3
+00:00:09.583 --> 00:00:14.712
+Abra Captura de Documentos › Movimentos › Painel da carteira. Não precisa de empresa ativa.
+
+4
+00:00:14.712 --> 00:00:18.488
+O aviso do alto lista as empresas com pendência crítica e o motivo.
+
+5
+00:00:19.183 --> 00:00:25.270
+Os cartões contam as empresas críticas, em atenção e em dia e as manifestações que vencem em 15 dias.
+
+6
+00:00:25.270 --> 00:00:28.343
+Na lista, a coluna O que fazer diz o próximo passo.
+
+7
+00:00:29.050 --> 00:00:31.754
+A busca usa o certificado A1 de cada empresa.
+
+8
+00:00:31.754 --> 00:00:37.043
+Em Controle › Certificado A1 das empresas, veja os válidos, os que vencem em 30 dias, os
+
+9
+00:00:37.043 --> 00:00:39.267
+vencidos e quem está sem certificado.
+
+10
+00:00:39.983 --> 00:00:45.447
+As notas ficam em Movimentos › Notas destinadas, com a empresa ativa: aqui, a Loja Modelo.
+
+11
+00:00:45.447 --> 00:00:50.850
+Os cartões mostram as notas a escriturar, as sem manifestação e as que vencem em 15 dias.
+
+12
+00:00:51.583 --> 00:00:56.979
+Abra a nota com Enter. A aba Dados traz a chave, o emitente, o valor e o prazo da manifestação.
+
+13
+00:00:56.979 --> 00:01:01.011
+Os botões manifestam: Confirmar, Ciência, Desconhecer ou Não realizada.
+
+14
+00:01:01.011 --> 00:01:03.283
+Confira os prazos na legislação vigente.
+
+15
+00:01:04.250 --> 00:01:08.218
+As manifestações vão para a fila e seguem para a SEFAZ com Enviar a fila.
+
+16
+00:01:08.218 --> 00:01:13.979
+Buscar agora (F5) consulta as notas novas, e Mandar para a escrita fiscal lança as que têm o XML completo.
+
+17
+00:01:14.650 --> 00:01:19.650
+O cliente mandou os arquivos por e-mail ou pelo portal? Use a Caixa de entrada de XML.
+
+18
+00:01:19.650 --> 00:01:24.301
+Arraste tudo junto: o Jarvis descobre a empresa pelo CNPJ e separa o que é novo.
+
+19
+00:01:24.983 --> 00:01:30.175
+Em Conferência destinadas × escrituradas, cada aba separa um caso, como a nota que a SEFAZ
+
+20
+00:01:30.175 --> 00:01:34.213
+listou e não foi escriturada, ou o valor diferente, e diz o que fazer.
+
+21
+00:01:34.917 --> 00:01:41.078
+Na Central Fiscal, a Situação fiscal da carteira mostra as empresas regulares, com pendência e irregulares.
+
+22
+00:01:41.078 --> 00:01:43.497
+Na matriz, cada empresa aparece por órgão.
+
+23
+00:01:44.183 --> 00:01:47.643
+A Ficha fiscal da empresa mostra um cartão por órgão:
+
+24
+00:01:47.643 --> 00:01:53.126
+RFB/PGFN, FGTS, SEFAZ, Município e CNDT, com as pendências e a validade da certidão.
+
+25
+00:01:53.126 --> 00:01:55.932
+Avisar o cliente manda o aviso pelo portal.
+
+26
+00:01:56.650 --> 00:02:00.949
+Em Certidões (CND), veja as vigentes, as vencidas e as que vencem em 15 dias.
+
+27
+00:02:00.949 --> 00:02:05.137
+O aviso do alto aponta as que vão sair positivas até a empresa regularizar.
+
+28
+00:02:05.850 --> 00:02:10.335
+Na Caixa postal ficam as mensagens do e-CAC, do DTE e do domicílio municipal.
+
+29
+00:02:10.335 --> 00:02:15.169
+Comece pelas importantes não lidas: cada uma pode virar tarefa ou ir para o portal.
+
+30
+00:02:15.850 --> 00:02:16.843
+Agora é a sua vez.
+
+31
+00:02:16.843 --> 00:02:22.085
+Abra a demonstração, veja o painel da captura, abra uma nota destinada da Loja Modelo e confira
+
+32
+00:02:22.085 --> 00:02:23.189
+a ficha fiscal dela.
+
+33
+00:02:23.189 --> 00:02:26.389
+O passo a passo completo está no capítulo cinco do manual.

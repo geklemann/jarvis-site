@@ -1,0 +1,100 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "Primeiros passos no Jarvis Simples",
+  "resumo": "Leia o Painel do dono, ache qualquer tela pelos menus e pela busca, troque a empresa e siga o roteiro de implantação.",
+  "segundos": 133
+ },
+ "cadastros": {
+  "capitulo": "cadastros",
+  "n": 2,
+  "titulo": "Cadastrar clientes e produtos com os dados da nota",
+  "resumo": "Cadastre um cliente e um produto com preço, custo e dados fiscais, importe planilhas e confira o que falta nos cadastros.",
+  "segundos": 143
+ },
+ "vendas": {
+  "capitulo": "vendas",
+  "n": 3,
+  "titulo": "Lançar um pedido de venda e faturar",
+  "resumo": "Monte um pedido com cliente e itens, entenda as aprovações de desconto e crédito, fature com a confirmação e mande o orçamento para o cliente aceitar.",
+  "segundos": 132
+ },
+ "pdv": {
+  "capitulo": "pdv",
+  "n": 4,
+  "titulo": "Vender no balcão com a frente de caixa",
+  "resumo": "Abra o caixa, passe os produtos, receba nas formas de pagamento, faça a sangria e feche o caixa às cegas.",
+  "segundos": 137
+ },
+ "servicos-contratos": {
+  "capitulo": "servicos-contratos",
+  "n": 5,
+  "titulo": "Ordens de serviço e contratos recorrentes",
+  "resumo": "Abra a ordem de serviço com checklist, acompanhe a bancada e fature com as peças; depois, veja os contratos e o faturamento do mês.",
+  "segundos": 139
+ },
+ "crm": {
+  "capitulo": "crm",
+  "n": 6,
+  "titulo": "Acompanhar as negociações no funil de vendas",
+  "resumo": "Leia o funil, crie uma oportunidade, registre ganho ou perda, cuide das atividades, rode as automações e compare a previsão com a meta.",
+  "segundos": 154
+ },
+ "compras": {
+  "capitulo": "compras",
+  "n": 7,
+  "titulo": "Comprar com cotação, pedido e nota conferida",
+  "resumo": "Da requisição à nota de entrada: compare propostas no mapa de preços, faça o pedido, aprove pela alçada, confira a nota pelo XML e use a sugestão de compra.",
+  "segundos": 142
+ },
+ "estoque": {
+  "capitulo": "estoque",
+  "n": 8,
+  "titulo": "Saber o que tem, ajustar e contar o estoque",
+  "resumo": "Leia o saldo e o disponível, lance um ajuste com motivo, consulte o kardex, reserve os pedidos em aberto e faça o inventário com contagem cega.",
+  "segundos": 151
+ },
+ "financeiro": {
+  "capitulo": "financeiro",
+  "n": 9,
+  "titulo": "Lançar, receber, aprovar e conciliar o banco",
+  "resumo": "Leia o painel financeiro, lance uma conta parcelada, dê baixa com juros e multa, aprove pagamentos pela alçada, concilie o extrato e veja o fluxo de caixa.",
+  "segundos": 145
+ },
+ "notas-fiscais": {
+  "capitulo": "notas-fiscais",
+  "n": 10,
+  "titulo": "Emitir, conferir e cancelar notas fiscais",
+  "resumo": "Acompanhe as notas emitidas, fature um pedido com conferência ao vivo, emita em lote, veja como cancelar e exporte os XMLs para o contador.",
+  "segundos": 139
+ },
+ "pessoas": {
+  "capitulo": "pessoas",
+  "n": 11,
+  "titulo": "Funcionários, ponto, férias e holerites",
+  "resumo": "Cadastre quem entra, confira o ponto do mês, lance comissões, aprove férias e distribua os holerites.",
+  "segundos": 127
+ },
+ "relatorios": {
+  "capitulo": "relatorios",
+  "n": 12,
+  "titulo": "Relatórios: painel, prontos e o construtor",
+  "resumo": "Leia o painel de indicadores, gere um relatório pronto em PDF e monte o seu no construtor, com agrupamento e gráfico.",
+  "segundos": 122
+ },
+ "contador": {
+  "capitulo": "contador",
+  "n": 13,
+  "titulo": "Contador: guias, prazos, documentos e o envio do mês",
+  "resumo": "Acompanhe as guias e o limite do Simples, mande os documentos que o escritório pede e envie o mês ao contador com a conferência.",
+  "segundos": 128
+ },
+ "configuracoes": {
+  "capitulo": "configuracoes",
+  "n": 14,
+  "titulo": "Configurações: empresa, usuários, permissões e segurança",
+  "resumo": "Deixe os dados da empresa certos, ache as preferências de cada módulo, dê a cada pessoa o acesso do seu trabalho e veja quem fez o quê.",
+  "segundos": 138
+ }
+}

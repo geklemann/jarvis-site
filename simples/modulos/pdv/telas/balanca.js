@@ -3,7 +3,7 @@ import{formularioPagina as G}from"../../../../escritorio/comum/kit/formulario.js
       <div><div class="pv-cartao"><h3>${c("busca")} Testar uma leitura</h3><p class="mut peq" style="margin:0 0 6px">Passe o leitor na etiqueta ou no código de barras (ou digite) e aperte Enter.</p>
         <div class="pv-linha"><input data-ler inputmode="numeric" autocomplete="off" placeholder="2 01020 003248 X" style="flex:1;min-width:0;font-size:18px" aria-label="Código lido"><button class="btn pri" data-lerb>${c("ok")} Ler</button></div><div data-res></div></div>
       <div class="pv-cartao"><h3>${c("doc")} Etiqueta de teste</h3>
-        <div class="form c3"><label class="campo"><span>Produto (PLU)</span><select data-ep>${k.map(a=>`<option value="${r(a.id)}">${r(e.pluDoProduto(a))} · ${r(a.nome)}</option>`).join("")||'<option value="">Nenhum produto com PLU</option>'}</select></label>
+        <div class="form c3"><label class="campo lg2"><span>Produto (PLU)</span><select data-ep>${k.map(a=>`<option value="${r(a.id)}">${r(e.pluDoProduto(a))} · ${r(a.nome)}</option>`).join("")||'<option value="">Nenhum produto com PLU</option>'}</select></label>
         <label class="campo"><span data-evr>${n.valor==="peso"?"Peso (kg)":"Valor da etiqueta (R$)"}</span><input data-ev inputmode="decimal" value="${n.valor==="peso"?"0,350":"12,48"}"></label>
         <div class="campo"><span>&nbsp;</span><button class="btn" data-eg>${c("raio")} Gerar</button></div></div><div data-etq class="pv-etq" style="margin-top:8px"></div>
         <div class="pv-linha"><button class="btn fant peq" data-eimp hidden>${c("download")} Imprimir as etiquetas</button><span class="mut peq">O código gerado aqui usa o leiaute deste terminal — é o que a balança precisa imprimir.</span></div></div></div></div>

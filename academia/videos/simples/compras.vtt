@@ -1,0 +1,153 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.412
+Nesta aula você vai seguir uma compra do começo ao fim:
+
+2
+00:00:03.412 --> 00:00:08.012
+requisição, cotação, pedido, aprovação e a conferência da nota pelo xis eme éle.
+
+3
+00:00:08.012 --> 00:00:09.680
+No fim, a sugestão de compra.
+
+4
+00:00:10.583 --> 00:00:12.128
+Tudo começa na requisição.
+
+5
+00:00:12.128 --> 00:00:18.126
+Em Compras, Operações, Requisições de compra, quem precisa pede o produto, a quantidade e até quando.
+
+6
+00:00:18.126 --> 00:00:22.402
+Os cartões mostram as abertas, as aprovadas, as urgentes e as atrasadas.
+
+7
+00:00:23.117 --> 00:00:28.393
+Para comprar, marque uma ou várias requisições e use Gerar pedidos, um por fornecedor, ou Gerar
+
+8
+00:00:28.393 --> 00:00:30.559
+cotação, para pedir preço a mais de um.
+
+9
+00:00:31.250 --> 00:00:34.827
+Na cotação, digite o preço de cada fornecedor no Mapa de preços.
+
+10
+00:00:34.827 --> 00:00:39.969
+Os cartões mostram a melhor proposta completa, a economia e quanto daria dividindo por item.
+
+11
+00:00:40.650 --> 00:00:44.338
+Para decidir, clique em Comprar tudo do melhor ou em Dividir por item.
+
+12
+00:00:44.338 --> 00:00:47.709
+O Jarvis abre o pedido já preenchido, com os preços da proposta.
+
+13
+00:00:48.383 --> 00:00:50.442
+Em Pedidos de compra, abra o pedido.
+
+14
+00:00:50.442 --> 00:00:55.016
+Na aba Geral, o fornecedor traz a previsão de entrega e a condição de pagamento.
+
+15
+00:00:55.016 --> 00:00:58.275
+Confira o depósito, quem paga o frete e o valor do frete.
+
+16
+00:00:58.983 --> 00:01:02.390
+Na aba Itens, o preço vem do último custo daquele fornecedor.
+
+17
+00:01:02.390 --> 00:01:06.020
+Embaixo aparecem os totais, a sua alçada e as parcelas previstas.
+
+18
+00:01:06.020 --> 00:01:09.036
+Com o pedido liberado, clique em Enviar ao fornecedor:
+
+19
+00:01:09.036 --> 00:01:11.661
+o Jarvis monta o texto para WhatsApp ou e-mail.
+
+20
+00:01:12.383 --> 00:01:17.247
+Pedido acima da alçada de quem comprou vai para Aprovações de compra. Clique em Decidir:
+
+21
+00:01:17.247 --> 00:01:22.056
+o painel mostra o valor, a alçada, o motivo, cada item com o estoque e a última compra.
+
+22
+00:01:22.056 --> 00:01:24.819
+Escreva a resposta e clique em Aprovar ou Recusar.
+
+23
+00:01:25.517 --> 00:01:29.434
+A mercadoria chegou? Em Entradas e notas, clique em Importar XML.
+
+24
+00:01:29.434 --> 00:01:31.483
+Para treinar, use Nota de exemplo.
+
+25
+00:01:31.483 --> 00:01:36.606
+Na tela Conferir a NF, veja o fornecedor e o pedido de compra que o Jarvis encontrou.
+
+26
+00:01:37.317 --> 00:01:40.831
+Na grade Itens, cada item do fornecedor ganha o produto da empresa.
+
+27
+00:01:40.831 --> 00:01:44.817
+A coluna Como achou diz se veio do de-para. Item sem produto é produto novo.
+
+28
+00:01:45.517 --> 00:01:50.760
+O quadro Pedido × nota mostra as divergências de preço, de quantidade e de item fora do pedido.
+
+29
+00:01:50.760 --> 00:01:54.402
+Confira também o rateio do frete e as parcelas das contas a pagar.
+
+30
+00:01:54.402 --> 00:01:56.279
+Só então clique em Lançar entrada.
+
+31
+00:01:56.983 --> 00:02:01.122
+Para saber quanto e quando comprar, abra Ferramentas, Sugestão de compra.
+
+32
+00:02:01.122 --> 00:02:03.559
+Escolha a cobertura em dias e o fornecedor.
+
+33
+00:02:03.559 --> 00:02:06.507
+Os cartões resumem o que comprar e o valor estimado;
+
+34
+00:02:06.507 --> 00:02:10.589
+a grade mostra o saldo, a venda por dia, o ponto de pedido e a sugestão.
+
+35
+00:02:10.589 --> 00:02:12.459
+Ajuste e clique em Gerar pedidos.
+
+36
+00:02:13.183 --> 00:02:14.181
+Agora é a sua vez.
+
+37
+00:02:14.181 --> 00:02:18.615
+Abra a demonstração, importe a nota de exemplo e confira o pedido contra a nota.
+
+38
+00:02:18.615 --> 00:02:21.774
+O passo a passo completo está no capítulo sete do manual.

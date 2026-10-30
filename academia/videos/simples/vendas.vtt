@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.181
+Nesta aula você vai montar um pedido de venda, ver como funcionam as aprovações, faturar um
+
+2
+00:00:05.181 --> 00:00:08.540
+pedido e mandar um orçamento para o cliente aceitar pelo link.
+
+3
+00:00:09.450 --> 00:00:12.243
+Os pedidos ficam em Vendas › Operações › Pedidos.
+
+4
+00:00:12.243 --> 00:00:17.544
+Os cartões do topo mostram o Vendido no mês, o Ticket médio, a Conversão de orçamentos, o que
+
+5
+00:00:17.544 --> 00:00:19.881
+está A faturar e as Aprovações pendentes.
+
+6
+00:00:20.583 --> 00:00:25.448
+Clique em Novo pedido, ou tecle F7. Em Cliente, digite parte do nome e tecle Enter:
+
+7
+00:00:25.448 --> 00:00:28.847
+a consulta abre. Escolha o cliente e clique em Selecionar.
+
+8
+00:00:29.517 --> 00:00:32.378
+Escolha o Vendedor, o Canal e a Tabela de preço.
+
+9
+00:00:32.378 --> 00:00:37.088
+Em Operação, deixe Venda ou escolha entrega futura, consignação ou bonificação.
+
+10
+00:00:37.088 --> 00:00:41.440
+O quadro Como funciona explica o que acontece no estoque e no financeiro.
+
+11
+00:00:42.117 --> 00:00:47.415
+Na aba Itens, digite o código do produto e tecle Enter. O nome e o preço vêm do cadastro.
+
+12
+00:00:47.415 --> 00:00:50.035
+Ajuste a quantidade e o desconto, se houver.
+
+13
+00:00:50.717 --> 00:00:54.678
+Em Totais, confira o total, o custo, a margem e a comissão estimada.
+
+14
+00:00:54.678 --> 00:00:56.484
+Os avisos aparecem logo abaixo:
+
+15
+00:00:56.484 --> 00:01:00.854
+aqui, o pedido passa do limite de crédito do cliente e vai pedir aprovação.
+
+16
+00:01:01.583 --> 00:01:06.924
+Para gravar, clique em Gravar pedido. Aqui, só para conhecer, vamos cancelar e descartar.
+
+17
+00:01:07.850 --> 00:01:12.699
+Desconto acima da alçada, preço abaixo do mínimo ou crédito estourado vão para Aprovações.
+
+18
+00:01:12.699 --> 00:01:16.848
+A frase do topo diz a sua alçada, e os cartões mostram o que está aguardando.
+
+19
+00:01:17.517 --> 00:01:18.494
+Clique em Decidir.
+
+20
+00:01:18.494 --> 00:01:23.977
+O painel mostra o desconto pedido, a alçada de quem vendeu, a margem, os itens e o limite do cliente.
+
+21
+00:01:23.977 --> 00:01:27.560
+Escreva a resposta para o vendedor e clique em Aprovar ou Recusar.
+
+22
+00:01:28.250 --> 00:01:31.055
+Para faturar, abra Vendas › Operações › Faturamento.
+
+23
+00:01:31.055 --> 00:01:36.449
+A coluna O que falta diz se o pedido está pronto ou o que trava, como falta de estoque ou aprovação.
+
+24
+00:01:37.117 --> 00:01:38.188
+Clique em Faturar.
+
+25
+00:01:38.188 --> 00:01:44.380
+A confirmação mostra o Estoque que sai, as Contas a receber, parcela por parcela, a margem e a comissão.
+
+26
+00:01:44.380 --> 00:01:47.536
+Só ao confirmar tudo é gravado. Aqui, vamos cancelar.
+
+27
+00:01:48.250 --> 00:01:52.159
+O orçamento segue o mesmo caminho, em Vendas › Operações › Orçamentos.
+
+28
+00:01:52.159 --> 00:01:57.018
+Abra o orçamento gravado e clique em Link de aceite. Mande pelo WhatsApp ou por e-mail:
+
+29
+00:01:57.018 --> 00:02:01.541
+o cliente aceita ou recusa sem precisar de conta. Aceito, clique em Virar pedido.
+
+30
+00:02:02.250 --> 00:02:03.240
+Agora é a sua vez.
+
+31
+00:02:03.240 --> 00:02:07.753
+Abra a demonstração, monte um pedido de teste e veja a confirmação do faturamento.
+
+32
+00:02:07.753 --> 00:02:10.889
+O passo a passo completo está no capítulo três do manual.

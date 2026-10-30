@@ -1,0 +1,137 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.737
+Nesta aula você vai acompanhar as notas emitidas, faturar um pedido, emitir notas em lote, ver
+
+2
+00:00:05.737 --> 00:00:08.714
+como cancelar e mandar os xis eme éles ao contador.
+
+3
+00:00:09.583 --> 00:00:12.784
+Abra Notas Fiscais, Operações, Notas emitidas.
+
+4
+00:00:12.784 --> 00:00:17.725
+Os indicadores mostram as NF-e, as NFC-e e as NFS-e autorizadas no mês.
+
+5
+00:00:17.725 --> 00:00:20.647
+Clique num indicador para filtrar a lista.
+
+6
+00:00:21.317 --> 00:00:25.518
+Comece o dia pelas pendências: A transmitir são as notas validadas;
+
+7
+00:00:25.518 --> 00:00:28.403
+Rejeitadas trazem o motivo e o botão Corrigir.
+
+8
+00:00:28.403 --> 00:00:32.103
+Abra a nota com Enter para ver o DANFE, o XML e os eventos.
+
+9
+00:00:32.783 --> 00:00:37.517
+Para faturar, abra Emitir nota. Em Pedidos e cupons sem nota, clique no documento:
+
+10
+00:00:37.517 --> 00:00:41.154
+a nota já vem preenchida com o cliente, os itens e o pagamento.
+
+11
+00:00:41.850 --> 00:00:47.636
+Na guia Identificação, confira a natureza da operação, o tipo, a finalidade, como foi a venda e
+
+12
+00:00:47.636 --> 00:00:48.733
+a data de emissão.
+
+13
+00:00:48.733 --> 00:00:53.727
+Na guia Destinatário, confira o documento, o endereço e se é contribuinte do ICMS.
+
+14
+00:00:54.450 --> 00:00:59.677
+Na guia Itens, confira o NCM, o CFOP, o CSOSN, a quantidade e o preço de cada linha.
+
+15
+00:00:59.677 --> 00:01:02.352
+Eles vêm do cadastro e das regras gravadas.
+
+16
+00:01:02.352 --> 00:01:07.952
+Em caso de dúvida sobre a tributação de um item, confirme com o contador antes de validar.
+
+17
+00:01:08.650 --> 00:01:11.384
+A guia Conferência lista os erros e avisos ao vivo.
+
+18
+00:01:11.384 --> 00:01:13.796
+Use Prévia do DANFE para ver como a nota sai.
+
+19
+00:01:13.796 --> 00:01:17.388
+Com tudo certo, clique em Validar e numerar e depois em Transmitir.
+
+20
+00:01:18.117 --> 00:01:23.040
+Muitas vendas sem nota? Use Emissão em lote. Marque os documentos e clique em Avançar.
+
+21
+00:01:24.383 --> 00:01:28.527
+A Prévia mostra os prontos, os travados e o que falta em cada documento.
+
+22
+00:01:28.527 --> 00:01:33.707
+No passo Emitir, confira o ambiente, homologação ou produção, e clique em Emitir as notas.
+
+23
+00:01:33.707 --> 00:01:35.145
+O número usado não volta.
+
+24
+00:01:35.850 --> 00:01:40.083
+Para cancelar, abra Eventos › Cancelamentos e clique em Cancelar uma nota.
+
+25
+00:01:40.083 --> 00:01:45.518
+Escolha a nota, escreva a justificativa e confirme. Os prazos variam por tipo de nota e por UF:
+
+26
+00:01:45.518 --> 00:01:46.891
+confirme com o contador.
+
+27
+00:01:47.583 --> 00:01:51.204
+Número pulado, que nunca virou nota? Use Inutilização de numeração.
+
+28
+00:01:51.204 --> 00:01:55.095
+Já para corrigir um dado que não mexe em valor, use a carta de correção.
+
+29
+00:01:55.783 --> 00:01:58.712
+No começo do mês, abra Ferramentas › Exportar XMLs.
+
+30
+00:01:58.712 --> 00:02:03.593
+Confira o período, os modelos e o que incluir. A prévia mostra os arquivos por pasta.
+
+31
+00:02:03.593 --> 00:02:08.531
+Clique em Baixar o .zip e mande ao contador. Guarde os XMLs por pelo menos cinco anos.
+
+32
+00:02:09.250 --> 00:02:10.262
+Agora é a sua vez.
+
+33
+00:02:10.262 --> 00:02:14.984
+Abra a demonstração, fature um pedido e confira a guia Conferência antes de validar.
+
+34
+00:02:14.984 --> 00:02:18.132
+O passo a passo completo está no capítulo dez do manual.

@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.228
+Nesta aula você vai importar o extrato do cliente sem duplicar, conciliar o banco com o razão,
+
+2
+00:00:05.228 --> 00:00:10.048
+contabilizar em lote o que só está no banco e acompanhar a conciliação da carteira inteira.
+
+3
+00:00:10.917 --> 00:00:16.516
+A conciliação bancária trabalha com a empresa ativa. Digite parte do nome e escolha a empresa;
+
+4
+00:00:16.516 --> 00:00:20.507
+aqui, a Loja Modelo. Depois, troque pelo seletor do topo ou com F8.
+
+5
+00:00:21.183 --> 00:00:26.987
+Em Controle › Contas bancárias, os cartões mostram as contas ativas, os movimentos pendentes e
+
+6
+00:00:26.987 --> 00:00:29.889
+o saldo dos extratos ao lado do saldo contábil.
+
+7
+00:00:29.889 --> 00:00:33.963
+Para cadastrar, Nova conta, ou F7: a conta contábil é obrigatória.
+
+8
+00:00:34.650 --> 00:00:37.753
+O extrato entra por Movimentos › Importar extrato.
+
+9
+00:00:37.753 --> 00:00:43.276
+Escolha a conta bancária e o arquivo OFX ou CSV que o banco exporta, e clique em Avançar.
+
+10
+00:00:43.983 --> 00:00:49.182
+A prévia mostra o período, os movimentos novos e os já importados, que não entram de novo.
+
+11
+00:00:49.182 --> 00:00:54.323
+O aviso compara o saldo do banco com o calculado: diferença costuma ser extrato faltando.
+
+12
+00:00:54.323 --> 00:00:55.767
+Depois, Gravar o extrato.
+
+13
+00:00:56.450 --> 00:00:58.882
+As regras de classificação ficam em Arquivos.
+
+14
+00:00:58.882 --> 00:01:03.261
+Cada regra procura um texto do histórico do banco e manda para uma contrapartida.
+
+15
+00:01:03.261 --> 00:01:06.504
+Sugerir regras propõe regras a partir do que já foi lançado.
+
+16
+00:01:07.183 --> 00:01:11.777
+Agora, Movimentos › Conciliação. Escolha a conta e o período e clique em Carregar.
+
+17
+00:01:11.777 --> 00:01:16.652
+Os cartões comparam o saldo do extrato com o saldo contábil e dizem se a diferença está
+
+18
+00:01:16.652 --> 00:01:18.108
+explicada pelos pendentes.
+
+19
+00:01:18.783 --> 00:01:23.391
+Clique em Sugerir. Cada casamento mostra o banco, o razão, os pontos e o motivo.
+
+20
+00:01:23.391 --> 00:01:27.595
+Confira e clique em Confirmar as marcadas. Sugestão fraca vem desmarcada:
+
+21
+00:01:27.595 --> 00:01:29.035
+confira com mais cuidado.
+
+22
+00:01:29.717 --> 00:01:34.036
+Movimento que só está no banco, como uma tarifa? Selecione e tecle F7.
+
+23
+00:01:34.036 --> 00:01:38.478
+A contrapartida já vem da regra; confira e clique em Gravar lançamentos.
+
+24
+00:01:38.478 --> 00:01:40.329
+Aqui, vamos fechar sem gravar.
+
+25
+00:01:41.050 --> 00:01:44.797
+Muitos movimentos sem lançamento? Use Classificar e contabilizar em lote.
+
+26
+00:01:44.797 --> 00:01:47.414
+O resumo mostra quanto vai para cada contrapartida.
+
+27
+00:01:47.414 --> 00:01:51.366
+Desmarque o que não quiser e clique em Contabilizar os marcados com sugestão.
+
+28
+00:01:52.050 --> 00:01:55.267
+Para provar a conciliação, gere o Relatório de conciliação.
+
+29
+00:01:55.267 --> 00:02:00.665
+Para cada conta, ele parte do saldo contábil, soma e tira os pendentes e chega ao saldo do extrato.
+
+30
+00:02:00.665 --> 00:02:03.882
+A linha final deve dizer: diferença não explicada, nenhuma.
+
+31
+00:02:04.583 --> 00:02:08.326
+Para o escritório todo, abra Controle › Acompanhamento da carteira.
+
+32
+00:02:08.326 --> 00:02:13.075
+Os cartões mostram quem está conciliado, com pendentes, sem extrato ou com diferença.
+
+33
+00:02:13.075 --> 00:02:16.147
+E a Conciliação automática concilia a carteira em lote.
+
+34
+00:02:16.850 --> 00:02:17.870
+Agora é a sua vez.
+
+35
+00:02:17.870 --> 00:02:23.873
+Abra a demonstração, escolha a Loja Modelo, importe o extrato de exemplo e confirme um casamento sugerido.
+
+36
+00:02:23.873 --> 00:02:27.102
+O passo a passo completo está no capítulo sete do manual.

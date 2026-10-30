@@ -1,0 +1,114 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "Primeiros passos no Jarvis Escritório",
+  "resumo": "Leia o Painel do escritório, escolha a empresa ativa e a competência e ache qualquer tela pelos menus, pela busca e pela ajuda.",
+  "segundos": 144
+ },
+ "empresas": {
+  "capitulo": "empresas",
+  "n": 2,
+  "titulo": "Empresas: a carteira, a implantação e a ficha",
+  "resumo": "Filtre a carteira e aja em lote, cadastre e implante uma empresa, mantenha o regime com vigência e os sócios na ficha e leia a Visão 360°.",
+  "segundos": 150
+ },
+ "escrita-fiscal-documentos": {
+  "capitulo": "escrita-fiscal-documentos",
+  "n": 3,
+  "titulo": "Escrita fiscal I: cadastros, importação e conferência",
+  "resumo": "Configure os parâmetros fiscais e os acumuladores, importe os XML com o de-para certo e confira os documentos da competência antes de apurar e contabilizar.",
+  "segundos": 149
+ },
+ "apuracoes-e-obrigacoes": {
+  "capitulo": "apuracoes-e-obrigacoes",
+  "n": 4,
+  "titulo": "Escrita fiscal II: apurações, obrigações e fechamento",
+  "resumo": "Apure o Simples da empresa e da carteira, o ICMS e os tributos federais, gere livros e arquivos do SPED, passe o auditor, feche a competência e acompanhe as guias.",
+  "segundos": 151
+ },
+ "captura-e-central-fiscal": {
+  "capitulo": "captura-e-central-fiscal",
+  "n": 5,
+  "titulo": "Captura de notas e Central fiscal",
+  "resumo": "Acompanhe a captura da carteira, manifeste as notas destinadas no prazo, receba XML de qualquer cliente e veja a situação fiscal, as certidões e a caixa postal de cada empresa.",
+  "segundos": 147
+ },
+ "contabilidade": {
+  "capitulo": "contabilidade",
+  "n": 6,
+  "titulo": "Contabilidade: do lançamento ao balanço e à ECD",
+  "resumo": "Escolha a empresa, confira o plano de contas, lance um lote na grade, traga o que vem dos outros módulos, concilie uma conta, feche o mês e tire o balancete, o balanço e a ECD.",
+  "segundos": 150
+ },
+ "conciliacao-bancaria": {
+  "capitulo": "conciliacao-bancaria",
+  "n": 7,
+  "titulo": "Bancos e conciliação bancária",
+  "resumo": "Confira as contas bancárias do cliente, importe o extrato OFX sem duplicar, use as regras de classificação, concilie o extrato com o razão, contabilize em lote e acompanhe a carteira inteira.",
+  "segundos": 148
+ },
+ "patrimonio": {
+  "capitulo": "patrimonio",
+  "n": 8,
+  "titulo": "Patrimônio: bens, depreciação e baixas",
+  "resumo": "Configure o cálculo fiscal e societário, confira os bens, traga um bem pela nota de entrada, calcule e integre a depreciação do mês, simule uma venda, imprima etiquetas com QR e feche o mês conferido com o balancete.",
+  "segundos": 144
+ },
+ "lalur-ecf": {
+  "capitulo": "lalur-ecf",
+  "n": 9,
+  "titulo": "Lalur, LACS e ECF: o Lucro Real do lucro contábil à entrega",
+  "resumo": "Configure a forma de apuração do ano, ligue o plano à parte A, gere os ajustes, controle a parte B, calcule as estimativas, compense prejuízos no limite de 30%, apure e provisione o IRPJ e a CSLL e gere a ECF.",
+  "segundos": 144
+ },
+ "folha": {
+  "capitulo": "folha",
+  "n": 10,
+  "titulo": "Folha de pagamento e eSocial",
+  "resumo": "Configure os encargos, confira os empregados, lance as variáveis, calcule e confira a folha, programe férias, simule uma rescisão, confira as guias da DCTFWeb e do FGTS Digital, gere o eSocial e entregue os holerites.",
+  "segundos": 142
+ },
+ "registro": {
+  "capitulo": "registro",
+  "n": 11,
+  "titulo": "Registro e societário: processos, atos e validades",
+  "resumo": "Acompanhe aberturas, alterações e baixas em quadro, confira o quadro societário, registre um ato com minuta e não deixe vencer certidão, certificado ou procuração.",
+  "segundos": 137
+ },
+ "processos": {
+  "capitulo": "processos",
+  "n": 12,
+  "titulo": "Processos e tarefas: a rotina da equipe com prazo e meta",
+  "resumo": "Transforme as obrigações da carteira em tarefas com prazo legal e meta interna, gere o mês, acompanhe no quadro e na sua fila e dê a baixa das obrigações com recibo.",
+  "segundos": 127
+ },
+ "protocolo": {
+  "capitulo": "protocolo",
+  "n": 13,
+  "titulo": "Protocolo: entregar e receber documentos com comprovação",
+  "resumo": "Configure os canais, emita protocolos um a um ou da carteira inteira, acompanhe o retorno, dê a baixa pelo canhoto e registre o que o cliente traz ao escritório.",
+  "segundos": 133
+ },
+ "honorarios": {
+  "capitulo": "honorarios",
+  "n": 14,
+  "titulo": "Honorários: contratos, propostas, faturamento e cobrança",
+  "resumo": "Cuide do financeiro do próprio escritório: contratos com limites e reajuste, propostas no funil, faturamento do mês, Pix e boleto, recebimentos com multa e juros e régua de cobrança.",
+  "segundos": 131
+ },
+ "portal": {
+  "capitulo": "portal",
+  "n": 15,
+  "titulo": "Portal do cliente: guias, documentos, pedidos e comunicados",
+  "resumo": "Dê a cada cliente um portal com guias e documentos, cobre o que ele precisa mandar, responda às solicitações e envie comunicados com leitura confirmada.",
+  "segundos": 129
+ },
+ "administrar": {
+  "capitulo": "administrar",
+  "n": 16,
+  "titulo": "Administrar o escritório: equipe, permissões, auditoria e backup",
+  "resumo": "Cadastre os dados do escritório, convide a equipe, defina o que cada papel pode fazer, acompanhe horas e desempenho, consulte a auditoria e faça a cópia de segurança.",
+  "segundos": 126
+ }
+}

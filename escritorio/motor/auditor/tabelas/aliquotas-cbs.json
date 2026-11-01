@@ -1,0 +1,7 @@
+{
+"fonte":{"documento":"IT 2026.002 v1.00","publicacao":"2026-05-12","url":"https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=LRksVAMl7nQ=","arquivo":"IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx","informeTecnico":"https://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=p3diw3stE7w=","obtidoEm":"2026-10-30","observacoes":"pCBS em percentual, como o campo pCBS da NF-e: a planilha guarda 0,009 com formato 0,00%, ou seja, 0,90%. Para 2027 a planilha diz 'aguarda legislação', logo pCBS é null. Não há linha para anos depois de 2027."},
+"aliquotas":[
+{"ano":2026,"pCBS":0.9},
+{"ano":2027,"pCBS":null}
+]
+}

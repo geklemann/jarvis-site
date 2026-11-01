@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.067
+Nesta aula você vai ler os dois painéis do Auditor:
+
+2
+00:00:03.067 --> 00:00:05.718
+o da carteira do escritório e o de cada empresa.
+
+3
+00:00:06.650 --> 00:00:10.553
+O Painel da carteira mostra as notas conferidas de todas as empresas:
+
+4
+00:00:10.553 --> 00:00:15.984
+com erro em aberto, com alerta, sem pendência, de catálogo antigo e as empresas sem conferência.
+
+5
+00:00:16.717 --> 00:00:21.616
+O Painel da carteira também é o bloco da tela inicial do escritório: comece o dia por ele.
+
+6
+00:00:22.317 --> 00:00:25.703
+As empresas sem conferência aparecem no cartão Sem conferência:
+
+7
+00:00:25.703 --> 00:00:28.122
+comece por elas na Reconferência da carteira.
+
+8
+00:00:28.850 --> 00:00:34.829
+O aviso do alto lembra quando o catálogo mudou e há notas para conferir de novo, na Reconferência da carteira.
+
+9
+00:00:35.517 --> 00:00:40.314
+Na lista Por empresa, filtre pela situação e tecle Enter para abrir as notas da empresa.
+
+10
+00:00:40.314 --> 00:00:44.294
+Selecione empresas para conferir as que faltam ou conferir todas de novo.
+
+11
+00:00:44.983 --> 00:00:52.030
+Em Regras que mais apontam na carteira, a RTC-06, da base do IBS e da CBS, aparece em seis
+
+12
+00:00:52.030 --> 00:00:53.830
+notas de três empresas.
+
+13
+00:00:54.517 --> 00:00:56.932
+O Painel da empresa mostra a saúde fiscal:
+
+14
+00:00:56.932 --> 00:01:01.994
+o percentual em ordem, as notas que pedem correção e as diferenças de imposto apontadas.
+
+15
+00:01:02.717 --> 00:01:06.037
+No escritório, o painel da empresa abre com a empresa ativa.
+
+16
+00:01:06.037 --> 00:01:09.137
+Troque com F8 para preparar a conversa com cada cliente.
+
+17
+00:01:09.850 --> 00:01:13.999
+Onde estão as divergências mostra os erros e alertas em aberto por camada.
+
+18
+00:01:13.999 --> 00:01:17.420
+Na Loja Modelo, a Reforma Tributária concentra a maior parte.
+
+19
+00:01:18.117 --> 00:01:21.789
+Notas por dia de emissão mostra a situação de cada nota no tempo:
+
+20
+00:01:21.789 --> 00:01:23.880
+sem pendência, com alerta e com erro.
+
+21
+00:01:24.583 --> 00:01:29.869
+Regras mais acionadas, Fornecedores que mais erram e Últimas notas com erro levam direto à
+
+22
+00:01:29.869 --> 00:01:31.630
+lista ou à nota com um clique.
+
+23
+00:01:32.317 --> 00:01:37.875
+Exportar CSV, no alto do painel, leva os números para a planilha, e o filtro Notas troca para a
+
+24
+00:01:37.875 --> 00:01:39.747
+competência ativa ou para o ano.
+
+25
+00:01:40.450 --> 00:01:45.606
+No fim do painel ficam o cartão da Reforma Tributária e as notas que estão só com o resumo da
+
+26
+00:01:45.606 --> 00:01:48.101
+SEFAZ, com o atalho para manifestar e baixar.
+
+27
+00:01:48.783 --> 00:01:54.405
+Em Relatórios, a Posição da carteira traz uma linha por empresa, com o total, em PDF ou Excel,
+
+28
+00:01:54.405 --> 00:01:55.900
+para a reunião da equipe.
+
+29
+00:01:56.583 --> 00:02:01.692
+E Apontamentos por regra lista as regras que apontaram, com o fundamento, as notas e o que
+
+30
+00:02:01.692 --> 00:02:04.246
+segue em aberto, de uma empresa ou de várias.
+
+31
+00:02:04.917 --> 00:02:05.942
+Agora é a sua vez.
+
+32
+00:02:05.942 --> 00:02:12.153
+Na demonstração, abra o painel da carteira, ache a empresa de catálogo antigo e abra o painel da Loja Modelo.
+
+33
+00:02:12.153 --> 00:02:15.401
+O passo a passo completo está no capítulo nove do manual.

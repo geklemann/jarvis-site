@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.742
+Nesta aula você vai consultar o catálogo das regras e conferir na hora um xis eme éle que veio de fora.
+
+2
+00:00:06.650 --> 00:00:11.706
+O Catálogo de regras traz as 177 regras:
+
+3
+00:00:11.706 --> 00:00:18.912
+132 da NF-e, 26 do CT-e e 19 da NFS-e, com 83 da Reforma.
+
+4
+00:00:19.583 --> 00:00:28.662
+Os documentos são a NF-e modelo 55, o CT-e modelos 57 e 67, e a NFS-e do padrão nacional.
+
+5
+00:00:29.383 --> 00:00:35.440
+Cada camada tem o que confere, e cada regra traz o código, o título, o documento e o fundamento.
+
+6
+00:00:35.440 --> 00:00:37.963
+O mesmo XML dá sempre o mesmo resultado.
+
+7
+00:00:38.650 --> 00:00:44.022
+Autenticidade confere a chave e o protocolo; cálculo refaz cada imposto e os totais do zero;
+
+8
+00:00:44.022 --> 00:00:46.883
+e cruzamento compara as notas guardadas entre si.
+
+9
+00:00:47.583 --> 00:00:51.169
+Filtre por camada e por documento, ou busque pelo código da regra.
+
+10
+00:00:51.169 --> 00:00:54.537
+Assim você explica ao fornecedor de onde vem cada apontamento.
+
+11
+00:00:55.250 --> 00:00:58.907
+Em caso de dúvida, a regra sai como alerta e diz o que conferir:
+
+12
+00:00:58.907 --> 00:01:01.879
+a decisão final é sempre de quem responde pela nota.
+
+13
+00:01:02.583 --> 00:01:08.959
+Em Utilitários › Conferir um XML, solte o arquivo de uma NF-e, de um CT-e ou de uma NFS-e, ou
+
+14
+00:01:08.959 --> 00:01:10.193
+um ZIP com vários.
+
+15
+00:01:10.193 --> 00:01:11.906
+O arquivo não é guardado.
+
+16
+00:01:12.583 --> 00:01:15.293
+O XML é tratado como entrada não confiável:
+
+17
+00:01:15.293 --> 00:01:20.965
+o leitor recusa entidades externas e limita o tamanho. Eventos e NFC-e não são conferidos.
+
+18
+00:01:21.650 --> 00:01:26.534
+Use quando a nota chega por e-mail, antes de lançar, ou quando a empresa emite por outro
+
+19
+00:01:26.534 --> 00:01:28.976
+sistema e quer conferir antes de transmitir.
+
+20
+00:01:29.650 --> 00:01:33.416
+Com a NF-e de exemplo do manual, aparecem 9 erros:
+
+21
+00:01:33.416 --> 00:01:38.312
+o dígito da chave, o CFOP, o NCM, o ICMS, o cClassTrib e o total.
+
+22
+00:01:38.983 --> 00:01:43.971
+Cada apontamento traz a gravidade, o esperado, o que está na nota e o fundamento, como em
+
+23
+00:01:43.971 --> 00:01:45.148
+qualquer conferência.
+
+24
+00:01:45.850 --> 00:01:51.032
+Com a empresa ativa, Guardar o resultado leva a conferência para as Notas conferidas, como
+
+25
+00:01:51.032 --> 00:01:52.760
+conferência avulsa, sem o XML.
+
+26
+00:01:53.450 --> 00:01:57.634
+O botão de guardar só aparece com uma empresa ativa e para quem pode conferir.
+
+27
+00:01:57.634 --> 00:01:59.512
+Guarde só as notas daquela empresa.
+
+28
+00:02:00.183 --> 00:02:04.481
+Para conferir de novo uma conferência avulsa, solte o arquivo outra vez:
+
+29
+00:02:04.481 --> 00:02:06.510
+o XML não fica guardado no Jarvis.
+
+30
+00:02:07.183 --> 00:02:08.222
+Agora é a sua vez.
+
+31
+00:02:08.222 --> 00:02:14.393
+Baixe a ene efe é de exemplo no capítulo doze do manual e solte em Conferir um xis eme éle na demonstração.

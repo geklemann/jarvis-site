@@ -1,0 +1,121 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.637
+Nesta aula você vai ver por onde as notas entram no Auditor e como elas são conferidas assim que chegam.
+
+2
+00:00:06.517 --> 00:00:12.110
+Em Captura de Documentos › Movimentos › Notas destinadas, ficam as NF-e emitidas contra a
+
+3
+00:00:12.110 --> 00:00:13.619
+empresa, lidas da SEFAZ.
+
+4
+00:00:13.619 --> 00:00:17.767
+Toda nota que chega com o XML completo passa pelo Auditor na hora.
+
+5
+00:00:18.450 --> 00:00:22.463
+A coluna XML diz se a nota tem o arquivo completo ou só o resumo.
+
+6
+00:00:22.463 --> 00:00:26.414
+Para baixar o completo, dê a ciência da operação e envie a fila.
+
+7
+00:00:27.117 --> 00:00:32.654
+Os cartões contam as notas a escriturar, as sem manifestação, as que vencem em 15 dias, as que
+
+8
+00:00:32.654 --> 00:00:35.836
+estão na fila da SEFAZ e as que estão só com o resumo.
+
+9
+00:00:36.517 --> 00:00:41.328
+Os CT-e em que a empresa é tomadora e as NFS-e tomadas no Ambiente Nacional entram na
+
+10
+00:00:41.328 --> 00:00:42.856
+conferência do mesmo jeito.
+
+11
+00:00:43.583 --> 00:00:49.327
+As notas de serviço ficam em NFS-e tomadas, lidas do Ambiente de Dados Nacional.
+
+12
+00:00:49.327 --> 00:00:55.286
+Na conferência, a ficha da NFS-e mostra o município, o serviço, o ISS e a retenção.
+
+13
+00:00:55.983 --> 00:01:01.954
+Na Caixa de entrada de XML, solte arquivos, ZIP ou uma pasta de qualquer empresa da carteira:
+
+14
+00:01:01.954 --> 00:01:05.036
+o Jarvis descobre a empresa pelo CNPJ e confere.
+
+15
+00:01:05.717 --> 00:01:11.308
+Os cartões separam os novos, os sem empresa, os processados, os que já existiam e os com erro.
+
+16
+00:01:11.308 --> 00:01:14.877
+Um boleto em PDF dentro do ZIP, por exemplo, fica como erro.
+
+17
+00:01:15.583 --> 00:01:18.770
+Nas Notas conferidas, a origem diz por onde a nota entrou.
+
+18
+00:01:18.770 --> 00:01:22.561
+O aviso azul conta as notas que ainda estão só com o resumo da SEFAZ.
+
+19
+00:01:23.250 --> 00:01:27.717
+Ver a mais recente abre uma delas. Sem o XML completo não há conferência:
+
+20
+00:01:27.717 --> 00:01:30.349
+Manifestar ciência e baixar leva à Captura.
+
+21
+00:01:31.050 --> 00:01:34.839
+A ciência da operação só diz à SEFAZ que a empresa conhece a nota.
+
+22
+00:01:34.839 --> 00:01:38.399
+Ela libera o XML completo e não se confunde com a confirmação.
+
+23
+00:01:39.117 --> 00:01:44.622
+Em Utilitários › Situação da integração, o diagnóstico confere o certificado da empresa e faz
+
+24
+00:01:44.622 --> 00:01:47.344
+uma consulta de teste na SEFAZ de homologação.
+
+25
+00:01:47.344 --> 00:01:50.186
+Na demonstração, ele avisa que roda só na nuvem.
+
+26
+00:01:50.917 --> 00:01:56.291
+No modo empresa, a Captura é uma tela só, Notas da SEFAZ, com a manifestação e o lançamento da
+
+27
+00:01:56.291 --> 00:01:57.778
+entrada no Jarvis Simples.
+
+28
+00:01:58.450 --> 00:01:59.544
+Agora é a sua vez.
+
+29
+00:01:59.544 --> 00:02:06.106
+Na demonstração, abra os cê tê é destinados e depois o cê tê é sete mil cento e quatro nas Notas conferidas.
+
+30
+00:02:06.106 --> 00:02:09.630
+O passo a passo completo está no capítulo cinco do manual.

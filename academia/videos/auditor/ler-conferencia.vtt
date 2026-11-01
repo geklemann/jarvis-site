@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.139
+Nesta aula você vai ler a conferência de uma nota:
+
+2
+00:00:03.139 --> 00:00:07.818
+a situação, os itens, as camadas, a gravidade e o fundamento de cada apontamento.
+
+3
+00:00:08.717 --> 00:00:12.601
+Abra Auditor › Movimentos › Notas conferidas, com a empresa ativa.
+
+4
+00:00:12.601 --> 00:00:17.898
+Os cartões contam as notas com erro, com alerta, sem pendência, as que faltam conferir e a
+
+5
+00:00:17.898 --> 00:00:19.723
+diferença de imposto em aberto.
+
+6
+00:00:20.450 --> 00:00:22.486
+Clique num cartão para filtrar a lista.
+
+7
+00:00:22.486 --> 00:00:25.619
+Com erro, por exemplo, deixa só as notas com erro em aberto.
+
+8
+00:00:26.317 --> 00:00:32.541
+Os filtros acham a nota pela situação, pelo papel, pelo documento, pela regra ou pelo emitente.
+
+9
+00:00:32.541 --> 00:00:37.783
+Cada linha mostra os erros e os alertas em aberto e se a nota destaca IBS e CBS.
+
+10
+00:00:38.450 --> 00:00:40.224
+Clique na nota e tecle Enter.
+
+11
+00:00:40.224 --> 00:00:45.975
+A conferência abre com a situação, os erros em aberto com a diferença, os alertas, os tratados
+
+12
+00:00:45.975 --> 00:00:47.076
+e os informativos.
+
+13
+00:00:47.783 --> 00:00:54.348
+O cartão Documento traz o emitente, o destinatário, a emissão e o valor, a origem, o IBS e a
+
+14
+00:00:54.348 --> 00:00:56.131
+CBS destacados e a chave.
+
+15
+00:00:56.850 --> 00:00:58.747
+No alto da nota ficam os botões:
+
+16
+00:00:58.747 --> 00:01:04.080
+Conferir de novo, que refaz a conferência pelo catálogo atual, Baixar o XML e Relatório de
+
+17
+00:01:04.080 --> 00:01:06.214
+correção, a carta para o fornecedor.
+
+18
+00:01:06.917 --> 00:01:13.708
+Em Itens da nota, cada item mostra o NCM, o CFOP, o ICMS, o CST e o cClassTrib da Reforma, e
+
+19
+00:01:13.708 --> 00:01:16.440
+quantos apontamentos estão em aberto.
+
+20
+00:01:17.117 --> 00:01:20.353
+Os apontamentos vêm agrupados pela camada:
+
+21
+00:01:20.353 --> 00:01:26.981
+autenticidade, cadastro, classificação, cálculo, ICMS, ISS, IPI, PIS e Cofins, Reforma
+
+22
+00:01:26.981 --> 00:01:28.831
+Tributária e cruzamento.
+
+23
+00:01:29.517 --> 00:01:35.821
+A gravidade vem no selo: erro, alerta ou informativo. Aqui, o ICMS do item 2:
+
+24
+00:01:35.821 --> 00:01:40.570
+esperado R$ 90,00, na nota R$ 95,00, diferença de R$ 5,00.
+
+25
+00:01:41.250 --> 00:01:44.663
+Alerta é o que pode estar certo, mas pede um olhar humano.
+
+26
+00:01:44.663 --> 00:01:47.488
+Aqui, o XML veio sem o protocolo de autorização:
+
+27
+00:01:47.488 --> 00:01:50.371
+confirme a situação na SEFAZ antes de escriturar.
+
+28
+00:01:51.050 --> 00:01:53.877
+Embaixo ficam o código da regra e o fundamento:
+
+29
+00:01:53.877 --> 00:01:57.005
+a lei, a nota técnica ou o manual que a regra segue.
+
+30
+00:01:57.005 --> 00:02:00.675
+Em seguida, a situação e os botões para tratar o apontamento.
+
+31
+00:02:01.383 --> 00:02:05.224
+Na conferência de um CT-e aparece a ficha do frete:
+
+32
+00:02:05.224 --> 00:02:12.227
+o trajeto, os componentes e as notas transportadas. Na NFS-e, o município, o serviço e o ISS.
+
+33
+00:02:12.917 --> 00:02:13.913
+Agora é a sua vez.
+
+34
+00:02:13.913 --> 00:02:19.339
+Na demonstração, abra a nota sete mil cento e dois e ache o apontamento da alíquota interestadual.
+
+35
+00:02:19.339 --> 00:02:22.495
+O passo a passo completo está no capítulo dois do manual.

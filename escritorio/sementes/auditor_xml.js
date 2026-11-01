@@ -1842,4 +1842,86 @@ export const XML_DEMO=[{id:"aud-amostra-demo-01-correta",empresa:"emp-demo-1",ti
     </infProt>\r
   </protCTe>\r
 </cteProc>\r
+`},{id:"aud-amostra-demo-01-correta-outro-ncm",empresa:"emp-demo-1",tipo:"nfe",entrada:"captura",mostra:"CRZ-01: o mesmo produto do mesmo fornecedor com outro NCM",xml:`<?xml version="1.0" encoding="UTF-8"?>
+<!-- NOTA DE DEMONSTRAÇÃO (fictícia, do CRIVO, ajustada para a demonstração do Jarvis). Sem valor fiscal. -->
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <NFe>
+    <infNFe Id="NFe42261011222333000181550010000071201123456788" versao="4.00">
+      <ide>
+        <cUF>42</cUF><cNF>12345678</cNF><natOp>Venda de produção do estabelecimento</natOp><mod>55</mod><serie>1</serie>
+        <nNF>7120</nNF><dhEmi>2026-10-27T10:00:00-03:00</dhEmi><tpNF>1</tpNF><idDest>2</idDest><cMunFG>4208906</cMunFG>
+        <tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>8</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>9</indPres>
+      </ide>
+      <emit>
+        <CNPJ>11222333000181</CNPJ><xNome>INDUSTRIA DEMONSTRACAO LTDA</xNome>
+        <enderEmit><xLgr>Rua Exemplo</xLgr><nro>100</nro><xBairro>Centro</xBairro><cMun>4208906</cMun><xMun>Jaragua do Sul</xMun><UF>SC</UF></enderEmit>
+        <IE>255555555</IE><CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>31415926000171</CNPJ><xNome>LOJA MODELO COMÉRCIO ELETRÔNICO LTDA</xNome>
+        <enderDest><xLgr>Av. Exemplo</xLgr><nro>200</nro><xBairro>Centro</xBairro><cMun>3550308</cMun><xMun>Sao Paulo</xMun><UF>SP</UF></enderDest>
+        <indIEDest>1</indIEDest><IE>110042490114</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>MOT-5CV</cProd><cEAN>SEM GTIN</cEAN><xProd>Motor eletrico trifasico 5 CV</xProd><NCM>85015290</NCM><CFOP>6101</CFOP>
+          <uCom>UN</uCom><qCom>2.0000</qCom><vUnCom>1500.0000000000</vUnCom><vProd>3000.00</vProd><indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>3000.00</vBC><pICMS>12.00</pICMS><vICMS>360.00</vICMS></ICMS00></ICMS>
+          <IPI><cEnq>999</cEnq><IPITrib><CST>50</CST><vBC>3000.00</vBC><pIPI>5.00</pIPI><vIPI>150.00</vIPI></IPITrib></IPI>
+          <PIS><PISAliq><CST>01</CST><vBC>3000.00</vBC><pPIS>1.65</pPIS><vPIS>49.50</vPIS></PISAliq></PIS>
+          <COFINS><COFINSAliq><CST>01</CST><vBC>3000.00</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>228.00</vCOFINS></COFINSAliq></COFINS>
+          <IBSCBS>
+            <CST>000</CST><cClassTrib>000001</cClassTrib>
+            <gIBSCBS>
+              <vBC>2362.50</vBC>
+              <gIBSUF><pIBSUF>0.1000</pIBSUF><vIBSUF>2.36</vIBSUF></gIBSUF>
+              <gIBSMun><pIBSMun>0.0000</pIBSMun><vIBSMun>0.00</vIBSMun></gIBSMun>
+              <vIBS>2.36</vIBS>
+              <gCBS><pCBS>0.9000</pCBS><vCBS>21.26</vCBS></gCBS>
+            </gIBSCBS>
+          </IBSCBS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>PNL-01</cProd><cEAN>SEM GTIN</cEAN><xProd>Painel de comando</xProd><NCM>85371090</NCM><CFOP>6101</CFOP>
+          <uCom>UN</uCom><qCom>1.0000</qCom><vUnCom>800.0000000000</vUnCom><vProd>800.00</vProd><indTot>1</indTot>
+        </prod>
+        <imposto>
+          <ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>800.00</vBC><pICMS>12.00</pICMS><vICMS>96.00</vICMS></ICMS00></ICMS>
+          <IPI><cEnq>999</cEnq><IPITrib><CST>50</CST><vBC>800.00</vBC><pIPI>5.00</pIPI><vIPI>40.00</vIPI></IPITrib></IPI>
+          <PIS><PISAliq><CST>01</CST><vBC>800.00</vBC><pPIS>1.65</pPIS><vPIS>13.20</vPIS></PISAliq></PIS>
+          <COFINS><COFINSAliq><CST>01</CST><vBC>800.00</vBC><pCOFINS>7.60</pCOFINS><vCOFINS>60.80</vCOFINS></COFINSAliq></COFINS>
+          <IBSCBS>
+            <CST>000</CST><cClassTrib>000001</cClassTrib>
+            <gIBSCBS>
+              <vBC>630.00</vBC>
+              <gIBSUF><pIBSUF>0.1000</pIBSUF><vIBSUF>0.63</vIBSUF></gIBSUF>
+              <gIBSMun><pIBSMun>0.0000</pIBSMun><vIBSMun>0.00</vIBSMun></gIBSMun>
+              <vIBS>0.63</vIBS>
+              <gCBS><pCBS>0.9000</pCBS><vCBS>5.67</vCBS></gCBS>
+            </gIBSCBS>
+          </IBSCBS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>3800.00</vBC><vICMS>456.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST>
+          <vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>3800.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc>
+          <vII>0.00</vII><vIPI>190.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>62.70</vPIS><vCOFINS>288.80</vCOFINS><vOutro>0.00</vOutro><vNF>3990.00</vNF>
+        </ICMSTot>
+        <IBSCBSTot>
+          <vBCIBSCBS>2992.50</vBCIBSCBS>
+          <gIBS><gIBSUF><vDif>0.00</vDif><vDevTrib>0.00</vDevTrib><vIBSUF>2.99</vIBSUF></gIBSUF><gIBSMun><vDif>0.00</vDif><vDevTrib>0.00</vDevTrib><vIBSMun>0.00</vIBSMun></gIBSMun><vIBS>2.99</vIBS><vCredPres>0.00</vCredPres><vCredPresCondSus>0.00</vCredPresCondSus></gIBS>
+          <gCBS><vDif>0.00</vDif><vDevTrib>0.00</vDevTrib><vCBS>26.93</vCBS><vCredPres>0.00</vCredPres><vCredPresCondSus>0.00</vCredPresCondSus></gCBS>
+        </IBSCBSTot>
+      </total>
+    </infNFe>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt><tpAmb>1</tpAmb><verAplic>DEMO</verAplic><chNFe>42261011222333000181550010000071201123456788</chNFe><dhRecbto>2026-10-27T10:00:05-03:00</dhRecbto><nProt>342260000000001</nProt><cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt>
+  </protNFe>
+</nfeProc>
 `}];

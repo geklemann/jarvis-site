@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Jarvis Auditor — conferência fiscal das notas",
+  "short_name": "Jarvis Auditor",
+  "description": "A conferência fiscal de cada NF-e, CT-e e NFS-e pelas 177 regras do CRIVO, com o fundamento e a Reforma Tributária, no celular e no computador.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#2f6fed",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    { "src": "../brand/jarvis.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "../brand/jarvis-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Notas conferidas", "short_name": "Notas", "url": "./#/auditor/movimentos/notas", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Tratamento de apontamentos", "short_name": "Apontamentos", "url": "./#/auditor/movimentos/apontamentos", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Conferir um XML", "short_name": "Conferir XML", "url": "./#/auditor/utilitarios/conferir-xml", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
+  ]
+}

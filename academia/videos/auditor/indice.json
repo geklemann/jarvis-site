@@ -1,0 +1,65 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "Primeiros passos no Jarvis Auditor",
+  "resumo": "Conheça o painel da carteira, os dois modos (escritório e empresa), a empresa ativa, os menus e o botão Conferir um XML.",
+  "segundos": 138
+ },
+ "ler-conferencia": {
+  "capitulo": "ler-conferencia",
+  "n": 2,
+  "titulo": "Como ler uma conferência",
+  "resumo": "As notas conferidas, a conferência de uma nota, as camadas, a gravidade, o fundamento e o esperado × o que está na nota.",
+  "segundos": 143
+ },
+ "reforma-tributaria": {
+  "capitulo": "reforma-tributaria",
+  "n": 3,
+  "titulo": "Reforma Tributária: IBS, CBS e cClassTrib",
+  "resumo": "O cartão da Reforma no painel, o CST e o cClassTrib na nota, as alíquotas de referência, as reduções da LC 214 e o cronograma.",
+  "segundos": 141
+ },
+ "antes-de-emitir": {
+  "capitulo": "antes-de-emitir",
+  "n": 4,
+  "titulo": "Antes de emitir: a pré-validação",
+  "resumo": "Na emissão do Jarvis Simples, o XML montado passa pelo Auditor antes de transmitir; erro pede a sua confirmação.",
+  "segundos": 122
+ },
+ "depois-de-receber": {
+  "capitulo": "depois-de-receber",
+  "n": 5,
+  "titulo": "Depois de receber: a Captura",
+  "resumo": "NF-e destinadas, CT-e e NFS-e tomadas, a caixa de entrada de XML, a nota só com o resumo e o diagnóstico da integração.",
+  "segundos": 130
+ },
+ "tratamento": {
+  "capitulo": "tratamento",
+  "n": 6,
+  "titulo": "Tratamento dos apontamentos",
+  "resumo": "Cobrado, corrigido, aceito com motivo, falso alarme e reabrir, em lote e na conferência da nota.",
+  "segundos": 130
+ },
+ "fornecedores-e-correcao": {
+  "capitulo": "fornecedores-e-correcao",
+  "n": 7,
+  "titulo": "Fornecedores e relatório de correção",
+  "resumo": "A conformidade de cada fornecedor, a ficha com as regras que ele mais erra e a carta de correção.",
+  "segundos": 138
+ },
+ "paineis": {
+  "capitulo": "paineis",
+  "n": 9,
+  "titulo": "Painel da empresa e painel da carteira",
+  "resumo": "A carteira do escritório numa tela, a saúde fiscal de uma empresa e a posição da carteira.",
+  "segundos": 136
+ },
+ "catalogo-e-xml-avulso": {
+  "capitulo": "catalogo-e-xml-avulso",
+  "n": 12,
+  "titulo": "O catálogo das regras e conferir um XML",
+  "resumo": "As 177 regras por camada e documento, com o fundamento, e a conferência na hora de um XML avulso.",
+  "segundos": 135
+ }
+}

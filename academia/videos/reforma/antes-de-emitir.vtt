@@ -1,117 +1,121 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:04.733
-Nesta aula você vai ver a pré-validação do Auditor na emissão do Járvis Simples:
+00:00:00.250 --> 00:00:04.895
+Nesta aula você vai ver a pré-validação do Járvis Reforma na emissão do Járvis Simples:
 
 2
-00:00:04.733 --> 00:00:06.694
+00:00:04.895 --> 00:00:06.763
 o erro achado antes de a nota sair.
 
 3
-00:00:07.583 --> 00:00:10.788
+00:00:07.650 --> 00:00:10.780
 A pré-validação acontece na emissão do Jarvis Simples.
 
 4
-00:00:10.788 --> 00:00:15.536
+00:00:10.780 --> 00:00:15.417
 Abra Notas Fiscais › Operações › Emitir nota e escolha o pedido que vai faturar.
 
 5
-00:00:16.250 --> 00:00:21.070
+00:00:16.117 --> 00:00:21.215
 Antes de validar, a guia Conferência mostra só os pontos do próprio Simples e avisa que o
 
 6
-00:00:21.070 --> 00:00:23.344
-Auditor entra depois de Validar e numerar.
+00:00:21.215 --> 00:00:24.023
+Járvis Reforma entra depois de Validar e numerar.
 
 7
-00:00:24.050 --> 00:00:25.666
+00:00:24.717 --> 00:00:26.337
 Clique em Validar e numerar.
 
 8
-00:00:25.666 --> 00:00:31.782
+00:00:26.337 --> 00:00:32.472
 O Jarvis reserva o número e monta o XML, que passa pelas mesmas regras da conferência das notas recebidas.
 
 9
-00:00:32.450 --> 00:00:37.875
+00:00:33.183 --> 00:00:38.574
 O resultado mostra os erros, os alertas e os informativos, e quantos são de IBS e CBS.
 
 10
-00:00:37.875 --> 00:00:41.471
+00:00:38.574 --> 00:00:42.146
 As regras da Reforma vêm primeiro, num bloco em destaque.
 
 11
-00:00:42.183 --> 00:00:44.102
+00:00:42.850 --> 00:00:44.800
 Aqui há só um informativo:
 
 12
-00:00:44.102 --> 00:00:51.704
+00:00:44.800 --> 00:00:52.525
 a nota não destaca IBS e CBS, e, para o Simples Nacional, o destaque passa a ser exigido em 01/01/2027.
 
 13
-00:00:52.383 --> 00:00:57.888
+00:00:53.250 --> 00:00:58.678
 Cada apontamento traz o que está na nota, o código da regra e o fundamento, como na conferência
 
 14
-00:00:57.888 --> 00:00:59.047
+00:00:58.678 --> 00:00:59.821
 das notas recebidas.
 
 15
-00:00:59.717 --> 00:01:04.815
+00:01:00.517 --> 00:01:05.699
 Antes da autorização não há protocolo: as regras de protocolo ficam de fora da pré-validação.
 
 16
-00:01:04.815 --> 00:01:08.489
+00:01:05.699 --> 00:01:09.433
 Na emissão em homologação, a regra do ambiente também fica de fora.
 
 17
-00:01:09.183 --> 00:01:11.345
+00:01:10.117 --> 00:01:12.357
 Com erro, Transmitir abre a confirmação.
 
 18
-00:01:11.345 --> 00:01:15.992
+00:01:12.357 --> 00:01:17.174
 Volte e corrija, ou marque que leu os apontamentos e clique em Transmitir mesmo assim.
 
 19
-00:01:15.992 --> 00:01:18.099
+00:01:17.174 --> 00:01:19.359
 A decisão fica registrada na auditoria.
 
 20
-00:01:18.783 --> 00:01:26.399
-A NFC-e não passa pelo Auditor: as regras são da NF-e modelo 55, do CT-e e da NFS-e nacional.
+00:01:20.050 --> 00:01:26.588
+A NFC-e emitida por esta tela também passa pela pré-validação, só com as regras do modelo 65.
 
 21
-00:01:27.117 --> 00:01:32.184
-Depois de autorizada, a nota é conferida de novo, agora com o protocolo, e entra na Conferência
+00:01:26.588 --> 00:01:32.775
+E, quando o grupo IBSCBS entra para a empresa, o Jarvis Simples já monta a nota com ele.
 
 22
-00:01:32.184 --> 00:01:34.211
-fiscal da empresa com o papel Emitida.
+00:01:33.450 --> 00:01:38.608
+Depois de autorizada, a nota é conferida de novo, agora com o protocolo, e entra na Conferência
 
 23
-00:01:34.917 --> 00:01:39.406
-É a mesma tela de Notas conferidas do Auditor, só com a empresa do usuário.
+00:01:38.608 --> 00:01:40.671
+fiscal da empresa com o papel Emitida.
 
 24
-00:01:39.406 --> 00:01:43.416
-Os botões Painel, Fornecedores e Pendências levam às outras visões.
+00:01:41.383 --> 00:01:46.233
+É a mesma tela de Notas conferidas do Járvis Reforma, só com a empresa do usuário.
 
 25
-00:01:44.117 --> 00:01:47.818
-Se a conferência depois da emissão falhar, a emissão segue normalmente.
+00:01:46.233 --> 00:01:50.195
+Os botões Painel, Fornecedores e Pendências levam às outras visões.
 
 26
-00:01:47.818 --> 00:01:50.686
-Use Conferir as que faltam para conferir a nota depois.
+00:01:50.917 --> 00:01:54.604
+Se a conferência depois da emissão falhar, a emissão segue normalmente.
 
 27
-00:01:51.383 --> 00:01:52.405
-Agora é a sua vez.
+00:01:54.604 --> 00:01:57.461
+Use Conferir as que faltam para conferir a nota depois.
 
 28
-00:01:52.405 --> 00:01:57.683
-Na demonstração do Járvis Simples, emita a nota de um pedido sem nota e leia a pré-validação.
+00:01:58.183 --> 00:01:59.204
+Agora é a sua vez.
 
 29
-00:01:57.683 --> 00:02:01.031
+00:01:59.204 --> 00:02:04.475
+Na demonstração do Járvis Simples, emita a nota de um pedido sem nota e leia a pré-validação.
+
+30
+00:02:04.475 --> 00:02:07.819
 O passo a passo completo está no capítulo quatro do manual.

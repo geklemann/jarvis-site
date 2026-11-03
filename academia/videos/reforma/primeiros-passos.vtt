@@ -1,125 +1,125 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:02.950
-Nesta aula você vai conhecer o Járvis Auditor:
+00:00:00.250 --> 00:00:03.046
+Nesta aula você vai conhecer o Járvis Reforma:
 
 2
-00:00:02.950 --> 00:00:07.762
+00:00:03.046 --> 00:00:08.029
 o painel da carteira, os dois modos, a empresa ativa e o jeito de achar cada tela.
 
 3
-00:00:08.650 --> 00:00:12.727
-O Jarvis Auditor confere cada nota fiscal pelo XML:
+00:00:08.917 --> 00:00:14.275
+O Jarvis Reforma valida a Reforma Tributária nas notas fiscais pelo XML:
 
 4
-00:00:12.727 --> 00:00:20.482
-177 regras sobre NF-e, CT-e e NFS-e, com o fundamento de cada uma e o foco na Reforma Tributária.
+00:00:14.275 --> 00:00:21.420
+209 regras sobre NF-e, NFC-e, CT-e, NFS-e e os eventos da Reforma, com o fundamento de cada uma.
 
 5
-00:00:21.183 --> 00:00:23.536
+00:00:22.117 --> 00:00:24.453
 Esta é a demonstração no modo escritório.
 
 6
-00:00:23.536 --> 00:00:27.495
+00:00:24.453 --> 00:00:28.386
 O painel da carteira mostra as notas conferidas de todos os clientes:
 
 7
-00:00:27.495 --> 00:00:31.511
+00:00:28.386 --> 00:00:32.376
 com erro em aberto, com alerta, sem pendência e as de catálogo antigo.
 
 8
-00:00:32.183 --> 00:00:38.058
+00:00:33.050 --> 00:00:38.727
 O aviso do alto lembra quando o catálogo de regras mudou e ainda há notas conferidas com uma versão anterior.
 
 9
-00:00:38.783 --> 00:00:43.203
+00:00:39.450 --> 00:00:43.819
 Na lista Por empresa, a Loja Modelo vem primeiro, com 21 erros em aberto.
 
 10
-00:00:43.203 --> 00:00:45.079
+00:00:43.819 --> 00:00:45.674
 Enter abre as notas da empresa.
 
 11
-00:00:45.783 --> 00:00:48.973
+00:00:46.383 --> 00:00:49.378
 Na barra lateral ficam os dois módulos do escritório:
 
 12
-00:00:48.973 --> 00:00:53.306
-o Auditor e a Captura de Documentos, cada um com o número de pendências.
+00:00:49.378 --> 00:00:53.221
+Reforma e Captura de Documentos, cada um com o número de pendências.
 
 13
-00:00:53.983 --> 00:00:55.534
+00:00:53.917 --> 00:00:55.476
 O modo é escolhido pela conta:
 
 14
-00:00:55.534 --> 00:01:01.117
+00:00:55.476 --> 00:01:01.091
 quem está na equipe de um escritório entra no modo escritório, e quem só tem empresas entra no modo empresa.
 
 15
-00:01:01.117 --> 00:01:05.149
-O Auditor usa a carteira do Jarvis Escritório e as empresas do Jarvis Simples.
+00:01:01.091 --> 00:01:05.511
+O Jarvis Reforma usa a carteira do Jarvis Escritório e as empresas do Jarvis Simples.
 
 16
-00:01:05.850 --> 00:01:11.682
+00:01:06.183 --> 00:01:11.851
 No topo ficam a empresa ativa e a competência. Tecle F8 para trocar de empresa:
 
 17
-00:01:11.682 --> 00:01:13.675
+00:01:11.851 --> 00:01:13.788
 aqui, a 0004 · Loja Modelo.
 
 18
-00:01:14.383 --> 00:01:19.726
+00:01:14.517 --> 00:01:19.842
 Cada módulo tem a barra de menus: Controle, Arquivos, Movimentos, Relatórios e Utilitários.
 
 19
-00:01:19.726 --> 00:01:23.483
+00:01:19.842 --> 00:01:23.587
 Em Movimentos, Notas conferidas lista as notas da empresa ativa.
 
 20
-00:01:24.183 --> 00:01:27.572
+00:01:24.317 --> 00:01:27.618
 O botão Conferir um XML, no topo, fica em qualquer tela:
 
 21
-00:01:27.572 --> 00:01:31.021
+00:01:27.618 --> 00:01:30.978
 solte o arquivo de uma nota e veja a conferência na hora.
 
 22
-00:01:31.717 --> 00:01:37.306
+00:01:31.650 --> 00:01:37.356
 Tecle Ctrl+K para buscar qualquer tela pelo nome, como Relatório de correção ou Carta da Reforma.
 
 23
-00:01:37.306 --> 00:01:39.496
+00:01:37.356 --> 00:01:39.591
 E tecle F1 para ver a ajuda do módulo.
 
 24
-00:01:40.183 --> 00:01:44.264
-Na empresa que confere as próprias notas, o Auditor abre no modo empresa:
+00:01:40.317 --> 00:01:44.771
+Na empresa que confere as próprias notas, o Járvis Reforma abre no modo empresa:
 
 25
-00:01:44.264 --> 00:01:49.687
+00:01:44.771 --> 00:01:50.172
 a empresa já vem ativa, a tela inicial é o Painel da empresa e as telas da carteira não aparecem.
 
 26
-00:01:50.383 --> 00:01:54.011
+00:01:50.850 --> 00:01:54.483
 No modo empresa, os menus seguem os nomes do Jarvis Simples:
 
 27
-00:01:54.011 --> 00:01:59.332
+00:01:54.483 --> 00:01:59.811
 Cadastros, Operações, Relatórios e Ferramentas. E a Captura mostra só as Notas da SEFAZ.
 
 28
-00:02:00.050 --> 00:02:06.517
+00:02:00.517 --> 00:02:06.984
 Embaixo, a barra de status mostra a empresa ativa, a competência, o caminho da tela e os atalhos principais.
 
 29
-00:02:07.250 --> 00:02:08.266
+00:02:07.717 --> 00:02:08.734
 Agora é a sua vez.
 
 30
-00:02:08.266 --> 00:02:12.839
-Abra a demonstração do Auditor, escolha a Loja Modelo e abra as Notas conferidas.
+00:02:08.734 --> 00:02:13.707
+Abra a demonstração do Járvis Reforma, escolha a Loja Modelo e abra as Notas conferidas.
 
 31
-00:02:12.839 --> 00:02:17.130
+00:02:13.707 --> 00:02:18.003
 O passo a passo completo, com o modo empresa, está no capítulo um do manual.

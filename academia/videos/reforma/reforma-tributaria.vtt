@@ -1,113 +1,113 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:04.306
-Nesta aula você vai ver como o Auditor confere a Reforma Tributária:
+00:00:00.250 --> 00:00:05.641
+Nesta aula você vai ver como o Járvis Reforma confere o i bê ésse, a cê bê ésse, o cê class
 
 2
-00:00:04.306 --> 00:00:08.540
-o i bê ésse, a cê bê ésse, o cê class trib, as reduções e o cronograma.
+00:00:05.641 --> 00:00:08.899
+trib, as reduções e o cronograma da Reforma Tributária.
 
 3
-00:00:09.450 --> 00:00:16.325
+00:00:09.783 --> 00:00:16.730
 No painel da empresa, o cartão Reforma Tributária mostra quantas notas destacam IBS e CBS e
 
 4
-00:00:16.325 --> 00:00:17.912
+00:00:16.730 --> 00:00:18.334
 quanto foi destacado.
 
 5
-00:00:17.912 --> 00:00:19.423
+00:00:18.334 --> 00:00:19.860
 Na Loja Modelo, 91%.
 
 6
-00:00:20.117 --> 00:00:26.793
+00:00:20.583 --> 00:00:27.151
 O destaque é exigido desde 03/08/2026. Neste ano ele é de teste:
 
 7
-00:00:26.793 --> 00:00:30.444
+00:00:27.151 --> 00:00:30.742
 0,9% de CBS e 0,1% de IBS estadual.
 
 8
-00:00:31.117 --> 00:00:35.867
+00:00:31.450 --> 00:00:36.249
 Na conferência da nota, a camada Reforma Tributária reúne as regras RTC:
 
 9
-00:00:35.867 --> 00:00:40.221
+00:00:36.249 --> 00:00:40.648
 o CST e o cClassTrib de cada item, conferidos pela tabela oficial.
 
 10
-00:00:40.917 --> 00:00:45.288
+00:00:41.317 --> 00:00:45.710
 Os 3 primeiros dígitos do cClassTrib são o CST.
 
 11
-00:00:45.288 --> 00:00:49.938
+00:00:45.710 --> 00:00:50.384
 Aqui, o cClassTrib 200034 não pertence ao CST 000.
 
 12
-00:00:50.650 --> 00:00:54.896
+00:00:51.117 --> 00:00:55.149
 O cClassTrib também precisa estar vigente e valer para o documento:
 
 13
-00:00:54.896 --> 00:00:58.635
+00:00:55.149 --> 00:00:58.700
 há regras próprias para a NF-e, para o CT-e e para a NFS-e.
 
 14
-00:00:59.317 --> 00:01:04.119
+00:00:59.383 --> 00:01:04.168
 A alíquota de referência é conferida pelo ano da emissão:
 
 15
-00:01:04.119 --> 00:01:08.500
+00:01:04.168 --> 00:01:08.532
 a nota usa 1% de CBS, e a referência de 2026 é 0,9%.
 
 16
-00:01:09.183 --> 00:01:13.711
+00:01:09.250 --> 00:01:13.762
 As reduções e a alíquota zero da LC 214/2025 dependem do anexo:
 
 17
-00:01:13.711 --> 00:01:19.819
+00:01:13.762 --> 00:01:19.850
 o cClassTrib do Anexo VII exige um NCM do anexo. Fora da lista, a redução é indevida.
 
 18
-00:01:20.517 --> 00:01:24.344
+00:01:20.583 --> 00:01:24.299
 A base do IBS e da CBS também é conferida:
 
 19
-00:01:24.344 --> 00:01:34.368
+00:01:24.299 --> 00:01:34.031
 ficam fora o próprio imposto, o IPI, os descontos incondicionais e, até 2032, o ICMS, o ISS, o PIS e a Cofins.
 
 20
-00:01:35.050 --> 00:01:42.206
-No Catálogo de regras são 83 regras da Reforma na NF-e, além das do CT-e e da NFS-e, cada uma
+00:01:34.717 --> 00:01:41.188
+No Catálogo de regras são 93 regras da Reforma na NF-e, além das do CT-e, da NFS-e e dos
 
 21
-00:01:42.206 --> 00:01:43.514
-com o fundamento.
+00:01:41.188 --> 00:01:43.762
+eventos, cada uma com o fundamento.
 
 22
-00:01:44.183 --> 00:01:47.770
+00:01:44.450 --> 00:01:47.926
 O cronograma está na Carta da Reforma:
 
 23
-00:01:47.770 --> 00:01:56.075
+00:01:47.926 --> 00:01:55.976
 NF-e e CT-e desde 03/08/2026, NFS-e desde 01/10/2026 e o Simples Nacional em 01/01/2027.
 
 24
-00:01:56.783 --> 00:02:03.209
+00:01:56.650 --> 00:02:03.058
 Em 2027 a CBS passa a ser cobrada de fato, o PIS e a Cofins acabam e começa o Imposto Seletivo.
 
 25
-00:02:03.209 --> 00:02:09.432
+00:02:03.058 --> 00:02:09.264
 As regras desse ano já estão no catálogo, e a gravidade sai da data de emissão de cada nota.
 
 26
-00:02:10.117 --> 00:02:11.194
+00:02:09.983 --> 00:02:11.043
 Agora é a sua vez.
 
 27
-00:02:11.194 --> 00:02:16.462
+00:02:11.043 --> 00:02:16.226
 Na demonstração, filtre as notas pela regra erre tê cê vinte e oito e leia o fundamento.
 
 28
-00:02:16.462 --> 00:02:19.875
+00:02:16.226 --> 00:02:19.582
 O passo a passo completo está no capítulo três do manual.

@@ -2,44 +2,44 @@
  "primeiros-passos": {
   "capitulo": "primeiros-passos",
   "n": 1,
-  "titulo": "Primeiros passos no Jarvis Auditor",
+  "titulo": "Primeiros passos no Jarvis Reforma",
   "resumo": "Conheça o painel da carteira, os dois modos (escritório e empresa), a empresa ativa, os menus e o botão Conferir um XML.",
-  "segundos": 138
+  "segundos": 139
  },
  "ler-conferencia": {
   "capitulo": "ler-conferencia",
   "n": 2,
   "titulo": "Como ler uma conferência",
   "resumo": "As notas conferidas, a conferência de uma nota, as camadas, a gravidade, o fundamento e o esperado × o que está na nota.",
-  "segundos": 143
+  "segundos": 142
  },
  "reforma-tributaria": {
   "capitulo": "reforma-tributaria",
   "n": 3,
   "titulo": "Reforma Tributária: IBS, CBS e cClassTrib",
   "resumo": "O cartão da Reforma no painel, o CST e o cClassTrib na nota, as alíquotas de referência, as reduções da LC 214 e o cronograma.",
-  "segundos": 141
+  "segundos": 140
  },
  "antes-de-emitir": {
   "capitulo": "antes-de-emitir",
   "n": 4,
   "titulo": "Antes de emitir: a pré-validação",
-  "resumo": "Na emissão do Jarvis Simples, o XML montado passa pelo Auditor antes de transmitir; erro pede a sua confirmação.",
-  "segundos": 122
+  "resumo": "Na emissão do Jarvis Simples, o XML montado passa pelo Jarvis Reforma antes de transmitir; erro pede a sua confirmação.",
+  "segundos": 128
  },
  "depois-de-receber": {
   "capitulo": "depois-de-receber",
   "n": 5,
   "titulo": "Depois de receber: a Captura",
   "resumo": "NF-e destinadas, CT-e e NFS-e tomadas, a caixa de entrada de XML, a nota só com o resumo e o diagnóstico da integração.",
-  "segundos": 130
+  "segundos": 131
  },
  "tratamento": {
   "capitulo": "tratamento",
   "n": 6,
   "titulo": "Tratamento dos apontamentos",
   "resumo": "Cobrado, corrigido, aceito com motivo, falso alarme e reabrir, em lote e na conferência da nota.",
-  "segundos": 130
+  "segundos": 131
  },
  "fornecedores-e-correcao": {
   "capitulo": "fornecedores-e-correcao",
@@ -59,7 +59,35 @@
   "capitulo": "catalogo-e-xml-avulso",
   "n": 12,
   "titulo": "O catálogo das regras e conferir um XML",
-  "resumo": "As 177 regras por camada e documento, com o fundamento, e a conferência na hora de um XML avulso.",
-  "segundos": 135
+  "resumo": "As 209 regras por camada e documento, com o fundamento, e a conferência na hora de um XML avulso.",
+  "segundos": 144
+ },
+ "eventos-da-reforma": {
+  "capitulo": "eventos-da-reforma",
+  "n": 13,
+  "titulo": "Eventos da Reforma: o que a nota ainda pede",
+  "resumo": "Os 13 eventos da Reforma na NF-e, conferidos contra a nota pelas 9 regras EVT, e o que falta fazer em cada nota.",
+  "segundos": 131
+ },
+ "emissao-correta": {
+  "capitulo": "emissao-correta",
+  "n": 14,
+  "titulo": "Emissão correta: o IBS e a CBS do Jarvis Simples",
+  "resumo": "Quando o grupo IBSCBS entra na nota, o cClassTrib de cada produto com a sugestão pelo NCM e o que a validação barra antes de transmitir.",
+  "segundos": 129
+ },
+ "tabelas-da-reforma": {
+  "capitulo": "tabelas-da-reforma",
+  "n": 15,
+  "titulo": "Tabelas da Reforma",
+  "resumo": "A versão e a data de cada tabela oficial, a busca por cClassTrib ou CST e o histórico do que mudou em cada versão.",
+  "segundos": 132
+ },
+ "simulacao-2026-2033": {
+  "capitulo": "simulacao-2026-2033",
+  "n": 16,
+  "titulo": "Simulação 2026–2033",
+  "resumo": "A empresa ano a ano na transição, com a redução pelo cClassTrib das notas e, no Simples, o DAS × o IBS e a CBS \"por fora\".",
+  "segundos": 122
  }
 }

@@ -1,129 +1,129 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:03.700
+00:00:00.250 --> 00:00:03.708
 Nesta aula você vai decidir o que fazer com cada apontamento:
 
 2
-00:00:03.700 --> 00:00:07.094
+00:00:03.708 --> 00:00:07.110
 cobrar, aceitar, marcar como corrigido ou como falso alarme.
 
 3
-00:00:07.983 --> 00:00:12.209
+00:00:07.983 --> 00:00:12.240
 Em Tratamento de apontamentos ficam todos os erros e alertas da empresa.
 
 4
-00:00:12.209 --> 00:00:17.550
+00:00:12.240 --> 00:00:17.619
 Os cartões contam os em aberto, os cobrados, os corrigidos, os aceitos e os falsos alarmes.
 
 5
-00:00:18.250 --> 00:00:24.017
+00:00:18.317 --> 00:00:23.922
 Cada linha traz a regra, a nota, o item, o esperado, o que está na nota, a diferença e a situação.
 
 6
-00:00:24.017 --> 00:00:26.841
+00:00:23.922 --> 00:00:26.668
 Filtre pela regra, pelo emitente ou pela camada.
 
 7
-00:00:27.517 --> 00:00:31.416
+00:00:27.383 --> 00:00:31.358
 Use os filtros de situação, gravidade, regra, emitente e camada.
 
 8
-00:00:31.416 --> 00:00:33.731
+00:00:31.358 --> 00:00:33.718
 Limpar filtros volta à lista completa.
 
 9
-00:00:34.450 --> 00:00:39.233
+00:00:34.450 --> 00:00:39.257
 Comece pelos erros e pelas regras de cálculo: são os que têm diferença de imposto em reais.
 
 10
-00:00:39.917 --> 00:00:43.265
+00:00:39.983 --> 00:00:43.152
 Selecione os apontamentos. Aparecem os botões do lote:
 
 11
-00:00:43.265 --> 00:00:47.109
+00:00:43.152 --> 00:00:46.790
 Cobrei o emitente, Corrigido, Aceitar, Falso alarme e Reabrir.
 
 12
-00:00:47.783 --> 00:00:51.806
+00:00:47.517 --> 00:00:51.619
 Cobrei o emitente só registra o aviso: o apontamento continua em aberto.
 
 13
-00:00:51.806 --> 00:00:54.432
+00:00:51.619 --> 00:00:54.297
 Corrigido tira da lista. Aceitar pede o motivo.
 
 14
-00:00:55.117 --> 00:00:59.726
+00:00:54.983 --> 00:00:59.517
 Reabrir volta o apontamento para o em aberto, quando o emitente não corrigiu como prometeu.
 
 15
-00:01:00.450 --> 00:01:04.982
+00:01:00.250 --> 00:01:04.753
 Corrigido é para quando o emitente mandou a nota substituta, a complementar ou a carta de
 
 16
-00:01:04.982 --> 00:01:06.306
+00:01:04.753 --> 00:01:06.068
 correção, quando ela cabe.
 
 17
-00:01:06.983 --> 00:01:10.598
+00:01:06.783 --> 00:01:10.440
 Escreva o motivo, com pelo menos cinco caracteres, e confirme.
 
 18
-00:01:10.598 --> 00:01:14.912
+00:01:10.440 --> 00:01:14.805
 O falso alarme também pede o motivo e vira caso de calibração do catálogo.
 
 19
-00:01:15.583 --> 00:01:19.529
+00:01:15.517 --> 00:01:19.443
 Não use o falso alarme para limpar a lista: ele diz que a regra errou.
 
 20
-00:01:19.529 --> 00:01:23.305
+00:01:19.443 --> 00:01:23.201
 Se a regra está certa e o caso é exceção, use Aceitar com o motivo.
 
 21
-00:01:23.983 --> 00:01:27.151
+00:01:23.917 --> 00:01:27.056
 Os dois saíram do em aberto, e o cartão Aceitos aumentou.
 
 22
-00:01:27.151 --> 00:01:32.040
+00:01:27.056 --> 00:01:31.902
 A decisão continua valendo na próxima conferência enquanto o valor apontado for o mesmo.
 
 23
-00:01:32.717 --> 00:01:37.396
+00:01:32.583 --> 00:01:37.390
 Filtre a situação por Cobrado do emitente para ver o que ainda espera resposta do fornecedor.
 
 24
-00:01:38.117 --> 00:01:43.085
-Cobrança sem resposta há mais de quinze dias aparece nas Pendências do Auditor, para você
+00:01:38.117 --> 00:01:43.105
+Cobrança sem resposta há mais de quinze dias aparece nas Pendências do Járvis Reforma, para
 
 25
-00:01:43.085 --> 00:01:44.537
-cobrar de novo ou decidir.
+00:01:43.105 --> 00:01:44.804
+você cobrar de novo ou decidir.
 
 26
-00:01:45.250 --> 00:01:49.072
+00:01:45.517 --> 00:01:49.299
 Na conferência da nota, cada apontamento tem os mesmos botões.
 
 27
-00:01:49.072 --> 00:01:53.017
+00:01:49.299 --> 00:01:53.204
 O tratado mostra a situação, a data, o motivo e o botão Reabrir.
 
 28
-00:01:53.717 --> 00:01:56.632
-Só quem pode editar no Auditor trata os apontamentos.
+00:01:53.917 --> 00:01:57.194
+Só quem pode editar no Jarvis Reforma trata os apontamentos.
 
 29
-00:01:56.632 --> 00:02:00.428
+00:01:57.194 --> 00:02:00.964
 No modo empresa, vale a permissão de Notas Fiscais do Jarvis Simples.
 
 30
-00:02:01.117 --> 00:02:02.113
+00:02:01.650 --> 00:02:02.681
 Agora é a sua vez.
 
 31
-00:02:02.113 --> 00:02:06.431
+00:02:02.681 --> 00:02:07.151
 Na demonstração, cobre o emitente de um apontamento e aceite outro com motivo.
 
 32
-00:02:06.431 --> 00:02:09.586
+00:02:07.151 --> 00:02:10.417
 O passo a passo completo está no capítulo seis do manual.

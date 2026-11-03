@@ -1,0 +1,105 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.253
+Nesta aula você vai ver como o Járvis Simples emite a nota com o i bê ésse e a cê bê ésse
+
+2
+00:00:05.253 --> 00:00:08.626
+certos, e como o Járvis Reforma confere antes de transmitir.
+
+3
+00:00:09.517 --> 00:00:18.330
+Os emissores do Jarvis Simples (NF-e, NFC-e, NFS-e e CT-e) põem o grupo IBSCBS na nota quando a
+
+4
+00:00:18.330 --> 00:00:20.279
+lei obriga a empresa.
+
+5
+00:00:20.983 --> 00:00:25.093
+Em Notas Fiscais › Configurar › Configuração fiscal, abra a aba Regime.
+
+6
+00:00:25.783 --> 00:00:32.378
+Desça até IBS e CBS. A linha da situação diz, pelo regime, desde quando a lei obriga.
+
+7
+00:00:32.378 --> 00:00:35.791
+No Simples Nacional, a partir de 01/01/2027.
+
+8
+00:00:36.517 --> 00:00:43.827
+No regime normal, a obrigação é desde 03/08/2026; na NFS-e, desde 01/10/2026.
+
+9
+00:00:44.517 --> 00:00:46.499
+A empresa pode ligar antes da data.
+
+10
+00:00:46.499 --> 00:00:51.768
+O Járvis pede a confirmação e lembra de conferir com o contador. Desmarcar não desliga a lei:
+
+11
+00:00:51.768 --> 00:00:53.921
+na data, o grupo entra do mesmo jeito.
+
+12
+00:00:54.650 --> 00:01:00.850
+O CST e o cClassTrib vêm do cadastro de cada produto. Abra Cadastros › Produtos e serviços.
+
+13
+00:01:01.517 --> 00:01:03.943
+Abra o café em grãos e vá à aba Fiscal.
+
+14
+00:01:05.717 --> 00:01:11.175
+Em Reforma Tributária, ao lado do cClassTrib, aparece a sugestão pelo NCM:
+
+15
+00:01:11.175 --> 00:01:16.413
+200003, porque o café está na Cesta Básica Nacional, com alíquota zero.
+
+16
+00:01:17.117 --> 00:01:21.639
+Com o campo vazio, a sugestão é gravada no produto. Ela é um ponto de partida:
+
+17
+00:01:21.639 --> 00:01:26.394
+os anexos de destinação dependem do uso do produto, então confirme com o contador.
+
+18
+00:01:27.117 --> 00:01:32.707
+Na emissão, ao validar, o Jarvis barra o cClassTrib fora da tabela oficial, fora de vigência ou
+
+19
+00:01:32.707 --> 00:01:36.238
+que não vale no modelo, e o combustível sem o código da ANP.
+
+20
+00:01:36.917 --> 00:01:42.786
+Depois, na guia Conferência, a pré-validação do Jarvis Reforma confere o XML montado, com as
+
+21
+00:01:42.786 --> 00:01:44.828
+regras do IBS e da CBS primeiro.
+
+22
+00:01:45.517 --> 00:01:52.250
+Antes de 2027, a nota da Loja Modelo sai sem o grupo, e aparece só o informativo do cronograma.
+
+23
+00:01:52.250 --> 00:01:57.283
+Com o grupo ligado, cada item é conferido: CST, cClassTrib e alíquotas.
+
+24
+00:01:57.983 --> 00:01:59.058
+Agora é a sua vez.
+
+25
+00:01:59.058 --> 00:02:04.490
+Na demonstração do Járvis Simples, abra o café em grãos e veja a sugestão do cê class trib.
+
+26
+00:02:04.490 --> 00:02:08.072
+O passo a passo completo está no capítulo catorze do manual.

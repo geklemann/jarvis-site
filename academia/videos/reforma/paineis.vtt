@@ -1,133 +1,133 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:03.067
-Nesta aula você vai ler os dois painéis do Auditor:
+00:00:00.250 --> 00:00:03.471
+Nesta aula você vai ler os dois painéis do Járvis Reforma:
 
 2
-00:00:03.067 --> 00:00:05.718
+00:00:03.471 --> 00:00:06.136
 o da carteira do escritório e o de cada empresa.
 
 3
-00:00:06.650 --> 00:00:10.553
+00:00:07.050 --> 00:00:11.041
 O Painel da carteira mostra as notas conferidas de todas as empresas:
 
 4
-00:00:10.553 --> 00:00:15.984
+00:00:11.041 --> 00:00:16.594
 com erro em aberto, com alerta, sem pendência, de catálogo antigo e as empresas sem conferência.
 
 5
-00:00:16.717 --> 00:00:21.616
+00:00:17.317 --> 00:00:22.182
 O Painel da carteira também é o bloco da tela inicial do escritório: comece o dia por ele.
 
 6
-00:00:22.317 --> 00:00:25.703
+00:00:22.850 --> 00:00:26.279
 As empresas sem conferência aparecem no cartão Sem conferência:
 
 7
-00:00:25.703 --> 00:00:28.122
+00:00:26.279 --> 00:00:28.728
 comece por elas na Reconferência da carteira.
 
 8
-00:00:28.850 --> 00:00:34.829
+00:00:29.450 --> 00:00:35.487
 O aviso do alto lembra quando o catálogo mudou e há notas para conferir de novo, na Reconferência da carteira.
 
 9
-00:00:35.517 --> 00:00:40.314
+00:00:36.183 --> 00:00:40.942
 Na lista Por empresa, filtre pela situação e tecle Enter para abrir as notas da empresa.
 
 10
-00:00:40.314 --> 00:00:44.294
+00:00:40.942 --> 00:00:44.890
 Selecione empresas para conferir as que faltam ou conferir todas de novo.
 
 11
-00:00:44.983 --> 00:00:52.030
+00:00:45.583 --> 00:00:52.574
 Em Regras que mais apontam na carteira, a RTC-06, da base do IBS e da CBS, aparece em seis
 
 12
-00:00:52.030 --> 00:00:53.830
+00:00:52.574 --> 00:00:54.360
 notas de três empresas.
 
 13
-00:00:54.517 --> 00:00:56.932
+00:00:55.050 --> 00:00:57.503
 O Painel da empresa mostra a saúde fiscal:
 
 14
-00:00:56.932 --> 00:01:01.994
+00:00:57.503 --> 00:01:02.643
 o percentual em ordem, as notas que pedem correção e as diferenças de imposto apontadas.
 
 15
-00:01:02.717 --> 00:01:06.037
+00:01:03.317 --> 00:01:06.632
 No escritório, o painel da empresa abre com a empresa ativa.
 
 16
-00:01:06.037 --> 00:01:09.137
+00:01:06.632 --> 00:01:09.726
 Troque com F8 para preparar a conversa com cada cliente.
 
 17
-00:01:09.850 --> 00:01:13.999
+00:01:10.450 --> 00:01:14.580
 Onde estão as divergências mostra os erros e alertas em aberto por camada.
 
 18
-00:01:13.999 --> 00:01:17.420
+00:01:14.580 --> 00:01:17.985
 Na Loja Modelo, a Reforma Tributária concentra a maior parte.
 
 19
-00:01:18.117 --> 00:01:21.789
+00:01:18.717 --> 00:01:22.416
 Notas por dia de emissão mostra a situação de cada nota no tempo:
 
 20
-00:01:21.789 --> 00:01:23.880
+00:01:22.416 --> 00:01:24.522
 sem pendência, com alerta e com erro.
 
 21
-00:01:24.583 --> 00:01:29.869
+00:01:25.250 --> 00:01:30.475
 Regras mais acionadas, Fornecedores que mais erram e Últimas notas com erro levam direto à
 
 22
-00:01:29.869 --> 00:01:31.630
+00:01:30.475 --> 00:01:32.216
 lista ou à nota com um clique.
 
 23
-00:01:32.317 --> 00:01:37.875
+00:01:32.917 --> 00:01:38.440
 Exportar CSV, no alto do painel, leva os números para a planilha, e o filtro Notas troca para a
 
 24
-00:01:37.875 --> 00:01:39.747
+00:01:38.440 --> 00:01:40.301
 competência ativa ou para o ano.
 
 25
-00:01:40.450 --> 00:01:45.606
+00:01:40.983 --> 00:01:46.131
 No fim do painel ficam o cartão da Reforma Tributária e as notas que estão só com o resumo da
 
 26
-00:01:45.606 --> 00:01:48.101
+00:01:46.131 --> 00:01:48.622
 SEFAZ, com o atalho para manifestar e baixar.
 
 27
-00:01:48.783 --> 00:01:54.405
+00:01:49.317 --> 00:01:54.757
 Em Relatórios, a Posição da carteira traz uma linha por empresa, com o total, em PDF ou Excel,
 
 28
-00:01:54.405 --> 00:01:55.900
+00:01:54.757 --> 00:01:56.204
 para a reunião da equipe.
 
 29
-00:01:56.583 --> 00:02:01.692
+00:01:56.917 --> 00:02:01.921
 E Apontamentos por regra lista as regras que apontaram, com o fundamento, as notas e o que
 
 30
-00:02:01.692 --> 00:02:04.246
+00:02:01.921 --> 00:02:04.423
 segue em aberto, de uma empresa ou de várias.
 
 31
-00:02:04.917 --> 00:02:05.942
+00:02:05.117 --> 00:02:06.142
 Agora é a sua vez.
 
 32
-00:02:05.942 --> 00:02:12.153
+00:02:06.142 --> 00:02:12.353
 Na demonstração, abra o painel da carteira, ache a empresa de catálogo antigo e abra o painel da Loja Modelo.
 
 33
-00:02:12.153 --> 00:02:15.401
+00:02:12.353 --> 00:02:15.601
 O passo a passo completo está no capítulo nove do manual.

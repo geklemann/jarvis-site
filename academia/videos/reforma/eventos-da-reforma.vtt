@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:02.807
+Nesta aula você vai ver os eventos da Reforma:
+
+2
+00:00:02.807 --> 00:00:07.309
+o que cada nota ainda pede e como o Járvis Reforma confere os eventos que chegam.
+
+3
+00:00:08.183 --> 00:00:12.602
+Na Reforma, parte do crédito e do débito do IBS e da CBS depende de evento:
+
+4
+00:00:12.602 --> 00:00:18.141
+a solicitação de apropriação do crédito presumido, a informação do efetivo pagamento, o aceite
+
+5
+00:00:18.141 --> 00:00:19.849
+do débito da nota de crédito.
+
+6
+00:00:20.517 --> 00:00:23.122
+Abra Reforma › Movimentos › Eventos da nota.
+
+7
+00:00:23.122 --> 00:00:28.688
+Os cartões mostram o que falta fazer, os eventos recebidos, os com erro, os com alerta e os de
+
+8
+00:00:28.688 --> 00:00:29.991
+nota fora da carteira.
+
+9
+00:00:30.717 --> 00:00:35.992
+O quadro roxo avisa: o leiaute dos eventos da NT ainda não foi transcrito no catálogo.
+
+10
+00:00:35.992 --> 00:00:41.329
+O que depende dele aparece como "a conferir na NT", sem inventar o que a norma não diz.
+
+11
+00:00:42.050 --> 00:00:47.214
+A lista O que falta fazer junta as notas da empresa que ainda pedem um evento, com o papel, o
+
+12
+00:00:47.214 --> 00:00:49.657
+fornecedor, o evento esperado e o que fazer.
+
+13
+00:00:50.383 --> 00:00:56.306
+A NF-e 7106/1 traz crédito presumido e ainda não tem a solicitação de apropriação.
+
+14
+00:00:56.306 --> 00:00:58.473
+O Jarvis pede o evento 211110.
+
+15
+00:00:59.183 --> 00:01:03.341
+A NF-e 7108/1 recebeu um evento 211120, que foi revogado:
+
+16
+00:01:03.341 --> 00:01:07.863
+a SEFAZ recusa, e o crédito da devolução não vem mais por ele.
+
+17
+00:01:08.583 --> 00:01:13.639
+O evento é feito no emissor ou no portal da Sefáz. O Járvis Reforma confere e avisa;
+
+18
+00:01:13.639 --> 00:01:15.143
+ele não transmite evento.
+
+19
+00:01:15.850 --> 00:01:20.153
+Mais abaixo ficam os eventos recebidos, cada um conferido contra a nota:
+
+20
+00:01:20.153 --> 00:01:24.874
+se o evento existe e está em vigor, a chave, a sequência, o autor e os valores.
+
+21
+00:01:25.583 --> 00:01:28.706
+Filtre pela conferência ou pelo código do evento.
+
+22
+00:01:28.706 --> 00:01:31.956
+A coluna Regras mostra as regras EVT que apontaram.
+
+23
+00:01:32.650 --> 00:01:38.206
+O cancelamento de evento só vale quando é feito pelo autor do evento cancelado.
+
+24
+00:01:38.206 --> 00:01:42.356
+Aqui, ele foi feito por outro CNPJ, e a EVT-07 aponta erro.
+
+25
+00:01:43.050 --> 00:01:46.583
+Os mesmos eventos aparecem dentro da conferência da nota.
+
+26
+00:01:46.583 --> 00:01:51.479
+Em Notas conferidas, abra a NF-e 7101/1 e desça até o bloco Eventos da Reforma.
+
+27
+00:01:52.183 --> 00:01:53.121
+São três eventos:
+
+28
+00:01:53.121 --> 00:01:58.249
+a data prevista de entrega, a imobilização de item e o cancelamento de evento, este com erro.
+
+29
+00:01:58.249 --> 00:02:00.179
+Cada um com a regra e o fundamento.
+
+30
+00:02:00.850 --> 00:02:01.862
+Agora é a sua vez.
+
+31
+00:02:01.862 --> 00:02:06.980
+Na demonstração, abra Eventos da nota e ache a nota que pede o evento de crédito presumido.
+
+32
+00:02:06.980 --> 00:02:10.242
+O passo a passo completo está no capítulo treze do manual.

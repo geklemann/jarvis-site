@@ -1,129 +1,129 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:04.983
+00:00:00.250 --> 00:00:04.949
 Nesta aula você vai ver quem emite certo e quem precisa corrigir, e mandar o relatório de
 
 2
-00:00:04.983 --> 00:00:06.206
+00:00:04.949 --> 00:00:06.163
 correção ao fornecedor.
 
 3
-00:00:07.117 --> 00:00:11.814
+00:00:07.050 --> 00:00:11.786
 Em Fornecedores, a conformidade é o percentual de notas sem erro do emitente.
 
 4
-00:00:11.814 --> 00:00:17.854
+00:00:11.786 --> 00:00:17.875
 Os cartões mostram os fornecedores com erro, os que pioraram e os que ainda não destacam IBS e CBS.
 
 5
-00:00:18.583 --> 00:00:25.090
+00:00:18.583 --> 00:00:25.071
 Use o filtro Mostrar para ver só os com erro, os sem IBS e CBS, os que pioraram no último mês
 
 6
-00:00:25.090 --> 00:00:26.559
+00:00:25.071 --> 00:00:26.536
 ou os 100% conformes.
 
 7
-00:00:27.250 --> 00:00:33.053
+00:00:27.250 --> 00:00:32.941
 Cada linha traz as notas, o valor, a conformidade, a tendência, as diferenças, a coluna da
 
 8
-00:00:33.053 --> 00:00:35.052
+00:00:32.941 --> 00:00:34.901
 Reforma e os erros mais comuns.
 
 9
-00:00:35.052 --> 00:00:37.502
+00:00:34.901 --> 00:00:37.304
 A Industria Demonstracao está com 40%.
 
 10
-00:00:38.183 --> 00:00:42.819
+00:00:37.983 --> 00:00:42.661
 A coluna Reforma mostra quantas notas do fornecedor já destacam IBS e CBS.
 
 11
-00:00:42.819 --> 00:00:46.014
+00:00:42.661 --> 00:00:45.885
 Quem não destaca põe em risco o crédito da empresa.
 
 12
-00:00:46.717 --> 00:00:52.476
+00:00:46.583 --> 00:00:52.249
 Selecione fornecedores na lista para gerar o relatório de correção ou a carta da Reforma deles de uma vez.
 
 13
-00:00:53.183 --> 00:01:00.234
+00:00:52.917 --> 00:00:59.871
 A coluna Diferenças soma o imposto a mais ou a menos nos erros em aberto do fornecedor:
 
 14
-00:01:00.234 --> 00:01:03.395
+00:00:59.871 --> 00:01:02.989
 na Industria Demonstracao, R$ 3.630,98.
 
 15
-00:01:04.117 --> 00:01:05.918
+00:01:03.717 --> 00:01:05.520
 Enter abre a ficha do fornecedor:
 
 16
-00:01:05.918 --> 00:01:09.902
+00:01:05.520 --> 00:01:09.509
 a conformidade mês a mês e as regras que ele mais erra, com o fundamento.
 
 17
-00:01:10.583 --> 00:01:16.260
+00:01:10.183 --> 00:01:15.802
 Na ficha, Ver as notas abre as notas do fornecedor, e Relatório de correção abre a carta só dele.
 
 18
-00:01:16.983 --> 00:01:21.918
+00:01:16.517 --> 00:01:21.464
 O Relatório de correção monta uma carta por emitente, com cada apontamento em aberto:
 
 19
-00:01:21.918 --> 00:01:26.039
+00:01:21.464 --> 00:01:25.596
 a mensagem, o esperado, o que está na nota, a diferença e o fundamento.
 
 20
-00:01:26.717 --> 00:01:31.564
+00:01:26.317 --> 00:01:31.206
 A carta sai em papel A4, com o nome da empresa, e diz de quem é e para quem vai, como uma
 
 21
-00:01:31.564 --> 00:01:32.817
+00:01:31.206 --> 00:01:32.470
 correspondência formal.
 
 22
-00:01:33.517 --> 00:01:40.075
+00:01:33.183 --> 00:01:39.540
 Nos filtros, escolha o emitente e se quer só as notas recebidas ou também as emitidas, para a revisão interna.
 
 23
-00:01:40.075 --> 00:01:41.447
+00:01:39.540 --> 00:01:40.869
 Gerar atualiza a carta.
 
 24
-00:01:42.117 --> 00:01:47.042
+00:01:41.583 --> 00:01:46.529
 No fim da carta vem Como corrigir: a carta de correção não muda o que define o imposto.
 
 25
-00:01:47.042 --> 00:01:50.836
+00:01:46.529 --> 00:01:50.337
 Nesses casos, cancelamento, nota complementar, ajuste ou devolução.
 
 26
-00:01:51.517 --> 00:01:55.385
+00:01:51.050 --> 00:01:54.874
 A carta orienta e não substitui a avaliação do responsável fiscal:
 
 27
-00:01:55.385 --> 00:01:59.077
+00:01:54.874 --> 00:01:58.524
 a escolha de como corrigir cabe à contabilidade de quem emitiu.
 
 28
-00:01:59.783 --> 00:02:02.598
+00:01:59.250 --> 00:02:02.098
 Exporte em PDF ou Excel e mande ao fornecedor.
 
 29
-00:02:02.598 --> 00:02:07.492
+00:02:02.098 --> 00:02:07.052
 Depois, Marcar como cobrados registra o aviso em todos os apontamentos da carta.
 
 30
-00:02:08.183 --> 00:02:09.215
+00:02:07.783 --> 00:02:08.793
 Agora é a sua vez.
 
 31
-00:02:09.215 --> 00:02:14.485
+00:02:08.793 --> 00:02:13.955
 Na demonstração, abra a ficha da Industria Demonstracao e gere o relatório de correção dela.
 
 32
-00:02:14.485 --> 00:02:17.750
+00:02:13.955 --> 00:02:17.152
 O passo a passo completo está no capítulo sete do manual.

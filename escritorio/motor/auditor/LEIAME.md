@@ -4,7 +4,7 @@ Um auditor só, com duas visões. A entrada é `index.js`.
 
 | Visão | Arquivo | O que confere | Achado |
 |---|---|---|---|
-| Por documento | `motor.js` + `regras/` | As 177 regras do CRIVO convertidas do C# (`testes/aud_*.test.mjs`, iguais ao gabarito), sobre o XML de cada NF-e, CT-e e NFS-e, e o cruzamento entre notas guardadas (CRZ-*) | `{ regra: 'CLA-01', gravidade: 0 \| 1 \| 2, mensagem, item, esperado, informado, diferenca }` |
+| Por documento | `motor.js` + `regras/` | As 177 regras do CRIVO convertidas do C# (`testes/aud_*.test.mjs`, iguais ao gabarito) e as do Jarvis Reforma, sobre o XML de cada NF-e, CT-e e NFS-e, os eventos da Reforma e o cruzamento entre notas guardadas (CRZ-*) | `{ regra: 'CLA-01', gravidade: 0 \| 1 \| 2, mensagem, item, esperado, informado, diferenca }` |
 | Da competência | `competencia.js` (antigo `motor/auditor_fiscal.js`) | Cruzamentos da escrituração do mês: documentos escriturados (`ctb_documentos`), XMLs guardados, pessoas, acumuladores, apurações gravadas × recálculo, retenções sem guia (`testes/fapur_motor.test.mjs`) | `{ id, regra: 'cfop', nivel: 'erro' \| 'aviso', titulo, texto, docId, numero, participante, valor }` |
 
 ```js
@@ -18,6 +18,10 @@ Desde 02/11/2026 (Jarvis Reforma): o leitor aceita a NFC-e (modelo 65) e o motor
 (`regra.modelos`); as regras ligadas à NT 2025.002-RTC trazem vigência, rejeição e natureza (`regras/vigencias.js`,
 `situacaoRejeicao()` em `conferencia.js`); `leiaute.js` é a camada do schema (XSD em `tabelas/schemas/`, ainda sem os arquivos).
 As regras que não vieram do CRIVO (`REGRAS_JARVIS` em `motor.js`) estão em `regras/nfce.js` e `regras/nt_jarvis.js`.
+
+Desde 03/11/2026 (PR 3): os eventos da Reforma na NF-e têm leitor próprio (`eventos.js`) e regras EVT-01 a EVT-09 (`regras/eventos.js`,
+documento `evento`, `motor.conferirEvento(xml, { nota, eventos })`); o CT-e OS (modelo 67) entra no leitor do CT-e, com `regra.modelos`
+também no CT-e; a NFS-e lê os campos da NT 009; `tabelas/nfse-anexo-viii.json` (Anexo VIII) vai vazio até a planilha ser convertida.
 
 `motor/auditor_fiscal.js` só reexporta `competencia.js` (`auditar`, `REGRAS`, `NCM_MONOFASICO`), para a tela
 `modulos/fiscal/telas/apur_auditor.js` e os testes que ainda importam de lá.

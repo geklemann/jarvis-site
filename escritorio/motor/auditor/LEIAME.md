@@ -14,6 +14,11 @@ motor.conferirNfe(xml);                    // { nota, achados, piorGravidade, er
 auditarCompetencia({ competencia: '2026-09', empresa, documentos, xmls, pessoas, apuracoes, recalculo });
 ```
 
+Desde 02/11/2026 (Jarvis Reforma): o leitor aceita a NFC-e (modelo 65) e o motor roda em cada nota só as regras do modelo dela
+(`regra.modelos`); as regras ligadas à NT 2025.002-RTC trazem vigência, rejeição e natureza (`regras/vigencias.js`,
+`situacaoRejeicao()` em `conferencia.js`); `leiaute.js` é a camada do schema (XSD em `tabelas/schemas/`, ainda sem os arquivos).
+As regras que não vieram do CRIVO (`REGRAS_JARVIS` em `motor.js`) estão em `regras/nfce.js` e `regras/nt_jarvis.js`.
+
 `motor/auditor_fiscal.js` só reexporta `competencia.js` (`auditar`, `REGRAS`, `NCM_MONOFASICO`), para a tela
 `modulos/fiscal/telas/apur_auditor.js` e os testes que ainda importam de lá.
 

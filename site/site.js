@@ -34,10 +34,11 @@ if(d.querySelector('.vitrine img'))d.querySelector('.vitrine img').style.transit
 // Planos mensal / anual
 $$('.alterna button').forEach(b=>b.addEventListener('click',()=>{const anual=b.dataset.ciclo==='anual';$$('.alterna button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.ciclo===b.dataset.ciclo));
  $$('[data-mensal]').forEach(el=>{el.textContent=anual?el.dataset.anual:el.dataset.mensal});$$('[data-obs-anual]').forEach(el=>{el.textContent=anual?el.dataset.obsAnual:el.dataset.obsMensal})}));
-// Planos: abas por produto (o id do painel é a âncora: planos/#erp, #ecommerce, #contabilidade)
+// Planos: abas por produto (o id do painel é a âncora: planos/#erp, #ecommerce, #contabilidade); data-antigo é a âncora de
+// antes (planos/#auditoria abre a aba do Jarvis Reforma, que era o Jarvis Auditor).
 const abasP=$$('.prod-abas [role=tab]');
 if(abasP.length){const alvo=a=>a.getAttribute('aria-controls'),mostrar=id=>abasP.forEach(a=>{const on=alvo(a)===id;a.setAttribute('aria-selected',on);a.tabIndex=on?0:-1;const p=d.getElementById(alvo(a));if(p)p.hidden=!on});
- const daHash=()=>abasP.find(a=>'#'+alvo(a)===location.hash);mostrar(alvo(daHash()||abasP[0]));
+ const daHash=()=>abasP.find(a=>'#'+alvo(a)===location.hash||(a.dataset.antigo&&'#'+a.dataset.antigo===location.hash));mostrar(alvo(daHash()||abasP[0]));
  abasP.forEach((a,i)=>{a.addEventListener('click',()=>{mostrar(alvo(a));history.replaceState(null,'','#'+alvo(a))});
   a.addEventListener('keydown',e=>{const k={ArrowRight:1,ArrowDown:1,ArrowLeft:-1,ArrowUp:-1}[e.key];if(k){e.preventDefault();const n=abasP[(i+k+abasP.length)%abasP.length];n.focus();n.click()}})});
  addEventListener('hashchange',()=>{const a=daHash();if(a)mostrar(alvo(a))})}
@@ -63,7 +64,8 @@ $$('form[data-contato]').forEach(f=>f.addEventListener('submit',async e=>{e.prev
   f.reset();ret.className='ret ok';ret.textContent=f.dataset.ok||'Mensagem enviada! Respondemos em até 1 dia útil.'}
  catch(x){ret.className='ret erro';ret.textContent=x.message}finally{b.disabled=false}}));
 // Assunto vindo do link (contato/?assunto=parceria)
-const qs=new URLSearchParams(location.search),as=qs.get('assunto'),pq=qs.get('produto');if(as&&$('form[data-contato] select[name=assunto]'))$('form[data-contato] select[name=assunto]').value=as;
+// ?produto=auditoria é o id antigo do Jarvis Reforma.
+const qs=new URLSearchParams(location.search),as=qs.get('assunto'),pq=qs.get('produto')==='auditoria'?'reforma-tributaria':qs.get('produto');if(as&&$('form[data-contato] select[name=assunto]'))$('form[data-contato] select[name=assunto]').value=as;
 if(pq&&$('form[data-contato] select[name=produto]'))$('form[data-contato] select[name=produto]').value=pq;
 // Busca da ajuda pública
 const bq=$('#buscaAjuda');if(bq){const itens=$$('.faq details');bq.addEventListener('input',()=>{const t=bq.value.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').split(/\s+/).filter(w=>w.length>2);let n=0;

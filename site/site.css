@@ -264,7 +264,7 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 .rod-trilha .ic{width:44px;height:44px;border-radius:13px;display:grid;place-items:center;flex:none}.rod-trilha .ic svg{width:21px;height:21px}
 .rod-trilha .rt-txt{flex:1 1 240px;min-width:0}.rod-trilha .rt-txt b{display:block;font:700 16px var(--fh);color:var(--text)}.rod-trilha .rt-txt small{color:var(--muted);font-size:13.5px}
 .rod-trilha .rt-acoes{display:flex;gap:10px;flex-wrap:wrap}.rodape .rod-trilha a.btn{color:var(--text);font-size:14px;padding:10px 16px}
-/* Planos do Auditor: grupos (empresa e escritório) e o adicional para quem já é cliente */
+/* Planos do Jarvis Reforma: grupos (empresa e escritório) e o adicional para quem já é cliente */
 .planos-grupo{text-align:center;margin:34px 0 18px}.planos-grupo:first-child{margin-top:8px}.planos-grupo h3{font-size:clamp(20px,2vw,24px)}.planos-grupo p{font-size:15px;margin-top:4px}
 .planos.p2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:820px;margin-inline:auto}
 .plano .adic{display:flex;gap:8px;align-items:flex-start;font-size:13px;color:var(--muted);margin:-6px 0 16px;padding-top:12px;border-top:1px dashed var(--line2)}

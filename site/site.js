@@ -57,7 +57,7 @@ $$('form[data-contato]').forEach(f=>f.addEventListener('submit',async e=>{e.prev
  const dados=Object.fromEntries(new FormData(f));delete dados.site;dados.pagina=location.pathname;
  // Produto de interesse vai no começo da mensagem (site_contatos não tem coluna própria).
  if('produto' in dados){const op=f.querySelector('select[name=produto]')?.selectedOptions[0];if(dados.produto&&op)dados.mensagem=`[${op.textContent}] ${dados.mensagem||''}`.slice(0,4000);delete dados.produto}
- if(!cfg.supabaseUrl){ret.className='ret erro';ret.textContent='Formulário indisponível agora. Fale pelo WhatsApp ou e-mail.';return}
+ if(!cfg.supabaseUrl){ret.className='ret erro';ret.textContent='O formulário está fora do ar agora. Fale com a gente pelo WhatsApp ou pelo e-mail.';return}
  b.disabled=true;ret.className='ret';ret.textContent='Enviando…';
  try{const r=await fetch(`${cfg.supabaseUrl}/rest/v1/site_contatos`,{method:'POST',headers:{apikey:cfg.supabaseAnonKey,Authorization:`Bearer ${cfg.supabaseAnonKey}`,'Content-Type':'application/json',Prefer:'return=minimal'},body:JSON.stringify(dados)});
   if(!r.ok){const j=await r.json().catch(()=>({}));throw Error(/várias mensagens/.test(j.message||'')?j.message:'Confira os campos e tente de novo.')}

@@ -1,0 +1,125 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.969
+Nesta aula você vai entender o selo Revisado por contador, quando ele cai sozinho, e a fila de
+
+2
+00:00:04.969 --> 00:00:07.027
+revisão, com o que falta em cada roteiro.
+
+3
+00:00:07.917 --> 00:00:11.930
+Um roteiro só aparece como validado depois que um contador o revisou:
+
+4
+00:00:11.930 --> 00:00:17.804
+leu o roteiro inteiro, conferiu cada item citado no texto oficial e aprovou, com o nome e o CRC dele.
+
+5
+00:00:18.517 --> 00:00:21.235
+Em Controle, Fila de revisão, os números:
+
+6
+00:00:21.235 --> 00:00:25.546
+os roteiros na fila, os de selo vencido e as citações a conferir.
+
+7
+00:00:25.546 --> 00:00:27.933
+Hoje, 8 de 8 roteiros estão na fila.
+
+8
+00:00:28.650 --> 00:00:30.083
+O aviso diz quem aprova:
+
+9
+00:00:30.083 --> 00:00:34.740
+o contador responsável, com o nome e o CRC digitados por ele, fora desta tela.
+
+10
+00:00:34.740 --> 00:00:37.844
+Ninguém da equipe e nenhuma IA aprova no lugar dele.
+
+11
+00:00:38.517 --> 00:00:44.055
+Cada cartão traz o roteiro, o selo Aguarda revisão e o motivo: ainda não revisado por contador.
+
+12
+00:00:44.783 --> 00:00:50.905
+Em cada cartão fica também o comando que o contador responsável usa para aprovar, com o nome e o CRC dele.
+
+13
+00:00:50.905 --> 00:00:53.792
+Esta tela só copia o comando: ela não aprova nada.
+
+14
+00:00:54.517 --> 00:00:57.729
+Quando há citações marcadas a conferir, o cartão avisa:
+
+15
+00:00:57.729 --> 00:01:01.525
+elas precisam ser conferidas no texto oficial antes da aprovação.
+
+16
+00:01:02.250 --> 00:01:06.186
+Ver o roteiro completo abre o roteiro ali mesmo, para ler antes de aprovar.
+
+17
+00:01:06.917 --> 00:01:10.171
+No roteiro, o selo fica no alto, acima do quando usar.
+
+18
+00:01:10.171 --> 00:01:15.775
+Aqui, Aguarda revisão, com o aviso Sugestão a conferir: confira o fundamento antes de lançar.
+
+19
+00:01:16.450 --> 00:01:22.967
+Depois de revisado, o selo passa a mostrar Revisado por contador, com o nome, o CRC e a data de quem revisou.
+
+20
+00:01:22.967 --> 00:01:25.657
+Ele só aparece depois que um contador revisa.
+
+21
+00:01:26.383 --> 00:01:31.961
+Se o roteiro mudar depois da revisão, numa conta, num número, num item ou no texto oficial de
+
+22
+00:01:31.961 --> 00:01:34.180
+uma norma citada, o selo cai sozinho:
+
+23
+00:01:34.180 --> 00:01:37.838
+selo vencido, aguarda revisão. E o roteiro volta para a fila.
+
+24
+00:01:38.517 --> 00:01:45.019
+No pé do roteiro fica o resumo SHA-256 do conteúdo: a impressão digital que o selo confere.
+
+25
+00:01:45.717 --> 00:01:49.560
+A busca também mostra a situação do selo em cada roteiro encontrado.
+
+26
+00:01:50.250 --> 00:01:53.428
+Mesmo um roteiro revisado vale para o caso que ele descreve.
+
+27
+00:01:53.428 --> 00:01:55.440
+Leia sempre o quando usar e os avisos.
+
+28
+00:01:56.117 --> 00:01:59.913
+Por isso, enquanto um roteiro não tiver o selo, trate-o como sugestão:
+
+29
+00:01:59.913 --> 00:02:03.709
+confira cada item citado no texto oficial antes de orientar o cliente.
+
+30
+00:02:04.383 --> 00:02:09.354
+Agora é a sua vez. Abra a fila de revisão e conte os roteiros com citações a conferir.
+
+31
+00:02:09.354 --> 00:02:12.649
+O passo a passo completo está no capítulo sete do manual.

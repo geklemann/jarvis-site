@@ -30,6 +30,19 @@ $$('.tour').forEach(t=>{const abas=[...t.querySelectorAll('.aba')],img=t.querySe
  let k=0,tm=null;const parar=()=>{clearInterval(tm);tm=null};
  if(!matchMedia('(prefers-reduced-motion: reduce)').matches)tm=setInterval(()=>{k=(abas.findIndex(a=>a.getAttribute('aria-selected')==='true')+1)%abas.length;ir(k)},6500);
  t.addEventListener('mouseenter',parar,{once:true})});
+// Academia na página inicial: os aplicativos em órbita (site/gerar.mjs › blocoAcademia). Gira sozinho enquanto a seção
+// está na tela, para no mouse ou no foco e de vez no primeiro clique; o cartão do aplicativo da frente fica ao lado.
+$$('[data-orbita]').forEach(o=>{const sats=[...o.querySelectorAll('.orb-sat')],giro=o.querySelector('.orb-giro'),n=sats.length;if(!n||!giro)return;
+ const cards=sats.map(s=>d.getElementById(s.getAttribute('aria-controls')));let atual=0,ang=0,tm=null,pausa=false,dono=false,visivel=false;
+ const ir=(i,foco)=>{let p=((i-atual)%n+n)%n;if(p>n/2)p-=n;ang-=p*360/n;atual=i;giro.style.setProperty('--giro',ang+'deg');
+  sats.forEach((s,j)=>{s.setAttribute('aria-selected',j===i);s.tabIndex=j===i?0:-1});
+  cards.forEach((c,j)=>{if(!c)return;const on=j===i;c.classList.toggle('ativo',on);c.inert=!on;on?c.removeAttribute('aria-hidden'):c.setAttribute('aria-hidden','true')});if(foco)sats[i].focus()};
+ const parar=()=>{clearInterval(tm);tm=null},seguir=()=>{parar();if(!dono&&!pausa&&visivel&&!matchMedia('(prefers-reduced-motion: reduce)').matches)tm=setInterval(()=>ir((atual+1)%n),5200)};
+ sats.forEach((s,j)=>{s.addEventListener('click',()=>{dono=true;parar();ir(j)});s.addEventListener('keydown',e=>{const k={ArrowRight:1,ArrowDown:1,ArrowLeft:-1,ArrowUp:-1}[e.key];if(k){e.preventDefault();dono=true;parar();ir((atual+k+n)%n,true)}})});
+ o.addEventListener('mouseenter',()=>{pausa=true;parar()});o.addEventListener('mouseleave',()=>{pausa=false;seguir()});
+ o.addEventListener('focusin',()=>{pausa=true;parar()});o.addEventListener('focusout',e=>{if(!o.contains(e.relatedTarget)){pausa=false;seguir()}});
+ o.classList.add('orb-on');ir(0);
+ if('IntersectionObserver' in window)new IntersectionObserver(es=>{visivel=es[0].isIntersecting;visivel?seguir():parar()},{threshold:.35}).observe(o);else{visivel=true;seguir()}});
 if(d.querySelector('.vitrine img'))d.querySelector('.vitrine img').style.transition='opacity .25s';
 // Planos mensal / anual
 $$('.alterna button').forEach(b=>b.addEventListener('click',()=>{const anual=b.dataset.ciclo==='anual';$$('.alterna button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.ciclo===b.dataset.ciclo));

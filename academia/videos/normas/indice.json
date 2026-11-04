@@ -1,0 +1,72 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "Primeiros passos no Jarvis Normas",
+  "resumo": "Conheça a tela inicial, os números do acervo e dos roteiros, a fila de revisão e os menus do módulo Normas.",
+  "segundos": 155
+ },
+ "consultar-norma": {
+  "capitulo": "consultar-norma",
+  "n": 2,
+  "titulo": "Consultar uma norma no catálogo oficial",
+  "resumo": "Filtre o catálogo por código, título, tipo e situação e leia a ficha de uma norma: situação, datas, NBC do CFC, IFRS correlata, fonte oficial e os roteiros que a citam.",
+  "segundos": 155
+ },
+ "texto-oficial-item": {
+  "capitulo": "texto-oficial-item",
+  "n": 3,
+  "titulo": "O texto oficial item a item",
+  "resumo": "Abra uma norma já no item citado, leia a seção e o texto oficial e filtre os itens por número ou por palavra, sem abrir o PDF.",
+  "segundos": 143
+ },
+ "busca-e-sinonimos": {
+  "capitulo": "busca-e-sinonimos",
+  "n": 4,
+  "titulo": "A busca e os sinônimos contábeis",
+  "resumo": "Procure como você fala: sem acento, com sinônimos contábeis como leasing e PCLD, e com a referência direta “CPC 47 item 31”. A busca não usa IA.",
+  "segundos": 136
+ },
+ "ler-roteiro": {
+  "capitulo": "ler-roteiro",
+  "n": 5,
+  "titulo": "Ler um roteiro de lançamento",
+  "resumo": "Ache o roteiro do fato, leia o selo, o “quando usar”, as palavras-chave e a tabela de lançamentos: evento, débito, crédito, histórico e base de cálculo.",
+  "segundos": 146
+ },
+ "contas-exemplo-fundamento": {
+  "capitulo": "contas-exemplo-fundamento",
+  "n": 6,
+  "titulo": "Contas, exemplo numérico e fundamento",
+  "resumo": "Leia as contas sugeridas (o plano modelo do Escritório e o referencial da ECD), confira o exemplo em que os débitos batem com os créditos e abra cada citação do fundamento no texto oficial.",
+  "segundos": 132
+ },
+ "selo-e-fila": {
+  "capitulo": "selo-e-fila",
+  "n": 7,
+  "titulo": "O selo “Revisado por contador” e a fila de revisão",
+  "resumo": "Entenda o selo: quem grava, o que ele garante e quando cai sozinho. E a fila de revisão, com os roteiros que ainda aguardam o contador.",
+  "segundos": 133
+ },
+ "ifrs-correlacao": {
+  "capitulo": "ifrs-correlacao",
+  "n": 8,
+  "titulo": "As IFRS e a correlação com os CPCs",
+  "resumo": "Veja qual IFRS cada CPC, ICPC e OCPC acompanha, de onde vem a correlação e por que o texto das IFRS não está no Jarvis Normas.",
+  "segundos": 132
+ },
+ "ifrs18-cpc51": {
+  "capitulo": "ifrs18-cpc51",
+  "n": 9,
+  "titulo": "A IFRS 18 com o CPC 51",
+  "resumo": "O resumo próprio da IFRS 18: o que muda na demonstração do resultado, as categorias, os novos subtotais e as medidas de desempenho da administração, cada assunto com o item do CPC 51.",
+  "segundos": 155
+ },
+ "normas-no-escritorio": {
+  "capitulo": "normas-no-escritorio",
+  "n": 10,
+  "titulo": "Normas dentro do Escritório e o assistente",
+  "resumo": "Use o módulo Normas dentro do Jarvis Escritório, veja quem acessa pelas permissões por papel e conheça o assistente com IA, ainda desligado.",
+  "segundos": 124
+ }
+}

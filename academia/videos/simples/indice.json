@@ -2,7 +2,7 @@
  "primeiros-passos": {
   "capitulo": "primeiros-passos",
   "n": 1,
-  "titulo": "Primeiros passos no Jarvis Simples",
+  "titulo": "Primeiros passos no Jarvis ERP",
   "resumo": "Leia o Painel do dono, ache qualquer tela pelos menus e pela busca, troque a empresa e siga o roteiro de implantação.",
   "segundos": 133
  },
@@ -11,7 +11,7 @@
   "n": 2,
   "titulo": "Cadastrar clientes e produtos com os dados da nota",
   "resumo": "Cadastre um cliente e um produto com preço, custo e dados fiscais, importe planilhas e confira o que falta nos cadastros.",
-  "segundos": 143
+  "segundos": 142
  },
  "vendas": {
   "capitulo": "vendas",
@@ -60,7 +60,7 @@
   "n": 9,
   "titulo": "Lançar, receber, aprovar e conciliar o banco",
   "resumo": "Leia o painel financeiro, lance uma conta parcelada, dê baixa com juros e multa, aprove pagamentos pela alçada, concilie o extrato e veja o fluxo de caixa.",
-  "segundos": 145
+  "segundos": 146
  },
  "notas-fiscais": {
   "capitulo": "notas-fiscais",
@@ -74,14 +74,14 @@
   "n": 11,
   "titulo": "Funcionários, ponto, férias e holerites",
   "resumo": "Cadastre quem entra, confira o ponto do mês, lance comissões, aprove férias e distribua os holerites.",
-  "segundos": 127
+  "segundos": 126
  },
  "relatorios": {
   "capitulo": "relatorios",
   "n": 12,
   "titulo": "Relatórios: painel, prontos e o construtor",
   "resumo": "Leia o painel de indicadores, gere um relatório pronto em PDF e monte o seu no construtor, com agrupamento e gráfico.",
-  "segundos": 122
+  "segundos": 123
  },
  "contador": {
   "capitulo": "contador",
@@ -95,6 +95,6 @@
   "n": 14,
   "titulo": "Configurações: empresa, usuários, permissões e segurança",
   "resumo": "Deixe os dados da empresa certos, ache as preferências de cada módulo, dê a cada pessoa o acesso do seu trabalho e veja quem fez o quê.",
-  "segundos": 138
+  "segundos": 139
  }
 }

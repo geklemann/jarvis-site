@@ -1,129 +1,129 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:05.510
+00:00:00.250 --> 00:00:05.524
 Nesta aula você vai conferir os dados da empresa, achar as preferências de cada módulo, incluir
 
 2
-00:00:05.510 --> 00:00:09.386
+00:00:05.524 --> 00:00:09.410
 um usuário com o papel certo e acompanhar quem fez o quê na auditoria.
 
 3
-00:00:10.317 --> 00:00:14.855
+00:00:10.317 --> 00:00:14.881
 Abra Configurações na barra lateral: a primeira tela é Dados da empresa.
 
 4
-00:00:14.855 --> 00:00:20.464
+00:00:14.881 --> 00:00:20.522
 Razão social, CNPJ, regime, CNAE e endereço saem nas notas, nos pedidos e nos relatórios.
 
 5
-00:00:20.464 --> 00:00:24.435
+00:00:20.522 --> 00:00:24.516
 Com o escritório ligado, o CNPJ e o regime mudam pelo contador.
 
 6
-00:00:25.117 --> 00:00:30.262
+00:00:25.183 --> 00:00:30.240
 As abas separam o cadastro: Identificação, Endereço, Inscrições, Sócios, Contatos.
 
 7
-00:00:30.262 --> 00:00:35.030
+00:00:30.240 --> 00:00:34.927
 Na aba Endereço, confira o município do IBGE: a nota fiscal usa esse código.
 
 8
-00:00:35.030 --> 00:00:36.599
+00:00:34.927 --> 00:00:36.468
 Depois, clique em Gravar.
 
 9
-00:00:37.317 --> 00:00:40.359
+00:00:37.183 --> 00:00:40.254
 Em Configurar › Preferências ficam as regras gerais:
 
 10
-00:00:40.359 --> 00:00:44.572
+00:00:40.254 --> 00:00:44.507
 validade do orçamento, desconto máximo no caixa e a revisão dos acessos.
 
 11
-00:00:44.572 --> 00:00:49.897
+00:00:44.507 --> 00:00:49.881
 A última aba, Preferências dos módulos, lista as configurações de cada módulo num lugar só.
 
 12
-00:00:50.583 --> 00:00:52.308
+00:00:50.583 --> 00:00:52.339
 É ali que estão as integrações:
 
 13
-00:00:52.308 --> 00:00:56.869
+00:00:52.339 --> 00:00:56.983
 o banco, o certificado digital das notas, a maquininha de cartão e o seu contador.
 
 14
-00:00:56.869 --> 00:00:58.315
+00:00:56.983 --> 00:00:58.455
 Clique no nome para abrir.
 
 15
-00:00:58.983 --> 00:01:04.061
+00:00:59.183 --> 00:01:04.335
 Em Mensagens do WhatsApp, edite o texto do orçamento, do pedido, da nota e da cobrança.
 
 16
-00:01:04.061 --> 00:01:10.072
+00:01:04.335 --> 00:01:10.433
 As variáveis entre chaves, como cliente e valor, são preenchidas sozinhas, e a prévia mostra como fica.
 
 17
-00:01:10.783 --> 00:01:15.619
+00:01:11.117 --> 00:01:16.013
 Agora a equipe. Em Cadastros, Usuários e papéis, cada pessoa tem um papel:
 
 18
-00:01:15.619 --> 00:01:20.324
+00:01:16.013 --> 00:01:20.777
 administrador, financeiro, vendas, estoque e compras, RH ou só consulta.
 
 19
-00:01:20.324 --> 00:01:22.350
+00:01:20.777 --> 00:01:22.829
 Cada papel vê só o que precisa.
 
 20
-00:01:23.050 --> 00:01:27.897
+00:01:23.517 --> 00:01:28.248
 Clique em Incluir usuário. Informe o e-mail da conta Jarvis da pessoa e escolha o papel.
 
 21
-00:01:27.897 --> 00:01:31.862
+00:01:28.248 --> 00:01:32.120
 A janela mostra o que esse papel vê e o que altera. Confirme em Incluir.
 
 22
-00:01:32.583 --> 00:01:35.177
+00:01:32.850 --> 00:01:35.487
 Para ajustar um papel, use Permissões por ação.
 
 23
-00:01:35.177 --> 00:01:39.261
+00:01:35.487 --> 00:01:39.640
 Escolha o papel no topo e marque, módulo por módulo, o que ele pode fazer.
 
 24
-00:01:39.261 --> 00:01:44.173
+00:01:39.640 --> 00:01:44.634
 Aqui, o papel Vendas ganhou ver o Financeiro: a célula em destaque é diferente do padrão.
 
 25
-00:01:44.850 --> 00:01:50.149
+00:01:45.317 --> 00:01:50.517
 Em Regras de acesso e senha, você limita o horário e os dias de cada papel, pede a verificação
 
 26
-00:01:50.149 --> 00:01:55.110
+00:01:50.517 --> 00:01:55.385
 em duas etapas, define a política de senha e escolhe as ações que precisam de aprovação.
 
 27
-00:01:55.783 --> 00:01:57.513
+00:01:56.117 --> 00:01:57.868
 Por fim, Relatórios, Auditoria.
 
 28
-00:01:57.513 --> 00:02:01.585
+00:01:57.868 --> 00:02:01.991
 Ela registra quem fez o quê e quando, com o valor de antes e o de depois.
 
 29
-00:02:01.585 --> 00:02:06.661
+00:02:01.991 --> 00:02:07.131
 Filtre por ação, por onde e por quem, selecione uma linha e tecle Enter para ver o detalhe.
 
 30
-00:02:07.383 --> 00:02:08.363
+00:02:07.850 --> 00:02:08.840
 Agora é a sua vez.
 
 31
-00:02:08.363 --> 00:02:14.350
+00:02:08.840 --> 00:02:14.893
 Abra a demonstração, mude a validade do orçamento nas Preferências e depois ache a sua alteração na Auditoria.
 
 32
-00:02:14.350 --> 00:02:17.615
+00:02:14.893 --> 00:02:18.194
 O passo a passo completo está no capítulo catorze do manual.

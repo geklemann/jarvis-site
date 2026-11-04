@@ -1,141 +1,141 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:02.689
+00:00:00.250 --> 00:00:02.783
 Nesta aula você vai usar a frente de caixa:
 
 2
-00:00:02.689 --> 00:00:08.758
+00:00:02.783 --> 00:00:09.087
 escolher o terminal, abrir o caixa, passar os produtos, receber, fazer a sangria e fechar o caixa às cegas.
 
 3
-00:00:09.650 --> 00:00:14.405
+00:00:09.983 --> 00:00:14.748
 Abra a Frente de caixa pelo botão PDV, no topo, ou em Frente de Caixa › Operações.
 
 4
-00:00:14.405 --> 00:00:19.450
+00:00:14.748 --> 00:00:19.803
 Ela ocupa a tela toda. Na primeira vez, o caixa pergunta qual terminal é este aparelho.
 
 5
-00:00:19.450 --> 00:00:21.595
+00:00:19.803 --> 00:00:21.953
 A escolha fica guardada no navegador.
 
 6
-00:00:22.317 --> 00:00:24.779
+00:00:22.650 --> 00:00:25.137
 Com o caixa fechado, aparece Abrir o caixa.
 
 7
-00:00:24.779 --> 00:00:28.902
+00:00:25.137 --> 00:00:29.301
 Escolha o Operador, digite a senha e informe o Fundo de troco na gaveta.
 
 8
-00:00:28.902 --> 00:00:31.651
+00:00:29.301 --> 00:00:32.077
 Depois, clique em Abrir o caixa, ou tecle Enter.
 
 9
-00:00:32.383 --> 00:00:35.232
+00:00:32.783 --> 00:00:35.619
 Nesta aula vamos usar o Caixa 1, que já está aberto.
 
 10
-00:00:35.232 --> 00:00:39.999
+00:00:35.619 --> 00:00:40.364
 Se o aparelho foi escolhido errado, use Este aparelho não é o caixa, e escolha de novo.
 
 11
-00:00:40.717 --> 00:00:45.657
+00:00:41.050 --> 00:00:46.000
 Com o Caixa livre, passe o leitor no código de barras, ou digite o código e tecle Enter.
 
 12
-00:00:45.657 --> 00:00:49.756
+00:00:46.000 --> 00:00:50.106
 Para várias unidades, digite a quantidade e um asterisco antes do código.
 
 13
-00:00:50.450 --> 00:00:55.624
+00:00:50.783 --> 00:00:55.890
 À direita ficam o cliente e o total. F3 identifica o cliente ou o CPF na nota.
 
 14
-00:00:55.624 --> 00:00:59.935
+00:00:55.890 --> 00:01:00.146
 F2 busca o produto pelo nome, F7 dá desconto e F8 cancela o item.
 
 15
-00:00:59.935 --> 00:01:04.247
+00:01:00.146 --> 00:01:04.402
 Acima do desconto livre, o caixa pede a senha de quem tem alçada.
 
 16
-00:01:04.917 --> 00:01:09.487
+00:01:05.117 --> 00:01:09.762
 Para receber, tecle F10 ou clique em Finalizar. Digite o valor e escolha a forma:
 
 17
-00:01:09.487 --> 00:01:11.461
+00:01:09.762 --> 00:01:11.770
 dinheiro, Pix, cartão ou crediário.
 
 18
-00:01:11.461 --> 00:01:14.959
+00:01:11.770 --> 00:01:15.325
 Para dividir, lance uma parte em cada forma até o Falta zerar.
 
 19
-00:01:14.959 --> 00:01:16.934
+00:01:15.325 --> 00:01:17.333
 Dinheiro acima do total vira troco.
 
 20
-00:01:17.650 --> 00:01:21.105
+00:01:18.050 --> 00:01:21.576
 Marque Emitir NFC-e se o cliente quer a nota e clique em Concluir.
 
 21
-00:01:21.105 --> 00:01:24.036
+00:01:21.576 --> 00:01:24.567
 Confirme com o seu contador quando a nota é obrigatória.
 
 22
-00:01:24.036 --> 00:01:26.706
+00:01:24.567 --> 00:01:27.292
 Aqui, vamos voltar e cancelar a venda com o motivo.
 
 23
-00:01:27.383 --> 00:01:30.594
+00:01:27.983 --> 00:01:31.199
 Muito dinheiro na gaveta? Clique em Sangria, ou tecle F9.
 
 24
-00:01:30.594 --> 00:01:32.903
+00:01:31.199 --> 00:01:33.513
 A janela mostra o que há na gaveta agora.
 
 25
-00:01:32.903 --> 00:01:37.014
+00:01:33.513 --> 00:01:37.631
 Informe o valor, para onde vai e o motivo, e clique em Registrar sangria.
 
 26
-00:01:37.014 --> 00:01:40.618
+00:01:37.631 --> 00:01:41.242
 Acima do limite do operador, o caixa pede a senha do supervisor.
 
 27
-00:01:41.317 --> 00:01:44.721
+00:01:41.917 --> 00:01:45.335
 No fim do turno, clique em Fechar caixa. O fechamento é cego:
 
 28
-00:01:44.721 --> 00:01:49.743
+00:01:45.335 --> 00:01:50.377
 primeiro você conta as cédulas e as moedas, depois os comprovantes das outras formas, e só
 
 29
-00:01:49.743 --> 00:01:51.920
+00:01:50.377 --> 00:01:52.563
 então o sistema compara com o esperado.
 
 30
-00:01:53.717 --> 00:01:57.162
+00:01:54.317 --> 00:01:57.695
 Para acompanhar, abra Frente de Caixa › Operações › Caixas.
 
 31
-00:01:57.162 --> 00:02:00.258
+00:01:57.695 --> 00:02:00.730
 O quadro Agora mostra cada terminal, aberto ou livre.
 
 32
-00:02:00.258 --> 00:02:05.222
+00:02:00.730 --> 00:02:05.597
 Os cartões somam o vendido, as sangrias e a diferença dos caixas fechados no período.
 
 33
-00:02:05.917 --> 00:02:06.931
+00:02:06.317 --> 00:02:07.319
 Agora é a sua vez.
 
 34
-00:02:06.931 --> 00:02:12.623
+00:02:07.319 --> 00:02:12.941
 Abra a demonstração, passe alguns produtos no Caixa 1 e veja a janela de pagamento e a de fechamento.
 
 35
-00:02:12.623 --> 00:02:15.948
+00:02:12.941 --> 00:02:16.225
 O passo a passo completo está no capítulo quatro do manual.

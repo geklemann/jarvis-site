@@ -1,0 +1,83 @@
+{
+ "codigo": "CPC 43",
+ "codigoNoTexto": "CPC 43 (R1)",
+ "titulo": "Adoção Inicial dos Pronunciamentos Técnicos CPCs 15 a 41",
+ "correlacao": "IFRS 1",
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/426_CPC43_R1_ComAVISO.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=74",
+  "arquivo": "cpc-43.pdf",
+  "sha256": "e092f34223e2bf556d07bd35dda7b3f90360f541fc05b58f6a0f8d6e285b4a19"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "a1d40b343360",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "O objetivo deste Pronunciamento é fornecer as diretrizes necessárias para que as\n4 CPC_43(R1) demonstrações contábeis de uma entidade que estejam de acordo com os Pronunciamentos Técnicos, Interpretações e Orientações do CPC, e as divulgações contábeis intermediárias para os períodos parciais cobertos por essas demonstrações contábeis possam ser declaradas, com as exceções do contido nos itens 4 e 5, como estando conformes com as normas internacionais de contabilidade emitidas pelo IASB – International Accounting Standards Board (IFRSs)."
+  },
+  {
+   "numero": "2",
+   "secao": "Alcance",
+   "texto": "A entidade deve aplicar este Pronunciamento às primeiras demonstrações contábeis consolidadas, individuais e separadas elaboradas a partir das datas determinadas pelos órgãos reguladores contábeis brasileiros."
+  },
+  {
+   "numero": "3",
+   "secao": "Alcance",
+   "texto": "As demonstrações subsequentes devem dar continuidade às práticas dessas demonstrações iniciais até que Pronunciamento Técnico, Interpretação ou Orientação deste CPC provoque modificações."
+  },
+  {
+   "numero": "4",
+   "secao": "Alcance",
+   "texto": "As demonstrações contábeis individuais de entidades com investimento em controlada ou empreendimento controlado em conjunto avaliado pela equivalência patrimonial de acordo com o exigido pela legislação brasileira vigente não são consideradas, com esse método de avaliação, como estando conformes com as normas internacionais de contabilidade."
+  },
+  {
+   "numero": "5",
+   "secao": "Alcance",
+   "texto": "A manutenção pela entidade de saldo no ativo diferido, nos termos do Pronunciamento Técnico CPC 13, é permitida pela legislação contábil brasileira vigente, todavia, não está em conformidade com as normas internacionais de contabilidade, ocasionando diferenças entre os resultados e patrimônio conforme os CPCs e as IFRSs. Este CPC entende que a permissão de manutenção do saldo do ativo diferido existente quando da adoção das modificações da Lei nº. 11.638/07 e MP nº. 449/08, prevista no Pronunciamento Técnico CPC 13, atinge apenas as demonstrações contábeis individuais, haja vista que essa permissão não foi acolhida pelo Pronunciamento Técnico CPC 36 – Demonstrações Consolidadas e, devido ao objetivo deste CPC de que as demonstrações consolidadas brasileiras possam ser consideradas como estando de acordo com as IFRSs conforme emitidas pelo IASB. Assim, o efeito da manutenção desses saldos (de ativos diferidos) deve ser totalmente eliminado nas demonstrações consolidadas para que se alcance a plena convergência com as normas internacionais nessas demonstrações consolidadas. Este tratamento excepcional não deve ser utilizado por analogia em outras situações."
+  },
+  {
+   "numero": "5A",
+   "secao": "Alcance",
+   "texto": "A manutenção pela entidade de saldo em reserva de capital decorrente de prêmio na emissão de debêntures e de doação ou subvenção para investimentos, quando da adoção da Lei nº. 11.638/07 e da Medida Provisória nº. 449/08 (convertida na Lei no 11.941/09), nos termos do Pronunciamento Técnico CPC 13, também é permitida pela legislação contábil brasileira vigente. A simples manutenção desses saldos de contas de reservas no patrimônio líquido da entidade não gera, necessariamente, diferenças de prática contábil entre os CPCs e as IFRS. Todavia, esse procedimento, em certos casos, pode ocasionar diferenças entre os resultados do período e os patrimônios líquidos conforme os CPCs e as IFRSs. Também nesses casos o entendimento deste CPC é que devem ser feitos os devidos ajustes nas demonstrações\n5 CPC_43(R1) individuais e consolidadas conforme os CPCs para que sejam eliminadas quaisquer diferenças em relação às demonstrações consolidadas em IFRS."
+  },
+  {
+   "numero": "6",
+   "secao": "Alcance",
+   "texto": "As exceções citadas nos itens 4 e 5 deste Pronunciamento e no item 34A do Pronunciamento Técnico CPC 37 – Adoção Inicial das Normas Internacionais de Contabilidade são as únicas divergências admitidas entre as demonstrações elaboradas até este momento com obediência aos documentos emitidos por este CPC e as normas internacionais de contabilidade."
+  },
+  {
+   "numero": "7",
+   "secao": "Procedimentos",
+   "texto": "A entidade deve, primeiramente, fazer a aplicação do Pronunciamento Técnico CPC 37 – Adoção Inicial das Normas Internacionais de Contabilidade às suas demonstrações consolidadas quando adotar tais normas internacionais pela primeira vez. Sugere-se que inclusive as entidades que não são requeridas a adotar as normas internacionais de contabilidade também assim procedam, tendo em vista o objetivo mencionado no item 1 deste Pronunciamento."
+  },
+  {
+   "numero": "8",
+   "secao": "Procedimentos",
+   "texto": "A seguir, a entidade deve transpor, para suas demonstrações individuais, todos os ajustes que forem necessários, ou pelos quais optar, na aplicação do Pronunciamento Técnico CPC 37, de forma a obter o mesmo patrimônio líquido em ambos os balanços patrimoniais, consolidado e individual, observado o item 6 deste Pronunciamento. Para isso, pode ser necessário promover os ajustes contábeis em seus investimentos em controladas e em empreendimentos controlados em conjunto, de tal forma que a aplicação da equivalência patrimonial sobre eles promova essa igualdade de patrimônios líquidos. Adicionalmente, devem ser eliminadas, por meio de ajustes nas demonstrações individuais, as diferenças eventualmente existentes entre essas demonstrações e as demonstrações consolidadas, em função da adoção antecipada das IFRS no consolidado."
+  },
+  {
+   "numero": "9",
+   "secao": "Procedimentos",
+   "texto": "Se algum procedimento for impraticável de ser aplicado e causar diferença entre os dois patrimônios líquidos de que trata o item 8, esse fato deve ser evidenciado, com sua divulgação e os motivos do impedimento da igualdade que se procura."
+  },
+  {
+   "numero": "10",
+   "secao": "Procedimentos",
+   "texto": "As demonstrações contábeis individuais subsequentes devem obedecer a todos os requisitos necessários para que as demonstrações consolidadas a partir delas possam ser declaradas como estando conformes com as normas internacionais de contabilidade."
+  },
+  {
+   "numero": "11",
+   "secao": "Procedimentos",
+   "texto": "Como consequência do contido no item anterior, à exceção do item 6, não é admitida demonstração contábil consolidada com resultado e patrimônio líquido diferentes, ou outros elementos ou contas não modificáveis pelo processo de consolidação por valores diferentes dos contidos nas demonstrações individuais da controladora. Assim, os mesmos critérios de reconhecimento e mensuração precisam ser utilizados em ambos os conjuntos de demonstrações contábeis, e na mesma data de transição em que as IFRS forem adotadas, devendo ser feitos os ajustes necessários nas demonstrações individuais."
+  },
+  {
+   "numero": "12",
+   "secao": "Procedimentos",
+   "texto": "As demonstrações contábeis separadas eventualmente apresentadas por opção da entidade devem também ser elaboradas a partir das demonstrações individuais, admitidos como ajustes\n6 CPC_43(R1) unicamente os determinados pela modificação do método de avaliação dos investimentos em controladas, coligadas e empreendimentos controlados em conjunto.\n7 CPC_43(R1)"
+  }
+ ]
+}

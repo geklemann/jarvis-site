@@ -1,0 +1,98 @@
+{
+ "codigo": "ICPC 19",
+ "codigoNoTexto": "ICPC 19",
+ "titulo": "Tributos",
+ "correlacao": "IFRIC 21",
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/497_ICPC_19.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=97",
+  "arquivo": "icpc-19.pdf",
+  "sha256": "3c51ec6c31c089195a76575cb80b2eca95379a2878412e0499e13e5779508a4c"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "430ad8181bb0",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "Governos podem impor tributos sobre entidades. A questão apresentada nesta Interpretação se refere a quando reconhecer uma obrigação de pagar tributo que é contabilizada de acordo com o Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes. Alcance"
+  },
+  {
+   "numero": "2",
+   "secao": null,
+   "texto": "Esta Interpretação trata da contabilização de obrigação de pagar um tributo se essa obrigação estiver no alcance do Pronunciamento Técnico CPC 25. Ela trata também da contabilização de obrigação de pagar tributo cuja época e valor sejam certos."
+  },
+  {
+   "numero": "3",
+   "secao": null,
+   "texto": "Esta Interpretação não trata da contabilização dos custos que resultam do reconhecimento de obrigação de pagar tributo. As entidades devem aplicar outros pronunciamentos contábeis para decidir se o reconhecimento de obrigação de pagar um tributo dá origem a um ativo ou a uma despesa."
+  },
+  {
+   "numero": "4",
+   "secao": null,
+   "texto": "Para os fins desta Interpretação, tributo é um fluxo de saída de recursos que incorpora benefícios econômicos que esteja sendo imposto por governos sobre entidades de acordo com a legislação (ou seja, leis e/ou regulamentos), exceto: (a) os fluxos de saída de recursos que estejam dentro do alcance de outros pronunciamentos contábeis (como, por exemplo, impostos sobre a renda que estejam no alcance do Pronunciamento Técnico CPC 32 – Tributos sobre o Lucro); e (b) multas ou outras penalidades que sejam impostas por violação da legislação. “Governo” refere-se a governo, agências governamentais e órgãos similares, sejam eles locais, nacionais ou internacionais."
+  },
+  {
+   "numero": "5",
+   "secao": null,
+   "texto": "O pagamento efetuado pela entidade para a aquisição de ativo ou prestação de serviços em virtude de acordo contratual com o governo não atende à definição de tributo."
+  },
+  {
+   "numero": "6",
+   "secao": null,
+   "texto": "A entidade não está obrigada a aplicar esta Interpretação a passivos que resultem de sistemas de comércio de licenças de emissão de gases de efeito estufa."
+  },
+  {
+   "numero": "7",
+   "secao": "Questões",
+   "texto": "Para esclarecer a contabilização da obrigação de pagar um tributo, esta Interpretação trata das seguintes questões: (a) qual é o fato gerador que dá origem ao reconhecimento de obrigação de pagar um tributo? (b) a compulsão econômica no sentido de continuar a operar em período futuro cria uma obrigação presumida de pagar um tributo que será gerada pela operação nesse período futuro? (c) a presunção de continuidade operacional implica em que a entidade tem uma obrigação presente de pagar um tributo que será gerado pela operação em período futuro? (d) o reconhecimento de obrigação de pagar um tributo surge em um ponto no tempo ou, em algumas circunstâncias, surge progressivamente ao longo do tempo? (e) qual é o fato gerador que dá origem ao reconhecimento de obrigação de pagar um tributo que é gerado se um limite mínimo for atingido? (f) os princípios para o reconhecimento de obrigação de pagar um tributo nas demonstrações contábeis anuais e em demonstrações intermediárias são os mesmos?"
+  },
+  {
+   "numero": "8",
+   "secao": "Consenso",
+   "texto": "O fato gerador que dá origem à obrigação de pagar um tributo é a atividade que gera o pagamento do tributo, conforme identificada pela legislação. Por exemplo, se a atividade que gera o pagamento do tributo for a geração de receita no período atual e o cálculo desse tributo se basear na receita que foi gerada em período anterior, o fato gerador para esse tributo é a geração de receita no período atual. A geração de receita no período anterior é necessária, mas não suficiente, para criar uma obrigação presente."
+  },
+  {
+   "numero": "9",
+   "secao": "Consenso",
+   "texto": "A entidade não possui uma obrigação presumida de pagar um tributo que será gerado pela operação em período futuro como resultado de a entidade ser economicamente obrigada a continuar a operar nesse período futuro."
+  },
+  {
+   "numero": "10",
+   "secao": "Consenso",
+   "texto": "A elaboração das demonstrações contábeis sob a presunção de continuidade operacional não implica em que a entidade tenha obrigação presente de pagar um tributo que será gerado pela operação em período futuro."
+  },
+  {
+   "numero": "11",
+   "secao": "Consenso",
+   "texto": "A obrigação de pagar um tributo é reconhecida progressivamente se o fato gerador ocorrer ao longo do período de tempo (ou seja, se a atividade que gerar o pagamento do tributo, conforme identificada pela legislação, ocorrer ao longo do período de tempo). Por exemplo, se o fator gerador for a geração de receita ao longo do período de tempo, a obrigação correspondente é reconhecida à medida que a entidade gera essa receita."
+  },
+  {
+   "numero": "12",
+   "secao": "Consenso",
+   "texto": "Se a obrigação de pagar um tributo for gerada quando um limite mínimo for atingido, a contabilização do passivo que resulta dessa obrigação deve ser consistente com os princípios estabelecidos nos itens 8 a 14 (em particular, os itens 8 e 11). Por exemplo, se o fato gerador for o atingimento de um limite de atividade mínimo (como, por exemplo, uma quantidade mínima de receita ou de vendas geradas ou de itens produzidos), o passivo correspondente é reconhecido quando esse limite de atividade mínimo é atingido."
+  },
+  {
+   "numero": "13",
+   "secao": "Consenso",
+   "texto": "A entidade deve aplicar na demonstração intermediária os mesmos princípios de reconhecimento que aplica nas demonstrações contábeis anuais. Como resultado, na demonstração intermediária, a obrigação de pagar um tributo: (a) não será reconhecida se não houver nenhuma obrigação presente de pagar o tributo ao final do período da demonstração intermediária; e (b) será reconhecida se a obrigação presente de pagar o tributo existir ao final do período da demonstração intermediária."
+  },
+  {
+   "numero": "14",
+   "secao": "Consenso",
+   "texto": "A entidade deve reconhecer um ativo se tiver pago antecipadamente um tributo, mas ainda não tiver uma obrigação presente de pagar esse tributo.\nApêndice A – Transição\nEste apêndice é parte integrante da Interpretação e tem a mesma importância que as demais partes da Interpretação."
+  },
+  {
+   "numero": "A1",
+   "secao": "Consenso",
+   "texto": "(Eliminado)."
+  },
+  {
+   "numero": "A2",
+   "secao": "Consenso",
+   "texto": "Mudanças nas políticas contábeis resultantes da aplicação inicial desta Interpretação devem ser contabilizadas retrospectivamente de acordo com o Pronunciamento Técnico CPC 23 – Políticas Contábeis, Mudança de Estimativa e Retificação de Erro.\nExemplos ilustrativos Esses exemplos acompanham, mas não fazem parte da ICPC 19.\nO objetivo desses exemplos é ilustrar como a entidade deve contabilizar a obrigação de pagar tributo em suas demonstrações contábeis anuais e em suas demonstrações intermediárias.\nExemplo 1 – Um tributo é gerado progressivamente à medida que a entidade gera receita\nA Entidade A tem como data de encerramento de seu exercício social 31 de dezembro de cada ano. De acordo com a legislação, um tributo é gerado progressivamente à medida que a entidade gera receita em 20X1. O valor do tributo é calculado tendo por referência a receita gerada pela entidade em 20X1.\nNeste exemplo, o passivo é reconhecido progressivamente durante 20X1 à medida que a Entidade A gera receita, uma vez que o fato gerador, conforme identificado pela legislação, é a geração de receita durante 20X1. Em qualquer ponto em 20X1, a Entidade A tem a obrigação presente de pagar o tributo sobre a receita gerada até a data presente. A Entidade A não tem nenhuma obrigação presente de pagar o tributo que resultará da geração de receita no futuro.\nNa demonstração intermediária (se houver), o passivo é reconhecido progressivamente à medida que a Entidade A gera receita. A Entidade A tem a obrigação presente de pagar o tributo sobre a receita gerada de 1° de janeiro de 20X1 ao final do período intermediário.\nExemplo 2 – Um tributo é gerado integralmente assim que a entidade gera receita\nA Entidade B tem como data de encerramento de seu exercício social 31 de dezembro de cada ano. De acordo com a legislação, um tributo é gerado integralmente assim que a entidade gera receita em 20X1. O valor do tributo é calculado tendo por referência a receita gerada pela entidade em 20X0. A Entidade B gerou receita em 20X0 e em 20X1 começa a gerar receita em 03 de janeiro de 20X1.\nNeste exemplo, o passivo é reconhecido integralmente em 03 de janeiro de 20X1, porque o fato gerador, conforme identificado pela legislação, é a primeira geração de receita em 20X1. A geração de receita em 20X0 é necessária, mas não suficiente, para criar a obrigação presente de pagar o tributo. Antes de 03 de janeiro de 20X1, a Entidade B não tinha nenhuma obrigação presente de pagar o tributo. Em outras palavras, a atividade que gera o pagamento do tributo, conforme identificada pela legislação, é o ponto em que a Entidade B primeiramente gera receita em 20X1. A geração de receita em 20X0 não é a atividade que gera o pagamento do tributo e o reconhecimento do passivo. O valor da receita gerada em 20X0 afeta somente a mensuração do passivo.\nNa demonstração intermediária (se houver), o passivo é reconhecido integralmente no primeiro período intermediário de 20X1, uma vez que o passivo é reconhecido integralmente em 03 de janeiro de 20X1.\nExemplo 3 – Um tributo é gerado integralmente se a entidade operar como banco em data específica\nA Entidade C é um banco e tem como data de encerramento de seu exercício social 31 de dezembro de cada ano. De acordo com a legislação, um tributo é gerado integralmente somente se a entidade operar como banco no final do período de relatório anual. O valor do tributo é calculado tendo por referência aos valores apresentados na demonstração contábil da entidade no final do exercício social. O final do exercício social da Entidade C é 31 de dezembro de 20X1. Neste exemplo, o passivo é reconhecido em 31 de dezembro de 20X1, porque o fato gerador, conforme identificado pela legislação, é a operação da Entidade C como banco no final do exercício social. Antes desse ponto, a Entidade C não possui nenhuma obrigação presente de pagar o tributo, ainda que esteja economicamente compelida a continuar a operar como banco no futuro. Em outras palavras, a atividade que gera o pagamento do tributo, conforme identificada pela legislação, é a operação da entidade como banco no final do exercício social, o que não ocorre até 31 de dezembro de 20X1. A conclusão não se alteraria ainda que o valor do passivo se baseasse na duração do período da demonstração contábil, uma vez que o fato gerador é a operação da entidade como banco no final do exercício.\nNa demonstração intermediária (se houver), o passivo é reconhecido integralmente no período intermediário que inclui 31 de dezembro de 20X1, uma vez que o passivo é reconhecido integralmente nessa data.\nExemplo 4 – Um tributo é gerado se a entidade gerar receita acima de um valor mínimo\nA Entidade D tem como data de encerramento de seu exercício social 31 de dezembro de cada ano. De acordo com a legislação, um tributo é gerado se a entidade gerar receita acima de $ 50 milhões em 20X1. O valor do tributo é calculado tomando por referência a receita gerada acima de $ 50 milhões, sendo a alíquota do tributo 0% para os primeiros $ 50 milhões de receita gerados (abaixo do limite) e 2% acima de $ 50 milhões em receita. A receita da Entidade D atinge o limite de receita de $ 50 milhões em 17 de julho de 20X1.\nNeste exemplo, o passivo é reconhecido entre 17 de julho de 20X1 e 31 de dezembro de 20X1, à medida que a Entidade D gere receita acima do limite, já que o fato gerador, conforme identificado pela legislação, é a atividade realizada após o limite ser atingido (ou seja, a geração de receita após o limite ser atingido). O valor do passivo baseia-se na receita gerada até a data presente que exceda o limite de $ 50 milhões.\nNa demonstração intermediária (se houver), o passivo é reconhecido entre 17 de julho de 20X1 e 31 de dezembro de 20X1, à medida que a Entidade D gera receita acima do limite.\nVariação:\nA mesma situação acima (ou seja, um tributo é gerado se a Entidade D gerar receita acima de $ 50 milhões em 20X1), exceto que o valor do tributo é calculado por referência a toda a receita gerada pela Entidade D em 20X1 (ou seja, incluindo os primeiros $ 50 milhões em receita gerados em 20X1).\nNeste exemplo, o passivo referente ao pagamento do tributo relativo aos primeiros $ 50 milhões em receita é reconhecido em 17 de julho de 20X1, quando o limite é atingido, uma vez que o fato gerador, conforme identificado pela legislação, para o pagamento desse valor é o atingimento do limite. O passivo referente à obrigação do pagamento do tributo relativo à receita gerada acima do limite é reconhecido entre 17 de julho de 20X1 e 31 de dezembro de 20X1, à medida que a entidade gera receita acima do limite, uma vez que o fato gerador, conforme identificado pela legislação, é a atividade realizada após o limite ser atingido (ou seja, a geração de receita após o limite ser atingido). O valor do passivo baseia-se na receita gerada até a data presente, incluindo os primeiros $ 50 milhões em receita. Os mesmos princípios de reconhecimento aplicados na demonstração intermediária (se houver) se aplicam nas demonstrações contábeis anuais."
+  }
+ ]
+}

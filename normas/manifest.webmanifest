@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Jarvis Normas — como lançar cada fato contábil",
+  "short_name": "Jarvis Normas",
+  "description": "Os CPCs, ICPCs, OCPCs e NBCs com o texto oficial item a item, a correlação com as IFRS, roteiros de lançamento com exemplo e fundamento e a busca, no celular e no computador.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#1f8a5b",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "finance", "education", "productivity"],
+  "icons": [
+    { "src": "../brand/jarvis.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "../brand/jarvis-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Roteiros de lançamento", "short_name": "Roteiros", "url": "./#/normas/movimentos/roteiros", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Buscar nas normas", "short_name": "Buscar", "url": "./#/normas/movimentos/buscar", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Consultar normas", "short_name": "Normas", "url": "./#/normas/arquivos/normas", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
+  ]
+}

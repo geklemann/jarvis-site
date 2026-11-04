@@ -1,0 +1,1157 @@
+{
+ "atualizado": "2026-11-04",
+ "normas": [
+  {
+   "codigo": "CPC 00",
+   "titulo": "Estrutura Conceitual para Relatório Financeiro",
+   "arquivo": "cpc-00.json",
+   "versao": "cd79c8204476",
+   "itens": 316,
+   "correlacao": "Conceptual Framework",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/573_CPC00(R2).pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=80",
+    "arquivo": "cpc-00.pdf",
+    "sha256": "acb69b58ab30db63f39550bb4d1d95de2275eb70fb82f9a333de9512333c920d"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 01",
+   "titulo": "Redução ao Valor Recuperável de Ativos",
+   "arquivo": "cpc-01.json",
+   "versao": "4adad9004cb9",
+   "itens": 169,
+   "correlacao": "IAS 36",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/27_CPC_01_R1_rev%2021_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=2",
+    "arquivo": "cpc-01.pdf",
+    "sha256": "0e102dd9d30251a7711ad32dfe7e78edf61fc60fff6ed1f6fcd42a2d39ad2eb1"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 02",
+   "titulo": "Efeitos das mudanças nas taxas de câmbio e conversão de demonstrações contábeis",
+   "arquivo": "cpc-02.json",
+   "versao": "b0c8fc32efd2",
+   "itens": 94,
+   "correlacao": "IAS 21",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/62_CPC_02_R2_rev%2027_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=9",
+    "arquivo": "cpc-02.pdf",
+    "sha256": "7beebab551d2225d375a288f58cc5cd56105f654d74428109e1dc48a0310d1a1"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 03",
+   "titulo": "Demonstração dos Fluxos de Caixa",
+   "arquivo": "cpc-03.json",
+   "versao": "fad6289698c5",
+   "itens": 85,
+   "correlacao": "IAS 7",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/183_CPC_03_R2_rev%2024.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=34",
+    "arquivo": "cpc-03.pdf",
+    "sha256": "0aa75f14f80cf45e0c9de00e1d5e52f52e368c0d73ffa41ea9d67e37d277571c"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 04",
+   "titulo": "Ativo Intangível",
+   "arquivo": "cpc-04.json",
+   "versao": "eeb3818b559c",
+   "itens": 164,
+   "correlacao": "IAS 38",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/187_CPC_04_R1_rev%2021.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=35",
+    "arquivo": "cpc-04.pdf",
+    "sha256": "28a8ae024050b630483f9ad182168ffd1abf1825df2450ff48f008f168896c54"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 05",
+   "titulo": "Divulgação sobre Partes Relacionadas",
+   "arquivo": "cpc-05.json",
+   "versao": "0401c878517e",
+   "itens": 34,
+   "correlacao": "IAS 24",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/159_CPC_05_R1_rev%2006_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=36",
+    "arquivo": "cpc-05.pdf",
+    "sha256": "43f141c460b1ff4e183d40eac0d078b29df6a643d1ba41964be4722cb9c562e1"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 06",
+   "titulo": "Arrendamentos",
+   "arquivo": "cpc-06.json",
+   "versao": "5fbfd9e6c7c0",
+   "itens": 203,
+   "correlacao": "IFRS 16",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/533_CPC_06_R2_rev%2023.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=37",
+    "arquivo": "cpc-06.pdf",
+    "sha256": "ecbb32461fc09034dfab902226816851723cac6e7066a1e46210d4e321c1f25a"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 07",
+   "titulo": "Subvenção e Assistência Governamentais",
+   "arquivo": "cpc-07.json",
+   "versao": "f2514b3b6291",
+   "itens": 55,
+   "correlacao": "IAS 20",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/167_CPC_07_R1_rev%2012_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=38",
+    "arquivo": "cpc-07.pdf",
+    "sha256": "11df55a6da361fc96d5a334253187cc3571131068de50a9e78eff1e33fb7ec8e"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 09",
+   "titulo": "Demonstração do Valor Adicionado (DVA)",
+   "arquivo": "cpc-09.json",
+   "versao": "b4d6e1fc795a",
+   "itens": 93,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/632_CPC%2009%20R1.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=40",
+    "arquivo": "cpc-09.pdf",
+    "sha256": "b845c34874cafae0d16c38355d3dbe0ab27949c287599deaa037eabcb22737cd"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 10",
+   "titulo": "Pagamento Baseado em Ações",
+   "arquivo": "cpc-10.json",
+   "versao": "e85b07590375",
+   "itens": 144,
+   "correlacao": "IFRS 2",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/211_CPC_10_R1_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=41",
+    "arquivo": "cpc-10.pdf",
+    "sha256": "10fc84b8edec0ae1953b39b0cb58b1f550ea06534f3c7f33f6443e11f49206c3"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 11",
+   "titulo": "Contratos de Seguro",
+   "arquivo": "cpc-11.json",
+   "versao": "85cc4ade6c7f",
+   "itens": 143,
+   "correlacao": "IFRS 4",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/215_CPC_11_rev%2020.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=42",
+    "arquivo": "cpc-11.pdf",
+    "sha256": "d4bf05006027f7c098557587149c50698bb969a5e32db57928790e076a28f221"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 12",
+   "titulo": "Ajuste a Valor Presente",
+   "arquivo": "cpc-12.json",
+   "versao": "a2e1359f5b84",
+   "itens": 54,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/619_CPC%2012%20(R1)%20-%20Ajuste%20a%20Valor%20Presente.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=43",
+    "arquivo": "cpc-12.pdf",
+    "sha256": "356573e52dcccc952d813396eb5d4cf1226f38eb6629f175a12ff87ef6079276"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 15",
+   "titulo": "Combinação de Negócios",
+   "arquivo": "cpc-15.json",
+   "versao": "e3748544d71c",
+   "itens": 282,
+   "correlacao": "IFRS 3",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/235_CPC_15_R1_rev%2022.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=46",
+    "arquivo": "cpc-15.pdf",
+    "sha256": "d074e6d773a800e7fa9116af34e98453412238a3c4ccc74cfca3e9d3551f5472"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 16",
+   "titulo": "Estoques",
+   "arquivo": "cpc-16.json",
+   "versao": "c6747f01dfe9",
+   "itens": 47,
+   "correlacao": "IAS 2",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/243_CPC_16_R1_rev%2013_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=47",
+    "arquivo": "cpc-16.pdf",
+    "sha256": "b78bd34da5010237dd15a2f5c3477d26aa8c7c0edeb80907fd1c0053d121bde6"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 18",
+   "titulo": "Investimento em Coligada e em Empreendimento Controlado em Conjunto",
+   "arquivo": "cpc-18.json",
+   "versao": "b8508e099c5e",
+   "itens": 59,
+   "correlacao": "IAS 28",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/650_CPC_18R3.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=49",
+    "arquivo": "cpc-18.pdf",
+    "sha256": "fdc0f3dbb89b21549490aeffe4cadd3a5b2af9bcd3ac0771c6b793b42107adc7"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 19",
+   "titulo": "Negócios em Conjunto",
+   "arquivo": "cpc-19.json",
+   "versao": "b5c7ae6c134d",
+   "itens": 103,
+   "correlacao": "IFRS 11",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/274_CPC_19_%20R2_rev%2013.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=50",
+    "arquivo": "cpc-19.pdf",
+    "sha256": "7d31517d69ee3a58b9844457e1b376be44db68457d6041c64dd5791021ab0178"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 20",
+   "titulo": "Custos de Empréstimos",
+   "arquivo": "cpc-20.json",
+   "versao": "24e856372c16",
+   "itens": 31,
+   "correlacao": "IAS 23",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/281_CPC_20_R1_rev%2022.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=51",
+    "arquivo": "cpc-20.pdf",
+    "sha256": "d418c5f42ec4d8a6e24bd6a031438dd87772f2851af878344c31c00e392aebf5"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 21",
+   "titulo": "Demonstração Intermediária",
+   "arquivo": "cpc-21.json",
+   "versao": "9120b8c9f917",
+   "itens": 101,
+   "correlacao": "IAS 34",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/288_CPC_21_R1_rev%2020.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=52",
+    "arquivo": "cpc-21.pdf",
+    "sha256": "8a8bb7c6f69e27070372509e40637f741fc017696bf393682cb47e30fcc376f2"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 22",
+   "titulo": "Informações por Segmento",
+   "arquivo": "cpc-22.json",
+   "versao": "c1510d0c9294",
+   "itens": 43,
+   "correlacao": "IFRS 8",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/292_CPC_22_rev%2008_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=53",
+    "arquivo": "cpc-22.pdf",
+    "sha256": "78ce8873ddafddd98f7afdb1370b7151af13f352ed29f9e1660043ec360838bc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 23",
+   "titulo": "Políticas Contábeis, Mudança de Estimativa e Retificação de Erro",
+   "arquivo": "cpc-23.json",
+   "versao": "771dbe9dee14",
+   "itens": 63,
+   "correlacao": "IAS 8",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/296_CPC_23_rev%2020.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=54",
+    "arquivo": "cpc-23.pdf",
+    "sha256": "d76e50342da47bb3a284b235adc6e3d5fb3a4c0b54d5b76802c2e9f0f67b6634"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 24",
+   "titulo": "Evento Subsequente",
+   "arquivo": "cpc-24.json",
+   "versao": "cde0b311e19b",
+   "itens": 23,
+   "correlacao": "IAS 10",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/300_CPC_24%20_rev%2012_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=55",
+    "arquivo": "cpc-24.pdf",
+    "sha256": "002601961b02de0be4f5f1e093178f0478950e00b89e09abc0e82a2fef057692"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 25",
+   "titulo": "Provisões, Passivos Contingentes e Ativos Contingentes",
+   "arquivo": "cpc-25.json",
+   "versao": "51386fe041d4",
+   "itens": 97,
+   "correlacao": "IAS 37",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/304_CPC_25_rev%2019.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=56",
+    "arquivo": "cpc-25.pdf",
+    "sha256": "65cf567bb61564745df0a78aa00a8f4249b1f15d96e3323c710e2c46feb636c3"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 26",
+   "titulo": "Apresentação das Demonstrações Contábeis",
+   "arquivo": "cpc-26.json",
+   "versao": "a89268ec8d84",
+   "itens": 213,
+   "correlacao": "IAS 1",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/312_CPC_26_R1_rev%2023_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=57",
+    "arquivo": "cpc-26.pdf",
+    "sha256": "e13631496a38670b99c0773b0c10d415489409b61c5f17ead7a475c1d2fa709e"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 27",
+   "titulo": "Ativo Imobilizado",
+   "arquivo": "cpc-27.json",
+   "versao": "0125b6afd233",
+   "itens": 104,
+   "correlacao": "IAS 16",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/316_CPC_27_rev%2022.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=58",
+    "arquivo": "cpc-27.pdf",
+    "sha256": "0fa0400a65a27efaf66f38229d78fafa38a3078e0a5a299d2032a0b12dbbe3e2"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 28",
+   "titulo": "Propriedade para Investimento",
+   "arquivo": "cpc-28.json",
+   "versao": "bcdac76f7375",
+   "itens": 124,
+   "correlacao": "IAS 40",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/320_CPC_28_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=59",
+    "arquivo": "cpc-28.pdf",
+    "sha256": "8a47ce42c5b5245c7e4059c0192a07fe3764d341067d49dc04d8c2051d633891"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 29",
+   "titulo": "Ativo Biológico e Produto Agrícola",
+   "arquivo": "cpc-29.json",
+   "versao": "4ad7d9d4595c",
+   "itens": 57,
+   "correlacao": "IAS 41",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/324_CPC_29_Pronunciamento.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=60",
+    "arquivo": "cpc-29.pdf",
+    "sha256": "22109cb49b5eb4c114b61c4a73996b1aeeaaaf51f4a9e0aff4f13a956fee14df"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 31",
+   "titulo": "Ativo Não Circulante Mantido para Venda e Operação Descontinuada",
+   "arquivo": "cpc-31.json",
+   "versao": "9f321635394b",
+   "itens": 57,
+   "correlacao": "IFRS 5",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/336_CPC_31_rev%2021_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=62",
+    "arquivo": "cpc-31.pdf",
+    "sha256": "51d9d63af5bb4b186a8d75a196f242960753b09e0546539568d96e02f0de19fc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 32",
+   "titulo": "Tributos sobre o Lucro",
+   "arquivo": "cpc-32.json",
+   "versao": "a9b3c3ccb8c6",
+   "itens": 177,
+   "correlacao": "IAS 12",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/340_CPC_32_rev%2024.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=63",
+    "arquivo": "cpc-32.pdf",
+    "sha256": "35d38f77f5f1be468939f3d02d3599c44dbfd8d9d22bcb39d0b2243ca8f8910c"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 33",
+   "titulo": "Benefícios a Empregados",
+   "arquivo": "cpc-33.json",
+   "versao": "82cb6c72c1af",
+   "itens": 188,
+   "correlacao": "IAS 19",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/350_CPC_33_R1_rev%2021_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=64",
+    "arquivo": "cpc-33.pdf",
+    "sha256": "d3f2e544aca354f664b0e48ad772c003427588fce6a89ba4e8ce897f4e436d1d"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 35",
+   "titulo": "Demonstrações Separadas",
+   "arquivo": "cpc-35.json",
+   "versao": "68ace9c329f4",
+   "itens": 38,
+   "correlacao": "IAS 27",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/363_CPC_35_R2_rev%2007.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=66",
+    "arquivo": "cpc-35.pdf",
+    "sha256": "0da12f6a5a548b4953849320cb2a462084087865ea21c7e0f59625febe4d5b62"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 36",
+   "titulo": "Demonstrações Consolidadas",
+   "arquivo": "cpc-36.json",
+   "versao": "230c9dd4cb88",
+   "itens": 199,
+   "correlacao": "IFRS 10",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/448_CPC_36_R3_rev%2008_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=67",
+    "arquivo": "cpc-36.pdf",
+    "sha256": "3a368fc673b5fbb70b78325eda80e42e3b128b81d54f9cd40ab307fd0c3f11a1"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 37",
+   "titulo": "Adoção Inicial das Normas Internacionais de Contabilidade",
+   "arquivo": "cpc-37.json",
+   "versao": "d2bfcde3a3b2",
+   "itens": 89,
+   "correlacao": "IFRS 1",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/402_CPC_37_R1_Rev27.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=68",
+    "arquivo": "cpc-37.pdf",
+    "sha256": "8d091a2f2457d0db85b29ef2004143019bbe94f19c5abc9aa23a2764d9e89a18"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 39",
+   "titulo": "Instrumentos Financeiros: Apresentação",
+   "arquivo": "cpc-39.json",
+   "versao": "712a8cc9dd8f",
+   "itens": 64,
+   "correlacao": "IAS 32",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/410_CPC_39_rev%2021_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=70",
+    "arquivo": "cpc-39.pdf",
+    "sha256": "0c257e2596020fd9c64245a891171ed509810b6883ec0b2657d4d1dc2fcc1733"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 40",
+   "titulo": "Instrumentos Financeiros: Evidenciação",
+   "arquivo": "cpc-40.json",
+   "versao": "c7183ac93695",
+   "itens": 204,
+   "correlacao": "IFRS 7",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/567_CPC_40_R1_rev%2024.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=71",
+    "arquivo": "cpc-40.pdf",
+    "sha256": "adc2405ef66915d91d26dffd0986f2267a731552cad007cb47cff343ffbba8fa"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 41",
+   "titulo": "Resultado por Ação",
+   "arquivo": "cpc-41.json",
+   "versao": "abeab7e488cd",
+   "itens": 147,
+   "correlacao": "IAS 33",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/430_CPC_41_rev%2022_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=72",
+    "arquivo": "cpc-41.pdf",
+    "sha256": "224ff3d12ac9ba4c907955e72502e00cf5236ac01d64cb71cc6eaea72f0255bb"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 42",
+   "titulo": "Contabilidade em Economia Hiperinflacionária",
+   "arquivo": "cpc-42.json",
+   "versao": "6131ce7f646e",
+   "itens": 41,
+   "correlacao": "IAS 29",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/558_CPC_42_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=73",
+    "arquivo": "cpc-42.pdf",
+    "sha256": "d54f40446f6966259372ca2700f94379212af0d93c7e171fcd2bf7adad35b30e"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 43",
+   "titulo": "Adoção Inicial dos Pronunciamentos Técnicos CPCs 15 a 41",
+   "arquivo": "cpc-43.json",
+   "versao": "a1d40b343360",
+   "itens": 13,
+   "correlacao": "IFRS 1",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/426_CPC43_R1_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=74",
+    "arquivo": "cpc-43.pdf",
+    "sha256": "e092f34223e2bf556d07bd35dda7b3f90360f541fc05b58f6a0f8d6e285b4a19"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 44",
+   "titulo": "Demonstrações Combinadas",
+   "arquivo": "cpc-44.json",
+   "versao": "e11e3393c685",
+   "itens": 19,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/437_CPC_44_final_06052013.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=76",
+    "arquivo": "cpc-44.pdf",
+    "sha256": "27ee9e48f9f5a72f83eb5fabe54ccc8b9357a1f1690095052c276c74084f0e2d"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 45",
+   "titulo": "Divulgação de Participações em outras Entidades",
+   "arquivo": "cpc-45.json",
+   "versao": "540bab432b2f",
+   "itens": 70,
+   "correlacao": "IFRS 12",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/434_CPC_45_rev%2012_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=75",
+    "arquivo": "cpc-45.pdf",
+    "sha256": "4d954f2c320c85d912d49b7cfe6e1037260a924c58efd95141dd07291cbb42cd"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 46",
+   "titulo": "Mensuração do Valor Justo",
+   "arquivo": "cpc-46.json",
+   "versao": "44340d8eee30",
+   "itens": 151,
+   "correlacao": "IFRS 13",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/395_CPC_46_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=78",
+    "arquivo": "cpc-46.pdf",
+    "sha256": "462ed34845f0b12b7b6a0df14a2bef51da193d9c89e34113c5de76193ba80d8a"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 47",
+   "titulo": "Receita de Contrato com Cliente",
+   "arquivo": "cpc-47.json",
+   "versao": "961fc84faeeb",
+   "itens": 242,
+   "correlacao": "IFRS 15",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/527_CPC_47_Rev%2021.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=105",
+    "arquivo": "cpc-47.pdf",
+    "sha256": "54974979794e5af5cac454748eb68f7863d2f0f02ecb7dea2d0c48ceda0b5b5b"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 48",
+   "titulo": "Instrumentos Financeiros",
+   "arquivo": "cpc-48.json",
+   "versao": "f097af34697c",
+   "itens": 554,
+   "correlacao": "IFRS 9",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/530_CPC_48_rev_19.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=106",
+    "arquivo": "cpc-48.pdf",
+    "sha256": "22fd4e8df8ff2c93506b80720f921c139d4c972e51617e8979addcdff1cd5be6"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 49",
+   "titulo": "Contabilização e Relatório Contábil de Planos de Benefícios de Aposentadoria",
+   "arquivo": "cpc-49.json",
+   "versao": "280185f92cff",
+   "itens": 40,
+   "correlacao": "IAS 26",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/551_CPC_49__rev%2020.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=111",
+    "arquivo": "cpc-49.pdf",
+    "sha256": "52027889bf701d41bace84617cdf10098bfd68ab19ef192929b471d2ffc197f8"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 50",
+   "titulo": "Contratos de Seguro",
+   "arquivo": "cpc-50.json",
+   "versao": "17eb2cc6dfee",
+   "itens": 356,
+   "correlacao": "IFRS 17",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/604_CPC_50.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=127",
+    "arquivo": "cpc-50.pdf",
+    "sha256": "9316ce808bed976969fe37c5db89215db286a44cfe20b434a9803c39fb785b25"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC 51",
+   "titulo": "Apresentação e Divulgação nas Demonstrações Contábeis",
+   "arquivo": "cpc-51.json",
+   "versao": "2b4a9abcdec8",
+   "itens": 287,
+   "correlacao": "IFRS 18",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/665_CPC%2051.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=162",
+    "arquivo": "cpc-51.pdf",
+    "sha256": "8cced7e11b5ae6e02e0a97f4c56251a9867207299f5eb3f55af7e0156f4c4484"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC LIQUIDAÇÃO",
+   "titulo": "Entidades em Liquidação",
+   "arquivo": "cpc-liquidacao.json",
+   "versao": "41e541fe6db1",
+   "itens": 60,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/597_CPCEntidadesLiquida%C3%A7%C3%A3oalt.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=125",
+    "arquivo": "cpc-liquidacao.pdf",
+    "sha256": "0811843851d50f7f48e3573c79f46de161cc840812e0c6f75b264668f5a67640"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "CPC PME",
+   "titulo": "Contabilidade para Pequenas e Médias Empresas com Glossário de Termos",
+   "arquivo": "cpc-pme.json",
+   "versao": "55d8c752ca54",
+   "itens": 921,
+   "correlacao": "IFRS for SMEs",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/392_CPC_PMEeGlossario_R1_rev_25.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=79",
+    "arquivo": "cpc-pme.pdf",
+    "sha256": "47929786b81dd5bd179501667d55d2b91f912d2e4e7576f90f40c9b4c111fefc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 01",
+   "titulo": "Contratos de Concessão",
+   "arquivo": "icpc-01.json",
+   "versao": "0be21fad08b1",
+   "itens": 41,
+   "correlacao": "IFRIC 12",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/66_ICPC_01_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=10",
+    "arquivo": "icpc-01.pdf",
+    "sha256": "1bde38647e6d03b311e5a9ad8d9ac881f54c9b02592a92335896baeae0e63e92"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 07",
+   "titulo": "Distribuição de Lucros in Natura",
+   "arquivo": "icpc-07.json",
+   "versao": "e247ca8312ed",
+   "itens": 19,
+   "correlacao": "IFRIC 17",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/84_ICPC_07_rev%2001.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=16",
+    "arquivo": "icpc-07.pdf",
+    "sha256": "e334b77f88b1e5ca7d91927b45c40ca10dfa471eb613b5404f2d932f923373cc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 08",
+   "titulo": "Contabilização da Proposta de Pagamento de Dividendos",
+   "arquivo": "icpc-08.json",
+   "versao": "02bcecc5d765",
+   "itens": 28,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/90_ICPC08%20_R1_%2001062012_sem_anexo_2_limpo.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=17",
+    "arquivo": "icpc-08.pdf",
+    "sha256": "bbee5aff7616fff61028a01bc2364c5aca9d1c4110cbc96dd644927ce4129905"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 09",
+   "titulo": "Demonstrações Contábeis Individuais, Demonstrações Separadas, Demonstrações Consolidadas e Aplicação do Método da Equivalência Patrimonial",
+   "arquivo": "icpc-09.json",
+   "versao": "52d29ff67f67",
+   "itens": 85,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/647_ICPC-09%20R3INTERPRETA%C3%87%C3%83O%20T%C3%89CNICA%20ICPC%2009%20.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=18",
+    "arquivo": "icpc-09.pdf",
+    "sha256": "efa87a4435e4ae7794aece97a826bb3b1a0d912c846760bb967620d50ea32f7c"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 10",
+   "titulo": "Interpretação sobre a Aplicação Inicial ao Ativo Imobilizado e à Propriedade para Investimento dos Pronunciamentos Técnicos CPCs 27, 28, 37 e 43",
+   "arquivo": "icpc-10.json",
+   "versao": "cee800c6970e",
+   "itens": 55,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/102_ICPC_10.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=19",
+    "arquivo": "icpc-10.pdf",
+    "sha256": "162ea1d3585834f7e5e541e75617be1991a134c85489fd27fe073aff39c98d47"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 12",
+   "titulo": "Mudanças em Passivos por Desativação, Restauração e Outros Passivos Similares",
+   "arquivo": "icpc-12.json",
+   "versao": "95826948b277",
+   "itens": 8,
+   "correlacao": "IFRIC 1",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/108_ICPC_12_Rev_13.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=21",
+    "arquivo": "icpc-12.pdf",
+    "sha256": "76636c1623fc283ae89ff6ef618b8307c4ba32f42a03d2802387d0b5f1aac078"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 13",
+   "titulo": "Direitos a Participações Decorrentes de Fundos de Desativação, Restauração e Reabilitação Ambiental",
+   "arquivo": "icpc-13.json",
+   "versao": "986db88e1f08",
+   "itens": 17,
+   "correlacao": "IFRIC 5",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/111_ICPC_13_rev%2012.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=22",
+    "arquivo": "icpc-13.pdf",
+    "sha256": "65760877d75b8691a7e06c757ac55c1ce08a0c118ee0a3a77e575e62393cc4f3"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 14",
+   "titulo": "Cotas de Cooperados em Entidades Cooperativas e Instrumentos Similares",
+   "arquivo": "icpc-14.json",
+   "versao": "24506c5e4d49",
+   "itens": 33,
+   "correlacao": "IFRIC 2",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/114_ICPC_14_rev%2001_ComAVISO.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=23",
+    "arquivo": "icpc-14.pdf",
+    "sha256": "4ca6fdbabbc105fd4eb85af64221b2c7223a9c0f982af95b7bab95535b27cb6d"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 15",
+   "titulo": "Passivo Decorrente de Participação em um Mercado Específico - Resíduos de Equipamentos Eletroeletrônicos",
+   "arquivo": "icpc-15.json",
+   "versao": "c601913c2e9f",
+   "itens": 10,
+   "correlacao": "IFRIC 6",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/117_ICPC_15.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=24",
+    "arquivo": "icpc-15.pdf",
+    "sha256": "41452c56735936ddbaf8ab253d9e807efae7e086deb6f11c0adc53c56223e5e4"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 16",
+   "titulo": "Extinção de Passivos Financeiros com Instrumentos Patrimoniais",
+   "arquivo": "icpc-16.json",
+   "versao": "aacdbd486307",
+   "itens": 17,
+   "correlacao": "IFRIC 19",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/120_ICPC_16_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=25",
+    "arquivo": "icpc-16.pdf",
+    "sha256": "1bdfabc45a2602fd424241827dc47d533c88dee6b8eff2bf1078ca90b5b5506b"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 17",
+   "titulo": "Contratos de Concessão: Evidenciação",
+   "arquivo": "icpc-17.json",
+   "versao": "1d366e3e4f6e",
+   "itens": 9,
+   "correlacao": "SIC 29",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/123_ICPC_17_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=26",
+    "arquivo": "icpc-17.pdf",
+    "sha256": "7cce3ec795210a25e9645a384c700ba2ae86f9c3982b766ef8d6ddc652c6608a"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 18",
+   "titulo": "Custos de Remoção de Estéril (Stripping) de Mina de Superfície na Fase de Produção",
+   "arquivo": "icpc-18.json",
+   "versao": "43de69f92dae",
+   "itens": 20,
+   "correlacao": "IFRIC 20",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/452_ICPC_18_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=84",
+    "arquivo": "icpc-18.pdf",
+    "sha256": "7dbd1d04bd86f513a446d5506c28e40db9a588f5e890fde38de554b8aef950cc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 19",
+   "titulo": "Tributos",
+   "arquivo": "icpc-19.json",
+   "versao": "430ad8181bb0",
+   "itens": 16,
+   "correlacao": "IFRIC 21",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/497_ICPC_19.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=97",
+    "arquivo": "icpc-19.pdf",
+    "sha256": "3c51ec6c31c089195a76575cb80b2eca95379a2878412e0499e13e5779508a4c"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 20",
+   "titulo": "Limite de Ativo de Benefício Definido, Requisitos de Custeio (Funding) Mínimo e sua Interação",
+   "arquivo": "icpc-20.json",
+   "versao": "a3226a6a8738",
+   "itens": 27,
+   "correlacao": "IFRIC 14",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/500_ICPC_20.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=98",
+    "arquivo": "icpc-20.pdf",
+    "sha256": "a203edcfb018c4498dfe9014ecf68a5ae5313b4830d4c6026935b86101304aca"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 21",
+   "titulo": "Transação em Moeda Estrangeira e Adiantamento",
+   "arquivo": "icpc-21.json",
+   "versao": "e94099a398be",
+   "itens": 12,
+   "correlacao": "IFRIC 22",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/540_ICPC_21_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=108",
+    "arquivo": "icpc-21.pdf",
+    "sha256": "c3661cd45fddbdc29b456e50e9a25c4cc386eb1195adf96a42cff7bac8a7cbd8"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 22",
+   "titulo": "Incerteza sobre Tratamento de Tributos sobre o Lucro",
+   "arquivo": "icpc-22.json",
+   "versao": "b7952e41a202",
+   "itens": 21,
+   "correlacao": "IFRIC 23",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/562_ICPC_22.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=114",
+    "arquivo": "icpc-22.pdf",
+    "sha256": "8a1379935d0677add844e8c61d32753b637b19badb4e5b57a5c653feb6eccd1b"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "ICPC 23",
+   "titulo": "Aplicação da Abordagem de Atualização Monetária Prevista no CPC 42",
+   "arquivo": "icpc-23.json",
+   "versao": "8cce7d4a68d7",
+   "itens": 6,
+   "correlacao": "IFRIC 7",
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/565_ICPC_23.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=115",
+    "arquivo": "icpc-23.pdf",
+    "sha256": "eae9319daf02e6e5e351240d458e29654df48ba98995f555c6ae1fa6f7578b43"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 01",
+   "titulo": "Entidades de Incorporação Imobiliária",
+   "arquivo": "ocpc-01.json",
+   "versao": "69a060e5cfaa",
+   "itens": 38,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/126_OCPC_01_R1.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=28",
+    "arquivo": "ocpc-01.pdf",
+    "sha256": "315a1c766f6f71d522437b4ce50f8974d708a45e678b06cb1616617b27c42090"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 04",
+   "titulo": "Aplicação da Interpretação Técnica ICPC 02 às Entidades de Incorporação Imobiliária Brasileiras",
+   "arquivo": "ocpc-04.json",
+   "versao": "a1a794b9213b",
+   "itens": 38,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/138_OCPC_04.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=31",
+    "arquivo": "ocpc-04.pdf",
+    "sha256": "da1b07484a824daba85fcbeeec1a22489e7f0b862a7fd79ddfc50b5ad1c13ff1"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 05",
+   "titulo": "Contratos de Concessão",
+   "arquivo": "ocpc-05.json",
+   "versao": "13fc5f697855",
+   "itens": 130,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/141_OCPC_05_rev%2014.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=32",
+    "arquivo": "ocpc-05.pdf",
+    "sha256": "3cd53d4d97f61376146ed2d6aee227d46a9581bf00bd8aea45e1a2ddc8a516a4"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 06",
+   "titulo": "Apresentação de Informações Financeiras Pro Forma",
+   "arquivo": "ocpc-06.json",
+   "versao": "998cc6ede16f",
+   "itens": 24,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/144_OCPC_%2006_final_06052013.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=33",
+    "arquivo": "ocpc-06.pdf",
+    "sha256": "6bbe7f7a845c21d5629e1b04003feb0e27487a71f27f7ae67913d1f819c5f49a"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 07",
+   "titulo": "Evidenciação na Divulgação dos Relatórios Contábil-Financeiros de Propósito Geral",
+   "arquivo": "ocpc-07.json",
+   "versao": "554a1db5a6bb",
+   "itens": 47,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/623_OCPC_07R1.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=95",
+    "arquivo": "ocpc-07.pdf",
+    "sha256": "2ceaf375a2c78c4350a61403c62915b71d4f6322a37bc0b0be2e7903d2a570bc"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 08",
+   "titulo": "Reconhecimento de Determinados Ativos e Passivos nos Relatórios Contábil-Financeiros de Propósito Geral das Distribuidoras de Energia Elétrica emitidos de acordo com as Normas Brasileiras e Internacionais de Contabilidade",
+   "arquivo": "ocpc-08.json",
+   "versao": "a09240f73a68",
+   "itens": 16,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/503_OCPC_08.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=99",
+    "arquivo": "ocpc-08.pdf",
+    "sha256": "b50f2f64b2393816857ddb93eed8633961358f1c84a13f1d08fe3f6b0982827f"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 09",
+   "titulo": "Relato Integrado",
+   "arquivo": "ocpc-09.json",
+   "versao": "d8097f56b2a3",
+   "itens": 209,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/591_OCPC%2009.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=122",
+    "arquivo": "ocpc-09.pdf",
+    "sha256": "1c8d2b9447dbcd4fbe447fe503dd9be29ea0c9227a683e069e4f39536f5b6c19"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  },
+  {
+   "codigo": "OCPC 10",
+   "titulo": "Créditos de Carbono (tCO2e), Permissões de emissão (allowances) e Crédito de Descarbonização (CBIO)",
+   "arquivo": "ocpc-10.json",
+   "versao": "eb0cbf008a68",
+   "itens": 167,
+   "correlacao": null,
+   "fonte": {
+    "url": "https://www.cpc.org.br/Arquivos/Documentos/662_OCPC_10_Vers%C3%A3o_final.pdf",
+    "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=161",
+    "arquivo": "ocpc-10.pdf",
+    "sha256": "8bdbd19c2c53c253e9d361b515ba0d0d1253120ccf190cec200d8c876b4f6b28"
+   },
+   "importadoEm": "2026-11-04",
+   "ficticio": false
+  }
+ ]
+}

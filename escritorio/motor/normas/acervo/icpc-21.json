@@ -1,0 +1,78 @@
+{
+ "codigo": "ICPC 21",
+ "codigoNoTexto": "ICPC 21",
+ "titulo": "Transação em Moeda Estrangeira e Adiantamento",
+ "correlacao": "IFRIC 22",
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/540_ICPC_21_rev%2014.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=108",
+  "arquivo": "icpc-21.pdf",
+  "sha256": "c3661cd45fddbdc29b456e50e9a25c4cc386eb1195adf96a42cff7bac8a7cbd8"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "e94099a398be",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "O item 21 do CPC 02 – Efeitos das Mudanças nas Taxas de Câmbio e Conversão de Demonstrações Contábeis requer que a entidade registre a transação em moeda estrangeira, no reconhecimento inicial na sua moeda funcional, aplicando ao valor em moeda estrangeira a taxa de câmbio à vista entre a moeda funcional e a moeda estrangeira (taxa de câmbio) na data da transação. O item 22 do CPC 02 estabelece que a data da transação é a data em que ela se qualifica, pela primeira vez, para reconhecimento de acordo com os pronunciamentos, interpretações e orientações."
+  },
+  {
+   "numero": "2",
+   "secao": null,
+   "texto": "Quando a entidade paga ou recebe, antecipadamente, contraprestação em moeda estrangeira, geralmente reconhece um ativo não monetário ou um passivo não monetário(1) antes do reconhecimento do respectivo ativo, despesa ou receita. O respectivo ativo, despesa ou receita (ou parte dele) é o montante reconhecido, aplicando o pronunciamento específico, o que resulta no desreconhecimento do ativo não monetário ou do passivo não monetário resultante da contraprestação antecipada. (1) Por exemplo, o item 106 do CPC 47 – Receita de Contrato com Cliente exige que se o cliente paga uma contraprestação, ou a entidade tem direito ao montante de contraprestação incondicional (ou seja, recebível) antes que a entidade transfira o bem ou o serviço para o cliente, ela deve apresentar o contrato como passivo contratual quando o pagamento é feito ou o pagamento é devido (o que ocorrer primeiro)."
+  },
+  {
+   "numero": "3",
+   "secao": null,
+   "texto": "Questionou-se como determinar a \"data da transação\", aplicando-se os itens 21 e 22 do CPC 02 ao reconhecer a receita. A questão abordou especificamente as circunstâncias em que a entidade deve reconhecer o passivo não monetário decorrente do recebimento antecipado antes de reconhecer as receitas relacionadas. Ao analisar a questão, observou-se que o recebimento ou o pagamento antecipado em moeda estrangeira não se restringem a transações de receita. Em consequência, decidiu-se esclarecer a data da transação, com a finalidade de determinar a taxa de câmbio a ser usada no reconhecimento inicial do ativo, despesa ou receita relacionado, quando a entidade receber ou pagar antecipadamente contraprestação em moeda estrangeira."
+  },
+  {
+   "numero": "4",
+   "secao": "Alcance",
+   "texto": "Esta interpretação se aplica à transação em moeda estrangeira (ou parte dela) quando a entidade reconhecer o ativo não monetário ou o passivo não monetário decorrente do pagamento ou do recebimento antecipado, antes que a entidade reconheça o ativo, a despesa ou a receita relacionados (ou parte dele)."
+  },
+  {
+   "numero": "5",
+   "secao": "Alcance",
+   "texto": "Esta interpretação não deve ser aplicada quando a entidade mensurar o ativo, a despesa ou a receita relacionados no reconhecimento inicial pelo: (a) valor justo; ou (b) valor justo da contraprestação paga ou recebida em data diferente da data do reconhecimento inicial do ativo não monetário ou do passivo não monetário resultante da contraprestação antecipada (por exemplo, mensuração do ágio por expectativa de rentabilidade futura (goodwill) que adotar, como fundamento, o CPC 15 – Combinação de Negócios)."
+  },
+  {
+   "numero": "6",
+   "secao": "Alcance",
+   "texto": "A entidade não é obrigada a aplicar esta interpretação a: (a) tributos sobre o lucro; ou (b) contratos de seguro (incluindo contratos de resseguro) que emite ou contratos de resseguro que retém."
+  },
+  {
+   "numero": "7",
+   "secao": "Questão",
+   "texto": "Esta interpretação trata de como determinar a data da transação com o objetivo de designar a taxa de câmbio que deve ser utilizada no reconhecimento inicial do respectivo ativo, despesa ou receita (ou parte dele) e no desreconhecimento de ativo não monetário ou passivo não monetário, decorrente do pagamento ou do recebimento antecipado em moeda estrangeira."
+  },
+  {
+   "numero": "8",
+   "secao": "Consenso",
+   "texto": "Ao aplicar os itens 21 e 22 do CPC 02, a data da transação, para efeitos da determinação da taxa de câmbio, que deve ser utilizada no reconhecimento inicial do respectivo ativo, despesa ou receita (ou parte dele), é a data em que a entidade reconhecer, inicialmente, o ativo não monetário ou o passivo não monetário decorrente do pagamento ou do recebimento antecipado."
+  },
+  {
+   "numero": "9",
+   "secao": "Consenso",
+   "texto": "Se houver vários pagamentos ou recebimentos antecipados, a entidade deve determinar a data da transação para cada pagamento ou recebimento antecipado. Apêndice A – Data de vigência e transição\nEste apêndice faz parte integrante desta interpretação e tem a mesma autoridade que as outras partes da interpretação."
+  },
+  {
+   "numero": "A1",
+   "secao": "Data efetiva",
+   "texto": "A vigência desta interpretação é dada pelos órgãos reguladores que a aprovarem. Não obstante para o pleno atendimento às normas internacionais de contabilidade (IFRS), a entidade deve aplicar esta interpretação para os períodos anuais com início em, ou após, 1º de janeiro de 2018."
+  },
+  {
+   "numero": "A2",
+   "secao": "Transição",
+   "texto": "Na adoção inicial, a entidade deve utilizar esta interpretação: (a) aplicando, retrospectivamente, o CPC 23; ou (b) aplicando, prospectivamente, a todos os ativos, as despesas e as receitas no âmbito desta interpretação inicialmente reconhecidos em, ou após: (i) o início do período em que a entidade utilizar pela primeira vez esta interpretação; ou (ii) o início do período de relatório anterior apresentado como informação comparativa nas demonstrações contábeis do período em que a entidade utilizar pela primeira vez esta interpretação."
+  },
+  {
+   "numero": "A3",
+   "secao": "Transição",
+   "texto": "A entidade, que aplicar o item A2(b), deve, na adoção inicial, utilizar esta interpretação no ativo, despesa e receita inicialmente reconhecidos no, ou após o, início do período de reporte, no item A2(b)(i) ou (ii), para o qual a entidade tenha reconhecido ativo não monetário ou passivo não monetário, resultante da contraprestação antecipada, ocorrida antes dessa data."
+  }
+ ]
+}

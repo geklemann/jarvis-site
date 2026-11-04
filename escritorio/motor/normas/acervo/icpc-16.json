@@ -1,0 +1,107 @@
+{
+ "codigo": "ICPC 16",
+ "codigoNoTexto": "ICPC 16",
+ "titulo": "Extinção de Passivos Financeiros com Instrumentos Patrimoniais",
+ "correlacao": "IFRIC 19",
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/120_ICPC_16_rev%2014.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Interpretacoes/Interpretacao?Id=25",
+  "arquivo": "icpc-16.pdf",
+  "sha256": "1bdfabc45a2602fd424241827dc47d533c88dee6b8eff2bf1078ca90b5b5506b"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "aacdbd486307",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "Um devedor e um credor podem renegociar os termos de um passivo financeiro mediante a emissão de instrumentos patrimoniais próprios do devedor para o credor, tendo como\nresultado a extinção parcial ou total desse passivo. Essas operações são muitas vezes denominadas “debt for equity swaps”."
+  },
+  {
+   "numero": "2",
+   "secao": "Alcance",
+   "texto": "Esta Interpretação trata da contabilização por uma entidade quando as condições de um passivo financeiro são renegociadas e resultam na emissão de instrumentos patrimoniais da entidade ao seu credor para a extinção total ou parcial do passivo financeiro. Esta Interpretação não trata da contabilização por parte do credor."
+  },
+  {
+   "numero": "3",
+   "secao": "Alcance",
+   "texto": "A entidade não deve aplicar esta Interpretação às operações em situações em que: (a) o credor é também direta ou indiretamente sócio ou acionista que está agindo nessa sua qualidade de sócio ou acionista direto ou indireto; (b) o credor e a entidade são controlados pela mesma parte ou partes, antes e depois da operação e a essência da transação inclui a distribuição de capital pela entidade, ou contribuição para a entidade; (c) a extinção do passivo financeiro por meio da emissão de instrumentos patrimoniais está em conformidade com as condições originais do passivo financeiro."
+  },
+  {
+   "numero": "4",
+   "secao": "Questões",
+   "texto": "Esta interpretação aborda as seguintes questões: (a) São “retribuição paga”, de acordo com o item 41 do Pronunciamento Técnico CPC 38, os instrumentos patrimoniais de uma entidade emitidos para extinguir a totalidade ou parte de um passivo financeiro? (a) São “retribuição paga”, de acordo com o item 3.3.3 do CPC 48, os instrumentos patrimoniais da entidade emitidos para extinguir a totalidade ou parte do passivo financeiro? (Alterada pela Revisão CPC 12) (b) Como a entidade deve mensurar inicialmente os instrumentos patrimoniais próprios emitidos para extinguir tal responsabilidade financeira? (c) Como a entidade deve contabilizar qualquer diferença entre o valor contábil do passivo financeiro extinto e a mensuração inicial dos instrumentos patrimoniais emitidos?"
+  },
+  {
+   "numero": "5#anterior",
+   "secao": "Consenso",
+   "texto": "A questão da emissão dos instrumentos patrimoniais da entidade a um credor para extinguir a totalidade ou parte de um passivo financeiro é retribuição paga em conformidade com o item 41 do CPC 38. A entidade deve remover um passivo financeiro (ou parte de passivo financeiro) de seu balanço patrimonial quando, e apenas quando, for extinto, de acordo com o item 39 do CPC 38.",
+   "anterior": true
+  },
+  {
+   "numero": "5",
+   "secao": "Consenso",
+   "texto": "A questão da emissão dos instrumentos patrimoniais da entidade ao credor para extinguir a totalidade ou parte de passivo financeiro é retribuição paga em conformidade com o item 3.3.3 do CPC 48. A entidade deve remover o passivo financeiro (ou parte de passivo financeiro) de seu balanço patrimonial quando, e apenas quando, for extinto, de acordo com o item 3.3.1 do CPC 48. (Alterado pela Revisão CPC 12)"
+  },
+  {
+   "numero": "6",
+   "secao": "Consenso",
+   "texto": "Quando instrumentos patrimoniais próprios emitidos para o credor para extinguir a totalidade ou parte de um passivo financeiro são inicialmente reconhecidos, a entidade deve mensurá-los pelo valor justo dos instrumentos patrimoniais emitidos, a menos que o valor justo não possa ser mensurado."
+  },
+  {
+   "numero": "7#anterior",
+   "secao": "Consenso",
+   "texto": "Se o valor justo dos instrumentos patrimoniais próprios emitidos não puder ser mensurado, os instrumentos patrimoniais próprios devem ser mensurados pelo valor justo do passivo financeiro extinto. Ao mensurar o valor justo de um passivo financeiro extinto que inclua característica de demanda (por exemplo, depósito à vista), o item 49 do CPC 38 não deve ser aplicado.",
+   "anterior": true
+  },
+  {
+   "numero": "7",
+   "secao": "Consenso",
+   "texto": "Se o valor justo dos instrumentos patrimoniais próprios emitidos não puder ser mensurado, os instrumentos patrimoniais próprios devem ser mensurados pelo valor justo do passivo financeiro extinto. Ao mensurar o valor justo de passivo financeiro extinto que inclua característica de demanda (por exemplo, depósito à vista), o item 47 do CPC 46 não deve ser aplicado. (Alterado pela Revisão ICPC 01)"
+  },
+  {
+   "numero": "8",
+   "secao": "Consenso",
+   "texto": "Se apenas parte do passivo financeiro é extinto, a entidade deve avaliar se parte da retribuição paga refere-se a uma modificação dos termos da responsabilidade que remanesce. Se parte do valor pago se refere a uma modificação dos termos da parte remanescente do passivo, a entidade deve alocar a retribuição paga entre a parte da responsabilidade extinta e a parte do passivo remanescente. A entidade deve considerar todos os fatos e circunstâncias relevantes relativos à operação ao fazer essa alocação."
+  },
+  {
+   "numero": "9#anterior",
+   "secao": "Consenso",
+   "texto": "A diferença entre o valor contábil do passivo financeiro (ou parte do passivo financeiro) extinto e a retribuição paga deve ser reconhecida no resultado do período em conformidade com o item 41 do CPC 38. Os instrumentos patrimoniais próprios devem ser reconhecidos inicialmente e mensurados na data em que o passivo financeiro (ou parte desse passivo) for extinto.",
+   "anterior": true
+  },
+  {
+   "numero": "9",
+   "secao": "Consenso",
+   "texto": "A diferença entre o valor contábil do passivo financeiro (ou parte do passivo financeiro) extinto e a retribuição paga deve ser reconhecida no resultado do período em conformidade com o item 3.3.3 do CPC 48. Os instrumentos patrimoniais próprios devem ser reconhecidos inicialmente e mensurados na data em que o passivo financeiro (ou parte desse passivo) for extinto. (Alterado pela Revisão CPC 12)"
+  },
+  {
+   "numero": "10#anterior",
+   "secao": "Consenso",
+   "texto": "Quando apenas parte do passivo financeiro for extinto, o valor deverá ser atribuído de acordo com o item 8 desta Interpretação. A importância atribuída à parte remanescente do passivo financeiro fará parte da avaliação se as condições dessa parcela remanescente tiverem sido substancialmente modificadas. Se o passivo remanescente tiver sido substancialmente alterado, a entidade deve contabilizar a alteração como extinção da obrigação original e o reconhecimento de novo passivo como requerido pelo item 40 do CPC",
+   "anterior": true
+  },
+  {
+   "numero": "10",
+   "secao": "Consenso",
+   "texto": "Quando apenas parte do passivo financeiro for extinto, o valor deve ser atribuído de acordo com o item 8 desta interpretação. A importância atribuída à parte remanescente do passivo financeiro fará parte da avaliação se as condições dessa parcela remanescente tiverem sido substancialmente modificadas. Se o passivo remanescente tiver sido substancialmente alterado, a entidade deve contabilizar a alteração como extinção da obrigação original e o reconhecimento de novo passivo como requerido pelo item 3.3.2 do CPC 48. (Alterado pela Revisão CPC 12)"
+  },
+  {
+   "numero": "11",
+   "secao": "Consenso",
+   "texto": "A entidade deve divulgar o ganho ou a perda reconhecido de acordo com os itens 9 e 10 como item separado na demonstração do resultado ou em nota explicativa."
+  },
+  {
+   "numero": "12",
+   "secao": "Data de transição",
+   "texto": "(Eliminado)."
+  },
+  {
+   "numero": "13",
+   "secao": "Data de transição",
+   "texto": "A entidade deve aplicar uma alteração de prática contábil de acordo com o Pronunciamento Técnico CPC 23 a partir do início do primeiro período comparativo apresentado."
+  }
+ ]
+}

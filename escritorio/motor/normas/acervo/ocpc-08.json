@@ -1,0 +1,98 @@
+{
+ "codigo": "OCPC 08",
+ "codigoNoTexto": "OCPC 08",
+ "titulo": "Reconhecimento de Determinados Ativos e Passivos nos Relatórios Contábil-Financeiros de Propósito Geral das Distribuidoras de Energia Elétrica emitidos de acordo com as Normas Brasileiras e Internacionais de Contabilidade",
+ "correlacao": null,
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/503_OCPC_08.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Orientacoes/Orientacao?Id=99",
+  "arquivo": "ocpc-08.pdf",
+  "sha256": "b50f2f64b2393816857ddb93eed8633961358f1c84a13f1d08fe3f6b0982827f"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "a09240f73a68",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "O objetivo desta Orientação é tratar dos requisitos básicos de reconhecimento, mensuração e evidenciação a serem observados quando da divulgação dos relatórios contábil-financeiros de propósito geral das concessões e permissões públicas de distribuição de energia elétrica brasileiras."
+  },
+  {
+   "numero": "2",
+   "secao": "Alcance",
+   "texto": "Esta Orientação deve ser aplicada exclusivamente pelas concessionárias e permissionárias públicas de distribuição de energia elétrica."
+  },
+  {
+   "numero": "3",
+   "secao": "Alcance",
+   "texto": "Este documento orienta a aplicação dos Pronunciamentos Técnicos CPC 23 - Políticas Contábeis, Mudança de Estimativa e Retificação de Erro, CPC 25 - Provisões, Passivos Contingentes e Ativos Contingentes, CPC 30 – Receitas, CPC 38 – Instrumentos Financeiros: Reconhecimento e Mensuração, CPC 39 – Instrumentos Financeiros: Apresentação e CPC 40 – Instrumentos Financeiros: Evidenciação quando do registro inicial e mensuração posterior dos efeitos do reconhecimento de ativos e/ou passivos decorrentes da definição de tarifas nas demonstrações contábeis de propósito geral das concessionárias de distribuição de energia elétrica brasileiras."
+  },
+  {
+   "numero": "4",
+   "secao": "Alcance",
+   "texto": "As orientações e conclusões expressas nesta Orientação serão revisadas quando da adoção, no Brasil, da nova norma sobre reconhecimento de receita decorrente de contratos com clientes (IFRS 15), a ser aplicada em 2017. As conclusões aqui expressas poderão ou não ser alteradas."
+  },
+  {
+   "numero": "5",
+   "secao": "Reconhecimento contábil",
+   "texto": "Antes do aditamento dos contratos de concessão (ver itens IN10 a IN12), a dependência de evento futuro não plenamente controlável pela entidade qualificava o ativo ou o passivo como ativo ou passivo regulatórios e, portanto, contingentes conforme definição contida no item 10 do CPC 25: “Ativo contingente é um ativo possível que resulta de eventos passados e cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da entidade. Passivo contingente é: (a) uma obrigação possível que resulta de eventos passados e cuja existência será confirmada apenas pela ocorrência ou não de um ou mais eventos futuros incertos não totalmente sob controle da entidade; ou (b) uma obrigação presente que resulta de eventos passados, mas que não é reconhecida porque: (i) não é provável que uma saída de recursos que incorporam benefícios econômicos seja exigida para liquidar a obrigação; ou (ii) o valor da obrigação não pode ser mensurado com suficiente confiabilidade.”"
+  },
+  {
+   "numero": "6",
+   "secao": "Reconhecimento contábil",
+   "texto": "Ativos e passivos contingentes não são reconhecidos nas demonstrações contábeis da entidade elaboradas à luz das normas internacionais e brasileiras, pois se tratam de resultados que podem jamais ser realizados. Entretanto, eles devem ser avaliados constantemente quanto à probabilidade da entrada ou saída de recursos que incorporem benefícios econômicos, conforme apregoado nos itens 30 e 35 do CPC 25:\n“30. Os passivos contingentes podem desenvolver-se de maneira não inicialmente esperada. Por isso, são periodicamente avaliados para determinar se uma saída de recursos que incorporam benefícios econômicos se tornou provável. Se for provável que uma saída de benefícios econômicos futuros serão exigidos para um item previamente tratado como passivo contingente, a provisão deve ser reconhecida nas demonstrações contábeis do período no qual ocorre a mudança na estimativa da probabilidade (exceto em circunstâncias extremamente raras em que nenhuma estimativa suficientemente confiável possa ser feita)."
+  },
+  {
+   "numero": "35",
+   "secao": "Reconhecimento contábil",
+   "texto": "Os ativos contingentes são avaliados periodicamente para garantir que os desenvolvimentos sejam apropriadamente refletidos nas demonstrações contábeis. Se for praticamente certo que ocorrerá uma entrada de benefícios econômicos, o ativo e o correspondente ganho são reconhecidos nas demonstrações contábeis do período em que ocorrer a mudança de estimativa. Se a entrada de benefícios econômicos se tornar provável, a entidade divulga o ativo contingente (ver item 89).”"
+  },
+  {
+   "numero": "7",
+   "secao": "Reconhecimento contábil",
+   "texto": "Para as concessionárias e permissionárias que aderirem à alteração contratual, da forma como aprovada pela diretoria da ANEEL na 13ª reunião pública extraordinária realizada em 25 de novembro de 2014, mencionada nos itens IN10 a IN12 desta Orientação, elimina-se, a partir do aditamento dos contratos de concessão e permissão e consequente alteração nos procedimentos de revisão tarifária, a natureza contingente até então presente, permitindo a tais entidades o reconhecimento do ativo ou do passivo como instrumentos financeiros, ou seja, como valores efetivamente a receber ou a pagar. Esse é um evento novo que altera a avaliação quanto à probabilidade de entrada ou saída de recursos que incorporem benefícios econômicos para a entidade, qualificando-se esses ativos ou passivos para o reconhecimento nas demonstrações contábeis. É, a partir de sua ocorrência, que é assegurado ao concessionário o reconhecimento dos saldos remanescentes apurados relativos às diferenças na Parcela A e outros componentes financeiros que ainda não tenham sido recuperados ou devolvidos."
+  },
+  {
+   "numero": "8",
+   "secao": "Reconhecimento inicial",
+   "texto": "O referido evento (aditamento dos contratos de concessão e permissão e concordância formal pelo concessionário ou permissionário por meio de assinatura desse instrumento) demanda o reconhecimento do saldo de quaisquer diferenças de Parcela A e outros componentes financeiros ainda não recuperados ou liquidados. A data do reconhecimento desse ativo ou passivo deve ser aquela quando todos os quesitos necessários para o reconhecimento do ativo ou passivo estejam atendidos."
+  },
+  {
+   "numero": "9",
+   "secao": "Reconhecimento inicial",
+   "texto": "Políticas contábeis, conforme definido no CPC 23, “são os princípios, as bases, as convenções, as regras e as práticas específicas aplicadas pela entidade na elaboração e na apresentação de demonstrações contábeis”."
+  },
+  {
+   "numero": "10",
+   "secao": "Reconhecimento inicial",
+   "texto": "O CPC 23 define, em seu item 16, os casos em que a adoção de nova prática ou o reconhecimento do efeito contábil de determinado evento novo não constitui mudanças nas políticas contábeis. “16. Não constituem mudanças nas políticas contábeis: (a) a adoção de política contábil para transações, outros eventos ou condições que difiram em essência daqueles que ocorriam anteriormente; e (b) a adoção de nova política contábil para transações, outros eventos ou condições que não ocorriam anteriormente ou eram imateriais."
+  },
+  {
+   "numero": "11",
+   "secao": "Reconhecimento inicial",
+   "texto": "O aditamento dos contratos de concessão e permissão, nos termos tratados nesta Orientação, representa um elemento novo que assegura, a partir da data de sua assinatura, o direito ou impõe a obrigação de o concessionário receber ou pagar os ativos e passivos junto à contraparte – Poder Concedente. Esse novo evento altera, a partir dessa data, o ambiente e as condições contratuais anteriormente existentes e extingue as incertezas quanto à capacidade de realização do ativo ou exigibilidade do passivo. São condições, assim, que diferem em essência das que ocorriam anteriormente."
+  },
+  {
+   "numero": "12",
+   "secao": "Reconhecimento inicial",
+   "texto": "Os efeitos do aditamento dos contratos de concessão e permissão não têm natureza de mudança de política contábil, mas, sim, a de uma nova situação e, consequentemente, sua aplicação deve ser prospectiva."
+  },
+  {
+   "numero": "13",
+   "secao": "Reconhecimento inicial",
+   "texto": "Considerando que o dispositivo aditado aos contratos de concessão e de permissão trata de saldos remanescentes apurados de itens da Parcela A e outros componentes financeiros que ainda não tenham sido recuperados e, portanto, demanda a implementação dessa prática contábil de aplicação prospectiva, o ajuste a ser efetuado deve ser reconhecido em contas de ativo ou passivo financeiro, conforme o caso, em contrapartida ao resultado do exercício (receita de venda de bens e serviços) em que ocorrer a modificação contratual."
+  },
+  {
+   "numero": "14",
+   "secao": "Mensuração subsequente",
+   "texto": "Posteriormente ao reconhecimento inicial, os ativos e/ou passivos financeiros originados das diferenças apuradas de itens da Parcela A e outros componentes financeiros em cada período contábil devem ter como contrapartida a adequada rubrica de receita de venda de bens e serviços, no resultado do período."
+  },
+  {
+   "numero": "15",
+   "secao": "Mensuração subsequente",
+   "texto": "Esse registro deve considerar a melhor estimativa da entidade quanto ao montante financeiro a ser realizado como decorrência do cumprimento integral da obrigação de performance completada no período, considerando, ainda, todos os fatos e circunstâncias existentes que deem suporte à transação. Esse julgamento deve ser documentado para servir de evidência objetiva da política contábil adotada, sendo base de divulgação nas notas explicativas integrantes dos relatórios contábil-financeiros de propósito geral das empresas de distribuição de energia elétrica."
+  }
+ ]
+}

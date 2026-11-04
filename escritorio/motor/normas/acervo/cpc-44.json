@@ -1,0 +1,113 @@
+{
+ "codigo": "CPC 44",
+ "codigoNoTexto": "CPC 44",
+ "titulo": "Demonstrações Combinadas",
+ "correlacao": null,
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/437_CPC_44_final_06052013.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=76",
+  "arquivo": "cpc-44.pdf",
+  "sha256": "27ee9e48f9f5a72f83eb5fabe54ccc8b9357a1f1690095052c276c74084f0e2d"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [],
+ "versao": "e11e3393c685",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "O objetivo deste Pronunciamento é orientar quanto aos critérios para elaboração, às circunstâncias envolvidas e à forma da apresentação de demonstrações contábeis combinadas de acordo com as práticas contábeis adotadas no Brasil, assim como esclarecer o seu significado."
+  },
+  {
+   "numero": "2",
+   "secao": "Demonstrações combinadas",
+   "texto": "Demonstrações contábeis combinadas representam um único conjunto de demonstrações contábeis de entidades que estão sob controle comum."
+  },
+  {
+   "numero": "3",
+   "secao": "Demonstrações combinadas",
+   "texto": "A entidade que controle uma ou mais entidades e elabore relatórios contábeis-financeiros, deve apresentar demonstrações contábeis consolidadas. No entanto, nem todas as entidades controladoras elaboram relatórios financeiros. Por exemplo, a entidade controladora pode ser um indivíduo ou grupo de indivíduos, tais como uma família. Se este for o caso, demonstrações contábeis combinadas podem fornecer informação importante sobre entidades sob controle comum, como um grupo."
+  },
+  {
+   "numero": "4",
+   "secao": "Objetivo das demonstrações combinadas",
+   "texto": "As demonstrações combinadas são elaboradas com o objetivo de apresentar as informações contábeis como se as diversas entidades sob controle comum fossem apenas uma única entidade, considerando os mesmos procedimentos utilizados quando da elaboração de demonstrações contábeis consolidadas. A diferença básica é que demonstrações consolidadas são elaboradas para a controladora e incluem as demonstrações de suas controladas e das entidades em que assume a maioria dos riscos e benefícios, enquanto nas demonstrações combinadas não há uma controladora, mas um grupo de entidades sob controle comum. A administração deve exercer seu julgamento na determinação das entidades sob controle comum a serem combinadas, bem como o propósito dessas demonstrações contábeis combinadas. Caso existam outras entidades no grupo de empresas sob controle comum que não tenham sido combinadas, a administração deve esclarecer as razões que determinaram a inclusão das entidades que foram combinadas."
+  },
+  {
+   "numero": "5",
+   "secao": "Objetivo das demonstrações combinadas",
+   "texto": "Como as demonstrações combinadas representam o conjunto de determinadas entidades e não uma entidade controladora e suas controladas, há sempre necessidade da identificação de a quem pertencem referidas entidades. Assim, se as demonstrações combinadas se referirem a:\n(a) um grupo de entidades sob controle comum que ainda não tenha passado por processo de reestruturação societária, como é o caso da criação de uma holding pertencente, por exemplo, a uma pessoa física ou conjunto de pessoas físicas, referidas demonstrações combinadas devem ser referidas como “Entidades do Grupo Econômico XXX”, definindo essa identificação;\n(b) um grupo de entidades após processo de reestruturação societária, em que já tenha sido\nCPC_44 constituída uma holding, ou uma das entidades tenha passado a deter o controle societário de uma ou várias entidades, mas ainda reste outra ou restem outras entidades sob controle comum, referidas demonstrações contábeis podem se referir às informações contábeis combinadas da “Entidade YYY”."
+  },
+  {
+   "numero": "6",
+   "secao": "Objetivo das demonstrações combinadas",
+   "texto": "Demonstrações contábeis combinadas não podem ser confundidas com informações financeiras pro forma. Enquanto as informações financeiras pro forma objetivam demonstrar como as informações contábeis históricas teriam sido afetadas caso uma transação em particular tivesse sido concluída em um momento anterior (como, por exemplo, combinações de negócios), as demonstrações contábeis combinadas são elaboradas com o objetivo de apresentar as informações como se as diversas entidades que estão sob controle comum fossem apenas uma única entidade, conservando-se, todavia, as operações históricas efetivamente ocorridas. Informações financeiras pro forma estão tratadas na OCPC 06, emitida por este CPC."
+  },
+  {
+   "numero": "7",
+   "secao": "Controle comum",
+   "texto": "O controle comum existe entre entidades distintas quando o controlador (pessoa(s) física(s) ou jurídica(s)), direta ou indiretamente, tem o poder sobre a investida (ver itens 10 a 14 do Pronunciamento Técnico CPC 36), está exposto a, ou detém direitos sobre, retornos variáveis decorrentes de seu envolvimento com a investida (ver itens 15 e 16 do Pronunciamento Técnico CPC 36) e tem a capacidade de utilizar o seu poder sobre a investida para afetar o valor de seus retornos (ver itens 17 e 18 do Pronunciamento Técnico CPC 36)."
+  },
+  {
+   "numero": "8",
+   "secao": "Controle comum",
+   "texto": "Na determinação da existência de controle deve-se utilizar a definição de controle prevista nos itens 5 a 19 do Pronunciamento Técnico CPC 36 - Demonstrações Consolidadas, bem como as demais orientações contidas no mesmo Pronunciamento."
+  },
+  {
+   "numero": "9",
+   "secao": "Forma e conteúdo",
+   "texto": "As demonstrações combinadas diferem das demonstrações consolidadas, pois nestas últimas, como definido no Pronunciamento Técnico CPC 36 – Demonstrações Consolidadas, a entidade controladora deve possuir participação societária, direta ou indireta, nas suas controladas ou assumir a maioria dos riscos e benefícios daquelas entidades."
+  },
+  {
+   "numero": "10",
+   "secao": "Forma e conteúdo",
+   "texto": "As demonstrações combinadas devem ser elaboradas, no que for pertinente, de acordo com os conceitos e técnicas aplicáveis para a consolidação de demonstrações contábeis. Em resumo, as demonstrações combinadas representam a soma de demonstrações individuais, com a eliminação de saldos e transações entre as entidades combinadas, bem como ajustes decorrentes de eventuais resultados ainda não realizados entre essas entidades, e alinhamento de práticas contábeis."
+  },
+  {
+   "numero": "11",
+   "secao": "Forma e conteúdo",
+   "texto": "As demonstrações combinadas devem abranger todas as demonstrações contábeis exigidas pelo Pronunciamento Técnico CPC 26 – Apresentação das Demonstrações Contábeis, de forma comparativa; a saber: balanço patrimonial, demonstração do resultado, demonstração do resultado abrangente, demonstração das mutações do patrimônio líquido, demonstração dos fluxos de caixa e demonstração do valor adicionado (este último quando aplicável), acompanhadas de notas explicativas. Essas demonstrações combinadas devem ser\nCPC_44 apresentadas no formato e de acordo com os Pronunciamentos Técnicos, as Interpretações e as Orientações do CPC."
+  },
+  {
+   "numero": "12",
+   "secao": "Forma e conteúdo",
+   "texto": "Em notas explicativas às demonstrações combinadas devem ser divulgadas todas as informações requeridas quando da elaboração de demonstrações contábeis consolidadas, de acordo com o Pronunciamento Técnico CPC 36 – Demonstrações Consolidadas. Adicionalmente, em notas explicativas devem ser incluídos:\n(a) breve descrição do contexto operacional de cada entidade combinada;\n(b) os percentuais de participação, da entidade ou pessoas físicas que detêm o controle sobre cada entidade incluída nas demonstrações combinadas;\n(c) justificativa do propósito da apresentação das demonstrações combinadas;\n(d) razões que determinaram a inclusão das entidades incluídas nas demonstrações combinadas, caso existam outras entidades sob controle comum que não tenham sido combinadas;\n(e) divulgação de cada uma das entidades incluídas nas demonstrações combinadas, do valor total dos ativos, do patrimônio líquido, lucro (prejuízo) líquido e outros resultados abrangentes e total das eliminações, caso necessário;\n(f) esclarecimento de que as demonstrações combinadas estão sendo apresentadas apenas para fornecimento de análises adicionais a terceiros e que não representam as demonstrações contábeis individuais ou consolidadas de uma pessoa jurídica e suas controladas;\n(g) esclarecimento de que as demonstrações combinadas não devem ser tomadas por base para fins de cálculo dos dividendos, de impostos ou para quaisquer outros fins societários ou estatutários."
+  },
+  {
+   "numero": "13",
+   "secao": "Circunstâncias em que são apresentadas as demonstrações combinadas",
+   "texto": "Em determinadas situações, entidades são economicamente unidas por estarem sob controle comum. Nesses casos, a apresentação das demonstrações combinadas tem um significado mais representativo do que a apresentação das demonstrações contábeis individuais de cada entidade."
+  },
+  {
+   "numero": "14",
+   "secao": "Circunstâncias em que são apresentadas as demonstrações combinadas",
+   "texto": "A apresentação das demonstrações combinadas não substitui a necessidade de divulgação de demonstrações contábeis individuais e/ou consolidadas para órgãos reguladores e/ou para o público conforme requerido pelas respectivas legislações aplicáveis."
+  },
+  {
+   "numero": "15",
+   "secao": "Instruções para elaboração",
+   "texto": "A elaboração e a divulgação das demonstrações combinadas devem observar o requerido em todos os Pronunciamentos Técnicos, Interpretações e Orientações do CPC, especialmente o Pronunciamento Técnico CPC 36 – Demonstrações Consolidadas."
+  },
+  {
+   "numero": "16",
+   "secao": "CPC_44",
+   "texto": "No caso de as demonstrações combinadas incluírem entidades adquiridas ou vendidas durante o exercício/período, as demonstrações combinadas do resultado, do resultado abrangente, dos fluxos de caixa e do valor adicionado, quando aplicável, devem compreender as operações dessas entidades apenas para o período em que as entidades estejam sob controle comum. Considerando ainda essa mesma situação, o primeiro balanço patrimonial combinado é o da data de aquisição da condição de controle comum, e o último o da data da perda dessa condição de controle comum."
+  },
+  {
+   "numero": "17",
+   "secao": "CPC_44",
+   "texto": "Entretanto, caso não tenham sido apresentadas demonstrações combinadas para períodos ou datas anteriores para um grupo de entidades sob controle comum, e por causa de um processo de reestruturação e reorganização societária alguma(s) entidade(s) não esteja(m) mais sob controle comum, podem ser elaboradas demonstrações contábeis combinadas incluindo somente aquelas entidades que permanecem ou que irão permanecer com o mesmo grupo de controle comum. Evidenciação especial sobre essa situação precisa ser provida por meio de nota explicativa das demonstrações combinadas.\nDemonstrações combinadas quando existem entidades com controle compartilhado"
+  },
+  {
+   "numero": "18",
+   "secao": "CPC_44",
+   "texto": "Em linha com o Pronunciamento Técnico CPC 19 – Negócios em Conjunto (Joint Arrangements), devem também ser incluídas, com o reconhecimento dos interesses nos ativos, passivos, receitas e despesas, nas demonstrações combinadas, as demonstrações das operações controladas em conjunto pelo grupo de entidades sob controle comum."
+  },
+  {
+   "numero": "19",
+   "secao": "Demonstrações combinadas pro forma",
+   "texto": "A elaboração e apresentação de informações pro forma a partir de demonstrações contábeis combinadas pro forma é permitida desde que tais informações pro forma atendam integralmente os preceitos da Orientação Técnica OCPC 06 – Apresentação de Informações Financeiras Pro Forma."
+  }
+ ]
+}

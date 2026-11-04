@@ -1,0 +1,320 @@
+{
+ "codigo": "CPC LIQUIDAÇÃO",
+ "codigoNoTexto": "CPC PARA",
+ "titulo": "Entidades em Liquidação",
+ "correlacao": null,
+ "ficticio": false,
+ "fonte": {
+  "url": "https://www.cpc.org.br/Arquivos/Documentos/597_CPCEntidadesLiquida%C3%A7%C3%A3oalt.pdf",
+  "pagina": "https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=125",
+  "arquivo": "cpc-liquidacao.pdf",
+  "sha256": "0811843851d50f7f48e3573c79f46de161cc840812e0c6f75b264668f5a67640"
+ },
+ "importadoEm": "2026-11-04",
+ "avisos": [
+  "O cabeçalho do arquivo diz \"CPC PARA\"; vale o código da página oficial (CPC LIQUIDAÇÃO)."
+ ],
+ "versao": "41e541fe6db1",
+ "itens": [
+  {
+   "numero": "1",
+   "secao": null,
+   "texto": "Este Pronunciamento estabelece critérios e procedimentos contábeis específicos para entidade em liquidação."
+  },
+  {
+   "numero": "2",
+   "secao": "ALCANCE",
+   "texto": "Este Pronunciamento deve ser adotado por toda entidade em liquidação, seja liquidação voluntária, liquidação por entidade reguladora, liquidação extrajudicial, liquidação judicial, autofalência, falência, insolvência civil e qualquer outra forma de liquidação que lei ou regulamento venha a definir, independentemente de qual norma estava sendo seguida pela entidade antes de entrar em processo de liquidação. Caso alguma transação ou evento econômico não conte com orientação específica neste Pronunciamento quanto ao tratamento contábil a ser adotado, a orientação deve ser obtida nas normas contábeis aplicáveis à empresa em continuidade operacional."
+  },
+  {
+   "numero": "3",
+   "secao": "ALCANCE",
+   "texto": "Este Pronunciamento não se aplica à entidade em processo de recuperação judicial ou extrajudicial que deve continuar a elaborar a escrituração contábil conforme as Normas a que se sujeitava antes do início da recuperação e deve ainda atender às exigências da regulamentação específica sobre o processo em que se encontra."
+  },
+  {
+   "numero": "4",
+   "secao": "ALCANCE",
+   "texto": "Este Pronunciamento não se aplica em sua integralidade à entidade submetida a órgão regulador próprio que tenha critérios e procedimentos específicos para essa situação.\nHendriksen, E. S. Van Breda, M. F. Teoria da Contabilidade. São Paulo: Atlas, 1999. Iudícibus, S. Teoria da Contabilidade. 11ª ed. São Paulo: Atlas, 2015."
+  },
+  {
+   "numero": "5",
+   "secao": "ALCANCE",
+   "texto": "Este Pronunciamento não se aplica às entidades cuja liquidação esteja prevista em seus documentos constitutivos. Para essas entidades, mesmo que já esteja ocorrendo o processo de liquidação, os Pronunciamentos contábeis aplicáveis às entidades em continuidade devem ser adotados para a elaboração de suas demonstrações contábeis até a cessação das atividades e ingresso em processo efetivo de liquidação."
+  },
+  {
+   "numero": "6",
+   "secao": "ALCANCE",
+   "texto": "A entidade deve elaborar e divulgar suas demonstrações contábeis conforme este Pronunciamento, a partir do momento que iniciar o processo de liquidação, independentemente do período de reporte a que esteja submetida mensal ou anualmente, de acordo com a especificidade da entidade."
+  },
+  {
+   "numero": "7",
+   "secao": "DEFINIÇÕES",
+   "texto": "Liquidação é o processo pelo qual a entidade converte seus ativos em dinheiro ou em outros ativos e liquida suas obrigações com os credores e distribui aos detentores de interesses residuais eventual saldo remanescente objetivando sua extinção. A liquidação pode ser compulsória ou voluntária, sendo que:\n(a) a extinção da entidade como resultado de fusão, incorporação ou cisão não se qualifica como liquidação;\n(b) a entidade com probabilidade de perda da condição de continuidade normal de seus negócios, ou mesmo redução significativa de suas atividades, não se qualifica ainda como em liquidação."
+  },
+  {
+   "numero": "8",
+   "secao": "DEFINIÇÕES",
+   "texto": "Entidade em liquidação é a entidade que esteja em processo de liquidação, desde que a sua liquidação não seja prevista em seus documentos constitutivos. Para que a entidade esteja em processo de liquidação, um ou mais dos seguintes critérios devem ser observados:\n(a) Um plano para liquidação da entidade tenha sido aprovado por pessoa(s) com autoridade para tornar tal plano efetivo e a ocorrência de um ou ambos os fatores a seguir seja considerada remota:\ni. A execução do plano de liquidação será interrompida por terceiros (por exemplo, aqueles com direitos de sócio, acionista ou cotista); e\nii. A entidade deixará de estar em liquidação.\n(b) Um plano de liquidação tenha sido imposto por terceiros (por exemplo, falência involuntária) e a possibilidade de que a entidade deixe de estar em liquidação seja considerada remota."
+  },
+  {
+   "numero": "9",
+   "secao": "DEFINIÇÕES",
+   "texto": "Data de início da liquidação é a data na qual se completa(m) o(s) fato(s) que transformam a entidade em entidade em liquidação, quando então passa ser aplicável o disposto neste Pronunciamento."
+  },
+  {
+   "numero": "10",
+   "secao": "DEFINIÇÕES",
+   "texto": "Ativos líquidos representam a diferença entre os ativos e passivos da entidade em liquidação conforme reconhecidos e mensurados com base nas disposições deste Pronunciamento. Os ativos líquidos podem ser positivos, demonstrando saldo a ser distribuído aos detentores de direitos societários ao final da liquidação, ou negativos, indicando a insuficiência de recursos para pagamento dos credores."
+  },
+  {
+   "numero": "11",
+   "secao": "DEFINIÇÕES",
+   "texto": "Demonstração dos Ativos Líquidos de entidade em liquidação é a demonstração contábil que apresenta os ativos e os passivos da entidade, bem como seus ativos líquidos positivos ou negativos."
+  },
+  {
+   "numero": "12",
+   "secao": "DEFINIÇÕES",
+   "texto": "Demonstração da Mutação dos Ativos Líquidos de entidade em liquidação é a demonstração contábil que apresenta as mutações dos ativos e passivos da entidade, bem como de seus ativos líquidos."
+  },
+  {
+   "numero": "13",
+   "secao": "DEFINIÇÕES",
+   "texto": "Demonstração dos Fluxos de Caixa de entidade em liquidação é a demonstração contábil elaborada pelo método direto que evidencia as entradas de caixa provenientes das vendas dos ativos, as saídas de caixa para liquidação dos passivos, as saídas de caixa para pagamento das despesas da liquidação e demais entradas e saídas de caixa."
+  },
+  {
+   "numero": "14",
+   "secao": "DEFINIÇÕES",
+   "texto": "Demonstração da Moeda de Liquidação é a demonstração que evidencia a relação percentual entre os ativos e os passivos por classe de ativos."
+  },
+  {
+   "numero": "15",
+   "secao": "DEFINIÇÕES",
+   "texto": "Valor justo é o preço que seria recebido pela venda de ativo ou que seria pago pela transferência de passivo em transação não forçada entre participantes do mercado na data da mensuração."
+  },
+  {
+   "numero": "16",
+   "secao": "DEFINIÇÕES",
+   "texto": "Valor de liquidação é o valor líquido esperado pela realização do ativo. Regra geral, refere-se ao preço de venda estimado de um ativo deduzido dos gastos necessários à concretização da venda, sendo que:\n(a) o valor de liquidação de ativos não monetários, para fins deste Pronunciamento, se refere à quantia líquida que a entidade espera realizar com a venda do ativo nas condições normais de entidade em liquidação, o que inclui a possibilidade de venda forçada;\n(b) na apuração do valor de liquidação de ativos não monetários, devem ser deduzidos os eventuais gastos estimados para colocação do ativo em condições de venda, além das despesas de venda propriamente ditas (impostos, comissões, entrega etc.);\n(c) os preços de venda devem levar em conta as condições de mercado existentes na data da elaboração das demonstrações previstas neste Pronunciamento; considerações a respeito de possíveis modificações desses preços, para mais ou para menos, esperadas para o futuro, devem ser objeto de nota explicativa específica;\n(d) nos casos em que não haja a intenção de venda de ativo não monetário, mas a sua entrega para liquidação de passivo específico, o valor de liquidação, para fins deste Pronunciamento, será o valor do passivo a ser liquidado, devidamente mensurado com base nos critérios indicados neste Pronunciamento, considerando as mesmas deduções previstas nos itens (b) e (c) acima; e\n(e) o valor de liquidação de ativos monetários, para fins deste Pronunciamento, se refere à quantia que se espera ser recebida em caixa, deduzidos os eventuais gastos estimados de negociação e cobrança."
+  },
+  {
+   "numero": "17",
+   "secao": "DEFINIÇÕES",
+   "texto": "Passivos determinados são aqueles identificados de forma objetiva, baseados na escrituração contábil formal, a partir de evidências verificáveis ou em documentos apresentados pelos credores e que possam ser mensurados de forma confiável. Costumam ser denominados de “passivos líquidos” na linguagem utilizada nas empresas em falência."
+  },
+  {
+   "numero": "18",
+   "secao": "DEFINIÇÕES",
+   "texto": "Provisões são dívidas incertas, oriundas de eventos passados, que dependem de evento futuro para atingir o valor objetivo. Diferenciam-se das provisões contidas no Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes somente no seu critério de reconhecimento, conforme disposto no item 25. Costumam ser denominados de “passivos ilíquidos” na linguagem utilizada nas empresas em falência."
+  },
+  {
+   "numero": "19",
+   "secao": "DEFINIÇÕES",
+   "texto": "Passivos contingentes são Provisões, conforme definidas neste Pronunciamento, cuja probabilidade de ocorrência seja remota ou que não possam ser mensuradas em bases confiáveis, bem como passivos que dependam de evento futuro que sirva como seu fato gerador. Diferenciam-se dos passivos contingentes contidas no Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes somente no seu critério de reconhecimento, conforme disposto no item 27."
+  },
+  {
+   "numero": "20",
+   "secao": "DEFINIÇÕES",
+   "texto": "Demonstração dos Ativos Líquidos de Abertura (fresh-start), para fins deste Pronunciamento, é a primeira demonstração dos ativos líquidos na liquidação, obtida a partir do último balanço patrimonial elaborado sob o pressuposto da continuidade. Na impossibilidade de obtenção desse balanço patrimonial, essa demonstração se constituirá do inventário levantado de ativos e passivos mensurados conforme este Pronunciamento, na data do início do processo de liquidação."
+  },
+  {
+   "numero": "21",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Os ativos devem ser reconhecidos quando houver razoável segurança de que ocorrerá venda ou realização para pagamento de passivos. Ativos que não apresentem razoável segurança quanto à sua venda ou realização devem ser divulgados em nota explicativa."
+  },
+  {
+   "numero": "22",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "As entidades em liquidação devem elaborar suas demonstrações contábeis no pressuposto da não continuidade operacional. Por essa razão, os ativos devem ser mensurados seguindo-se a seguinte ordem de critérios:\n(a) valor de liquidação;\n(b) valor justo líquido das despesas de venda, até que uma mensuração do valor de liquidação se torne disponível (as métricas de valor justo devem ser aquelas constantes no Pronunciamento Técnico CPC 46 – Mensuração do Valor Justo); e\n(c) custo histórico, considerando-se eventuais perdas por recuperabilidade, deduzido de despesas estimadas para realização, em situações excepcionais, enquanto as alternativas anteriores não estiverem disponíveis."
+  },
+  {
+   "numero": "23",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Quando os ativos não forem mensurados pelo valor de liquidação, as justificativas para adoção de outro critério devem ser divulgadas nas notas explicativas."
+  },
+  {
+   "numero": "24",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Os passivos líquidos deverão ser mensurados pelos valores formal e legalmente devidos. As provisões deverão ser mensuradas com base na melhor estimativa de saída de recursos para liquidar a obrigação presente na data da Demonstração dos Ativos Líquidos."
+  },
+  {
+   "numero": "25",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "As Provisões, diferentemente do exigido pelo Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes, deverão ser reconhecidas na Demonstração dos Ativos Líquidos quando a probabilidade de saída de ativos para sua liquidação seja considerada possível ou provável."
+  },
+  {
+   "numero": "26",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Em processos falimentares, pode ser necessária uma determinação judicial para o reconhecimento dos passivos líquidos e das provisões."
+  },
+  {
+   "numero": "27",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Os Passivos Contingentes não serão reconhecidos na Demonstração dos Ativos Líquidos, mas, diferentemente do exigido pelo Pronunciamento Técnico CPC 25 – Provisões, Passivos Contingentes e Ativos Contingentes, sempre deverão ser divulgados em notas explicativas, independentemente de serem provisões sem possibilidade de mensuração de forma objetiva, provisões cuja saída de recursos para sua liquidação seja considerada remota ou passivos dependentes de eventos futuros com alguma possibilidade de ocorrência."
+  },
+  {
+   "numero": "28",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "A entidade em liquidação deve reconhecer como passivo todos os custos e despesas, líquidas de eventuais receitas, que espera incorrer até o final de sua liquidação, incluindo-se gastos com advocacia e administração. Se não houver base razoável para essa estimativa, o fato deve ser divulgado em nota explicativa."
+  },
+  {
+   "numero": "29",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Eventuais elementos patrimoniais ativos e passivos que não estejam reconhecidos na data da entrada em liquidação por erro, omissão, fraude ou por força de norma contábil válida anteriormente à entrada em liquidação (como no caso de certos ativos intangíveis) devem ser reconhecidos conforme as condições estabelecidas neste Pronunciamento."
+  },
+  {
+   "numero": "30",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Na data do início do processo de liquidação, a entidade deve elaborar uma demonstração a partir do inventário dos ativos e passivos conhecidos e mensuráveis (Demonstração dos Ativos Líquidos de Abertura). Na impossibilidade de estarem todos os ativos e passivos avaliados conforme este Pronunciamento, tal fato deve ser claramente divulgado nas notas explicativas, e os ajustes devem ser procedidos assim que a situação o permitir."
+  },
+  {
+   "numero": "31",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "Reduções de passivos não devem ser reconhecidas por expectativa de resultado de negociação futura, mas somente quando houver garantia jurídica de que a saída de ativos para sua liquidação será inferior ao valor reconhecido originalmente."
+  },
+  {
+   "numero": "32",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "A não ser em circunstâncias em que haja exigências legais e/ou regulatórias contrárias, a entidade pode adotar escrituração especial onde constem todos os registros, históricos e datas dos eventos para elaborar as demonstrações contábeis exigidas por esse Pronunciamento. A escrituração pode ser elaborada conforme modelo apresentado no Apêndice dessa Norma."
+  },
+  {
+   "numero": "33",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "No caso de entidade em liquidação que tiver autorização de órgão competente para continuar operando, parcial ou totalmente, deve, mesmo assim, observar as disposições deste Pronunciamento."
+  },
+  {
+   "numero": "34",
+   "secao": "RECONHECIMENTO E MENSURAÇÃO",
+   "texto": "No caso raro de a entidade voltar à hipótese de continuidade operacional, a entidade deve elaborar suas novas demonstrações contábeis com base no pressuposto de continuidade seguindo as orientações do CPC 37 – Adoção Inicial das Normas Internacionais de Contabilidade. Essas novas demonstrações devem ter como data inicial aquela em que a entidade deixar de ser enquadrada como entidade em liquidação."
+  },
+  {
+   "numero": "35",
+   "secao": "DIVULGAÇÃO",
+   "texto": "As demonstrações exigidas para as entidades em liquidação são: Demonstração dos Ativos Líquidos, Demonstração das Mutações dos Ativos Líquidos, Demonstração dos\nFluxos de Caixa e, nos casos de falência e em outros quando necessária, a Demonstração da Moeda de Liquidação complementadas pelas Notas Explicativas."
+  },
+  {
+   "numero": "36",
+   "secao": "DIVULGAÇÃO",
+   "texto": "A Demonstração da Moeda de Liquidação deverá ser divulgada evidenciando o percentual de relação entre o ativo e o passivo líquido, considerada a ordem de preferência estabelecida por dispositivos legais. Todos os rateios realizados devem ser divulgados ao longo do processo de liquidação de forma cumulativa."
+  },
+  {
+   "numero": "37",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Os gastos necessários para colocar o ativo em condições de venda e as despesas de venda propriamente ditas devem ser evidenciados em nota explicativa, deduzindo do valor de venda estimado do ativo a que se referem."
+  },
+  {
+   "numero": "38",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Em algumas situações, como no caso de falências, os gastos e despesas necessários para colocar o ativo em condições de venda e as despesas de venda devem ser reconhecidos como passivos, por força de legislação específica. Somente nesses casos em que exista legislação específica, tais gastos e despesas podem ser reconhecidos como passivo da entidade e não como redutores do ativo. Nessas circunstâncias, deve ser evidenciado em nota explicativa que o valor do ativo não está reconhecido pelo valor de liquidação líquido de tais gastos e despesas."
+  },
+  {
+   "numero": "39",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Os ativos e passivos devem ser evidenciados na ordem prevista na legislação ou regulação específica, quando aplicável. Em caso de liquidação voluntária ou em que não haja previsão legal ou regulatória para a ordem de divulgação de ativos e/ou passivos, os ativos devem ser evidenciados em ordem de liquidez decrescente e os passivos devem ser evidenciados por ordem decrescente de exigibilidade."
+  },
+  {
+   "numero": "40",
+   "secao": "DIVULGAÇÃO",
+   "texto": "A Demonstração das Mutações dos Ativos Líquidos de entidade em liquidação deve evidenciar, entre outros itens, os gastos incorridos e esperados relacionados ao processo de liquidação, as reversões de valores anteriormente provisionados, as variações na avaliação de ativos e passivos e as variações nos ativos líquidos."
+  },
+  {
+   "numero": "41",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Quando houver exigência legal, como no caso de falência, ou mesmo interesse, sem exigência regulatória para demonstração dos passivos conforme suas definições legais, tais classificações devem ser realizadas, sempre que possível, sem prejuízo da apresentação das suas respectivas naturezas econômicas e classificações contidas neste Pronunciamento. O Apêndice deste Pronunciamento traz sugestões de como tais evidenciações podem ser realizadas."
+  },
+  {
+   "numero": "42",
+   "secao": "DIVULGAÇÃO",
+   "texto": "A Demonstração dos Fluxos de Caixa de Entidade em Liquidação deve seguir a estrutura determinada neste Pronunciamento e não se confunde com a demonstração prevista no Pronunciamento Técnico CPC 03 – Demonstração dos Fluxos de Caixa e deve apresentar, entre outros itens, os ingressos pela realização de ativos e as liquidações de passivos sempre pelo método direto."
+  },
+  {
+   "numero": "43",
+   "secao": "DIVULGAÇÃO",
+   "texto": "A entidade em liquidação deve mencionar, expressamente, que se encontra nessa situação em suas demonstrações contábeis. Quando este Pronunciamento for aplicado para a elaboração das demonstrações contábeis, as notas explicativas devem conter uma declaração de conformidade que todas as exigências deste Pronunciamento estão sendo integralmente cumpridas. No caso de efetiva e comprovada impossibilidade de atendimento, o fato e o efeito estimado devem ser divulgados em nota explicativa própria."
+  },
+  {
+   "numero": "44",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Deve ser divulgado em notas explicativas o plano para a liquidação da entidade, incluindo cada um dos pontos a seguir: (a) a maneira pela qual ela espera dispor dos seus ativos;\n(b) a forma pela qual planeja liquidar seus passivos;\n(c) um cronograma, no mínimo anual, para realização de seus ativos e liquidação de seus passivos; e\n(d) a data prevista em que a entidade espera completar a liquidação."
+  },
+  {
+   "numero": "45",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Na nota explicativa do contexto operacional, devem também ser divulgados os aspectos relevantes do estágio atual da execução do plano de liquidação."
+  },
+  {
+   "numero": "46",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Os critérios de avaliação de ativos e passivos da entidade em liquidação devem ser divulgados em notas explicativas, bem como a metodologia e as fontes de informação utilizadas para mensuração dos ativos a seus valores de liquidação. Também devem ser divulgados os critérios para registro e mensuração dos passivos, observados os conceitos de materialidade e relevância."
+  },
+  {
+   "numero": "47",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Quando ativos ou passivos não puderem ser avaliados conforme este Pronunciamento, a razão dessa impossibilidade deve ser claramente evidenciada em nota explicativa. Se existirem apenas indicativos desses valores, mas não suficientes para seu reconhecimento contábil, devem ser também divulgados nas notas explicativas com os devidos esclarecimentos das razões dessa impossibilidade, de faixa de valor, de probabilidade de realização e de outras informações julgadas necessárias à percepção da posição patrimonial e suas mutações por parte da gestão e dos usuários externos, principalmente credores."
+  },
+  {
+   "numero": "48",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Devem ser divulgados os ativos e os passivos registrados até a data do início do processo de liquidação e não identificados ou ratificados no processo de liquidação, bem como os não registrados até essa data e incorporados posteriormente. No caso da impossibilidade de atendimento deste item, o fato deve ser divulgado em nota explicativa."
+  },
+  {
+   "numero": "49",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Nos casos em que haja escrituração contábil regular antes da data do início do processo de liquidação, a Demonstração de Ativos Líquidos de Abertura deverá conter coluna comparativa com os saldos contábeis existentes antes dessa data."
+  },
+  {
+   "numero": "50",
+   "secao": "DIVULGAÇÃO",
+   "texto": "Aplicam-se todas as disposições contábeis sobre divulgação constantes dos demais Pronunciamentos Técnicos do CPC que não contrariarem este Pronunciamento."
+  },
+  {
+   "numero": "51",
+   "secao": "DATA DE ADOÇÃO DESTE PRONUNCIAMENTO",
+   "texto": "Os registros à base de liquidação contidos neste Pronunciamento, bem como as demonstrações contábeis nele exigidas, devem ser aplicados, prospectivamente, desde a data de início do processo de liquidação. A Demonstração dos Ativos Líquidos de Abertura deve ser levantada utilizando-se essa data como base para os levantamentos necessários para a sua realização."
+  },
+  {
+   "numero": "52",
+   "secao": "DATA DE ADOÇÃO DESTE PRONUNCIAMENTO",
+   "texto": "Na hipótese de entidades já em processo de liquidação, os registros contidos neste Pronunciamento, bem como as demonstrações contábeis nele exigidas, devem ser aplicados a partir da primeira apresentação da Demonstração dos Ativos Líquidos elaborada a partir da vigência deste Pronunciamento. Essa primeira apresentação deverá obedecer ao período previsto no item 6."
+  },
+  {
+   "numero": "53",
+   "secao": "VIGÊNCIA",
+   "texto": "Este Pronunciamento entra em vigor a partir da determinação de cada órgão regulador.\nAPÊNDICE (Este Apêndice é parte integrante deste Pronunciamento)\nESCRITURAÇÃO ESPECIAL\nA.1. A escrituração pode ser executada conforme as normas vigentes para utilização dos Livros Diário e Razão, ou então conforme a opção descrita no item 32, levando-se em consideração o seguinte modelo, que, além de evidenciar os registros individualizados, permite que seja visualizada a movimentação individual de cada conta contábil movimentada. Esse modelo simplificado permite a visualização, ao mesmo tempo, do que seria obtido a partir dos livros Diário e Razão:\nData (a) Descrição (b) Despesas D/ Terreno D/C Bancos D/C Obrigação D/C Soma de C em (d) Conta (d) resultante (d) D/C Manutençã (d) Municípi Judicial da (e) o o X (c) (c) liquidação (c) (c) 01/05/X0 Saldo inicial - - - - 0,00 01/05/X0 Venda de lote de - 10.000,0 C 10.000,0 D - 0,00 terras em 0 0 Município X 01/05/X0 Pagamento de 500,00 D - 500,00 C - 0,00 despesas de manutenção 31/5/x0 Reconhecimento 50,00 D - - - 50,00 C de despesa de manutenção Total do mês de maio/X0 550,00 D 10.000,0 C 9.500,00 D 50,00 C 0,00\nOnde: a. Data da transação b. Histórico da transação c. Conta contábil movimentada d. Natureza do lançamento contábil: devedor ou credor e. Conferência das partidas dobradas\nDEMONSTRAÇÕES CONTÁBEIS\nA.2. As Demonstrações Contábeis descritas no corpo da presente Norma, itens 11 e 12, podem ser elaboradas levando-se em consideração os modelos abaixo. Não há a intenção de que nenhum modelo seja exaustivo e capaz de prever todas as realidades econômicas possíveis, devendo, portanto, ser adotado com as devidas adaptações. A) Modelo Geral para Entidades em Liquidação – Momento Inicial da Liquidação\nDemonstração dos Ativos Líquidos de Abertura - DAL Ajustes Não Fechamento Caixa para DAL Continuidade Abertura DAL Abertura ATIVOS Caixa e Eq. Caixa 12.500 0 12.500 Aplicações Financeiras 5.000 0 5.000 Contas a Receber 52.000 (12.000) 40.000 Estoques 86.000 18.000 104.000 Tributos a Compensar 65.000 (45.000) 20.000 Depósitos Judiciais 89.000 0 89.000 Imobilizado 0 Veículos 168.000 12.000 180.000 Imóveis 650.000 120.000 770.000 Intangível 0 Patente 0 10.000 10.000 Software 35.000 (35.000) 0 Ativos 1.162.500 68.000 1.230.500\nPASSIVOS Passivos Líquidos Receitas Antecipadas 53.000 0 53.000 Gastos Liquidação 0 120.000 120.000 Salários e Encargos 269.000 0 269.000 Obrigações Tributárias 348.000 0 348.000 Fornecedores 289.000 0 289.000 Empréstimos 689.000 0 689.000 Provisões Provisões Trabalhistas 12.000 13.000 25.000 Provisões Tributárias 0 153.000 153.000 Provisões Cíveis 0 89.000 89.000 Passivos 1.660.000 375.000 2.035.000\nAtivos Líquidos (497.500) (307.000) (804.500)\nA.3. As bases de mensuração para os ajustes apresentados devem ser indicadas nas respectivas notas explicativas.\nA.4. A Demonstração dos Ativos Líquidos de Abertura representa a primeira demonstração do período no qual a entidade passa a adotar o presente Pronunciamento. O modelo acima apresenta na primeira coluna o último balanço patrimonial conforme produzido pelas normas aplicáveis para as entidades em continuidade. Posteriormente, são apresentados os ajustes necessários para a obtenção dos saldos de abertura da liquidação, incluindo-se o reconhecimento de provisões conforme critérios deste Pronunciamento e identificação de ativos não reconhecidos anteriormente. Por fim, a última coluna representa os saldos iniciais dos ativos e passivos já reconhecidos com base nos critérios exigidos pelo presente Pronunciamento.\nA.5. Juntamente com a Demonstração dos Ativos Líquidos de Abertura, o seguinte modelo da Mutação dos Ativos Líquidos pode ser divulgado:\nDemonstração dos Ativos Líquidos de Abertura\nDAL Abertura\nVenda de Ativos e Serviços Vendas Estoques 0 CMV 0\nVendas Veículos 0 Custo de Venda dos Veículos 0\nVendas Imóveis 0 Custo de Venda dos Imóveis 0\nVendas Marca 0 Custo de Venda da Marca 0\nVenda de Serviços\nAjuste Valor de Liquidação Contas a Receber 1 (12.000) Estoques 2 18.000 Tributos a Compensar 3 (45.000) Veículos 2 12.000 Imóveis 2 120.000 Patente 4 10.000 Software 5 (35.000)\nAjuste Passivos Líquidos Fornecedores 6 0 Empréstimos 6 0\nAjuste Provisões Trabalhistas 7 (13.000) Tributárias 7 (153.000) Cíveis 7 (89.000)\nGastos do Período Salários do Período 0 Impostos 0 Gastos Liquidação (120.000)\nPerda Financeira Juros Empréstimos 0 Juros Ap. Financeiras 0\nVariação dos Ativos Líquidos (307.000)\n1 – Baixa dos recebíveis que se espera não serão recebidos pela entidade.\n2 – Ajuste a valor de liquidação dos ativos.\n3 – Baixa dos Tributos a Compensar que não serão realizados pela utilização ou venda.\n4 – Reconhecimento e mensuração de patente passível de venda não reconhecida anteriormente.\n5 – Baixa do direito de uso de software sem valor de venda.\n6 – Ajuste como resultado da negociação com credores.\n7 – Reconhecimento de provisões possíveis e/ou prováveis não reconhecidas anteriormente.\nA.6. No momento da realização da Demonstração dos Ativos Líquidos de Abertura e da Demonstração da Mutação dos Ativos Líquidos de Abertura, não há Demonstração dos Fluxos de Caixa a ser divulgada, uma vez que se trata somente de ajustes de saldos contábeis para refletir a mudança de critérios de reconhecimento e mensuração de ativos e passivos ocorrida pela adoção do presente Pronunciamento.\nB) Modelo Geral para Entidades em Liquidação – Primeiro Período da Liquidação\nA.7. Ao término do primeiro período da liquidação, os seguintes modelos de demonstrações podem ser adotados:\nDemonstração dos Ativos Líquidos DAL ATIVOS Abertura X1 Caixa e Eq. Caixa 12.500 14.150 Aplicações Financeiras 5.000 5.200 Contas a Receber 40.000 110.000 Estoques 104.000 70.500 Tributos a Compensar 20.000 20.000 Depósitos Judiciais 89.000 85.000 Imobilizado Veículos 180.000 124.000 Imóveis 770.000 325.000 Intangível Patente 10.000 0 Software 0 0 Total de Ativos 1.230.500 753.850\nPASSIVOS Passivos Líquidos Receitas Antecipadas 53.000 41.000 Gastos Liquidação 120.000 122.000 Salários e Encargos 269.000 161.000 Obrigações Tributárias 348.000 288.000 Fornecedores 289.000 184.000 Empréstimos 689.000 531.000 Provisões Provisões Trabalhistas 25.000 25.000 Provisões Tributárias 153.000 159.000 Provisões Cíveis 89.000 52.000 Total de Passivos 2.035.000 1.563.000\nATIVOS LÍQUIDOS (804.500) (809.150)\nDemonstração dos Fluxos de Caixa\nDAL Abertura X1 Realização de Ativos 0 451.650 Venda de Serviços 2.500 Venda Estoque 0 32.000 Venda Veículos 0 50.000 Venda Imóveis 0 350.000 Venda Marca 0 8.000 Rec Contas a Rec 0 19.000 Novos Depósitos 0 (10.000) Rendimentos Financeiros 150 Aplicações Financeiras 0 0\nPagamento de Passivos 0 (450.000) Pagto Rec. Antecipadas 0 (12.000) Pagto Salários 0 (120.000) Pagto Provisão Trab. 0 (14.000) Pagto Impostos 0 (89.000) Pagto Fornecedores 0 (85.000) Pagto Pago Empréstimos 0 (95.000) Pagto Prov. Cível 0 (25.000) Pagto Gastos Liquidação 0 (10.000)\nCaixa Gerado (Consumido) 0 1.650\nSaldo Inicial de Caixa 12.500 12.500 Saldo Final de Caixa 12.500 14.150\nDemonstração da Mutação dos Ativos Líquidos\nDAL Abertura X1\nVenda de Ativos e Serviços Vendas Estoques 0 35.000 CMV 0 (35.000)\nVendas Veículos 0 56.000 Custo de Venda dos Veículos 0 (56.000)\nVendas Imóveis 0 430.000 Custo de Venda dos Imóveis 0 (430.000)\nVendas Marca 0 8.000 Custo de Venda da Marca 0 (8.000)\nVenda de Serviços 4.000\nAjuste Valor de Liquidação Contas a Receber 1 (12.000) (1.500) Estoques 2 18.000 1.500 Tributos a Compensar 3 (45.000) 0 Veículos 2 12.000 0 Imóveis 2 120.000 (15.000) Patente 4 10.000 (2.000) Software 5 (35.000) 0\nAjuste Passivos Líquidos Fornecedores 6 0 20.000 Empréstimos 6 0 75.000\nAjuste Provisões Trabalhistas 7 (13.000) (14.000) Tributárias 7 (153.000) (20.000) Cíveis 7 (89.000) 12.000\nGastos do Período Salários do Período 0 (12.000) Impostos 0 (29.000) Gastos Liquidação (120.000) (12.000)\nPerda Financeira Juros Empréstimos 0 (12.000) Juros Ap. Financeiras 0 350\nVariação dos Ativos Líquidos (307.000) (4.650)\n1 – Baixa dos recebíveis que se espera não serão recebidos pela entidade.\n2 – Ajuste a valor de liquidação dos ativos.\n3 – Baixa dos Tributos a Compensar que não serão realizados pela utilização ou venda.\n4 – Reconhecimento e mensuração de patente passível de venda não reconhecida anteriormente.\n5 – Baixa do direito de uso de software sem valor de venda.\n6 – Ajuste como resultado da negociação com credores.\n7 – Reconhecimento de provisões possíveis e/ou prováveis não reconhecidas anteriormente.\nA.8. Os modelos apresentados para o primeiro período da liquidação devem ser repetidos para os períodos subsequentes.\nC) Modelo para Entidades em Falência\nA.9. Para as entidades que estiverem em processo de falência e enquadradas na Lei n° 11.101/2005 (conforme alterada ou lei posterior que a vier substituir), as suas demonstrações devem apresentar os passivos conforme ordem de liquidação prevista em lei. Assim, de forma a cumprir o determinado no parágrafo 37, os ativos e passivos na Demonstração dos Ativos Líquidos devem ser segregados com base na ordem legalmente exigida, sem deixar de ser apresentadas as suas respectivas naturezas econômicas, podendo o modelo abaixo ser utilizado.\nDemonstração dos Ativos Líquidos – Entidade em falência ATIVOS Caixa e Eq. Caixa Aplicações Financeiras Contas a Receber Estoques Tributos a Compensar Depósitos Judiciais Imobilizado Veículos Imóveis Intangível Patente Software Total de Ativos\nPASSIVOS Passivos Extraconcursais - Art 84 Art. 84 - I – A - Despesas essenciais da Massa (art. 150) Art. 84 - I – A - Saldo de salários vencidos nos últimos 3 meses (art. 151) Art. 84 - I – B – Financiamentos concedidos na Recuperação Judicial Art. 84 - I – C – Restituições (artigo 86) Art. 84 - I – D – Remunerações ao Administrador Judicial e auxiliares Art. 84 - I – D – Reembolsos ao Comitê de Credores Art. 84 - I – D – Créditos derivados da legislação do trabalho após a falência Art. 84 - I – E – Obrigações resultantes de atos jurídicos válidos nos termos do art. 67 ou após a decretação da falência. Art. 84 - II - Quantias Fornecidas à Massa Falida pelos Credores Art. 84 - III - Despesas com arrecadação, administração, realização do ativo, distribuição do seu produto e custas do processo de falência. Art. 84 - IV - Custas judiciais relativas às ações e às execuções em que a massa falida tenha sido vencida. Art. 84 - V - Créditos Tributários - Fatos Geradores após a Decretação Falência Tributos Federais Tributos Estaduais Tributos Municipais Art. 84 - V - Multas - Fatos Geradores após a Decretação Falência Multas Tributárias Federais Multas Tributárias Estaduais Multas Tributárias Municipais Passivos Concursais - Art. 83 Art. 83 - I - Créditos Trabalhistas até 150 salários mínimos Art. 83 - II - Créditos com Garantia Real Art. 83 - III - Créditos Tributários Tributos Federais Tributos Estaduais Tributos Municipais Art. 83 - VI - Créditos Quirografários Art. 83 - VII - Multas Contratuais e Penas Contratuais Art. 83 - VIII - Créditos Subordinados\nTOTAL PASSIVOS\nATIVOS LÍQUIDOS\nA.10. O modelo acima não pretende ser exaustivo e apresentar todas as possibilidades de contas e suas agregações. Outras contas e subcontas podem ser necessárias para cada realidade econômica distinta. Ainda, em casos de alteração das exigências legais, as classificações necessárias devem também ser ajustadas.\nA.11. Alternativamente, a Demonstração dos Ativos Líquidos para as empresas em falência pode ser apresentada de forma mais sintética, sendo mantida, no mínimo, a ordem de liquidação dos passivos.\nA.12. O fato de não ser apresentado modelo de Demonstração das Mutações dos Ativos Líquidos e Demonstração das Mutações dos Ativos Líquidos – Complementar específicos para as entidades em falência não implica na isenção de sua apresentação por parte dessas entidades. Os mesmos modelos gerais apresentados para entidades que não estejam em falência podem ser adotados para entidades em falência. As mesmas segregações do passivo utilizadas na Demonstração dos Ativos Líquidos anteriormente apresentada podem ser adotadas na elaboração das demais demonstrações.\nA.13. A Demonstração dos Fluxos de Caixa para entidades em falência poderá seguir o modelo geral para entidades que não estejam em falência ou o seguinte modelo:"
+  },
+  {
+   "numero": "1#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Saldo inicial das contas judiciais (em R$) 1.397.400 1.709.950"
+  },
+  {
+   "numero": "2#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Entradas (em R$) 1.523.400 416.050 904.330 2.843.780 Vendas de ativos 1 1.510.000 400.000 886.000 2.796.000 Valores provenientes de vendas de imóveis 1.1 1.500.000 400.000 880.000 2.780.000 (arrematações) Vendas de bens móveis 1.2 10.000 - 6.000 16.000 Entradas por recebimento de clientes 2 5.000 6.000 8.000 19.000 Rendimentos financeiros 3 1.100 1.550 2.030 4.680 Rendimentos das contas judiciais 3.1 1.000 1.500 2.000 4.500 Outros rendimentos financeiros 3.2 100 50 30 180 Outras entradas 4 7.000 8.000 8.000 23.000 Recebimentos de valores oriundos de execuções judiciais 4.1 3.000 3.000 2.000 8.000 Recebimentos de devedores por acordos ou 4.2 4.000 5.000 6.000 15.000 execuções Entradas não identificadas 5 300 500 300 1.100 Entradas diversas a identificar 5.1 300 500 300 1.100"
+  },
+  {
+   "numero": "3#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Saídas (em R$) 126.000 103.500 239.000 468.500 Créditos Extraconcursais 6 76.000 23.500 105.000 204.500 Art. 84 - I – A - Despesas essenciais da Massa (art. 150) 6.1 5.000 6.000 6.000 17.000 Art. 84 - I – A - Saldo de salários vencidos nos 6.2 30.000 1.000 - 31.000 últimos 3 meses (art. 151) Art. 84 - I – B – Financiamentos concedidos na 6.3 30.000 1.000 1.000 32.000 Recuperação Judicial Art. 84 - I – C – Restituições (artigo 86) 6.4 1.000 1.000 1.000 3.000 Art. 84 - I – D – Remunerações ao Administrador 6.5 1.000 1.000 1.000 3.000 Judicial e auxiliares Art. 84 - I – D – Reembolsos ao Comitê de Credores 6.6 1.000 1.000 1.000 3.000 Art. 84 - I – D – Créditos derivados da legislação do 6.7 1.000 1.000 1.000 3.000 trabalho após a falência Art. 84 - I – E – Obrigações resultantes de atos jurídicos válidos nos termos do art. 67 ou após a 6.8 1.000 1.000 1.000 3.000 decretação da falência. Art. 84 - II - Quantias Fornecidas à Massa Falida pelos 6.9 1.000 1.000 1.000 3.000 Credores Art. 84 - III - Despesas com arrecadação, administração, realização do ativo, distribuição do seu produto e custas 6.10 1.000 1.000 1.000 3.000 do processo de falência.\nArt. 84 - IV - Custas judiciais relativas às ações e às 6.11 1.000 1.000 1.000 3.000 execuções em que a massa falida tenha sido vencida. Art. 84 - V - Créditos Tributários - Fatos Geradores após a Decretação Falência Tributos Federais 6.12 1.000 2.500 30.000 33.500 Tributos Estaduais 6.13 1.000 2.500 30.000 33.500 Tributos Municipais 6.14 1.000 2.500 30.000 33.500\nCréditos Concursais 7 50.000 80.000 134.000 264.000 Art. 83 - I - Trabalhistas 7.1 50.000 50.000 50.000 150.000 Art. 83 - II - Garantia Real 7.2 - - - - Art. 83 - III - Tributários - União Federal 7.3 - 30.000 - 30.000 Art. 83 - III - Tributários - Estaduais 7.4 15.000 15.000 Art. 83 - III - Tributários - Municipais 7.5 10.000 10.000 Art. 83 - VI - Quirografários 7.6 4.000 4.000 Art. 83 - VII - Multas e penas 7.7 5.000 5.000 Art. 83 - VIII - Subordinados 7.8 50.000 50.000 Art. 83 - IX - os juros vencidos após a decretação da"
+  },
+  {
+   "numero": "7.9",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "falência"
+  },
+  {
+   "numero": "4#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Movimentações por unificações de contas (em R$) 8 Unificações verificadas nos extratos 8.1 Entradas por unificações 10.000 50.000 1.000.000 1.060.000 Saídas por unificações -10.000 -50.000 -1.000.000 -1.060.000"
+  },
+  {
+   "numero": "5#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Variação líquida de caixa (2 - 3 + 4) 9 1.397.400 312.550 665.330 2.375.280"
+  },
+  {
+   "numero": "6#2",
+   "secao": "Descrição da movimentação NE X1 X2 X3 Total",
+   "texto": "Saldo final (1 + 5) 10 1.397.400 1.709.950 2.375.280 2.375.280\nA.14. O modelo de Demonstração dos Fluxos de Caixa acima também não pretende ser exaustivo e apresentar todas as possibilidades de contas e suas agregações. Ajustes podem ser necessários para cada caso individual.\nDEMONSTRAÇÃO DA MOEDA DE LIQUIDAÇÃO\nA.15. A Demonstração da Moeda de Liquidação não é obrigatória em todas as circunstâncias em que há liquidação. Entretanto, em alguns casos essa demonstração é legalmente exigida ou sua divulgação é desejada. Assim, sugere-se o seguinte modelo de divulgação da moeda de liquidação: Descrição das variáveis da liquidação 31.12.X1\nSaldos dos ativos em R$ Valor em Moeda de após liquidação do R$ liquidação passivo\nAtivos totais na liquidação 9.200 Passivos totais na liquidação 13.100 (A) -3.900 Ordem de liquidação\nObrigações Extraconcursais 2.800 Art. 84 - I – A - Despesas essenciais da Massa (art. 150) 100 100% 9.100 Art. 84 - I – A - Saldo de salários vencidos nos últimos 3 meses (art. 100 100% 9.000 151) Art. 84 - I – B – Financiamentos concedidos na Recuperação Judicial 100 100% 8.900 Art. 84 - I – C – Restituições (artigo 86) 200 100% 8.700 Art. 84 - I – D – Remunerações ao Administrador Judicial e auxiliares 300 100% 8.400 Art. 84 - I – D – Reembolsos ao Comitê de Credores 100 100% 8.300 Art. 84 - I – D – Créditos derivados da legislação do trabalho após a 100 100% 8.200 falência Art. 84 - I – E – Obrigações resultantes de atos jurídicos válidos nos 100 100% 8.100 termos do art. 67 ou após a decretação da falência. Art. 84 - II - Quantias Fornecidas à Massa Falida pelos Credores 100 100% 8.000 Art. 84 - III - Despesas com arrecadação, administração, realização 100 100% 7.900 do ativo, distribuição do seu produto e custas do processo de falência. Art. 84 - IV - Custas judiciais relativas às ações e às execuções em 500 100% 7.400 que a massa falida tenha sido vencida. Tributos Federais 200 100% 7.200 Tributos Estaduais 300 100% 6.900 Tributos Municipais 500 100% 6.400 Obrigações Concursais 14.000 Art. 83 - I - Trabalhistas 1.000 100% 5.400 Art. 83 - II - Garantia Real 1.000 100% 4.400 Art. 83 - III - Tributários - União Federal 1.000 100% 3.400 Art. 83 - III - Tributários - Estaduais 1.000 100% 2.400 Art. 83 - III - Tributários - Municipais 1.000 100% 1.400 Art. 83 - VI - Quirografários 6.000 23% -4.600 Art. 83 - VII - Multas e penas 1.000 0% -5.600 Art. 83 - VIII - Subordinados 1.000 0% -6.600 Art. 83 - IX - juros vencidos após a decretação da falência 1.000 0% -7.600\n(A) Por tratar de informação com potencial de interpretações equivocadas, não deve ser divulgada a moeda de liquidação geral e sim os relativos a cada classe de credores, a não ser em casos de exigência regulatória ou judicial. Idealmente, somente as moedas de liquidação individual de cada categoria devem ser divulgadas.\nDIVULGAÇÃO ADICIONAL SUGERIDA\nA.16. De forma complementar e voluntária, a entidade em liquidação pode divulgar a Demonstração das Mutações dos Ativos Líquidos Complementar, na qual são evidenciados, linha a linha, os efeitos das alterações dos saldos ocorridos por conta de fluxos de caixa e\napropriações por competência. A demonstração complementar abaixo é uma junção das três demonstrações apresentadas anteriormente, mas com as informações constantes na Demonstração dos Fluxos de Caixa e na Demonstração das Mutações dos Ativos Líquidos devidamente alocadas a cada linha da Demonstração dos Ativos Líquidos.\nDemonstração da Mutação dos Ativos Líquidos - Complementar\nVariações dos Ativos e Passivos Fluxos de Ajustes Não ATIVOS DAL Abertura Caixa Caixa X1 Caixa e Eq. Caixa 12.500 1.650 0 14.150 Aplicações Financeiras 5.000 0 200 5.200 Contas a Receber 40.000 (19.000) 89.000 110.000 Estoques 104.000 (32.000) (1.500) 70.500 Tributos a Compensar 20.000 0 0 20.000 Depósitos Judiciais 89.000 10.000 (14.000) 85.000 Imobilizado 0 0 Veículos 180.000 (50.000) (6.000) 124.000 Imóveis 770.000 (350.000) (95.000) 325.000 Intangível 0 0 Marca 10.000 (8.000) (2.000) 0 Software 0 0 0 0 Ativos 1.230.500 (447.350) (29.300) 753.850\nPASSIVOS Passivos Líquidos Receitas Antecipadas 53.000 0 (12.000) 41.000 Gastos Liquidação 120.000 (10.000) 12.000 122.000 Salários e Encargos 269.000 (120.000) 12.000 161.000 Obrigações Tributárias 348.000 (89.000) 29.000 288.000 Fornecedores 289.000 (85.000) (20.000) 184.000 Empréstimos 689.000 (95.000) (63.000) 531.000 Provisões Provisões Trabalhistas 25.000 (14.000) 14.000 25.000 Provisões Tributárias 153.000 0 6.000 159.000 Provisões Cíveis 89.000 (25.000) (12.000) 52.000 Passivos 2.035.000 (438.000) (34.000) 1.563.000 Ativos Líquidos (804.500) (9.350) 4.700 (809.150)"
+  }
+ ]
+}

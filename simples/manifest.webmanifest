@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Jarvis Simples — ERP da empresa",
-  "short_name": "Jarvis Simples",
+  "name": "Jarvis ERP — gestão da empresa",
+  "short_name": "Jarvis ERP",
   "description": "Vendas, PDV, serviços, compras, estoque, financeiro, notas fiscais e o contador dentro, no celular e no computador.",
   "start_url": "./",
   "scope": "./",

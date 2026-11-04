@@ -4,7 +4,7 @@
   "n": 1,
   "titulo": "Primeiros passos no Jarvis Reforma",
   "resumo": "Conheça o painel da carteira, os dois modos (escritório e empresa), a empresa ativa, os menus e o botão Conferir um XML.",
-  "segundos": 139
+  "segundos": 138
  },
  "ler-conferencia": {
   "capitulo": "ler-conferencia",
@@ -24,8 +24,8 @@
   "capitulo": "antes-de-emitir",
   "n": 4,
   "titulo": "Antes de emitir: a pré-validação",
-  "resumo": "Na emissão do Jarvis Simples, o XML montado passa pelo Jarvis Reforma antes de transmitir; erro pede a sua confirmação.",
-  "segundos": 128
+  "resumo": "Na emissão do Jarvis ERP, o XML montado passa pelo Jarvis Reforma antes de transmitir; erro pede a sua confirmação.",
+  "segundos": 129
  },
  "depois-de-receber": {
   "capitulo": "depois-de-receber",
@@ -72,7 +72,7 @@
  "emissao-correta": {
   "capitulo": "emissao-correta",
   "n": 14,
-  "titulo": "Emissão correta: o IBS e a CBS do Jarvis Simples",
+  "titulo": "Emissão correta: o IBS e a CBS do Jarvis ERP",
   "resumo": "Quando o grupo IBSCBS entra na nota, o cClassTrib de cada produto com a sugestão pelo NCM e o que a validação barra antes de transmitir.",
   "segundos": 129
  },
@@ -81,7 +81,7 @@
   "n": 15,
   "titulo": "Tabelas da Reforma",
   "resumo": "A versão e a data de cada tabela oficial, a busca por cClassTrib ou CST e o histórico do que mudou em cada versão.",
-  "segundos": 132
+  "segundos": 131
  },
  "simulacao-2026-2033": {
   "capitulo": "simulacao-2026-2033",

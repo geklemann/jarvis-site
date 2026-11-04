@@ -19,7 +19,7 @@ import{calcularVenda as O}from"./vendas.js";export const IMPRESSORA_PADRAO=Objec
   ${a.cliente_documento||a.cliente_nome?`<hr><div>Cliente: ${s(a.cliente_nome||"")}${a.cliente_documento?` · ${s(f(a.cliente_documento))}`:""}</div>`:""}
   <hr>${p?`<div class="c p">NFC-e nº ${s(p.numero)} série ${s(p.serie)}${Number(p.tp_emis)===9?" — EM CONTINGÊNCIA":""}</div>`:'<div class="c p">Documento sem valor fiscal. Peça a NFC-e se precisar.</div>'}
   ${(i.rodape||[]).map(t=>`<div class="c" style="margin-top:4px">${s(t)}</div>`).join("")}
-  <div class="c p" style="margin-top:6px">Jarvis Simples</div>`;return paginaBobina(`Cupom ${a.numero}`,x,$)}export function comprovanteMovimentoHtml(a,{empresa:n={},impressora:r={},caixa:i={},terminal:c="",tipo:d="sangria"}={}){const l=`${g(n)}<div class="c b">${d==="sangria"?"SANGRIA":"SUPRIMENTO"} — CAIXA ${s(i.numero??"")}</div>
+  <div class="c p" style="margin-top:6px">Jarvis ERP</div>`;return paginaBobina(`Cupom ${a.numero}`,x,$)}export function comprovanteMovimentoHtml(a,{empresa:n={},impressora:r={},caixa:i={},terminal:c="",tipo:d="sangria"}={}){const l=`${g(n)}<div class="c b">${d==="sangria"?"SANGRIA":"SUPRIMENTO"} — CAIXA ${s(i.numero??"")}</div>
   <div class="c p">${s(u(a.quando))}${c?` · ${s(c)}`:""}</div><hr>
   <div class="l g"><span>Valor R$</span><span>${o(a.valor)}</span></div><div>Motivo: ${s(a.motivo||"")}</div>
   ${a.destino?`<div>${d==="sangria"?"Destino":"Origem"}: ${s(a.destino)}</div>`:""}${a.supervisor?`<div>Liberado por: ${s(a.supervisor)}</div>`:""}

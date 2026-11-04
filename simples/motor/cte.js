@@ -20,4 +20,4 @@ table.g{width:100%;border-collapse:collapse;table-layout:fixed;margin-top:1.6mm}
   <div class="tit">Observações</div><table class="g"><tr><td style="height:16mm;font-size:8.6px;white-space:pre-wrap">${f([e.observacoes,j(t.crt||a.crt)?"Documento emitido por ME ou EPP optante pelo Simples Nacional.":""].filter(Boolean).join(`
 `))}${(e.correcoes||[]).filter(c=>c.status!=="pendente").map(c=>`
 CC-e ${c.seq}: ${f((c.itens||[]).map(p=>`${p.grupo}/${p.campo} = ${p.valor}`).join("; "))}`).join("")}</td></tr></table>
-  <div style="margin-top:2mm;text-align:right;font-size:8px;color:#444">Emitido pelo Jarvis Simples</div></div>`;return ve(`DACTE ${e.numero??""}`,$,h,fe(e,i))}
+  <div style="margin-top:2mm;text-align:right;font-size:8px;color:#444">Emitido pelo Jarvis ERP</div></div>`;return ve(`DACTE ${e.numero??""}`,$,h,fe(e,i))}

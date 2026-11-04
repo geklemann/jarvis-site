@@ -1,105 +1,105 @@
 WEBVTT
 
 1
-00:00:00.250 --> 00:00:05.253
-Nesta aula você vai ver como o Járvis Simples emite a nota com o i bê ésse e a cê bê ésse
+00:00:00.250 --> 00:00:05.852
+Nesta aula você vai ver como o Jarvis ERP emite a nota com o i bê ésse e a cê bê ésse certos, e
 
 2
-00:00:05.253 --> 00:00:08.626
-certos, e como o Járvis Reforma confere antes de transmitir.
+00:00:05.852 --> 00:00:08.800
+como o Jarvis Reforma confere antes de transmitir.
 
 3
-00:00:09.517 --> 00:00:18.330
-Os emissores do Jarvis Simples (NF-e, NFC-e, NFS-e e CT-e) põem o grupo IBSCBS na nota quando a
+00:00:09.717 --> 00:00:19.074
+Os emissores do Jarvis ERP (NF-e, NFC-e, NFS-e e CT-e) põem o grupo IBSCBS na nota quando a lei
 
 4
-00:00:18.330 --> 00:00:20.279
-lei obriga a empresa.
+00:00:19.074 --> 00:00:20.749
+obriga a empresa.
 
 5
-00:00:20.983 --> 00:00:25.093
+00:00:21.450 --> 00:00:25.444
 Em Notas Fiscais › Configurar › Configuração fiscal, abra a aba Regime.
 
 6
-00:00:25.783 --> 00:00:32.378
+00:00:26.117 --> 00:00:32.619
 Desça até IBS e CBS. A linha da situação diz, pelo regime, desde quando a lei obriga.
 
 7
-00:00:32.378 --> 00:00:35.791
+00:00:32.619 --> 00:00:35.985
 No Simples Nacional, a partir de 01/01/2027.
 
 8
-00:00:36.517 --> 00:00:43.827
+00:00:36.717 --> 00:00:43.748
 No regime normal, a obrigação é desde 03/08/2026; na NFS-e, desde 01/10/2026.
 
 9
-00:00:44.517 --> 00:00:46.499
+00:00:44.450 --> 00:00:46.450
 A empresa pode ligar antes da data.
 
 10
-00:00:46.499 --> 00:00:51.768
-O Járvis pede a confirmação e lembra de conferir com o contador. Desmarcar não desliga a lei:
+00:00:46.450 --> 00:00:51.764
+O Jarvis pede a confirmação e lembra de conferir com o contador. Desmarcar não desliga a lei:
 
 11
-00:00:51.768 --> 00:00:53.921
+00:00:51.764 --> 00:00:53.935
 na data, o grupo entra do mesmo jeito.
 
 12
-00:00:54.650 --> 00:01:00.850
+00:00:54.650 --> 00:01:01.035
 O CST e o cClassTrib vêm do cadastro de cada produto. Abra Cadastros › Produtos e serviços.
 
 13
-00:01:01.517 --> 00:01:03.943
+00:01:01.717 --> 00:01:03.994
 Abra o café em grãos e vá à aba Fiscal.
 
 14
-00:01:05.717 --> 00:01:11.175
+00:01:05.917 --> 00:01:11.307
 Em Reforma Tributária, ao lado do cClassTrib, aparece a sugestão pelo NCM:
 
 15
-00:01:11.175 --> 00:01:16.413
+00:01:11.307 --> 00:01:16.479
 200003, porque o café está na Cesta Básica Nacional, com alíquota zero.
 
 16
-00:01:17.117 --> 00:01:21.639
+00:01:17.183 --> 00:01:21.689
 Com o campo vazio, a sugestão é gravada no produto. Ela é um ponto de partida:
 
 17
-00:01:21.639 --> 00:01:26.394
+00:01:21.689 --> 00:01:26.425
 os anexos de destinação dependem do uso do produto, então confirme com o contador.
 
 18
-00:01:27.117 --> 00:01:32.707
+00:01:27.117 --> 00:01:32.660
 Na emissão, ao validar, o Jarvis barra o cClassTrib fora da tabela oficial, fora de vigência ou
 
 19
-00:01:32.707 --> 00:01:36.238
+00:01:32.660 --> 00:01:36.162
 que não vale no modelo, e o combustível sem o código da ANP.
 
 20
-00:01:36.917 --> 00:01:42.786
+00:01:36.850 --> 00:01:42.906
 Depois, na guia Conferência, a pré-validação do Jarvis Reforma confere o XML montado, com as
 
 21
-00:01:42.786 --> 00:01:44.828
+00:01:42.906 --> 00:01:45.012
 regras do IBS e da CBS primeiro.
 
 22
-00:01:45.517 --> 00:01:52.250
+00:01:45.717 --> 00:01:52.621
 Antes de 2027, a nota da Loja Modelo sai sem o grupo, e aparece só o informativo do cronograma.
 
 23
-00:01:52.250 --> 00:01:57.283
+00:01:52.621 --> 00:01:57.782
 Com o grupo ligado, cada item é conferido: CST, cClassTrib e alíquotas.
 
 24
-00:01:57.983 --> 00:01:59.058
+00:01:58.450 --> 00:01:59.568
 Agora é a sua vez.
 
 25
-00:01:59.058 --> 00:02:04.490
-Na demonstração do Járvis Simples, abra o café em grãos e veja a sugestão do cê class trib.
+00:01:59.568 --> 00:02:04.974
+Na demonstração do Jarvis ERP, abra o café em grãos e veja a sugestão do cê class trib.
 
 26
-00:02:04.490 --> 00:02:08.072
+00:02:04.974 --> 00:02:08.702
 O passo a passo completo está no capítulo catorze do manual.

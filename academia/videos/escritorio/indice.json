@@ -11,7 +11,7 @@
   "n": 2,
   "titulo": "Empresas: a carteira, a implantação e a ficha",
   "resumo": "Filtre a carteira e aja em lote, cadastre e implante uma empresa, mantenha o regime com vigência e os sócios na ficha e leia a Visão 360°.",
-  "segundos": 150
+  "segundos": 151
  },
  "escrita-fiscal-documentos": {
   "capitulo": "escrita-fiscal-documentos",
@@ -102,7 +102,7 @@
   "n": 15,
   "titulo": "Portal do cliente: guias, documentos, pedidos e comunicados",
   "resumo": "Dê a cada cliente um portal com guias e documentos, cobre o que ele precisa mandar, responda às solicitações e envie comunicados com leitura confirmada.",
-  "segundos": 129
+  "segundos": 130
  },
  "administrar": {
   "capitulo": "administrar",

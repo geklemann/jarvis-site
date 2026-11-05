@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as d,ic as E,brl as q,dataBR as x,compBR as k,hojeIso as y,toast as h,confirmar as N}from"../../comum/nucleo.js";import{painelLateral as L}from"../../comum/kit/painel.js";import{formularioPagina as I}from"../../comum/kit/formulario.js";import{tabelaDados as P}from"../../comum/kit/tabela.js";import{imprimirRelatorio as j,previaRelatorio as B,baseRelatorio as T}from"../../comum/kit/relatorio.js";import{montarRelatorio as U}from"../../motor/relatorio.js";import*as i from"../../motor/protocolo.js";export{i as P};const V=`
 .mod-protocolo .pr-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-protocolo .pr-cab h1{font-size:20px;margin:0}

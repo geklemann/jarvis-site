@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as d,ic as S,toast as y}from"../../../../escritorio/comum/nucleo.js";import{preparar as $,semEmpresa as E,cab as A,aviso as k,modoDemo as L}from"../../pessoas/telas/base.js";import{executar as _}from"../assistente_ferramentas.js";const q=8,T=["Como foi o mês até agora?","Quem está me devendo?","Quais produtos estão acabando?","Quanto deve dar o DAS deste mês?"],z=`.as-chat{display:flex;flex-direction:column;gap:10px;max-width:860px}
 .as-msg{border:1px solid var(--borda);border-radius:var(--raio);padding:10px 12px;background:var(--painel);font-size:14px;line-height:1.5;overflow-wrap:anywhere}
 .as-msg.eu{background:var(--painel2);align-self:flex-end;max-width:85%}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as m,ic as y,toast as z,hojeIso as _,compSomar as u}from"../../comum/nucleo.js";import{painelLateral as $}from"../../comum/kit/painel.js";import*as n from"../../motor/administrar.js";import{feriadosNacionais as S}from"../../motor/calendario.js";export{n as A};const D=`
 .mod-administrar .ad-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-administrar .ad-cab h1{font-size:20px;margin:0}

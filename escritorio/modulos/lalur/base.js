@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as v,ic as q,brl as x,compBR as P,dataBR as B,fimDoMes as I}from"../../comum/nucleo.js";import{apurarExercicio as E,TABELA_AJUSTES_PADRAO as T,ALIQUOTAS as J,controleParteB as M}from"../../motor/lalur.js";import{limparCacheFontes as O}from"../../comum/kit/fontes.js";import{responsaveisEcd as G}from"../../motor/empresas.js";const U=`
 .mod-lalur .ml-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-lalur .ml-cab h1{font-size:20px;margin:0}

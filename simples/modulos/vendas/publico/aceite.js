@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{conectar as $}from"../../../../escritorio/comum/dados.js";import{esc as t,brl as d,dataBR as p,toast as _}from"../../../../escritorio/comum/nucleo.js";import{imprimirRelatorio as y,baseRelatorio as P}from"../../../../escritorio/comum/kit/relatorio.js";import{montarRelatorio as S}from"../../../../escritorio/motor/relatorio.js";import{linhasProposta as k,COLUNAS_PROPOSTA as w}from"../../../motor/vendas_analise.js";import{codigoVerificacao as v}from"../../../motor/vendas_aceite.js";const q=`
 .mod-aceite{max-width:760px;margin:0 auto;padding:18px 16px 40px}
 .mod-aceite .ac-cartao{background:var(--painel);border:1px solid var(--borda);border-radius:var(--raio);padding:16px;margin-bottom:12px}

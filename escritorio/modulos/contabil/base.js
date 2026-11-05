@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as v,ic as $,brl as w,compBR as y,dataBR as _,fimDoMes as S,compSomar as k}from"../../comum/nucleo.js";import{semEncerramento as N}from"../../motor/demonstracoes.js";import{agregados as z}from"../../motor/analise.js";import{limparCacheFontes as C}from"../../comum/kit/fontes.js";import{tabelaDados as D}from"../../comum/kit/tabela.js";const M=`
 .mod-contabil .mc-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-contabil .mc-cab h1{font-size:20px;margin:0}

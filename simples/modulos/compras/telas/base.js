@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as i,ic as d,brl as u,dataBR as x,hojeIso as c,toast as n,num as f}from"../../../../escritorio/comum/nucleo.js";import{fonteLocal as m,limparCacheFontes as g}from"../../../../escritorio/comum/kit/fontes.js";import{mascarar as p}from"../../../../escritorio/comum/kit/mascaras.js";import{posicoes as v,estocavel as b,r4 as l}from"../../../motor/estoque.js";import{preferenciasCompras as q,numeroPedidoCompra as h,numeroRequisicao as w}from"../../../motor/compras_v2.js";import{preferenciasEstoque as _,reservadoPorProduto as y,saldosEndereco as k}from"../../../motor/estoque_v2.js";const $=`
 :is(.mod-compras,.mod-estoque) .mc-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 :is(.mod-compras,.mod-estoque) .mc-cab h1{font-size:20px;margin:0}

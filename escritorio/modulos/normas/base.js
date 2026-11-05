@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as t,ic as d,brl as g,dataBR as b}from"../../comum/nucleo.js";import{NORMAS as y,acharNorma as z,CONSULTADO_EM as k}from"../../motor/normas/catalogo.js";import{contaDoPlano as C,contaReferencial as j,totaisDaPartida as E,totaisDoExemplo as S}from"../../motor/normas/roteiros.js";import{NOMES_SITUACAO as h,comandoAprovar as D}from"../../motor/normas/revisao.js";export{t as esc,d as ic,g as brl,b as dataBR,k as CONSULTADO_EM};const R=`
 .mod-normas{--nm-max:1100px}
 .mod-normas .nm-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}

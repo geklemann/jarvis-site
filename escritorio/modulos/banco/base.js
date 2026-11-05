@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as p,ic as l,brl as u,compBR as x,dataBR as b,fimDoMes as f}from"../../comum/nucleo.js";import{parametros as g,situacaoExtrato as v,classificarMovimento as h,memoriaExtrato as w}from"../../motor/conciliacao_bancaria.js";const _=`
 .mod-banco .mb-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 .mod-banco .mb-cab h1{font-size:20px;margin:0}

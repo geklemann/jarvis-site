@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{conectar as Q}from"../../../../escritorio/comum/dados.js";import{esc as c,brl as I,dataBR as g,compBR as M,toast as m}from"../../../../escritorio/comum/nucleo.js";import{imprimirRelatorio as C}from"../../../../escritorio/comum/kit/relatorio.js";import{montarRelatorio as z}from"../../../../escritorio/motor/relatorio.js";import{TIPOS_FOLHA as V}from"../../../../escritorio/motor/folha.js";import{sha256 as K}from"../../../motor/pdv_caixa.js";import*as N from"../../../motor/pessoas_v2.js";import*as L from"../../../motor/ponto_v2.js";import*as P from"../../../motor/rh_v2.js";const X=`
 .mod-funcionario{max-width:780px;margin:0 auto;padding:18px 16px 40px}
 .mod-funcionario .fu-cartao{background:var(--painel);border:1px solid var(--borda);border-radius:var(--raio);padding:14px 16px;margin-bottom:12px;min-width:0}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{ic as i,toast as d,confirmar as n}from"../../../comum/nucleo.js";import{tabelaDados as b}from"../../../comum/kit/tabela.js";import{preparar as v,cabecalho as u,kpi as l,aviso as h,mensagem as p}from"../base.js";export async function render(o,a){if(v(o),a.api?.modo!=="demo"){o.innerHTML=`${u("Limpar demonstração")}${h("Só na demonstração. Na nuvem os dados são do escritório e não se limpam por aqui.","azul")}`;return}o.innerHTML=`${u("Limpar demonstração","Os dados da demonstração são fictícios e ficam só neste navegador (IndexedDB).")}
     <div class="ad-kpis" data-kpis></div>
     <div class="ad-dupla">

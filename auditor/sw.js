@@ -1,1 +1,2 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 const CACHE_ANTIGO="jarvis-auditor-";self.addEventListener("install",()=>self.skipWaiting()),self.addEventListener("activate",a=>a.waitUntil((async()=>{for(const t of await caches.keys())t.startsWith(CACHE_ANTIGO)&&await caches.delete(t);await self.registration.unregister();const e=await self.clients.matchAll({type:"window"});for(const t of e)try{await t.navigate(t.url)}catch{}})()));

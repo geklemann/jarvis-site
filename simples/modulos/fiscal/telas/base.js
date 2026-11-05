@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as c,ic as x,brl as w,dataBR as q,toast as $,baixar as y,erro as C,hojeIso as N}from"../../../../escritorio/comum/nucleo.js";import{painelLateral as z}from"../../../../escritorio/comum/kit/painel.js";import*as d from"../../../motor/nfe.js";import*as u from"../../../motor/nfse.js";import*as g from"../../../motor/mdfe.js";import*as _ from"../../../motor/cte.js";import{documentoAuxiliar as D,NOME_DOC_AUXILIAR as k}from"../../../motor/danfe.js";import{r2 as h}from"../../../motor/erp_base.js";import{validarCNPJ as E}from"../../../../escritorio/motor/importar.js";import{carregarTabelaCClassTrib as M}from"../../../../escritorio/motor/reforma.js";const A=`
 .mod-sfiscal .sf-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 .mod-sfiscal .sf-cab h1{font-size:20px;margin:0}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as m,ic as p,toast as o,traduzErro as u}from"./nucleo.js";export function telaEntrada(i,t,n,{aoEntrar:c,aoDemo:f}){let a="entrar";const s=()=>{i.innerHTML=`<div class="entrada">
       <div class="arte">
         <div class="marca" style="padding:0"><span class="logo">J</span><div>Jarvis ${m(n.nome)}<small style="color:#fff;opacity:.7">${m(n.sub)}</small></div></div>

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{foneWhatsApp as s,linkWhatsApp as p}from"./servicos.js";export{s as foneWhatsApp,p as linkWhatsApp};const r=e=>(Number(e)||0).toLocaleString("pt-BR",{style:"currency",currency:"BRL"}),m=e=>e?String(e).slice(0,10).split("-").reverse().join("/"):"",i=e=>String(e||"").trim().split(/\s+/)[0]||"";export const VARIAVEIS=Object.freeze({cliente:"primeiro nome do cliente",empresa:"nome da sua empresa",numero:"número do documento",valor:"valor total",vencimento:"vencimento",validade:"validade do orçamento",itens:"lista dos itens",link:"link (aceite, DANFE ou rastreio)",chave:"chave de acesso da nota",linha:"linha digitável do boleto",pix:"Pix copia e cola"}),MODELOS_PADRAO=Object.freeze({orcamento:`Olá, {cliente}! Segue o orçamento nº {numero} da {empresa}, no valor de {valor}, válido até {validade}.
 {itens}
 Para ver e aceitar: {link}

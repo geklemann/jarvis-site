@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as s,ic as h,toast as w,dataBR as _,uid as S}from"../../comum/nucleo.js";import{tabelaDados as A}from"../../comum/kit/tabela.js";import{painelLateral as M}from"../../comum/kit/painel.js";import*as u from"../../motor/portal.js";const z=`
 .mod-portal-cli .pc-kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin:0 0 12px}
 .mod-portal-cli .pc-kpi{background:var(--painel);border:1px solid var(--borda);border-radius:var(--raio);padding:8px 12px;min-width:0}

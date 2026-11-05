@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as f,ic as v,brl as g,compBR as x,dataBR as _,toast as h,modal as w,campoHtml as $}from"../../comum/nucleo.js";import{fonteLocal as y,limparCacheFontes as k}from"../../comum/kit/fontes.js";import{painelLateral as z}from"../../comum/kit/painel.js";import{montarRelatorio as S}from"../../motor/relatorio.js";import{baseRelatorio as C,previaRelatorio as q}from"../../comum/kit/relatorio.js";import{GRUPOS as M,TIPOS_BAIXA as P,calcularMesParalelo as E,registrosDoMes as R,conciliarBalancete as A}from"../../motor/patrimonio.js";import{normalizarParametros as B,lancamentosIntegracao as D}from"../../motor/patrimonio_controle.js";const T=`
 .mod-patrimonio .pt-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-patrimonio .pt-cab h1{font-size:20px;margin:0}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as x,ic as k,toast as E}from"../../../comum/nucleo.js";import{limparCacheFontes as z,fonteLocal as n}from"../../../comum/kit/fontes.js";import{CODIGOS_RECEITA as S,CODIGOS_RECEITA_GNRE as R,NATUREZAS_RENDIMENTO as T,NAT_BC_CRED as F,TABELAS_REF as N}from"../../../motor/fiscal_referencias.js";import{painelLateral as h}from"../../../comum/kit/painel.js";import{formularioPagina as D}from"../../../comum/kit/formulario.js";import{previaRelatorio as I,baseRelatorio as A}from"../../../comum/kit/relatorio.js";import{montarRelatorio as M}from"../../../motor/relatorio.js";import{parametrosVigentes as q}from"../../../motor/fiscal_cadastros.js";const L=`
 .mod-fiscal .fc-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 .mod-fiscal .fc-cab h1{font-size:20px;margin:0}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as r,brl as m}from"../../../comum/nucleo.js";import{ehSimples as u}from"../base.js";const c=`
 .mod-auditor .au-sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .mod-auditor .au-grade{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:10px;align-items:stretch;margin-bottom:10px}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as c,ic as h,brl as b,dataBR as $,toast as v,modal as w}from"../../comum/nucleo.js";import{mascarar as _}from"../../comum/kit/mascaras.js";import*as p from"../../motor/auditor/apontamentos.js";export{p as A};const y=`
 .mod-auditor .au-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-auditor .au-cab h1{font-size:20px;margin:0}

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{tabelaDados as C}from"../../../comum/kit/tabela.js";import{lerTextoAuto as A}from"../../../comum/nucleo.js";import*as n from"../base.js";import"../apoio.js";const{F:g,D:_,esc:$,ic:S,brl:k,dataBR:L,toast:w,erro:I,confirmar:V}=n;export async function render(i,s){n.preparar(i);const f=await n.carregar(s),q=s.pode("editar");i.innerHTML=`${n.cabecalho("Importar empregados","CSV de outro sistema ou XML do S-2200. Confira a prévia e importe só as linhas válidas.","")}
     <div class="mf-dupla"><div class="mf-cartao"><h3>Arquivo</h3>
       <div class="seg" role="radiogroup" data-tipo><button type="button" role="radio" class="ativo" aria-checked="true" data-t="csv">CSV (planilha)</button><button type="button" role="radio" aria-checked="false" data-t="xml">XML do S-2200</button></div>

@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as t,ic as j,brl as g,dataBR as z,compBR as E,hojeIso as C,toast as A,confirmar as B}from"../../../../escritorio/comum/nucleo.js";import{fonteLocal as D,limparCacheFontes as S}from"../../../../escritorio/comum/kit/fontes.js";import{painelLateral as T}from"../../../../escritorio/comum/kit/painel.js";import{mascarar as q}from"../../../../escritorio/comum/kit/mascaras.js";import*as p from"../../../motor/financeiro.js";import*as b from"../../../motor/fin_v2.js";import*as I from"../../../motor/fin_operacoes.js";const L=`
 .mod-financeiro .mf-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 .mod-financeiro .mf-cab h1{font-size:20px;margin:0}

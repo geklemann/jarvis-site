@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as b,ic as w,brl as I,dataBR as h,compBR as J,hojeIso as X,toast as C,confirmar as G,cnpjFmt as Q}from"../../comum/nucleo.js";import{painelLateral as K}from"../../comum/kit/painel.js";import{formularioPagina as k,ErroFormulario as S}from"../../comum/kit/formulario.js";import{tabelaDados as W}from"../../comum/kit/tabela.js";import*as i from"../../motor/central_fiscal.js";import{somarDias as Y}from"../../motor/calendario.js";export{i as C,S as ErroFormulario};const Z=`
 .mod-central .cf-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-central .cf-cab h1{font-size:20px;margin:0}

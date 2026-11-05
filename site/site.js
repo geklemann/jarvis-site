@@ -1,3 +1,4 @@
+// © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md.
 // Site institucional do Jarvis: menu, animações ao rolar, tour do produto, planos mensal/anual, vídeo, formulários
 // (gravam em site_contatos, só a equipe Jarvis lê) e contatos públicos da Central (plataforma_config).
 (()=>{

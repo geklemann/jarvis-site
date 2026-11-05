@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as l,ic as g,brl as $,modal as S,toast as E,uid as k}from"../../../escritorio/comum/nucleo.js";import{painelLateral as O}from"../../../escritorio/comum/kit/painel.js";import{assistente as P}from"../../../escritorio/comum/kit/assistente.js";import{autorizarAsync as T,parametrosPdv as _,ACOES_ALCADA as q,FUNCOES as A,MOTIVOS_PADRAO as C,NOMES_MOTIVO as L}from"../../motor/pdv_caixa.js";import*as D from"./local.js";import{fonteLocal as z}from"../../../escritorio/comum/kit/fontes.js";import*as w from"./sincronia.js";import{novaOperacao as j}from"../../motor/pdv_offline.js";export{_ as parametrosPdv,q as ACOES_ALCADA,A as FUNCOES};const N=`
 .mod-pdv .pv-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-pdv .pv-cab h1{font-size:20px;margin:0}

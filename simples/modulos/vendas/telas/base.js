@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as v,ic as c,brl as f,dataBR as g,hojeIso as l,toast as _}from"../../../../escritorio/comum/nucleo.js";import{fonteLocal as h,limparCacheFontes as w}from"../../../../escritorio/comum/kit/fontes.js";import{saldosEstoque as y}from"../../../motor/erp_base.js";import*as n from"../../../motor/vendas.js";import{preferenciasVendas as k,numeroFormatado as b,OPERACOES as $}from"../../../motor/vendas_regras.js";import{disponibilidade as z,textoDisponivel as u}from"../../../motor/vendas_estoque.js";import{saldosVariacoes as q,precoVariacao as V}from"../../../motor/vendas_grade.js";const D=`
 .mod-vendas .mv-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:10px}
 .mod-vendas .mv-cab h1{font-size:20px;margin:0}

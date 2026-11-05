@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as d,ic as g,brl as h,compBR as b,dataBR as v,modal as w,toast as y}from"../../comum/nucleo.js";import{baseRelatorio as $}from"../../comum/kit/relatorio.js";import{fonteLocal as k,limparCacheFontes as _}from"../../comum/kit/fontes.js";import{painelLateral as u}from"../../comum/kit/painel.js";import{configCompleta as z,SITUACOES_CONTRATO as x}from"../../motor/honorarios.js";import{SITUACOES_DETALHADAS as p,situacaoDetalhada as j}from"../../motor/hon_gestao.js";const S=`
 .mod-honorarios .mh-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-honorarios .mh-cab h1{font-size:20px;margin:0}

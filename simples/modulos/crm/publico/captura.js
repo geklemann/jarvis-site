@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{conectar as h}from"../../../../escritorio/comum/dados.js";import{esc as n}from"../../../../escritorio/comum/nucleo.js";import{CAMPOS_CAPTURA as b,normalizarCaptura as g,TEXTO_CONSENTIMENTO as $}from"../../../motor/crm_v2.js";const y=`
 .mod-captura{max-width:560px;margin:0 auto;padding:18px 16px 40px}
 .mod-captura .cp-cartao{background:var(--painel);border:1px solid var(--borda);border-radius:var(--raio);padding:16px;margin-bottom:12px}

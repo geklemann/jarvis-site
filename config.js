@@ -1,1 +1,2 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 window.CONCILIA_CONFIG={supabaseUrl:"https://czimvcsktxkplmvtjrpu.supabase.co",supabaseAnonKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN6aW12Y3NrdHhrcGxtdnRqcnB1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4NTY5MjMsImV4cCI6MjEwNzQzMjkyM30.zk2gq_ThYDM-90wXOgnJLUB30JLR0h5yXBJilYSNcL0",vapidPublicKey:"BLwrIZ3lgR-D1gOUtZE9ptvkHm41nI4dbnY05Cj3UizgN-tuWZ_0RZO0_Lons_Z8N1Hi7Yepxoa2m-Kl07xP9K0"};

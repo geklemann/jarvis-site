@@ -1,3 +1,4 @@
+/* © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 /* Academia Jarvis (site/academia.mjs): trilhas, índice do manual e páginas de capítulo. Usa as variáveis do site.css. */
 .ac-ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
 .ac-migalha{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:14px;color:var(--muted);margin-bottom:22px}

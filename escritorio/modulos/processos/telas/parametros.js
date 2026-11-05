@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as l,ic as g,toast as f}from"../../../comum/nucleo.js";import{formularioPagina as h,ErroFormulario as m}from"../../../comum/kit/formulario.js";import{P as v,preparar as b,cabecalho as _,aviso as t,lerParametros as A,PARAMETROS_PADRAO as r,auditar as P,exigir as S,mensagem as x,MIGRACAO as D}from"../base.js";export async function render(i,o){b(i);const n=o.pode?.("configurar")!==!1,d=await A(o),c=o.api.modo==="demo";return i.innerHTML=`${_("Parâmetros do módulo","Valem para o escritório inteiro. A meta do modelo e a do vínculo com a empresa vencem a meta padrão.")}
     ${d._semTabela?t(`A tabela de parâmetros chega com a migração <b>${l(D)}</b>; até lá valem os padrões.`,"ouro"):""}
     ${n?"":t('Somente leitura: alterar exige a ação "configurar" no módulo Processos.',"ouro")}

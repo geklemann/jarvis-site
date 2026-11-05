@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as n,ic as S,brl as C,dataBR as L,toast as _,confirmar as M,modal as k,baixar as q}from"../../comum/nucleo.js";import{painelLateral as N}from"../../comum/kit/painel.js";import{formularioPagina as T}from"../../comum/kit/formulario.js";import{tabelaDados as j}from"../../comum/kit/tabela.js";import{mascarar as A}from"../../comum/kit/mascaras.js";import*as p from"../../motor/captura.js";import{lerXmlFiscal as X,montarZip as O}from"../../motor/importar.js";import{conferirCapturados as D}from"../auditor/ligacao.js";export{p as C};const F=`
 .mod-captura .cp-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-captura .cp-cab h1{font-size:20px;margin:0}

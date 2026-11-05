@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md.
 // Agente local de periféricos do caixa do Jarvis Simples (PDV). Roda no computador do caixa (Node 18+, sem dependências)
 // e atende só em 127.0.0.1: o navegador do caixa manda os comandos e o agente fala com o que o navegador não alcança.
 //   • POST /imprimir   { dados: base64 }   → manda os bytes ESC/POS para a impressora (USB, rede 9100 ou compartilhada);

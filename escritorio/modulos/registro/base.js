@@ -1,3 +1,4 @@
+/*! © 2026 GK Soluções Empresariais LTDA (CNPJ 60.180.675/0001-91) · Todos os direitos reservados. Veja LICENSE e AUTORIA.md. */
 import{esc as m,ic as q,brl as C,dataBR as z,hojeIso as k,toast as T,confirmar as M}from"../../comum/nucleo.js";import{painelLateral as B}from"../../comum/kit/painel.js";import{formularioPagina as L,ErroFormulario as G}from"../../comum/kit/formulario.js";import{tabelaDados as j}from"../../comum/kit/tabela.js";import{gradeEditavel as H}from"../../comum/kit/grade.js";import{assistente as J}from"../../comum/kit/assistente.js";import*as _ from"../../motor/registro.js";import*as f from"../../motor/societario.js";export{_ as R,f as S};const Q=`
 .mod-registro .rg-cab{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
 .mod-registro .rg-cab h1{font-size:20px;margin:0}

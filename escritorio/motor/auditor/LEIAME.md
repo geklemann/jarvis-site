@@ -23,6 +23,10 @@ Desde 03/11/2026 (PR 3): os eventos da Reforma na NF-e têm leitor próprio (`ev
 documento `evento`, `motor.conferirEvento(xml, { nota, eventos })`); o CT-e OS (modelo 67) entra no leitor do CT-e, com `regra.modelos`
 também no CT-e; a NFS-e lê os campos da NT 009; `tabelas/nfse-anexo-viii.json` (Anexo VIII) vai vazio até a planilha ser convertida.
 
+Desde 05/11/2026: `versoes.js` (os documentos oficiais em uso, com a versão, e `impactoDaVersao({ doc, versao })`, que diz se uma
+versão detectada é nova e quais regras citam o documento, sem mudar nenhuma) e `calendario.js` (as datas da Reforma de 2023 a
+2033 com o fundamento, para a tela Calendário da Reforma). Os dois vão na cópia do servidor.
+
 `motor/auditor_fiscal.js` só reexporta `competencia.js` (`auditar`, `REGRAS`, `NCM_MONOFASICO`), para a tela
 `modulos/fiscal/telas/apur_auditor.js` e os testes que ainda importam de lá.
 

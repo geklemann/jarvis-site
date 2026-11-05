@@ -1,5 +1,6 @@
 import{esc as t,ic as l,avatar as k,cnpjFmt as f,compBR as C,MESES_LONGOS as y}from"../nucleo.js";import{registrar as v}from"../kit/atalhos.js";import{NOMES_REGIME as E}from"./registro.js";import{codigoFmt as x}from"./empresa_ativa.js";const S={mei:"roxo",simples:"azul",presumido:"ouro",real:"verm"};export function estrutura(o,{sistema:a,demo:e=null}={}){o.innerHTML=`<div class="cs-app" data-sistema="${t(a)}">
     ${e?`<div class="demo-faixa cs-demo">${l("raio")} <b>Demonstração</b> <span class="desc">— ${t(e.texto||"dados fictícios, gravados só neste navegador.")}</span> <a href="#" data-acao="demo-sair" style="margin-left:auto">Sair da demonstração</a> · <a href="#" data-acao="demo-recomecar">Recomeçar</a></div>`:""}
+    <div class="cs-assin" data-regiao="assinatura" role="status" hidden></div>
     <div class="cs-moldura">
       <aside class="cs-lateral" data-regiao="lateral" aria-label="Navegação"></aside>
       <div class="cs-principal">
@@ -17,7 +18,7 @@ import{esc as t,ic as l,avatar as k,cnpjFmt as f,compBR as C,MESES_LONGOS as y}f
     <div class="cs-veu" data-acao="lateral-fechar" aria-hidden="true"></div>
     <nav class="cs-abas-mob" data-regiao="abasmob" aria-label="Atalhos" hidden></nav>
     <footer class="cs-status" data-regiao="status" role="contentinfo"></footer>
-  </div>`;const s=n=>o.querySelector(`[data-regiao="${n}"]`);return{app:o.querySelector(".cs-app"),lateral:s("lateral"),topo:s("topo"),menus:s("menus"),trilha:s("trilha"),conteudo:s("conteudo"),status:s("status"),abasMob:s("abasmob")}}export function htmlChipEmpresa(o){const a=o.empresa;return a?`<button type="button" class="cs-chip cs-chip-emp" data-acao="empresa" title="${t(`${x(a.codigo)} · ${a.razao||a.nome}${a.cnpj?" · "+f(a.cnpj):""} — trocar de empresa (F8)`)}">
+  </div>`;const s=n=>o.querySelector(`[data-regiao="${n}"]`);return{app:o.querySelector(".cs-app"),lateral:s("lateral"),topo:s("topo"),menus:s("menus"),trilha:s("trilha"),conteudo:s("conteudo"),status:s("status"),abasMob:s("abasmob"),assinatura:s("assinatura")}}export function htmlChipEmpresa(o){const a=o.empresa;return a?`<button type="button" class="cs-chip cs-chip-emp" data-acao="empresa" title="${t(`${x(a.codigo)} · ${a.razao||a.nome}${a.cnpj?" · "+f(a.cnpj):""} — trocar de empresa (F8)`)}">
     <span class="cs-cod mono">${t(x(a.codigo))}</span><span class="cs-emp-nome">${t(a.nome)}</span>${a.cnpj?`<span class="cs-emp-cnpj mono">${t(f(a.cnpj))}</span>`:""}
     <span class="selo ${S[a.regime]||""} cs-emp-reg">${t(E[a.regime]||a.regime||"")}</span><kbd>F8</kbd></button>`:`<button type="button" class="cs-chip cs-chip-emp vazio${o.exigeEmpresa?" pede":""}" data-acao="empresa" title="Escolher a empresa ativa (F8)">${l("predio")}<span class="cs-emp-nome">Escolher empresa</span><kbd>F8</kbd></button>`}export function desenharTopo(o,a){o.innerHTML=`
     <div class="cs-chips">

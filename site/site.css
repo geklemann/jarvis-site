@@ -240,7 +240,7 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 .portes{margin-top:18px}.porte{padding:22px 24px;border-radius:16px;border:1px dashed var(--line2)}.porte b{display:block;font:700 18px var(--fh)}.porte p{font-size:14.5px;margin:6px 0 10px}
 .porte span{font-size:12.5px;font-weight:600;color:var(--acc);letter-spacing:.04em}
 /* Planos: abas por produto */
-.prod-abas{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:0 auto 26px;max-width:1280px}
+.prod-abas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 auto 26px;max-width:1120px}
 .prod-abas button{display:flex;gap:12px;align-items:center;text-align:left;padding:14px 16px;border-radius:16px;border:1px solid var(--line);background:var(--surface);color:var(--text);font:inherit;cursor:pointer;transition:border-color .2s,background .2s}
 .prod-abas button:hover{border-color:var(--line2)}.prod-abas button[aria-selected=true]{border-color:rgba(138,166,255,.6);background:rgba(138,166,255,.1)}
 .prod-abas .ic{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;flex:none}.prod-abas .ic svg{width:20px;height:20px}

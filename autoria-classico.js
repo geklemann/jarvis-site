@@ -8,7 +8,7 @@
     'CNPJ: 60.180.675/0001-91',
     'AUTORIA: GK Soluções Empresariais LTDA',
     'ANO: 2026',
-    'PROGRAMA: Jarvis (Jarvis E-Commerce, Jarvis ERP, Jarvis Escritório, Jarvis Reforma, Jarvis Normas e Jarvis Pessoas)',
+    'PROGRAMA: Jarvis (Jarvis E-Commerce, Jarvis ERP, Jarvis Escritório, Jarvis Reforma, Jarvis Normas, Jarvis Pessoas e Jarvis Segurança)',
     'DIREITOS: Todos os direitos reservados (Lei 9.609/1998 e Lei 9.610/1998)',
   ].join('\n');
   var A = Object.freeze({
@@ -17,11 +17,11 @@
     autor: 'GK Soluções Empresariais LTDA',
     ano: 2026,
     programa: 'Jarvis',
-    produtos: Object.freeze(['Jarvis E-Commerce', 'Jarvis ERP', 'Jarvis Escritório', 'Jarvis Reforma', 'Jarvis Normas', 'Jarvis Pessoas']),
+    produtos: Object.freeze(['Jarvis E-Commerce', 'Jarvis ERP', 'Jarvis Escritório', 'Jarvis Reforma', 'Jarvis Normas', 'Jarvis Pessoas', 'Jarvis Segurança']),
     aviso: '© 2026 GK Soluções Empresariais LTDA · Todos os direitos reservados',
     licenca: 'Software proprietário. Todos os direitos reservados (Lei 9.609/1998 e Lei 9.610/1998). Veja LICENSE e AUTORIA.md.',
     site: 'https://jaarvis.com.br/',
-    impressao: 'JARVIS-GK-3D5C33CA05ECFA6E',
+    impressao: 'JARVIS-GK-4A83DB94DF109C47',
     bloco: BLOCO,
   });
   var esc = function (s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); };

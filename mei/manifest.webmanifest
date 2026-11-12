@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Jarvis MEI — o MEI no celular",
+  "short_name": "Jarvis MEI",
+  "description": "A agenda, o orçamento, o recibo, o caixa e as obrigações do MEI (DAS, limite e DASN-SIMEI) no celular.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    { "src": "../brand/jarvis.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "../brand/jarvis-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Agenda", "short_name": "Agenda", "url": "./#/mei/movimentos/agenda", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Caixa", "short_name": "Caixa", "url": "./#/mei/movimentos/caixa", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
+  ]
+}

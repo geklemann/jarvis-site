@@ -90,6 +90,8 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 .passo{padding:30px;border-radius:var(--r);background:var(--surface);border:1px solid var(--line);position:relative}
 .passo:before{counter-increment:p;content:counter(p,decimal-leading-zero);font:800 14px/1 var(--fh);color:var(--acc);letter-spacing:.1em}
 .passo h3{font-size:22px;margin:14px 0 10px}
+.passos.quatro{grid-template-columns:repeat(4,1fr)}
+@media(max-width:1100px){.passos.quatro{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:860px){.passos{grid-template-columns:1fr}}
 /* tour do produto */
 .tour{display:grid;grid-template-columns:320px minmax(0,1fr);gap:28px;align-items:start}

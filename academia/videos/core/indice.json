@@ -1,0 +1,44 @@
+{
+ "primeiros-passos": {
+  "capitulo": "primeiros-passos",
+  "n": 1,
+  "titulo": "O Jarvis ERP Core e o Painel executivo",
+  "resumo": "O que o plano Core libera e como ler a empresa inteira numa tela só, no Painel executivo.",
+  "segundos": 92
+ },
+ "chao-de-fabrica": {
+  "capitulo": "chao-de-fabrica",
+  "n": 2,
+  "titulo": "Do roteiro ao chão de fábrica",
+  "resumo": "Os centros de trabalho, o roteiro do produto, a liberação da ordem, o terminal de apontamento e o painel ao vivo.",
+  "segundos": 97
+ },
+ "mrp-e-programacao": {
+  "capitulo": "mrp-e-programacao",
+  "n": 4,
+  "titulo": "MRP, programação e custo real",
+  "resumo": "O que produzir e o que comprar pelo MRP, a fábrica sequenciada no Gantt e o custo real de cada ordem contra o padrão.",
+  "segundos": 86
+ },
+ "qualidade": {
+  "capitulo": "qualidade",
+  "n": 6,
+  "titulo": "Qualidade: inspeções, não conformidades e CEP",
+  "resumo": "O painel da qualidade, os planos com a NBR 5426, a inspeção do lote, a não conformidade até a eficácia e a carta de controle.",
+  "segundos": 91
+ },
+ "manutencao": {
+  "capitulo": "manutencao",
+  "n": 7,
+  "titulo": "Manutenção: preventivas, ordens e indicadores",
+  "resumo": "O painel com o MTBF e o MTTR, o pedido do operador pelo celular, a ordem de manutenção e o calendário das preventivas.",
+  "segundos": 77
+ },
+ "logistica": {
+  "capitulo": "logistica",
+  "n": 11,
+  "titulo": "Logística: cargas, rotas e rastreio",
+  "resumo": "O OTIF do mês, a carga e a rota, o app do motorista e o link de rastreio para o cliente.",
+  "segundos": 71
+ }
+}

@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.625
+Nesta aula você vai planejar a produção e as compras pelo MRP, programar a fábrica no Gantt e
+
+2
+00:00:05.625 --> 00:00:08.284
+comparar o custo real das ordens com o padrão.
+
+3
+00:00:09.183 --> 00:00:11.692
+Abra Produção, Operações, Planejamento MRP.
+
+4
+00:00:11.692 --> 00:00:17.001
+Ele junta os pedidos de venda, a previsão e o estoque mínimo contra o saldo, as ordens e as
+
+5
+00:00:17.001 --> 00:00:20.735
+compras a caminho, e explode a ficha técnica em todos os níveis.
+
+6
+00:00:21.450 --> 00:00:23.724
+As mensagens de exceção avisam o que fazer:
+
+7
+00:00:23.724 --> 00:00:27.743
+a compra atrasada, o recebimento que não chegou e a ordem que dá para adiar.
+
+8
+00:00:28.450 --> 00:00:34.150
+Em Ordens de produção sugeridas, cada linha diz quanto fazer, quando liberar, quando precisa e de onde vem:
+
+9
+00:00:34.150 --> 00:00:37.720
+o pedido de venda, a previsão ou o mínimo. Marque e crie as ordens.
+
+10
+00:00:37.720 --> 00:00:40.703
+As compras sugeridas viram requisições para o comprador.
+
+11
+00:00:41.383 --> 00:00:43.072
+Agora a Programação, o Gantt.
+
+12
+00:00:43.072 --> 00:00:49.129
+Cada operação aberta entra no centro dela quando a anterior termina, no turno e na capacidade do centro.
+
+13
+00:00:49.129 --> 00:00:51.983
+A regra EDD põe primeiro a ordem que vence antes.
+
+14
+00:00:52.650 --> 00:00:55.589
+A tabela compara o término previsto com a data prevista.
+
+15
+00:00:55.589 --> 00:00:58.684
+A mesa da ordem sete termina três dias depois do combinado:
+
+16
+00:00:58.684 --> 00:01:00.626
+avise o cliente ou mude a prioridade.
+
+17
+00:01:01.317 --> 00:01:04.856
+Por último, Relatórios, Custo real versus padrão das ordens.
+
+18
+00:01:04.856 --> 00:01:09.338
+O padrão é a ficha vezes o custo médio mais o roteiro vezes o custo da hora;
+
+19
+00:01:09.338 --> 00:01:12.288
+o real é o consumido, o tempo operando e o refugo.
+
+20
+00:01:12.288 --> 00:01:15.237
+A estante e a mesa ficaram acima de dez por cento.
+
+21
+00:01:15.917 --> 00:01:17.013
+Agora é a sua vez.
+
+22
+00:01:17.013 --> 00:01:22.005
+Rode o MRP na demonstração, troque a regra do Gantt e compare as ordens atrasadas.
+
+23
+00:01:22.005 --> 00:01:25.597
+O passo a passo completo está no capítulo quatro do manual.

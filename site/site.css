@@ -84,6 +84,14 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 .cartao h3{font-size:20px;margin:16px 0 10px}.cartao .ic{width:46px;height:46px;border-radius:14px;display:grid;place-items:center}.cartao .ic svg{width:22px;height:22px}
 .cartao ul{margin:14px 0 0;padding:0;list-style:none;display:grid;gap:8px;color:var(--soft);font-size:14.5px}
 .cartao li{display:flex;gap:10px}.cartao li:before{content:'';flex:none;width:6px;height:6px;margin-top:9px;border-radius:50%;background:var(--acc)}
+/* módulos por área (página do Jarvis ERP Core): os atalhos e o título de cada grupo de cartões */
+.grupos-nav{display:flex;flex-wrap:wrap;gap:8px;margin:-24px 0 8px}
+.grupos-nav a{padding:8px 14px;border-radius:999px;border:1px solid var(--line2);background:rgba(255,255,255,.03);color:var(--soft);font:600 13.5px/1.2 var(--fb);text-decoration:none;transition:border-color .18s,color .18s}
+.grupos-nav a:hover,.grupos-nav a:focus-visible{border-color:var(--acc);color:var(--text)}
+.grupo-mod{display:flex;align-items:baseline;flex-wrap:wrap;gap:6px 16px;margin:48px 0 20px;padding-bottom:14px;border-bottom:1px solid var(--line);scroll-margin-top:96px}
+.grupo-mod h3{font-size:22px}.grupo-mod p{margin:0;font-size:15px;color:var(--muted)}
+/* no celular, cada área vira uma fileira de cartões que se desliza para o lado (a página não rola para o lado) */
+@media(max-width:640px){.grupos-core .grade{display:grid;grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:86%;overflow-x:auto;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;margin-inline:-24px;padding:0 24px 10px;scroll-padding-inline:24px}.grupos-core .cartao{scroll-snap-align:start}.grupos-core .cartao:hover{transform:none}.grupo-mod{margin-top:36px}}
 .dor .num{font:800 54px/1 var(--fh);color:transparent;-webkit-text-stroke:1px rgba(255,255,255,.18)}
 /* passos */
 .passos{counter-reset:p;display:grid;grid-template-columns:repeat(3,1fr);gap:18px;position:relative}
@@ -361,3 +369,20 @@ p{margin:0;color:var(--muted);text-wrap:pretty}
 .adic-aud ul{list-style:none;padding:0;margin:0;display:grid;gap:8px;font-size:14.5px;color:var(--soft)}.adic-aud li{display:flex;gap:10px}.adic-aud li svg{flex:none;width:18px;height:18px;color:var(--mint);margin-top:2px}.adic-aud li b{color:var(--text)}
 @media(max-width:980px){.planos.p2{grid-template-columns:1fr;max-width:520px}}
 @media(max-width:600px){.adic-aud{flex-direction:column;padding:20px}}
+/* Links da bio do Instagram (/links/, site/gerar.mjs › links): topo e rodapé enxutos e uma coluna de botões grandes,
+   pensada para o navegador de dentro do Instagram (celular primeiro). */
+.topo.enx .wrap{justify-content:center}
+.rodape.enx{margin-top:40px;padding:8px 0 28px}.rodape.enx .base{margin-top:0;justify-content:center;text-align:center}
+.links{padding:28px 0 0}.links .wrap{max-width:560px}
+.lk-cab{text-align:center;margin-bottom:8px}.lk-cab img{margin:0 auto 14px;border-radius:18px}
+.lk-cab h1{margin:0;font:800 30px/1.1 var(--fh);letter-spacing:-.02em}.lk-cab p{margin:8px auto 0;max-width:420px;color:var(--muted);font-size:15.5px}.lk-cab p b{color:var(--text)}
+.lk-tit{margin:30px 0 12px;font:700 12px/1 var(--fb);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.lk-lista{display:grid;gap:10px}
+.lk{position:relative;display:flex;align-items:center;gap:14px;min-height:64px;padding:13px 18px;border-radius:16px;border:1px solid var(--line2);background:linear-gradient(180deg,rgba(255,255,255,.045),rgba(255,255,255,.015));color:var(--text);text-decoration:none;overflow:hidden;transition:border-color .2s,background .2s,transform .2s}
+.lk.prod:before{content:'';position:absolute;inset:0 auto 0 0;width:4px;background:var(--pc,var(--p-neutro))}
+.lk:hover,.lk:focus-visible{border-color:color-mix(in srgb,var(--pc,var(--acc)) 50%,transparent);background:color-mix(in srgb,var(--pc,var(--acc)) 8%,#0b0e15);transform:translateY(-1px)}
+.lk:focus-visible{outline:2px solid var(--pc,var(--acc));outline-offset:2px}
+.lk-txt{flex:1;min-width:0;display:flex;flex-direction:column;gap:2px}
+.lk-txt b{font:800 16.5px/1.25 var(--fh);letter-spacing:-.01em}.lk-txt small{font-size:13.5px;line-height:1.4;color:var(--muted)}
+.lk svg{flex:none;width:20px;height:20px;color:var(--pc,var(--soft))}
+.lk.pri{background:linear-gradient(135deg,#9db4ff,#a98bff);border-color:transparent;color:#0b0a1c}.lk.pri small{color:rgba(11,10,28,.72)}.lk.pri svg{color:#0b0a1c}

@@ -25,69 +25,85 @@ Apresentamos o Jarvis ERP Core.
 A fábrica inteira no mesmo ERP. Do chão de fábrica ao financeiro.
 
 7
-00:00:19.993 --> 00:00:26.614
-O chão de fábrica ao vivo: cada máquina produzindo ou parada com o motivo, e o aproveitamento de cada uma no dia (OEE).
+00:00:19.993 --> 00:00:25.884
+O chão de fábrica ao vivo: cada máquina produzindo ou parada, com o motivo, e o aproveitamento do dia (OEE).
 
 8
-00:00:26.754 --> 00:00:31.054
+00:00:26.024 --> 00:00:30.325
 O operador aponta pelo celular, lendo o QR da ordem. Até sem internet.
 
 9
-00:00:32.204 --> 00:00:35.840
+00:00:31.475 --> 00:00:35.111
 Com a máquina conectada, a produção e a parada entram sozinhas.
 
 10
-00:00:36.990 --> 00:00:40.395
-O MRP diz o que produzir e o que comprar, e quando.
+00:00:36.261 --> 00:00:41.883
+O MRP diz o que produzir e o que comprar, e a programação põe cada operação na máquina certa.
 
 11
-00:00:40.535 --> 00:00:44.682
-E a programação põe cada operação na máquina certa, na capacidade real.
+00:00:42.023 --> 00:00:46.793
+O plano mestre organiza as semanas, e o gêmeo da fábrica testa: e se a máquina parar?
 
 12
-00:00:45.832 --> 00:00:50.850
-A qualidade inspeciona, trata a não conformidade até a causa e segura o lote em quarentena.
+00:00:46.933 --> 00:00:50.790
+E o vendedor promete ao cliente uma data que a fábrica consegue cumprir.
 
 13
-00:00:52.000 --> 00:00:56.264
-A parada vira ordem de manutenção, e as preventivas não passam do prazo.
+00:00:51.940 --> 00:00:56.958
+A qualidade inspeciona, trata a não conformidade até a causa e segura o lote em quarentena.
 
 14
-00:00:57.414 --> 00:01:02.525
-No depósito, a doca com conferência cega, os endereços e a separação para a produção.
+00:00:58.108 --> 00:01:02.371
+A parada vira ordem de manutenção, e as preventivas não passam do prazo.
 
 15
-00:01:03.675 --> 00:01:07.706
-A carga sai com rota, e o motorista registra o comprovante no app.
+00:01:02.511 --> 00:01:04.441
+E a máquina avisa antes de quebrar.
 
 16
-00:01:07.846 --> 00:01:10.867
-E o cliente acompanha a entrega pelo link, sem senha.
+00:01:05.591 --> 00:01:10.702
+No depósito, a doca com conferência cega, os endereços e a separação para a produção.
 
 17
-00:01:12.017 --> 00:01:19.684
-E o Core se molda ao seu negócio: fábrica sob encomenda ou seriada, distribuidora, serviços, projetos ou um grupo de empresas.
+00:01:11.852 --> 00:01:15.268
+A carga sai com rota, e o motorista registra o comprovante no app.
 
 18
-00:01:19.824 --> 00:01:24.761
-Cada pessoa vê só o que o papel dela permite, e as alçadas de aprovação são as suas.
+00:01:15.408 --> 00:01:18.429
+E o cliente acompanha a entrega pelo link, sem senha.
 
 19
-00:01:25.911 --> 00:01:32.971
-Os seus dados protegidos de verdade: cada empresa isolada no banco, duas etapas no login e auditoria de cada alteração.
+00:01:19.579 --> 00:01:23.831
+E o Core se molda ao seu negócio, com segmentos prontos para oito setores.
 
 20
-00:01:33.111 --> 00:01:36.329
-Com cópia de segurança diária fora do servidor principal.
+00:01:23.971 --> 00:01:28.908
+Cada pessoa vê só o que o papel dela permite, e as alçadas de aprovação são as suas.
 
 21
-00:01:37.479 --> 00:01:41.673
-E o painel executivo junta tudo para o dono. Até na TV da fábrica.
+00:01:29.048 --> 00:01:32.313
+E o orçamento e o pedido saem em inglês ou espanhol.
 
 22
-00:01:43.023 --> 00:01:46.950
-A fábrica inteira no mesmo ERP. Jarvis ERP Core.
+00:01:33.463 --> 00:01:41.138
+Os seus dados protegidos de verdade: cada empresa isolada no banco, duas etapas no login, auditoria de cada alteração e cópia diária.
 
 23
-00:01:47.090 --> 00:01:51.307
+00:01:41.278 --> 00:01:47.688
+Os dados sensíveis aparecem mascarados, e a conta bancária dos fornecedores fica num cofre com criptografia.
+
+24
+00:01:48.838 --> 00:01:53.032
+E o painel executivo junta tudo para o dono. Até na TV da fábrica.
+
+25
+00:01:53.172 --> 00:01:56.762
+E a controladoria mostra o caixa das próximas 13 semanas.
+
+26
+00:01:58.112 --> 00:02:02.039
+A fábrica inteira no mesmo ERP. Jarvis ERP Core.
+
+27
+00:02:02.179 --> 00:02:06.326
 Fale com a equipe da GK: jaarvis.com.br/contato/?assunto=comercial&produto=erp-core

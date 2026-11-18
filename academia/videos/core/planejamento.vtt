@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.949
+Nesta aula você vai planejar a demanda no Jarvis ERP Core:
+
+2
+00:00:03.949 --> 00:00:08.795
+a previsão estatística, o consenso de vendas, o ciclo de S&OP e as exceções.
+
+3
+00:00:09.717 --> 00:00:11.928
+Abra Planejamento, Operações, Painel.
+
+4
+00:00:11.928 --> 00:00:17.545
+Na primeira linha, a precisão do último mês fechado, o viés, o FVA da versão final, que diz se
+
+5
+00:00:17.545 --> 00:00:21.490
+o consenso ajudou ou piorou a estatística, e os itens com exceção.
+
+6
+00:00:22.183 --> 00:00:26.494
+A versão final número seis está publicada, mas ainda não foi para o MRP:
+
+7
+00:00:26.494 --> 00:00:28.291
+o botão Enviar ao MRP resolve.
+
+8
+00:00:28.291 --> 00:00:33.619
+Logo abaixo, as etapas do ciclo de novembro e o próximo passo, com o botão que o executa.
+
+9
+00:00:34.317 --> 00:00:40.266
+Em Previsão por produto e família, cada item tem o gráfico com o histórico, a previsão e a faixa provável.
+
+10
+00:00:40.266 --> 00:00:42.006
+A mesa de escritório é sazonal:
+
+11
+00:00:42.006 --> 00:00:46.608
+na disputa dos métodos com os meses passados, o Holt-Winters errou menos e ganhou.
+
+12
+00:00:47.317 --> 00:00:50.799
+No Consenso da demanda, a versão de vendas fica em rascunho.
+
+13
+00:00:50.799 --> 00:00:53.700
+Mude um número na grade e o sistema pede o motivo:
+
+14
+00:00:53.700 --> 00:00:57.763
+o ajuste é gravado com o seu nome e, quando o mês fechar, ganha o FVA.
+
+15
+00:00:58.450 --> 00:01:03.976
+No Ciclo de S&OP, o plano pela versão mostra a demanda, a receita e o estoque por família, e a
+
+16
+00:01:03.976 --> 00:01:06.210
+capacidade de cada centro da Produção.
+
+17
+00:01:06.210 --> 00:01:10.443
+Acima de cem por cento é gargalo, e a decisão vai para a ata da reunião.
+
+18
+00:01:11.117 --> 00:01:16.454
+Por fim, as Exceções: o real que fechou fora da faixa prevista, o viés alto e os outros sinais.
+
+19
+00:01:16.454 --> 00:01:21.229
+Clique no cartão para filtrar, e na linha para abrir a previsão do produto e decidir.
+
+20
+00:01:21.917 --> 00:01:22.984
+Agora é a sua vez.
+
+21
+00:01:22.984 --> 00:01:28.735
+Abra a demonstração, ajuste um número no consenso com o motivo e ache o gargalo no ciclo de S&OP.
+
+22
+00:01:28.735 --> 00:01:32.470
+O passo a passo completo está no capítulo vinte e um do manual.

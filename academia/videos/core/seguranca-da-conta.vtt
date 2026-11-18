@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.869
+Nesta aula você vai usar a Central de segurança da conta no Jarvis ERP Core:
+
+2
+00:00:04.869 --> 00:00:09.062
+a nota, os conflitos de funções, os alertas e as tentativas de login.
+
+3
+00:00:09.983 --> 00:00:14.539
+Abra Configurações, Operações, Painel de segurança. A Loja Modelo está com nota D.
+
+4
+00:00:14.539 --> 00:00:20.095
+Em Por que essa nota, cada ponto mostra o que já está protegido e o que falta, com o atalho Ajustar.
+
+5
+00:00:20.783 --> 00:00:25.206
+Em Conflitos de funções, as duas funções que a mesma pessoa não deveria ter juntas:
+
+6
+00:00:25.206 --> 00:00:28.191
+quem cadastra o fornecedor não aprova o pagamento a ele.
+
+7
+00:00:28.191 --> 00:00:32.400
+A conta usa o que cada pessoa pode de verdade, e o risco alto aparece primeiro.
+
+8
+00:00:33.117 --> 00:00:38.557
+Nas guias Matriz, Exceções e Simular, ajuste as regras, aprove a exceção com o motivo e veja o
+
+9
+00:00:38.557 --> 00:00:40.872
+que muda se a pessoa ganhar outro papel.
+
+10
+00:00:41.583 --> 00:00:47.532
+Em Alertas de segurança, o que parece fora do normal, cada um com a gravidade, a explicação e as evidências:
+
+11
+00:00:47.532 --> 00:00:52.819
+a exportação em massa, o login de madrugada, a conta do fornecedor trocada seguida de pagamento.
+
+12
+00:00:52.819 --> 00:00:54.967
+Confira com a pessoa antes de concluir.
+
+13
+00:00:55.650 --> 00:00:59.727
+Em Tentativas de login, cada senha ou código errado, por conta e por local.
+
+14
+00:00:59.727 --> 00:01:03.695
+O mesmo local errando em várias contas é o sinal de quem tenta adivinhar.
+
+15
+00:01:03.695 --> 00:01:05.543
+A senha digitada nunca é guardada.
+
+16
+00:01:06.250 --> 00:01:07.266
+Agora é a sua vez.
+
+17
+00:01:07.266 --> 00:01:12.231
+Abra a demonstração, leia a nota da conta e abra o conflito de risco alto do financeiro.
+
+18
+00:01:12.231 --> 00:01:15.898
+O passo a passo completo está no capítulo vinte e seis do manual.

@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.116
+Nesta aula você vai organizar o almoxarifado no Jarvis ERP Core:
+
+2
+00:00:04.116 --> 00:00:07.922
+a separação para a produção, o kanban, a doca e as ferramentas.
+
+3
+00:00:08.850 --> 00:00:11.057
+Abra Almoxarifado, Operações, Painel.
+
+4
+00:00:11.057 --> 00:00:16.725
+O que separar para a produção, as ondas em andamento, o kanban em vermelho, as docas do dia, as
+
+5
+00:00:16.725 --> 00:00:19.470
+ferramentas atrasadas e os indicadores do mês.
+
+6
+00:00:19.470 --> 00:00:21.737
+Ele se atualiza sozinho a cada minuto.
+
+7
+00:00:22.450 --> 00:00:27.572
+Em Separação para a produção, junte várias ordens liberadas numa onda, colete pelo roteiro dos
+
+8
+00:00:27.572 --> 00:00:32.040
+endereços, com o lote que vence antes primeiro, e entregue o kit na doca da linha.
+
+9
+00:00:32.717 --> 00:00:34.714
+No Quadro kanban, cada cartão por cor.
+
+10
+00:00:34.714 --> 00:00:38.867
+Quando o contêiner esvaziar, toque no cartão cheio e o Jarvis pede a reposição.
+
+11
+00:00:38.867 --> 00:00:43.177
+Os parafusos da bancada de montagem estão em vermelho: a linha já usa a segurança.
+
+12
+00:00:43.850 --> 00:00:48.514
+Na Agenda da doca, cada doca com as janelas de recebimento, sem choque de horário.
+
+13
+00:00:48.514 --> 00:00:54.145
+A portaria registra a chegada e a saída, e na conferência cega o conferente conta sem ver o pedido;
+
+14
+00:00:54.145 --> 00:00:55.112
+o Jarvis compara.
+
+15
+00:00:55.783 --> 00:00:59.995
+Em Empréstimo de ferramentas, quem está com cada ferramenta e até quando.
+
+16
+00:00:59.995 --> 00:01:02.880
+A serra copo está com o Diego, da tupia, atrasada.
+
+17
+00:01:02.880 --> 00:01:07.091
+O uso soma na vida útil, e a ferramenta danificada vai para a manutenção.
+
+18
+00:01:07.783 --> 00:01:08.744
+Agora é a sua vez.
+
+19
+00:01:08.744 --> 00:01:14.295
+Abra a demonstração, toque num cartão cheio do kanban e agende um recebimento numa janela livre da doca.
+
+20
+00:01:14.295 --> 00:01:17.337
+O passo a passo completo está no capítulo nove do manual.

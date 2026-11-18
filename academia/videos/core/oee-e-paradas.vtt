@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.365
+Nesta aula você vai medir a eficiência da fábrica no Jarvis ERP Core:
+
+2
+00:00:04.365 --> 00:00:08.420
+o OEE, as paradas, a carga dos centros e a rastreabilidade por lote.
+
+3
+00:00:09.317 --> 00:00:11.807
+Abra Produção, Relatórios, OEE por centro.
+
+4
+00:00:11.807 --> 00:00:15.009
+O OEE mostra quanto do tempo planejado virou peça boa:
+
+5
+00:00:15.009 --> 00:00:19.219
+a disponibilidade, o desempenho no ritmo do ciclo padrão e a qualidade.
+
+6
+00:00:19.219 --> 00:00:22.896
+O TEEP faz a mesma conta sobre a capacidade inteira do centro.
+
+7
+00:00:23.583 --> 00:00:26.955
+O relatório vem com o menor OEE primeiro, que é onde agir.
+
+8
+00:00:26.955 --> 00:00:32.302
+Imprima, salve em PDF ou leve ao Excel. A parada planejada, como o almoço, não conta contra.
+
+9
+00:00:32.983 --> 00:00:38.165
+Em Cadastros, Motivos de parada e de refugo, fica a lista de onde o operador escolhe por que a
+
+10
+00:00:38.165 --> 00:00:40.535
+máquina parou e por que a peça foi perdida.
+
+11
+00:00:40.535 --> 00:00:43.236
+A parada marcada como planejada fica fora do OEE.
+
+12
+00:00:43.917 --> 00:00:48.920
+O Pareto das paradas ordena os motivos do maior para o menor, com o percentual acumulado.
+
+13
+00:00:48.920 --> 00:00:53.249
+Os poucos que fazem oitenta por cento do tempo parado são onde agir primeiro:
+
+14
+00:00:53.249 --> 00:00:57.409
+aqui, a falta de material, a manutenção corretiva e o ajuste de qualidade.
+
+15
+00:00:58.117 --> 00:01:02.820
+A Carga dos centros compara o que falta das operações abertas com a capacidade efetiva:
+
+16
+00:01:02.820 --> 00:01:04.604
+acima de cem por cento é gargalo.
+
+17
+00:01:04.604 --> 00:01:10.010
+E a Rastreabilidade por lote mostra de onde veio o lote do acabado e para onde foi o lote do insumo.
+
+18
+00:01:10.717 --> 00:01:11.717
+Agora é a sua vez.
+
+19
+00:01:11.717 --> 00:01:16.606
+Abra a demonstração, ache o centro com o menor OEE do mês e rastreie um lote da estante.
+
+20
+00:01:16.606 --> 00:01:19.773
+O passo a passo completo está no capítulo três do manual.

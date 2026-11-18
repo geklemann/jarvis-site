@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:04.335
+Nesta aula você vai prometer a data de entrega no Jarvis ERP Core:
+
+2
+00:00:04.335 --> 00:00:09.968
+a disponibilidade pelo ATP, a data produzindo pelo CTP, as cotas por canal e as pendências.
+
+3
+00:00:10.850 --> 00:00:15.853
+Abra Vendas, Operações, Disponibilidade. Escolha o produto: aqui, a mesa de escritório.
+
+4
+00:00:15.853 --> 00:00:21.201
+Os números mostram o estoque usável, o livre para prometer hoje e no horizonte, o que já está
+
+5
+00:00:21.201 --> 00:00:23.099
+comprometido e a próxima entrada.
+
+6
+00:00:23.783 --> 00:00:28.124
+O gráfico segue o estoque projetado dia a dia, com as entradas e as saídas.
+
+7
+00:00:28.124 --> 00:00:33.044
+Em Quanto e quando consigo prometer, informe trinta mesas e clique em Quando consigo:
+
+8
+00:00:33.044 --> 00:00:38.426
+sem estoque, o CTP encaixa uma ordem nova nas folgas da oficina e mostra o que segura a data.
+
+9
+00:00:39.117 --> 00:00:43.781
+O mesmo cálculo está dentro do orçamento e do pedido, no botão Quando consigo entregar.
+
+10
+00:00:43.781 --> 00:00:48.393
+Aplicar a data no pedido grava a previsão de entrega e guarda a promessa de cada item.
+
+11
+00:00:49.117 --> 00:00:54.103
+Em Vendas, Cadastros, Cotas por canal, cada produto tem quanto cada canal ou cliente-chave pode
+
+12
+00:00:54.103 --> 00:00:55.048
+levar por período.
+
+13
+00:00:55.048 --> 00:01:00.035
+A cota que bloqueia empurra a promessa para o próximo período com saldo; a que só avisa, marca.
+
+14
+00:01:00.717 --> 00:01:04.262
+Quando falta estoque ou chega uma compra, use Reprocessar pendências:
+
+15
+00:01:04.262 --> 00:01:09.093
+simule, confira pedido a pedido o antes e o depois pela estratégia de cada cliente, e só então
+
+16
+00:01:09.093 --> 00:01:10.121
+aplique ou descarte.
+
+17
+00:01:10.850 --> 00:01:11.839
+Agora é a sua vez.
+
+18
+00:01:11.839 --> 00:01:16.948
+Abra a demonstração, pergunte por trinta mesas na Disponibilidade e troque o canal para ver a
+
+19
+00:01:16.948 --> 00:01:17.937
+cota mudar a data.
+
+20
+00:01:17.937 --> 00:01:21.508
+O passo a passo completo está no capítulo vinte e dois do manual.

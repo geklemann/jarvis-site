@@ -13,12 +13,26 @@
   "resumo": "Os centros de trabalho, o roteiro do produto, a liberação da ordem, o terminal de apontamento e o painel ao vivo.",
   "segundos": 97
  },
+ "oee-e-paradas": {
+  "capitulo": "oee-e-paradas",
+  "n": 3,
+  "titulo": "OEE, paradas, carga e rastreabilidade",
+  "resumo": "O OEE e o TEEP de cada centro, os motivos de parada, o Pareto do que mais para a fábrica, a carga e o gargalo e a rastreabilidade por lote.",
+  "segundos": 80
+ },
  "mrp-e-programacao": {
   "capitulo": "mrp-e-programacao",
   "n": 4,
   "titulo": "MRP, programação e custo real",
   "resumo": "O que produzir e o que comprar pelo MRP, a fábrica sequenciada no Gantt e o custo real de cada ordem contra o padrão.",
   "segundos": 86
+ },
+ "maquinas-conectadas": {
+  "capitulo": "maquinas-conectadas",
+  "n": 5,
+  "titulo": "Máquinas conectadas",
+  "resumo": "A máquina ligada ao MES pelo gateway da fábrica, os sinais do CLP virando produção e parada, e o operador só justificando a parada.",
+  "segundos": 74
  },
  "qualidade": {
   "capitulo": "qualidade",
@@ -34,11 +48,228 @@
   "resumo": "O painel com o MTBF e o MTTR, o pedido do operador pelo celular, a ordem de manutenção e o calendário das preventivas.",
   "segundos": 77
  },
+ "engenharia": {
+  "capitulo": "engenharia",
+  "n": 8,
+  "titulo": "Engenharia de produto: revisões e ECO",
+  "resumo": "As revisões da estrutura do produto, a alteração de engenharia com o antes e o depois e a aprovação por etapas, a estrutura multinível e a comparação de revisões.",
+  "segundos": 76
+ },
+ "almoxarifado": {
+  "capitulo": "almoxarifado",
+  "n": 9,
+  "titulo": "Almoxarifado: separação, kanban, doca e ferramentas",
+  "resumo": "O painel do almoxarifado, a separação em ondas para a produção, o quadro kanban, a agenda da doca com a conferência cega e o empréstimo de ferramentas.",
+  "segundos": 78
+ },
+ "deposito-avancado": {
+  "capitulo": "deposito-avancado",
+  "n": 10,
+  "titulo": "O depósito avançado: endereçamento, ondas e inventário",
+  "resumo": "As zonas e as faixas dos endereços, o endereçamento inteligente pela curva ABC, a reposição do picking, as ondas de pedidos de venda e o inventário por endereço.",
+  "segundos": 80
+ },
  "logistica": {
   "capitulo": "logistica",
   "n": 11,
   "titulo": "Logística: cargas, rotas e rastreio",
   "resumo": "O OTIF do mês, a carga e a rota, o app do motorista e o link de rastreio para o cliente.",
   "segundos": 71
+ },
+ "projetos": {
+  "capitulo": "projetos",
+  "n": 12,
+  "titulo": "Projetos: cronograma, horas, medições e EVM",
+  "resumo": "O portfólio com a saúde de cada projeto, o cronograma com o caminho crítico, as horas da equipe, as medições faturadas e o valor agregado.",
+  "segundos": 76
+ },
+ "portal-do-fornecedor": {
+  "capitulo": "portal-do-fornecedor",
+  "n": 13,
+  "titulo": "Portal do fornecedor",
+  "resumo": "O link secreto de cada fornecedor, o painel do que chegou pelo portal, as respostas aplicadas com um clique e as cotações consolidadas.",
+  "segundos": 66
+ },
+ "comercio-exterior": {
+  "capitulo": "comercio-exterior",
+  "n": 14,
+  "titulo": "Comércio exterior: importação, exportação e câmbio",
+  "resumo": "O painel dos processos, a importação com o custo de chegada e o câmbio, o simulador antes de comprar e a exportação com os documentos em inglês.",
+  "segundos": 71
+ },
+ "sac": {
+  "capitulo": "sac",
+  "n": 15,
+  "titulo": "Atendimento (SAC): chamados, SLA e satisfação",
+  "resumo": "O painel do atendimento, o chamado com o prazo calculado, a ficha com as respostas prontas, as categorias e o SLA em horas úteis, e a satisfação dos clientes.",
+  "segundos": 82
+ },
+ "edi": {
+  "capitulo": "edi",
+  "n": 16,
+  "titulo": "EDI: troca de arquivos com clientes e transportadoras",
+  "resumo": "O painel do EDI, os parceiros e o de-para, o pedido do cliente recebido por arquivo e os arquivos gerados para a transportadora e o cliente.",
+  "segundos": 74
+ },
+ "aprovacoes": {
+  "capitulo": "aprovacoes",
+  "n": 17,
+  "titulo": "Aprovações: a caixa única e os fluxos",
+  "resumo": "Tudo o que espera a sua decisão numa caixa só, os fluxos por faixa de valor com etapas e prazo, os pedidos de aprovação e o substituto nas férias.",
+  "segundos": 76
+ },
+ "assinaturas": {
+  "capitulo": "assinaturas",
+  "n": 18,
+  "titulo": "Assinaturas eletrônicas",
+  "resumo": "O painel dos envelopes, os modelos com variáveis, o envelope com os signatários na ordem certa e a verificação do arquivo pelo resumo.",
+  "segundos": 66
+ },
+ "consolidacao": {
+  "capitulo": "consolidacao",
+  "n": 19,
+  "titulo": "Consolidação do grupo",
+  "resumo": "O grupo e os participantes, o painel com a coluna de cada empresa e as eliminações, a conferência intercompany e a DRE consolidada.",
+  "segundos": 67
+ },
+ "patrimonio": {
+  "capitulo": "patrimonio",
+  "n": 20,
+  "titulo": "Patrimônio: bens, depreciação e inventário",
+  "resumo": "O painel do patrimônio, os bens com a depreciação fiscal e a societária, a ligação com os equipamentos da Manutenção e o inventário com o leitor de QR.",
+  "segundos": 70
+ },
+ "planejamento": {
+  "capitulo": "planejamento",
+  "n": 21,
+  "titulo": "Planejamento: previsão de demanda e S&OP",
+  "resumo": "A previsão estatística de cada produto, o consenso com o motivo de cada ajuste, o ciclo mensal de S&OP com a capacidade da fábrica e as exceções.",
+  "segundos": 93
+ },
+ "prometer-a-data": {
+  "capitulo": "prometer-a-data",
+  "n": 22,
+  "titulo": "Prometer a data: ATP, CTP e cotas",
+  "resumo": "Quando cada item sai, pelo estoque e pelas entradas (ATP) ou produzindo (CTP), as cotas por canal e o reprocessamento das pendências.",
+  "segundos": 82
+ },
+ "automacoes": {
+  "capitulo": "automacoes",
+  "n": 23,
+  "titulo": "Automações: regras \"quando… então…\"",
+  "resumo": "O painel das automações, os modelos prontos, o editor de regras com o teste e o histórico de cada execução.",
+  "segundos": 88
+ },
+ "copiloto": {
+  "capitulo": "copiloto",
+  "n": 24,
+  "titulo": "Copiloto: explicar o número e perguntar em português",
+  "resumo": "De onde vem cada indicador, parcela por parcela até o documento, e as perguntas em português respondidas sem IA.",
+  "segundos": 78
+ },
+ "erp-do-seu-jeito": {
+  "capitulo": "erp-do-seu-jeito",
+  "n": 25,
+  "titulo": "O ERP do seu jeito",
+  "resumo": "Os módulos que a empresa usa, os campos nos documentos, o layout dos formulários por papel, os papéis sob medida e os modelos de impressão.",
+  "segundos": 83
+ },
+ "seguranca-da-conta": {
+  "capitulo": "seguranca-da-conta",
+  "n": 26,
+  "titulo": "Central de segurança da conta",
+  "resumo": "A nota da segurança da empresa, os conflitos de funções (SoD), os alertas explicáveis e as tentativas de login da equipe.",
+  "segundos": 77
+ },
+ "assinatura-qualificada": {
+  "capitulo": "assinatura-qualificada",
+  "n": 27,
+  "titulo": "Assinatura qualificada ICP-Brasil",
+  "resumo": "Os três níveis de assinatura da lei, o envelope com a autenticação qualificada pelo certificado A1 e a conferência do documento assinado.",
+  "segundos": 83
+ },
+ "configurador": {
+  "capitulo": "configurador",
+  "n": 28,
+  "titulo": "Configurador de produto (CPQ)",
+  "resumo": "O modelo configurável da Engenharia, o produto sob medida com a validação ao vivo, o item no orçamento e a variante pronta para a produção.",
+  "segundos": 82
+ },
+ "controladoria": {
+  "capitulo": "controladoria",
+  "n": 29,
+  "titulo": "Controladoria: orçamento, caixa de 13 semanas, custeio e moedas",
+  "resumo": "O orçamento por direcionadores, os cenários e o \"e se\", o caixa das próximas 13 semanas, o custeio por absorção e ABC e a variação cambial.",
+  "segundos": 85
+ },
+ "numero-de-serie": {
+  "capitulo": "numero-de-serie",
+  "n": 30,
+  "titulo": "Número de série, genealogia, recall e GS1",
+  "resumo": "Uma série para cada unidade, a genealogia do que ela é feita, o recall de um lote com os clientes afetados e as etiquetas GS1.",
+  "segundos": 79
+ },
+ "manutencao-preditiva": {
+  "capitulo": "manutencao-preditiva",
+  "n": 31,
+  "titulo": "Manutenção preditiva",
+  "resumo": "Os pontos de medição, a saúde de cada equipamento com o porquê, a tendência até o alarme e a vida restante pela Weibull.",
+  "segundos": 84
+ },
+ "qualidade-automotiva": {
+  "capitulo": "qualidade-automotiva",
+  "n": 32,
+  "titulo": "Qualidade automotiva: FMEA, PPAP, 8D e MSA",
+  "resumo": "O APQP da peça nova, a FMEA com a prioridade de ação, o plano de controle, o PPAP com o PSW, o 8D, o estudo de R&R e as auditorias.",
+  "segundos": 84
+ },
+ "api-e-webhooks": {
+  "capitulo": "api-e-webhooks",
+  "n": 33,
+  "titulo": "API e webhooks",
+  "resumo": "Uma chave para cada sistema, os avisos assinados na hora em que algo acontece, o registro de cada chamada e a documentação da API.",
+  "segundos": 71
+ },
+ "implantacao": {
+  "capitulo": "implantacao",
+  "n": 34,
+  "titulo": "Implantação guiada e segmentos prontos",
+  "resumo": "As etapas da implantação que se conferem pelos dados, o pacote pronto do seu setor com a prévia e os documentos de venda em inglês e espanhol.",
+  "segundos": 74
+ },
+ "portal-do-cliente": {
+  "capitulo": "portal-do-cliente",
+  "n": 35,
+  "titulo": "Portal do cliente B2B",
+  "resumo": "O portal no celular do cliente empresa, os contatos e o que cada um vê, os pedidos que esperam a sua aprovação e o uso do portal.",
+  "segundos": 77
+ },
+ "plano-mestre-e-gemeo": {
+  "capitulo": "plano-mestre-e-gemeo",
+  "n": 36,
+  "titulo": "Plano mestre, capacidade e o gêmeo da fábrica",
+  "resumo": "O MPS semana a semana, a capacidade grosseira dos centros, o gêmeo da fábrica para testar o \"e se\" e o lead time com a chance de acontecer.",
+  "segundos": 82
+ },
+ "mineracao-de-processos": {
+  "capitulo": "mineracao-de-processos",
+  "n": 37,
+  "titulo": "Mineração de processos",
+  "resumo": "O mapa do processo com a espera de cada trecho, o gargalo explicado, os casos fora do caminho ideal e o tempo de ciclo, só lendo as datas que o ERP já grava.",
+  "segundos": 81
+ },
+ "sustentabilidade": {
+  "capitulo": "sustentabilidade",
+  "n": 38,
+  "titulo": "Sustentabilidade (ESG)",
+  "resumo": "O inventário de emissões pelos escopos 1, 2 e 3 com os dados do ERP, os lançamentos com a evidência, a pegada de cada produto, as metas e os dados para o CBAM.",
+  "segundos": 90
+ },
+ "protecao-dos-dados": {
+  "capitulo": "protecao-dos-dados",
+  "n": 39,
+  "titulo": "Proteção dos dados",
+  "resumo": "O login único com a conta da empresa, os dados sensíveis mascarados por papel, o cofre que cifra a conta dos fornecedores, a retenção da LGPD e o dossiê ISO 27001 e SOC 2.",
+  "segundos": 83
  }
 }

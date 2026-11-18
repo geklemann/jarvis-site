@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:05.353
+Nesta aula você vai ver como os processos da empresa acontecem de verdade, com a mineração de
+
+2
+00:00:05.353 --> 00:00:06.944
+processos do Jarvis ERP Core.
+
+3
+00:00:07.850 --> 00:00:12.171
+Abra Relatórios, Operações, Mineração de processos. Escolha o processo:
+
+4
+00:00:12.171 --> 00:00:17.528
+o pedido ao recebimento, a compra ao pagamento, a ordem de produção ou o chamado do SAC.
+
+5
+00:00:17.528 --> 00:00:21.910
+Tudo sai das datas que o ERP já grava, e nada é alterado nos documentos.
+
+6
+00:00:22.583 --> 00:00:25.972
+O mapa desenha o caminho ideal no meio e os desvios ao lado.
+
+7
+00:00:25.972 --> 00:00:28.571
+A espessura é a frequência e a cor é a espera.
+
+8
+00:00:28.571 --> 00:00:31.338
+O gargalo vem destacado e explicado em português:
+
+9
+00:00:31.338 --> 00:00:34.614
+quantos casos, a mediana e quanto ele come do tempo total.
+
+10
+00:00:35.317 --> 00:00:37.800
+Nas outras guias, as variantes mais comuns;
+
+11
+00:00:37.800 --> 00:00:43.172
+os casos fora do padrão, como faturou antes de aprovar ou pagou antes de a mercadoria chegar;
+
+12
+00:00:43.172 --> 00:00:46.869
+e o tempo de ciclo por cliente, vendedor, produto ou fornecedor.
+
+13
+00:00:47.583 --> 00:00:53.683
+Em Relatórios, Configurar, Caminho ideal dos processos, diga como cada processo deveria seguir na sua empresa:
+
+14
+00:00:53.683 --> 00:00:58.286
+o passo obrigatório, o opcional e o que a empresa não usa, e a meta do tempo total.
+
+15
+00:00:58.286 --> 00:01:00.393
+A mineração compara cada caso com ele.
+
+16
+00:01:01.117 --> 00:01:05.537
+E o relatório Processos, variantes e conformidade leva o mesmo para o papel:
+
+17
+00:01:05.537 --> 00:01:09.027
+imprima em A4, salve em PDF ou leve ao Excel para a reunião.
+
+18
+00:01:09.717 --> 00:01:10.717
+Agora é a sua vez.
+
+19
+00:01:10.717 --> 00:01:16.554
+Abra a demonstração, leia o gargalo do pedido ao recebimento e procure os casos fora do padrão na compra.
+
+20
+00:01:16.554 --> 00:01:20.223
+O passo a passo completo está no capítulo trinta e sete do manual.

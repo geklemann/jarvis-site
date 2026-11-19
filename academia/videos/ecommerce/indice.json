@@ -30,9 +30,9 @@
  "margem-e-precos": {
   "capitulo": "margem-e-precos",
   "n": 5,
-  "titulo": "Medir a margem e formar preços",
-  "resumo": "Veja o lucro real de cada venda, descubra por que a margem mudou e teste novos preços antes de aplicar.",
-  "segundos": 145
+  "titulo": "Preços e margem",
+  "resumo": "Uma conta só: o custo do produto, as regras de venda, o preço de cada canal com Piso, Mínimo e Alvo, e o que cada venda deixou de fato.",
+  "segundos": 173
  },
  "financeiro": {
   "capitulo": "financeiro",

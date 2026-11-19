@@ -3,9 +3,9 @@
 :root{color-scheme:dark;--bg:#06070b;--bg2:#0a0c12;--surface:#0e1118;--surface2:#131722;--line:rgba(255,255,255,.08);--line2:rgba(255,255,255,.14);
  --text:#eef0f6;--muted:#9aa2b4;--soft:#c8cede;--acc:#8aa6ff;--acc2:#a98bff;--mint:#66dfb5;--gold:#edc47b;--red:#ff8d9f;
  /* Uma cor por produto (site/gerar.mjs › PRODUTOS.cor = 'p-<produto>'): nenhuma repetida, sem roxo nem rosa, legível no
-   fundo escuro. --p-mei é o verde-esmeralda do Jarvis MEI (o mesmo do app); --p-core, o verde-limão do Jarvis ERP Core
-   (a edição de topo do ERP para a indústria). */
- --p-erp:#34d3c0;--p-ecommerce:#f8a13f;--p-escritorio:#7c9cff;--p-reforma:#ff7f66;--p-normas:#4cc3ff;--p-pessoas:#7ee081;--p-seguranca:#ffd23f;--p-mei:#10b981;--p-core:#b5e34a;--p-neutro:#c8cede;
+   fundo escuro. --p-mei é o verde-esmeralda do Jarvis MEI (o mesmo do app); --p-core, o azul do Jarvis ERP Core (a edição
+   de topo do ERP para a indústria; o mesmo azul profissional do app, decidido pelo dono em 19/11/2026 no lugar do verde-limão). */
+ --p-erp:#34d3c0;--p-ecommerce:#f8a13f;--p-escritorio:#7c9cff;--p-reforma:#ff7f66;--p-normas:#4cc3ff;--p-pessoas:#7ee081;--p-seguranca:#ffd23f;--p-mei:#10b981;--p-core:#3b8eff;--p-neutro:#c8cede;
  --grad:linear-gradient(100deg,#8aa6ff 0%,#a98bff 45%,#66dfb5 100%);--r:18px;--max:1200px;--fh:'Plus Jakarta Sans','Segoe UI',system-ui,sans-serif;--fb:'Inter','Segoe UI',system-ui,sans-serif}
 *{box-sizing:border-box}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 var(--fb);overflow-x:hidden}

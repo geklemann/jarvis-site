@@ -18,7 +18,7 @@
   "n": 3,
   "titulo": "Reforma Tributária: IBS, CBS e cClassTrib",
   "resumo": "O cartão da Reforma no painel, o CST e o cClassTrib na nota, as alíquotas de referência, as reduções da LC 214 e o cronograma.",
-  "segundos": 140
+  "segundos": 141
  },
  "antes-de-emitir": {
   "capitulo": "antes-de-emitir",
@@ -59,14 +59,14 @@
   "capitulo": "catalogo-e-xml-avulso",
   "n": 12,
   "titulo": "O catálogo das regras e conferir um XML",
-  "resumo": "As 209 regras por camada e documento, com o fundamento, e a conferência na hora de um XML avulso.",
+  "resumo": "Mais de 250 regras por camada e documento, com o fundamento, e a conferência na hora de um XML avulso.",
   "segundos": 144
  },
  "eventos-da-reforma": {
   "capitulo": "eventos-da-reforma",
   "n": 13,
   "titulo": "Eventos da Reforma: o que a nota ainda pede",
-  "resumo": "Os 13 eventos da Reforma na NF-e, conferidos contra a nota pelas 9 regras EVT, e o que falta fazer em cada nota.",
+  "resumo": "Os eventos da Reforma na NF-e (mais de 10 tipos), conferidos contra a nota pelas regras EVT, e o que falta fazer em cada nota.",
   "segundos": 131
  },
  "emissao-correta": {

@@ -4,7 +4,7 @@ Um auditor só, com duas visões. A entrada é `index.js`.
 
 | Visão | Arquivo | O que confere | Achado |
 |---|---|---|---|
-| Por documento | `motor.js` + `regras/` | As 177 regras do CRIVO convertidas do C# (`testes/aud_*.test.mjs`, iguais ao gabarito) e as do Jarvis Reforma, sobre o XML de cada NF-e, CT-e e NFS-e, os eventos da Reforma e o cruzamento entre notas guardadas (CRZ-*) | `{ regra: 'CLA-01', gravidade: 0 \| 1 \| 2, mensagem, item, esperado, informado, diferenca }` |
+| Por documento | `motor.js` + `regras/` | As 177 regras do CRIVO convertidas do C# (`testes/aud_*.test.mjs`, iguais ao gabarito) e as do Jarvis Reforma, sobre o XML de cada NF-e, CT-e, NFS-e, NF3e e NFCom, os eventos da Reforma e o cruzamento entre notas guardadas (CRZ-*) | `{ regra: 'CLA-01', gravidade: 0 \| 1 \| 2, mensagem, item, esperado, informado, diferenca }` |
 | Da competência | `competencia.js` (antigo `motor/auditor_fiscal.js`) | Cruzamentos da escrituração do mês: documentos escriturados (`ctb_documentos`), XMLs guardados, pessoas, acumuladores, apurações gravadas × recálculo, retenções sem guia (`testes/fapur_motor.test.mjs`) | `{ id, regra: 'cfop', nivel: 'erro' \| 'aviso', titulo, texto, docId, numero, participante, valor }` |
 
 ```js
@@ -26,6 +26,17 @@ também no CT-e; a NFS-e lê os campos da NT 009; `tabelas/nfse-anexo-viii.json`
 Desde 05/11/2026: `versoes.js` (os documentos oficiais em uso, com a versão, e `impactoDaVersao({ doc, versao })`, que diz se uma
 versão detectada é nova e quais regras citam o documento, sem mudar nenhuma) e `calendario.js` (as datas da Reforma de 2023 a
 2033 com o fundamento, para a tela Calendário da Reforma). Os dois vão na cópia do servidor.
+
+Desde 19/11/2026: a NFS-e com a tabela de correlação oficial (`tabelas/nfse-anexo-viii.json`, Anexo VIII e Anexo VII,
+gerada por `ops/reforma/correlacao-nfse.mjs`; `tabelas.js › tabelaCorrelacaoNfse`) nas regras NFS-08, NFS-09 e NFS-30 a
+NFS-36; a NF3e (66) e a NFCom (62) com leitor próprio (`nf3e_nfcom.js`, o IBSCBS pelo `nfe.js › lerIbsCbs`) e as regras
+NFU-01 a NFU-14 (`regras/nf3e_nfcom.js`, documento `utilidade`, `motor.conferirUtilidade`), guardadas com os tipos `nf3e` e
+`nfcom` (`apontamentos.js › tipoDoXml`, `TIPOS`, `MODELOS_DO_TIPO`).
+
+Desde 19/11/2026 (legislação atual): `regras/legislacao_atual/` (PIS-04 a PIS-10, ICM-09 a ICM-17, IPI-03 a IPI-05, CAL-11 e
+CLA-13, com o leitor dos campos a mais em `leitor.js`) e `sistemas.js` (cada regra é da legislação atual, da Reforma ou do
+documento; as telas mostram os dois sistemas lado a lado). A conferência da NF-e aceita `{ cnpjEmpresa }` ou `{ papel }`, para
+as mensagens falarem com quem emitiu ou com quem recebeu.
 
 `motor/auditor_fiscal.js` só reexporta `competencia.js` (`auditar`, `REGRAS`, `NCM_MONOFASICO`), para a tela
 `modulos/fiscal/telas/apur_auditor.js` e os testes que ainda importam de lá.

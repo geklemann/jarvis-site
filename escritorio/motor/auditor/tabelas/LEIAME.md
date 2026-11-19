@@ -22,7 +22,7 @@ em `../tabelas.js`.
 | `lc214-anexos.json` | LC 214/2025, Anexos IV a XV, DOU 16/01/2025, conferido com a LC 227/2026 |
 | `historico.json` | O histórico das versões de cClassTrib, CST, cCredPres (e do IS), com o que mudou campo a campo. Não é carregado pelo motor |
 | `imposto-seletivo.json` | Só existe depois de importar uma planilha com as abas CSTIS e cClassTribIS. Formato provisório (código, descrição e as colunas da planilha); o motor não carrega |
-| `nfse-anexo-viii.json` | Anexo VIII da NFS-e nacional v1.02.00 (26/10/2026). **Vazio**: a planilha oficial não está no repositório. Feito à mão, não pelo gerador; o formato está em `../tabelas.js › tabelaCorrelacaoNfse` (NFS-08 e NFS-09) |
+| `nfse-anexo-viii.json` | Anexo VIII da NFS-e nacional v1.02.00 (26/10/2026, correlação item da LC 116 × NBS × cIndOp × cClassTrib) e Anexo VII v1.03.00 (cIndOp), da página da RTC (gov.br/nfse). **Gerado** por `node ops/reforma/correlacao-nfse.mjs` (baixa a versão mais nova; `--conferir` diz se o portal tem versão nova; `--arquivo` converte uma planilha já baixada). Formato em `../tabelas.js › tabelaCorrelacaoNfse` (NFS-08, NFS-09, NFS-30 a NFS-34) |
 
 ## Atualizar cClassTrib, CST e cCredPres sem o CRIVO
 
@@ -43,3 +43,13 @@ ou de `--publicacao`. As linhas passam pelos mesmos redutores de `gerar-tabelas.
 conferências do CRIVO (6 dígitos, prefixo = CST, CST existente, redução de 0 a 100, datas). Erro: nada é gravado.
 Testado com as linhas da v1.71 do CRIVO exportadas em CSV: saída idêntica byte a byte. Teste: `aud_atualizar_tabelas`.
 Mudou o cClassTrib: mude também a versão do catálogo do motor (`VERSAO_CATALOGO`, em `../apontamentos.js`, vem de `motor.js`) se as regras precisarem conferir as notas de novo.
+
+## Atualizar a tabela de correlação da NFS-e (Anexo VIII)
+
+A planilha muda sempre: rode `node ops/reforma/correlacao-nfse.mjs --conferir` (sai com 1 quando a página da RTC tem versão
+nova do Anexo VIII ou do Anexo VII) e, havendo, `node ops/reforma/correlacao-nfse.mjs` (atrás do proxy da rede, com `--curl`).
+Ele baixa a planilha numa pasta nova, espalha as células mescladas, grava o JSON e mostra o que mudou (itens, pares, NBS e
+cClassTrib novos e removidos; `--seco` só mostra). Depois: `node ops/auditor/copiar-motor-servidor.mjs && TZ=America/Sao_Paulo
+npm test`, a versão em `../versoes.js › DOCUMENTOS_EM_USO` (nfse-anexo-viii e nfse-anexo-vii) e, se os achados mudarem, a
+versão do catálogo (`VERSAO_CATALOGO`). A versão nova também aparece nas Novidades da Reforma (fonte nfse-rtc, "versão nova
+para o Jarvis").

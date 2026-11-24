@@ -20,8 +20,8 @@
     { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "shortcuts": [
-    { "name": "Notas conferidas", "short_name": "Notas", "url": "./#/auditor/movimentos/notas", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
-    { "name": "Tratamento de apontamentos", "short_name": "Apontamentos", "url": "./#/auditor/movimentos/apontamentos", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Analisar documentos", "short_name": "Documentos", "url": "./#/auditor/movimentos/notas", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Erros e alertas das notas", "short_name": "Erros", "url": "./#/auditor/movimentos/apontamentos", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
     { "name": "Conferir um XML", "short_name": "Conferir XML", "url": "./#/auditor/utilitarios/conferir-xml", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
   ]
 }

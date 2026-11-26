@@ -11,7 +11,7 @@ const BLOCO = [
   'CNPJ: 60.180.675/0001-91',
   'AUTORIA: GK Soluções Empresariais LTDA',
   'ANO: 2026',
-  'PROGRAMA: Jarvis (Jarvis E-Commerce, Jarvis ERP, Jarvis Escritório, Jarvis Reforma, Jarvis Normas, Jarvis Pessoas, Jarvis Segurança e Jarvis MEI)',
+  'PROGRAMA: Jarvis (Jarvis E-Commerce, Jarvis ERP, Jarvis Escritório, Jarvis Reforma, Jarvis Normas, Jarvis Pessoas, Jarvis Segurança, Jarvis MEI e Jarvis Economia)',
   'DIREITOS: Todos os direitos reservados (Lei 9.609/1998 e Lei 9.610/1998)',
 ].join('\n');
 
@@ -21,12 +21,12 @@ export const AUTORIA = Object.freeze({
   autor: 'GK Soluções Empresariais LTDA',
   ano: 2026,
   programa: 'Jarvis',
-  produtos: Object.freeze(['Jarvis E-Commerce', 'Jarvis ERP', 'Jarvis Escritório', 'Jarvis Reforma', 'Jarvis Normas', 'Jarvis Pessoas', 'Jarvis Segurança', 'Jarvis MEI']),
+  produtos: Object.freeze(['Jarvis E-Commerce', 'Jarvis ERP', 'Jarvis Escritório', 'Jarvis Reforma', 'Jarvis Normas', 'Jarvis Pessoas', 'Jarvis Segurança', 'Jarvis MEI', 'Jarvis Economia']),
   aviso: '© 2026 GK Soluções Empresariais LTDA · Todos os direitos reservados',
   licenca: 'Software proprietário. Todos os direitos reservados (Lei 9.609/1998 e Lei 9.610/1998). Veja LICENSE e AUTORIA.md.',
   site: 'https://jaarvis.com.br/',
   // 'JARVIS-GK-' + os 16 primeiros caracteres (maiúsculos) do SHA-256 do BLOCO.
-  impressao: 'JARVIS-GK-BC3897EBD2DD99FE',
+  impressao: 'JARVIS-GK-EE4EF9C1C22A3520',
   bloco: BLOCO,
 });
 

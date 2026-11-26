@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Jarvis Economia — a economia do Brasil e do mundo",
+  "short_name": "Jarvis Economia",
+  "description": "Os indicadores oficiais, as projeções, as notícias por tema, aulas, simuladores e alertas da economia para o empresário. Conteúdo educativo.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#3f6b26",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": ["business", "finance", "education", "news"],
+  "icons": [
+    { "src": "../brand/jarvis.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "../brand/jarvis-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "../brand/jarvis-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Notícias por tema", "short_name": "Notícias", "url": "./#/economia/movimentos/noticias", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] },
+    { "name": "Simuladores", "short_name": "Simular", "url": "./#/economia/utilitarios/simuladores", "icons": [{ "src": "../brand/jarvis-192.png", "sizes": "192x192" }] }
+  ]
+}

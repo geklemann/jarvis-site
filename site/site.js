@@ -5,7 +5,8 @@
 const d=document,$=s=>d.querySelector(s),$$=s=>[...d.querySelectorAll(s)];
 d.documentElement.classList.add('js');
 // Links antigos do sistema (jaarvis.com.br/#resumo) e retorno do login por e-mail (#access_token=…) vão para o app.
-const h=location.hash.slice(1);
+// Na casca da Academia (/academia/) o #… é a lição do capítulo e o retorno do login é da própria Academia: fica lá.
+const h=d.querySelector('[data-academia-casca]')?'':location.hash.slice(1);
 // O tour e o vídeo saíram do início para a página do E-Commerce.
 if((h==='tour'||h==='video')&&!d.getElementById(h)){location.replace('ecommerce/#'+h);return}
 if(h&&(/^(access_token|error|type)=|&access_token=/.test(h)||(/^[a-z0-9_]{3,20}$/.test(h)&&!d.getElementById(h)))){location.replace('/app/'+location.search+location.hash);return}

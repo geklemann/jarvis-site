@@ -88,5 +88,17 @@ const bq=$('#buscaAjuda');if(bq){const itens=$$('.faq details');bq.addEventListe
 // Academia: busca nos capítulos do manual (título, resumo e lições de cada um).
 const bm=$('#buscaManual');if(bm){const caps=$$('.ac-caps>li'),norm=x=>x.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');bm.addEventListener('input',()=>{const t=norm(bm.value).split(/\s+/).filter(w=>w.length>2);let n=0;
  caps.forEach(li=>{const txt=norm(li.dataset.busca||'');const ok=!t.length||t.every(w=>txt.includes(w));li.hidden=!ok;if(ok)n++});const z=$('#semResultado');if(z)z.hidden=n>0})}
+// Atendimento (Central): o descadastro (?d=<token>&c=email|whatsapp) e a pesquisa de satisfação (?p=<token>) pelos links
+// das mensagens; quem grava é a função central-atendimento, pelo token (sem login, sem dado pessoal na página).
+const at=$('[data-atendimento]');if(at){const ret=at.querySelector('.ret'),uuid=/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i,td=qs.get('d'),tp=qs.get('p'),canal=['email','whatsapp'].includes(qs.get('c'))?qs.get('c'):'email';
+ const enviar=async(corpo,ok)=>{if(!cfg.supabaseUrl){ret.className='ret erro';ret.textContent='Fora do ar agora. Tente mais tarde.';return false}ret.className='ret';ret.textContent='Enviando…';
+  try{const r=await fetch(`${cfg.supabaseUrl}/functions/v1/central-atendimento/publico`,{method:'POST',headers:{'Content-Type':'application/json',apikey:cfg.supabaseAnonKey||''},body:JSON.stringify(corpo)});const j=await r.json().catch(()=>({}));
+   if(!r.ok||!j.ok)throw Error(j.erro||'Não foi possível agora. Tente de novo.');ret.className='ret ok';ret.textContent=ok;return true}catch(x){ret.className='ret erro';ret.textContent=x.message;return false}};
+ if(td&&uuid.test(td)){at.querySelector('[data-at-titulo]').textContent=canal==='whatsapp'?'Parar as mensagens no WhatsApp':'Parar os e-mails do Jarvis';at.querySelector('[data-at-texto]').hidden=true;const box=at.querySelector('[data-at-descadastro]');box.hidden=false;
+  box.querySelector('[data-at-confirmar]').addEventListener('click',async e=>{e.target.disabled=true;if(await enviar({acao:'descadastro',t:td,c:canal},'Pronto: você não vai mais receber estas mensagens. Se mudar de ideia, fale com a equipe.'))box.hidden=true;else e.target.disabled=false})}
+ else if(tp&&uuid.test(tp)){at.querySelector('[data-at-titulo]').textContent='Como foi o nosso atendimento?';at.querySelector('[data-at-texto]').hidden=true;const box=at.querySelector('[data-at-pesquisa]'),bt=box.querySelector('[data-at-enviar]');box.hidden=false;let nota=0;
+  const marcar=n=>{nota=n;box.querySelectorAll('[data-at-nota]').forEach(b=>{const s=Number(b.dataset.atNota)===n;b.setAttribute('aria-pressed',String(s));b.classList.toggle('pri',s)});bt.disabled=!n};
+  box.querySelectorAll('[data-at-nota]').forEach(b=>b.addEventListener('click',()=>marcar(Number(b.dataset.atNota))));const n0=Number(qs.get('n'));if(n0>=1&&n0<=5)marcar(n0);
+  bt.addEventListener('click',async()=>{bt.disabled=true;if(await enviar({acao:'pesquisa',t:tp,nota,comentario:box.querySelector('textarea').value.slice(0,500)},'Obrigado pela avaliação!'))box.hidden=true;else bt.disabled=false})}}
 d.querySelectorAll('[data-ano]').forEach(el=>el.textContent=new Date().getFullYear());
 })();

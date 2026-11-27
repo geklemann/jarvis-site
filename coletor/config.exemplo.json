@@ -1,0 +1,13 @@
+{
+  "url": "https://SEU-PROJETO.supabase.co/functions/v1/reforma-coletor",
+  "token": "jvc_COLE_AQUI_O_TOKEN_DO_COLETOR",
+  "pasta": "C:\\XML",
+  "intervalo_min": 10,
+  "computador": "",
+  "estado": "./estado-coletor.json",
+  "sefaz": {
+    "ligado": true,
+    "intervalo_min": 5,
+    "max_consultas_hora": 20
+  }
+}

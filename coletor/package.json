@@ -1,0 +1,16 @@
+{
+  "name": "jarvis-coletor-xml",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Coletor Jarvis: vigia a pasta dos XML da empresa e manda os novos para a conferência do Jarvis Reforma, e busca na SEFAZ as notas destinadas à empresa com o certificado A1 que fica só neste computador (função reforma-coletor). Sem dependências. © 2026 GK Soluções Empresariais LTDA — veja LICENSE e AUTORIA.md na raiz do Jarvis.",
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20" },
+  "bin": { "jarvis-coletor-xml": "coletor.mjs" },
+  "scripts": {
+    "start": "node coletor.mjs",
+    "testar": "node coletor.mjs --testar",
+    "certificado": "node coletor.mjs --certificado",
+    "diagnostico": "node coletor.mjs --diagnostico"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "produto": "Coletor Jarvis",
+  "versao": "2.1.0",
+  "arquivos": [
+    {
+      "caminho": "Instalar Coletor Jarvis.cmd",
+      "tamanho": 1551,
+      "sha256": "00786b66110fad9e69d1c6f953daeb837d3d92b031982130fd0f109fec70d9db",
+      "raiz": true
+    },
+    {
+      "caminho": "instalar.ps1",
+      "tamanho": 24211,
+      "sha256": "35094cdeff4391ade19ed0d7ea55c48b64b11e76105cfa405403506433cf0889"
+    },
+    {
+      "caminho": "coletor.mjs",
+      "tamanho": 14047,
+      "sha256": "649728bd448d5b3233a49a803e70481f4da74dbc1658892fa3b26d5694270cd6"
+    },
+    {
+      "caminho": "package.json",
+      "tamanho": 767,
+      "sha256": "8764f8b0ef2cb835c1560f939492c63b00867293f036c4a81582bee9892d1f33"
+    },
+    {
+      "caminho": "README.md",
+      "tamanho": 15367,
+      "sha256": "60767858b4336ef92ebb5f43613c1f58e2d1a3b1adc1aa0c1803943d61a5a70a"
+    },
+    {
+      "caminho": "config.exemplo.json",
+      "tamanho": 316,
+      "sha256": "d903870c4a5a986cb34c8fa3b01511fc20d0a03afe1e4825ec43eb7c4e0c8efe"
+    },
+    {
+      "caminho": "instalar-windows.ps1",
+      "tamanho": 3825,
+      "sha256": "4464934c138a87e12ce3bc9c7536f6e8d396a4c48c6b275f9c8c101acf904249"
+    },
+    {
+      "caminho": "instalar-windows.cmd",
+      "tamanho": 299,
+      "sha256": "2cca6d11cff1e096661e52cb9b475f3bcaf0d154e821113345757d35b175eb3c"
+    },
+    {
+      "caminho": "lib/certificado.mjs",
+      "tamanho": 12313,
+      "sha256": "e04322b8d872af7ab6c2f11da72db5af89011d60f08a64cc95325a9751a233dc"
+    },
+    {
+      "caminho": "lib/diagnostico.mjs",
+      "tamanho": 5407,
+      "sha256": "41299bb4739b919f6fba5804c2014bdda4e9113310b3598e29e9e4ef7f26cec4"
+    },
+    {
+      "caminho": "lib/envio.mjs",
+      "tamanho": 7037,
+      "sha256": "051990c936be9343ea351edfbaf60a9953c8eab274b800ccdd045598b8e94b5e"
+    },
+    {
+      "caminho": "lib/sefaz.mjs",
+      "tamanho": 19285,
+      "sha256": "d04c6d8ee6dd04b8a200bdd18ceb092961125c65b986e5f3ac2f9982eda54785"
+    },
+    {
+      "caminho": "lib/sefaz_dfe.mjs",
+      "tamanho": 22869,
+      "sha256": "06066e3a34cb04a4b99978bd2b15cf502a388cdb100d18259a1d8a944111caae"
+    },
+    {
+      "caminho": "lib/segredo.mjs",
+      "tamanho": 3778,
+      "sha256": "7d37de98e5949877ed9b0ba96a05902f44fafc3a5ef983194c4508ccd61f0f5e"
+    },
+    {
+      "caminho": "lib/varredura.mjs",
+      "tamanho": 5906,
+      "sha256": "e3ba5acac646a051486ad9e061800b70427023c1cdc53511d44bc919ead5649a"
+    },
+    {
+      "caminho": "lib/zip.mjs",
+      "tamanho": 3547,
+      "sha256": "99d19d51a8b74232dd9a2bed0b68e8dfb54520c8a3c37b57068a3d29a9189ba9"
+    },
+    {
+      "caminho": "LICENSE",
+      "tamanho": 2524,
+      "sha256": "18b7df4e0d6a928c0535858166076749a0c1a316ca08f35926aaccad7e672fe6"
+    },
+    {
+      "caminho": "AUTORIA.md",
+      "tamanho": 11103,
+      "sha256": "7991ac2b97e856d3c175196d852379bbb82473b78de805a209236aeca9c7cb7d"
+    }
+  ]
+}
